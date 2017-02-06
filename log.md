@@ -33,31 +33,39 @@
 
 ### Day 3: Thursday February 3, 2017 
 
-**Today's Progress**: 
+**Today's Progress**: Finished the Minutes to Hour Converer! Well, at least for now...
+- added lang=""en-us"" to HTML
+- added <meta name=""viewport"" content=""width=device-width, initial-scale=1.0""> // trying to make mobile friendly
+- removed parenthesis from around <h3> (it looked bad on mobile)
+- added mobile friendly code from w3 schools in .body. Can't figure out how to move everything to the center now. Found it!!! Change margin to auto!!
+- fixed footer on mobile by changing position from absolute to fixed :D
 
 **Thoughts:** 
 
-**Link to tweet:** [MightyJoeW Day ] (link)
+
+**Link to tweet:** [MightyJoeW Day ] (https://twitter.com/MightyJoeW/status/827548443614859264)
 
 **Link to work:** [Name](link)
 
 
 ### Day 2: Thursday February 2, 2017 
 
-**Today's Progress**: 
+**Today's Progress**: Got the web version of my minutes to hours converter looking decent. However, the mobile view was UGLY! Specific steps:
+- Added footer with copyright 
+- changed background (removed clock img since it looked bad on narrow pages, made a radient background in css). On second thought, just made background white. Not sure if background looks tacky here.
+- bolded Minutes label
 
-**Thoughts:** 
+**Thoughts:** Today was a really fun day. I initially had a background on the minutes conveter, but I noticed that it clashed with the form on narrow pages. I removed the background which made the page look plain, but it was good enough for the time being. Then, I added pasted my code to codepen to check how it looks on phones. You can see the results in my tweet lol. The fixex footer was in the middle of the page, and everything else looked sloppy. That gave me a good laugh as I looked forward to figuring this thing out.
 
-**Link to tweet:** [MightyJoeW Day ] (link)
-
-**Link to work:** [Name](link)
+**Link to tweet:** [MightyJoeW Day ] (https://twitter.com/MightyJoeW/status/827239030563696640)
 
 
 ### Day 1: Wednesday February 1, 2017 
 
 **Today's Progress**: I've been working on a minutes to hours converter, and I was able to figure out the JavaScript code to make the conversion happen when click the Convert button.
 
-**Thoughts** I've been coding regularly since December 2016, but this was my first independent project. The moment that the converter actually worked was a magical moment indeed!
+**Thoughts** I've been coding regularly since December 2016, but this was my first independent project. When a user inputs a number, the output would be that number of minutes in hours. I created an else if statement for if userInput is 60 (the "hours" string would be singular in that case). I didn't look at any code for the statement so needless to say, I felt like a BOSS.
+Also, I figured out how to show the answer in the console and as a pop up, but I couldn't figure out how to write it to the screen while controlling the placement.
 
 **Link to tweet**
 [MightyJoeW Day 1] (https://twitter.com/MightyJoeW/status/826959358391107584)
@@ -71,4 +79,4 @@
 
 **Link to tweet:** [MightyJoeW Day 0] (http://www.twitter.com/mightyjoew)
 
-**Link to work:** [Name](https://github.com/MightyJoeW)
+**Link to work:** [The Mighty Hub](https://github.com/MightyJoeW)

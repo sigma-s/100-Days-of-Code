@@ -7,7 +7,7 @@
 
 **Thoughts:** 
 
-**Link to tweet:** [MightyJoeW Day ] (link)
+**Link to tweet:** [MightyJoeW Day 6] (link)
 
 **Link to work:** []()
 

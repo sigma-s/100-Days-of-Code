@@ -26,4 +26,4 @@
 **Thoughts** I've been coding regularly since December 2016, but this was my first independent project. The moment that the converter actually worked was a magical moment indeed!
 
 **Link to tweet**
-[MightyJoeW Day 1] (https://twitter.com/MightyJoeW/status/828369204793446400)
+[MightyJoeW Day 1] (https://twitter.com/MightyJoeW/status/826959358391107584)

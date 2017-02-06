@@ -1,33 +1,56 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 4: Thursday February 3, 2017 
+### Day 6: Thursday February 6, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
 
-**Link to tweet**
-[MightyJoeW Day 1] (https://twitter.com/MightyJoeW/status/826959358391107584)
+**Link to tweet:** [MightyJoeW Day ] (link)
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Name](link)
 
+### Day 5: Thursday February 5, 2017 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to tweet:** [MightyJoeW Day ] (link)
+
+**Link to work:** [Name](link)
+
+### Day 4: Thursday February 4, 2017 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to tweet:** [MightyJoeW Day ] (link)
+
+**Link to work:** [Name](link)
 
 
 ### Day 3: Thursday February 3, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to tweet:** [MightyJoeW Day ] (link)
+
+**Link to work:** [Name](link)
+
 
 ### Day 2: Thursday February 2, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to tweet:** [MightyJoeW Day ] (link)
+
+**Link to work:** [Name](link)
 
 
 ### Day 1: Wednesday February 1, 2017 
@@ -38,3 +61,14 @@
 
 **Link to tweet**
 [MightyJoeW Day 1] (https://twitter.com/MightyJoeW/status/826959358391107584)
+
+
+### Day 0: Tuesday Janbruary 32, 2017
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to tweet:** [MightyJoeW Day ] (link)
+
+**Link to work:** [Name](link)

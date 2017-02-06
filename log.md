@@ -69,6 +69,6 @@
 
 **Thoughts:** 
 
-**Link to tweet:** [MightyJoeW Day ] (link)
+**Link to tweet:** [MightyJoeW Day 0] (http://www.twitter.com/mightyjoew)
 
-**Link to work:** [Name](link)
+**Link to work:** [Name](https://github.com/MightyJoeW)

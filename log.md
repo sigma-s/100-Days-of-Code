@@ -1,7 +1,19 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - The Mighty Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 4: Thursday February 3, 2017 
+
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link to tweet**
+[MightyJoeW Day 1] (https://twitter.com/MightyJoeW/status/826959358391107584)
+
+**Link to work:** [Calculator App](http://www.example.com)
+
+
+
+### Day 3: Thursday February 3, 2017 
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
@@ -9,8 +21,7 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: Thursday February 2, 2017 
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 

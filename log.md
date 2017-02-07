@@ -3,7 +3,7 @@
 
 ### Day 6: Monday February 6, 2017 
 
-**Today's Progress**: 
+**Today's Progress**: Morning - Free Code Camp lessons. Evening - Got my first HTTP server up and running with node.js
 
 **Thoughts:** 
 

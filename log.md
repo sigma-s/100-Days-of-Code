@@ -6,8 +6,9 @@
 **Today's Progress**: Morning - Free Code Camp lessons. Evening - Got my first HTTP server up and running with node.js.
 
 **Thoughts:** Node.js seems to be functioning properly. However, Express is still giving me issues. I don't think everything installed correctly (I saw some errors). Also, when trying to open package.json, I get the following: 
-{
-  "name": "myapp",
+
+ {
+ "name": "myapp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

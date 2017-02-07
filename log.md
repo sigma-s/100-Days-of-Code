@@ -45,7 +45,8 @@ Being new to all of this, it's too early for me to even know what to look for in
 
 **Link to tweet:** [MightyJoeW Day 4] (https://twitter.com/MightyJoeW/status/827932053660397569)
 
-**Link to work:** [GitHub Guides](https://guides.github.com/) [My GitHub] (https://github.com/MightyJoeW}
+**Link to work:** [GitHub Guides](https://guides.github.com/) 
+**My GitHub:** (https://github.com/MightyJoeW}
 
 
 ### Day 3: Friday February 3, 2017 

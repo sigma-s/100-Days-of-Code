@@ -3,13 +3,26 @@
 
 ### Day 6: Monday February 6, 2017 
 
-**Today's Progress**: Morning - Free Code Camp lessons. Evening - Got my first HTTP server up and running with node.js
+**Today's Progress**: Morning - Free Code Camp lessons. Evening - Got my first HTTP server up and running with node.js.
 
-**Thoughts:** 
+**Thoughts:** Node.js seems to be functioning properly. However, Express is still giving me issues. I don't think everything installed correctly (I saw some errors). Also, when trying to open package.json, I get the following: 
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
 
-**Link to tweet:** [MightyJoeW Day 6] (link)
+Being new to all of this, it's too early for me to even know what to look for in regards to what's going wrong. I'm going to keep pushing the next few days because I want to get this all set up and be able to shift more of my attention back to coding. Not a fun day of coding, but an important one.
 
-**Link to work:** []()
+**Link to tweet:** [MightyJoeW Day 6] (https://twitter.com/MightyJoeW/status/828813131988217857)
+
+**Link to work:** [Nodejs Tutorial](https://www.tutorialspoint.com/nodejs/nodejs_npm.htm)
 
 
 ### Day 5: Sunday February 5, 2017 

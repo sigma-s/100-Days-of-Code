@@ -2,17 +2,17 @@
 
 ### Day 7: Tuesday February 7, 2017 
 
-**Today's Progress**: Reviewed HTML and CSS. Created a few basic HTML pages including a Pokemon chart.
+**Today's Progress**: Reviewed HTML and CSS. Created a few basic HTML pages including a Pokemon chart and a login page.
 
-**Thoughts:** I decided to give Udemy's Web Developer Bootcamp by Colt Steele a try. It's currently $15 (regular price $200), and I had seen many different people talk about how great this content is. I've been getting stuck on FCC challenges and feeling like a need a solid training program to go along with it. So far, it's been great!
+**Thoughts:** I decided to try out Udemy's Web Developer Bootcamp by Colt Steele. It's currently $15 (regular price $200), and I had seen many different people comment about how great this content is. I've been getting stuck on FCC challenges and felt like a needed a solid training program to go along with it. So far, it's been great!
 
-A couple of simple things I've picked up already are many helpful shortcuts in Sublime text and how to hyperlink to a local file (relative path). I only knew how to hyperlink other webpages. 
+A couple of simple things I've picked up already are many helpful shortcuts in Sublime Text as well as how to hyperlink to a local file (relative path). I only knew how to hyperlink other webpages. 
 
-Sidenote: I never imagined growing up that I'd be seeing Pokemon in learning material (or dominating mainstream news and media like when Pokemon Go took off). 
+**Sidenote Jones:** I never imagined growing up that I'd be seeing Pokemon in learning material (or dominating mainstream news and media like when Pokemon Go took off). I still have my original Pokemon Yellow and Silver (I gave my Red and Blue away along with my wrestling action figures in a garage sale when we moved back in the day).
 
-**Link to tweet:** [MightyJoeW Day 5] ()
+**Link to tweet:** [MightyJoeW Day 7] (https://twitter.com/MightyJoeW/status/829134236686942208)
 
-**Link to work:** [Free Code Camp](http://)
+**Link to work:** [First Gen Pokemon Chart](http://codepen.io/MightyJoeW/pen/zNJNQQ)
 
 
 ### Day 6: Monday February 6, 2017 

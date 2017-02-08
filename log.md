@@ -2,11 +2,11 @@
 
 ### Day 8: Wednesday February 8, 2017 
 
-**Today's Progress**: Week 1 complete! More HTML and CSS review (working through Udemy's Web Developer Bootcamp by Colt Steele). Practiced CSS with an about me page and a to do list.
+**Today's Progress**: Week 1 complete! More HTML and CSS review (working through Udemy's Web Developer Bootcamp by Colt Steele). Practiced CSS with an 'About Me' page and a 'To Do list' page.
 
-**Thoughts:** Today was another very productive day. Colt Steele's lessons are very good, and I definitely enjoy having video content to learn from now. It seems like concepts are sticking better by being able to hear, watch, and participate opposed to solely reading. This was another good review for me as I lead up to the JavaScript section (why I really bought this course).
+**Thoughts:** Today has been another very productive day so far. Colt Steele's lessons are very good, and I definitely enjoy having video content to learn from now. It seems like concepts are sticking better by being able to hear, watch, and participate opposed to solely reading and practicing. This was another good review for me as I lead up to the JavaScript section (why I really bought this course).
 
-**Sidenote Jones:** Whenever I get the hiccups, they last for days (sometimes weeks). I've had the hiccups since yesterday, and it's the most irritating thing when trying to learn and practice this material. And yes, I've tried all of the methods. None of the ever work, but I'll take suggestions... Hmm, since this problem has not been solved for me, I guess I need to create an app to take care of this. To the laboratory!
+**Sidenote Jones:** Whenever I get the hiccups, they last for days (sometimes weeks). I've had the hiccups since yesterday, and it's the most irritating thing when trying to learn and practice anything. And yes, I've tried all of the methods. None of the ever work, but I'll take suggestions... Hmm, since this problem has not been solved for me, I guess I need to create a solution and app to take care of this. To the laboratory!
 
 **Link to tweet:** [MightyJoeW Day 7] (https://twitter.com/MightyJoeW/status/829472654885261312)
 

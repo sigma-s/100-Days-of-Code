@@ -1,5 +1,19 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 7: Tuesday February 7, 2017 
+
+**Today's Progress**: Reviewed HTML and CSS. Created a few basic HTML pages including a Pokemon chart.
+
+**Thoughts:** I decided to give Udemy's Web Developer Bootcamp by Colt Steele a try. It's currently $15 (regular price $200), and I had seen many different people talk about how great this content is. I've been getting stuck on FCC challenges and feeling like a need a solid training program to go along with it. So far, it's been great!
+
+A couple of simple things I've picked up already are many helpful shortcuts in Sublime text and how to hyperlink to a local file (relative path). I only knew how to hyperlink other webpages. 
+
+Sidenote: I never imagined growing up that I'd be seeing Pokemon in learning material (or dominating mainstream news and media like when Pokemon Go took off). 
+
+**Link to tweet:** [MightyJoeW Day 5] ()
+
+**Link to work:** [Free Code Camp](http://)
+
 
 ### Day 6: Monday February 6, 2017 
 

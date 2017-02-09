@@ -78,7 +78,7 @@ Being new to all of this, it's too early for me to even know what to look for in
 **Today's Progress**: Finished the Minutes to Hour Converer! Well, at least for now...
 - added lang=""en-us"" to HTML
 - added <meta name=""viewport"" content=""width=device-width, initial-scale=1.0""> // trying to make mobile friendly
-- removed parenthesis from around <h3> (it looked bad on mobile)
+- removed parenthesis from around <h3> It looked bad on mobile.
 - added mobile friendly code from w3 schools in .body. Can't figure out how to move everything to the center now. Found it!!! Change margin to auto!!
 - fixed footer on mobile by changing position from absolute to fixed :D
 

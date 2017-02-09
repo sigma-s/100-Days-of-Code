@@ -8,7 +8,7 @@
 
 **Sidenote Jones:** Whenever I get the hiccups, they last for days (sometimes weeks). I've had the hiccups since yesterday, and it's the most irritating thing when trying to learn and practice anything. And yes, I've tried all of the methods. None of the ever work, but I'll take suggestions... Hmm, since this problem has not been solved for me, I guess I need to create a solution and app to take care of this. To the laboratory!
 
-**Link to tweet:** [MightyJoeW Day 7] (https://twitter.com/MightyJoeW/status/829472654885261312)
+**Link to tweet:** [MightyJoeW Day 8] (https://twitter.com/MightyJoeW/status/829472654885261312)
 
 ### Day 7: Tuesday February 7, 2017 
 

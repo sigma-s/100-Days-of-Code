@@ -1,5 +1,13 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 9: Thursday February 9, 2017 
+
+**Today's Progress**: More Web Development Bootcamp CSS lessons plus additional work on Pokedex. Created pages for numerical list and alphabetical list.
+
+**Thoughts:** Very tough day with flu-like symptoms, but made it an hour. 
+
+**Link to tweet:** [MightyJoeW Day 9] (https://twitter.com/MightyJoeW/status/829900574204256263)
+
 ### Day 8: Wednesday February 8, 2017 
 
 **Today's Progress**: Week 1 complete! More HTML and CSS review (working through Udemy's Web Developer Bootcamp by Colt Steele). Practiced CSS with an 'About Me' page and a 'To Do list' page.

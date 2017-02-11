@@ -1,5 +1,17 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 10: Thursday February 10, 2017 
+
+**Today's Progress**: More work on the Pokedex. Hyperlinked the Number and Name titles to allow user to rearrange the Pokemon by number of name. Filled in more Pokemon info. Removed background photo. Also, created a repository https://github.com/MightyJoeW/Pokedex.
+
+**Thoughts:** Still under the weather so today was mostly filling in information opposed to creating new things. 
+
+**Link to tweet:** [MightyJoeW Day 10] (https://twitter.com/MightyJoeW/status/830243763821895680)
+
+**Link to work:** [Pokedex repository] https://github.com/MightyJoeW/Pokedex
+
+
+
 ### Day 9: Thursday February 9, 2017 
 
 **Today's Progress**: More Web Development Bootcamp CSS lessons plus additional work on Pokedex. Created pages for numerical list and alphabetical list.

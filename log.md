@@ -1,6 +1,15 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 10: Thursday February 10, 2017 
+### Day 11: Saturday February 11, 2017 
+
+**Today's Progress**: Continued filling in Pokedex. Good amount of reps creating hrefs by scratch. 
+
+**Thoughts:** Feeling better than yesterday. I should be back in my regular zone tomorrow. 
+
+**Link to tweet:** [MightyJoeW Day 11] (https://twitter.com/MightyJoeW/status/830646204576968704
+
+
+### Day 10: Friday February 10, 2017 
 
 **Today's Progress**: More work on the Pokedex. Hyperlinked the Number and Name titles to allow user to rearrange the Pokemon by number of name. Filled in more Pokemon info. Removed background photo. Also, created a repository https://github.com/MightyJoeW/Pokedex.
 

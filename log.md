@@ -1,5 +1,16 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 12: Saturday February 12, 2017 
+
+**Today's Progress**: Created a JavaScript quiz during today's Free Code Camp meetup. Also, continued filling out Pokedex. 
+
+**Thoughts:** As we created the JavaScript quiz, I felt like a pro setting up the basic HTML and CSS sections. Then, JavaScript stepped in and kicked my butt! I understood the concepts, but I have a long way to go before I can create this kind of content on my own. The good thing is that it gets me more pumped and hungrier to keep pushing forward. Baby steps.
+
+**Link to tweet:** [MightyJoeW Day 12] (https://twitter.com/MightyJoeW/status/830989197112700929)
+
+**Link to work:** [Simple JavaSCript Quiz] (https://github.com/MightyJoeW/JavaScript-Quiz)
+
+
 ### Day 11: Saturday February 11, 2017 
 
 **Today's Progress**: Continued filling in Pokedex. Good amount of reps creating hrefs by scratch. 

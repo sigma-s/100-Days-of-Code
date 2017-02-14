@@ -8,7 +8,7 @@
 
 **Link to tweet:** [MightyJoeW Day 13] (https://twitter.com/MightyJoeW/status/831305975470628865)
 
-**Link to work:** [Working JavaSCript Quiz] (https://github.com/MightyJoeW/JavaScript-Quiz) [Pokedex] (https://github.com/MightyJoeW/The-Pokedex)
+**Link to work:** [Working JavaScript Quiz] (https://github.com/MightyJoeW/JavaScript-Quiz) [Pokedex] (https://github.com/MightyJoeW/The-Pokedex)
 
 ### Day 12: Saturday February 12, 2017 
 

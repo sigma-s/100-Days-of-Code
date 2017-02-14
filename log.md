@@ -1,5 +1,15 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 13: Saturday February 13, 2017 
+
+**Today's Progress**: Found error in my JavaScript quiz. ONE missing parenthesis messed up the whole code! Also, finally finished HTML section of Gen 1 Pokemon Chart.
+
+**Thoughts:** Why did I choose something with 151 different character for an early table project? This took forever!! But I was determined to finish. I'm sure there was an easier way to input this information especially with some coding, and I look forward to implementing some changes in the future. I'd want to change the view from numerical to alphabetical without creating a second page and re-entering all of the data again. I'll be on the lookout for how to do this.  
+
+**Link to tweet:** [MightyJoeW Day 13] (https://twitter.com/MightyJoeW/status/831305975470628865)
+
+**Link to work:** [Working JavaSCript Quiz] (https://github.com/MightyJoeW/JavaScript-Quiz) [Pokedex] (https://github.com/MightyJoeW/The-Pokedex)
+
 ### Day 12: Saturday February 12, 2017 
 
 **Today's Progress**: Created a JavaScript quiz during today's Free Code Camp meetup. Also, continued filling out Pokedex. 

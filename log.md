@@ -1,6 +1,15 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 13: Saturday February 13, 2017 
+### Day 13: Tuesday February 14, 2017 
+
+**Today's Progress**: Used JavaScript and the DOM tutotials to create webpages with various functionality. Completed CSS Selectors exercise in Udemy's Web Development Bootcamp course.
+
+**Thoughts:**  Going off of DevTips' tutorials (https://www.youtube.com/watch?v=hM9h1wN4rfU), I created a webpage that changes colors as you move the mouse around the page as well as a page that changes colors as the time changes. This was all pure JavaScript and still very confusing as the moment. This was recommended to prep for Sunday's Free Code Camp meetup, so I at least have been introduced to these concepts. 
+After a few days away from Udemy, I got back to those lessons and completed the CSS Selctors exercise. I feel like I have a pretty good early understanding of CSS, and I continue to be impressed with each new thing that I learn it can do. 
+
+**Link to tweet:** [MightyJoeW Day 14] (https://twitter.com/MightyJoeW/status/831675551203078144)
+
+### Day 13: Monday February 13, 2017 
 
 **Today's Progress**: Found error in my JavaScript quiz. ONE missing parenthesis messed up the whole code! Also, finally finished HTML section of Gen 1 Pokemon Chart.
 
@@ -10,7 +19,7 @@
 
 **Link to work:** [Working JavaScript Quiz] (https://github.com/MightyJoeW/JavaScript-Quiz) [Pokedex] (https://github.com/MightyJoeW/The-Pokedex)
 
-### Day 12: Saturday February 12, 2017 
+### Day 12: Sunday February 12, 2017 
 
 **Today's Progress**: Created a JavaScript quiz during today's Free Code Camp meetup. Also, continued filling out Pokedex. 
 

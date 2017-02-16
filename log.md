@@ -8,7 +8,7 @@
 
 Since I had gotten stuck on multiple JavaScript challenges in Free Code Camp, I decided to find another resource to help me learn (enter Udemy's Web Development Bootcamp). Although I got the course for JavaScript, I thought it'd be a good idea to not jump ahead. I just completed the CSS section, and I felt extremeley comfortable on all of the little projects. All of the reps and different classes definitely helped me grasp these concepts. 
 
-Now, I'm hoping that this course can help these JavaScript concepts sink in more. I've been around JavaScript in SoloLearn, Free Code Camp, and various tutorials online, but it still hasn't quite sunk it. It will be a marathon, and I'm prepared to getScript('or Die Tryin'). Let's do this!
+Now, I'm hoping that this course can help these JavaScript concepts sink in more. I've been around JavaScript in SoloLearn, Free Code Camp, and various tutorials online, but it still feels over my head. It will be a marathon, and I'm prepared to getScript('or Die Tryin'). Let's do this!
 
 **Link to tweet:** [MightyJoeW Day 15] (https://twitter.com/MightyJoeW/status/832033261220196352)
 

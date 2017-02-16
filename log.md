@@ -2,7 +2,7 @@
 
 ### Day 15: Wednesday February 15, 2017 
 
-**Today's Progress**: Udemy lessons continued. Created CSS Tic Tac Toe board and blog from scratch.  
+**Today's Progress**: Udemy lessons then created CSS Tic Tac Toe board and blog from scratch.  
 
 **Thoughts:** I couldn't be happier with my progress as well as my continued passion for learning how to code. I've hit a lot of different roadblocks along the way, but today showed me how much I've learned over the last couple of months. 
 

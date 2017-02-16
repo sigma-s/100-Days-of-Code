@@ -1,5 +1,17 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 16: Thursday February 16, 2017 - still in progress
+
+**Today's Progress**: FINALLY fixed navbar on portfolio to stay fixed at top (container needed to be ABOVE the navbar) 
+. Also, fixed hamburger menu (needed to manually add bootstrap links from site opposed to using the quick links in codepen). Udemy course led me to finding this error.
+
+**Thoughts:** Trying to fix alignment of YouTube icon at top right, but I don't see anything different in my code.
+
+**Link to tweet:** [MightyJoeW Day 16] ()
+
+**Link to work:** Portfolio (http://s.codepen.io/MightyJoeW/debug/JEEqNV/PNrvYLBOzOQM)
+
+
 ### Day 15: Wednesday February 15, 2017 
 
 **Today's Progress**: Udemy lessons then created CSS Tic Tac Toe board and blog from scratch.  

@@ -1,6 +1,18 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 13: Tuesday February 14, 2017 
+### Day 15: Wednesday February 15, 2017 
+
+**Today's Progress**: Udemy lessons continued. Created CSS Tic Tac Toe board and blog from scratch.  
+
+**Thoughts:** I couldn't be happier with my progress as well as my continued passion for learning how to code. I've hit a lot of different roadblocks along the way, but today showed me how much I've learned over the last couple of months. 
+
+Since I had gotten stuck on multiple JavaScript challenges in Free Code Camp, I decided to find another resource to help me learn (enter Udemy's Web Development Bootcamp). Although I got the course for JavaScript, I thought it'd be a good idea to not jump ahead. I just completed the CSS section, and I felt extremeley comfortable on all of the little projects. All of the reps and different classes definitely helped me grasp these concepts. 
+
+Now, I'm hoping that this course can help these JavaScript concepts sink in more. I've been around JavaScript in SoloLearn, Free Code Camp, and various tutorials online, but it still hasn't quite sunk it. It will be a marathon, and I'm prepared to getScript('or Die Tryin'). Let's do this!
+
+**Link to tweet:** [MightyJoeW Day 15] (https://twitter.com/MightyJoeW/status/832033261220196352)
+
+### Day 14: Tuesday February 14, 2017 
 
 **Today's Progress**: Used JavaScript and the DOM tutotials to create webpages with various functionality. Completed CSS Selectors exercise in Udemy's Web Development Bootcamp course.
 

@@ -1,13 +1,34 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 16: Thursday February 16, 2017 - still in progress
+### Day 17: Friday February 17, 2017 - in progress
+
+**Today's Progress**: 
+- Finished HTML and CSS sections of Udemy's Web Development Bootcamp. 
+- Adjusted columns on portfolio for different screen sizes (changed each to col-lg-3 col-med-3 col-sm-6). Also, started a new one from scratch since I'm still experiencing some issues.
+- Created new landing page for one of my websites
+
+**Thoughts:** Udemy - I am thoroughly enjoying Udemy's Web Development Bootcamp course. Video lessons have been a great addition to my learning process. It's very helpful being able to see what someone is doing as well as hear explanations opposed to strictly reading. I am now to the JavaScript section, and I look forward to learning. Again, I bought this course specifically for help with JavaScript so I'm excited for another opportunity to learn this content. 
+
+Portfolio - The navbar was working properly, but the jumbotron engulfed the entire page. After being unsuccessful in figuring out where the issue was, I went through line-by-line (again) comparing to a solution from Web Development Bootcap (which led to another issue of the navbar icons not showing up, but I found an updated font awesome link on StackOverflow that worked).
+
+Landing Page - When I first was introduced to Bootstrap, I didn't know what to think. It seemed to good to be true and almost like cheating. On Codepen, you simply click the Quickadd buttong, and you can then do all of these magical things. What has helped me understand Bootstrap a lot more was actually seeing the css file. I had no idea what the magic was before. Now, I can actually look through the css to see how everything works. It doesn't feel like cheating anymore because it's exremely intricate, you still need a deep understanding, and I can go in and edit things if needed. 
+
+Using Bootstrap, I started working on a new landing page for one of my sites, gamesandkeys.com (video game piano tutorials, sheet music, and midi files). My focus is not currently on music and I haven't made any video game piano tutorials for awhile, but the site is still active and still gets traffic. I think I may keep going with this new version and do a complete overhaul. 
+
+**Sidenote Jones:** I'm looking forward to NBA Allstar Weekend!
+
+**Link to tweet:** [MightyJoeW Day 17] ()
+
+**Link to work:** Portfolio ()
+
+### Day 16: Thursday February 16, 2017
 
 **Today's Progress**: FINALLY fixed navbar on portfolio to stay fixed at top (container needed to be ABOVE the navbar) 
 . Also, fixed hamburger menu (needed to manually add bootstrap links from site opposed to using the quick links in codepen). Udemy course led me to finding this error.
 
-Edit: Never mind. Moving the container broke some other parts of the page (put whole page in a jumbotron and messed up the footer). Back to the drawing board!
+Update 1: Never mind. Moving the container broke some other parts of the page (put whole page in a jumbotron and messed up the footer). Back to the drawing board!
 
-Edit 2: I found the error!!! I missing </nav>!!! I feel so relieved and frustrated at the same time lol. Great way to wrap up the night though :) 
+Update 2: I found the error!!! I missing </nav>!!! I feel so relieved and frustrated at the same time lol. Great way to wrap up the night though :) 
 
 **Thoughts:** I'm thinking I may need to start from scratch with my portfolio. But I do feel like I can eventually figure out why the navbar will not work when fixed (and let's be honest, I don't want to start over from scratch lol).
 

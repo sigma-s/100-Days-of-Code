@@ -5,11 +5,13 @@
 **Today's Progress**: FINALLY fixed navbar on portfolio to stay fixed at top (container needed to be ABOVE the navbar) 
 . Also, fixed hamburger menu (needed to manually add bootstrap links from site opposed to using the quick links in codepen). Udemy course led me to finding this error.
 
-Edit: Never mind. That broke some other parts of the page (put whole page in a jumbotron and messed up the footer). Back to the drawing board!
+Edit: Never mind. Moving the container broke some other parts of the page (put whole page in a jumbotron and messed up the footer). Back to the drawing board!
 
-**Thoughts:** Trying to fix alignment of YouTube icon at top right, but I don't see anything different in my code.
+**Thoughts:** I'm thinking I may need to start from scratch with my portfolio. But I do feel like I can eventually figure out why the navbar will not work when fixed (and let's be honest, I don't want to start over from scratch lol).
 
-**Link to tweet:** [MightyJoeW Day 16] ()
+It's been fun experimenting and getting different things to work, but unfortunately breaking things is a part of the process. I will figure this out. I will figure out how to have a fixed navbar and footer with everything in between displaying properly.
+
+**Link to tweet:** [MightyJoeW Day 16] (https://twitter.com/MightyJoeW/status/832394962432036868)
 
 **Link to work:** Portfolio (http://s.codepen.io/MightyJoeW/debug/JEEqNV/PNrvYLBOzOQM)
 

@@ -7,7 +7,8 @@
 - Adjusted columns on portfolio for different screen sizes (changed each to col-lg-3 col-med-3 col-sm-6). Also, started a new one from scratch since I'm still experiencing some issues.
 - Created new landing page for one of my websites
 
-**Thoughts:** Udemy - I am thoroughly enjoying Udemy's Web Development Bootcamp course. Video lessons have been a great addition to my learning process. It's very helpful being able to see what someone is doing as well as hear explanations opposed to strictly reading. I am now to the JavaScript section, and I look forward to learning. Again, I bought this course specifically for help with JavaScript so I'm excited for another opportunity to learn this content. 
+**Thoughts:** 
+Udemy - I am thoroughly enjoying Udemy's Web Development Bootcamp course. Video lessons have been a great addition to my learning process. It's very helpful being able to see what someone is doing as well as hear explanations opposed to strictly reading. I am now to the JavaScript section, and I look forward to learning. Again, I bought this course specifically for help with JavaScript so I'm excited for another opportunity to learn this content. 
 
 Portfolio - The navbar was working properly, but the jumbotron engulfed the entire page. After being unsuccessful in figuring out where the issue was, I went through line-by-line (again) comparing to a solution from Web Development Bootcap (which led to another issue of the navbar icons not showing up, but I found an updated font awesome link on StackOverflow that worked).
 

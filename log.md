@@ -7,6 +7,8 @@
 
 Edit: Never mind. Moving the container broke some other parts of the page (put whole page in a jumbotron and messed up the footer). Back to the drawing board!
 
+Edit 2: I found the error!!! I missing </nav>!!! I feel so relieved and frustrated at the same time lol. Great way to wrap up the night though :) 
+
 **Thoughts:** I'm thinking I may need to start from scratch with my portfolio. But I do feel like I can eventually figure out why the navbar will not work when fixed (and let's be honest, I don't want to start over from scratch lol).
 
 It's been fun experimenting and getting different things to work, but unfortunately breaking things is a part of the process. I will figure this out. I will figure out how to have a fixed navbar and footer with everything in between displaying properly.

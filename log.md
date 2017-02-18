@@ -1,6 +1,6 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 17: Friday February 17, 2017 - in progress
+### Day 17: Friday February 17, 2017
 
 **Today's Progress**: 
 - Finished HTML and CSS sections of Udemy's Web Development Bootcamp. 

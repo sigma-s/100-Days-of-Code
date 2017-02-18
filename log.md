@@ -16,11 +16,9 @@ Landing Page - When I first was introduced to Bootstrap, I didn't know what to t
 
 Using Bootstrap, I started working on a new landing page for one of my sites, gamesandkeys.com (video game piano tutorials, sheet music, and midi files). My focus is not currently on music and I haven't made any video game piano tutorials for awhile, but the site is still active and still gets traffic. I think I may keep going with this new version and do a complete overhaul. 
 
-**Sidenote Jones:** I'm looking forward to NBA Allstar Weekend!
+**Sidenote Jones:** NBA Allstar Weekend!
 
-**Link to tweet:** [MightyJoeW Day 17] ()
-
-**Link to work:** Portfolio ()
+**Link to tweet:** [MightyJoeW Day 17] (https://twitter.com/MightyJoeW/status/832743411606179840)
 
 ### Day 16: Thursday February 16, 2017
 

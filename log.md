@@ -1,5 +1,19 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 18: Saturday February 18, 2017 - in progress
+
+**Today's Progress**: 
+- continued working on new portfolio page
+
+
+**Thoughts:** 
+
+**Sidenote Jones:** 
+
+**Link to tweet:** [MightyJoeW Day 18] (https://twitter.com/MightyJoeW/)
+
+
+
 ### Day 17: Friday February 17, 2017
 
 **Today's Progress**: 

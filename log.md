@@ -1,6 +1,6 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 18: Saturday February 18, 2017 - in progress
+### Day 18: Saturday February 18, 2017
 
 **Today's Progress**: 
 - continued working on new portfolio page

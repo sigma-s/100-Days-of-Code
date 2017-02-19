@@ -5,12 +5,10 @@
 **Today's Progress**: 
 - continued working on new portfolio page
 
-
 **Thoughts:** 
+- Not much done today as I was entertaining my nieces throughout the day, but I made some good progress on my portfolio. It's coming along nicely.
 
-**Sidenote Jones:** 
-
-**Link to tweet:** [MightyJoeW Day 18] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 18] (https://twitter.com/MightyJoeW/status/833181935635726338)
 
 
 

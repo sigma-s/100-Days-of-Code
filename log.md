@@ -1,5 +1,15 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 20: Monday February 20, 2017 - in progress
+
+**Today's Progress**: 
+
+
+**Thoughts:** 
+
+
+**Link to tweet:** [MightyJoeW Day 20] (https://twitter.com/MightyJoeW/)
+
 ### Day 19: Sunday February 19, 2017
 
 **Today's Progress**: 

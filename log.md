@@ -1,5 +1,18 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 19: Sunday February 19, 2017
+
+**Today's Progress**: 
+Worked in the DOM and with JavaScript at today's Free Code Camp meetup
+
+**Thoughts:** 
+I really enjoyed today's meetup (as I do each week). Today, we spent a lot of time discussing the DOM and practicing some JavaScript. One of the things I love most about being around others when learning are the little things that you pick up. Things are mentioned in passing that feel life changing lol. 
+
+For example, I didn't know that text editors can rearrange your code to make it look better. In Sublime, highlight your code and go to Edit > Line > Reindent and voila, your code is cleaned up! I don't know the ins and outs of this or how reliable it is yet, but I will be utilizing this going forward.
+
+**Link to tweet:** [MightyJoeW Day 19] (https://twitter.com/MightyJoeW/status/833513634215124992)
+
+
 ### Day 18: Saturday February 18, 2017
 
 **Today's Progress**: 

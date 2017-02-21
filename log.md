@@ -3,12 +3,15 @@
 ### Day 20: Monday February 20, 2017 - in progress
 
 **Today's Progress**: 
-
+- Continued Udemy's Web Development Bootcamp lessons (working through JavaScript sections)
+- Cleaned up codes with Sublime's Reindent feature 
+- Reorganized programming folders/files
 
 **Thoughts:** 
+Today was another good day of learning and practicing. I'm working through the JavaScript section of my current course. I've learned a few new things, and have remembered things I've forgotten from weeks ago. I'm currently on the section about loops and working my way to the section about Objects (Objects is where I got stuck on Free Code Camp). 
 
 
-**Link to tweet:** [MightyJoeW Day 20] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 20] (https://twitter.com/MightyJoeW/status/833906812575481856)
 
 ### Day 19: Sunday February 19, 2017
 

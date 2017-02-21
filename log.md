@@ -1,6 +1,30 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 20: Monday February 20, 2017 - in progress
+### Day 21: Tuesday February 21, 2017 - in progress
+
+**Today's Progress**: 
+- Continued JavaScript lessons (While Loops)
+- Figured out what was wrong with my Portfolio thumnail images (had to change the width and height in the links)
+
+
+**Thoughts:** 
+
+Correctly wrote JavaScript code for the following:
+
+Print all numbers between -10 and 19
+
+Print all even numbers between 10 and 40
+
+Print all odd numbers between 300 and 333
+
+Print all numbers divisible by 5 AND 3 between 5 and 50
+
+
+**Link to tweet:** [MightyJoeW Day 21] (https://twitter.com/MightyJoeW/)
+
+
+
+### Day 20: Monday February 20, 2017
 
 **Today's Progress**: 
 - Continued Udemy's Web Development Bootcamp lessons (working through JavaScript sections)

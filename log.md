@@ -9,7 +9,7 @@
 
 **Thoughts:** 
 
-Correctly wrote JavaScript code for the following:
+Correctly wrote JavaScript code for the following(using both while loops and for loops):
 
 Print all numbers between -10 and 19
 

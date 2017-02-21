@@ -3,7 +3,7 @@
 ### Day 21: Tuesday February 21, 2017 - in progress
 
 **Today's Progress**: 
-- Continued JavaScript lessons (While Loops)
+- Finished Udemy's Web Development Bootcamp Section 9: Javascript Basics: Control Flow. Up next: Section: 10 Javascript Basics: Functions
 - Figured out what was wrong with my Portfolio thumnail images (had to change the width and height in the links)
 
 

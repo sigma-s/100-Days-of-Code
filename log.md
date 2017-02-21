@@ -4,20 +4,15 @@
 
 **Today's Progress**: 
 - Finished Udemy's Web Development Bootcamp Section 9: Javascript Basics: Control Flow. Up next: Section: 10 Javascript Basics: Functions
-- Figured out what was wrong with my Portfolio thumnail images (had to change the width and height in the links)
+- Figured out what was wrong with my Portfolio thumnail images (had to change the width and height in the links), centered text in jumbotron without adding effects of h1 and h3 (had to add div with text-center right before the text)
 
 
 **Thoughts:** 
+Another good day of learning and coding. I successfully wrote JavaScript code for various while loops and for loops. I remember first seeing JavaScript loops and thinking, "What in the world is with these i's and +'s."  Modulus makes a lot more sense now too. 
 
-Correctly wrote JavaScript code for the following(using both while loops and for loops):
+In regards to my portfolio, it's coming along. At the moment, I can't get my photo to appear on the right-side of my text (I had this working on my initial portfolio). I created a row and have my text as a col as well as my photo, so I just have to figure out what is missing or wrong. 
 
-Print all numbers between -10 and 19
-
-Print all even numbers between 10 and 40
-
-Print all odd numbers between 300 and 333
-
-Print all numbers divisible by 5 AND 3 between 5 and 50
+I also added photos and titles for projects I plan on completing including a JavaScript Drum Kit, a Simon game, and a Whack a Mole game. I look forward to diving into these projects in the near future.
 
 
 **Link to tweet:** [MightyJoeW Day 21] (https://twitter.com/MightyJoeW/)

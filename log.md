@@ -1,6 +1,6 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 21: Tuesday February 21, 2017 - in progress
+### Day 21: Tuesday February 21, 2017
 
 **Today's Progress**: 
 - Finished Udemy's Web Development Bootcamp Section 9: Javascript Basics: Control Flow. Up next: Section: 10 Javascript Basics: Functions

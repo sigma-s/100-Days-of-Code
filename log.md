@@ -16,7 +16,9 @@ I also added photos and titles for projects I plan on completing including a Jav
 
 Update: I figured it out!! Again, another small issue. I had the closing div tag AFTER my photo. I needed to change it to be above the photo. Now, the photo (which is a col), is showing up properly next to the text :D
 
-**Link to tweet:** [MightyJoeW Day 21] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 21] (https://twitter.com/MightyJoeW/status/834226942660505600)
+
+**Link to work** [Joe Warren Portfolio] (http://codepen.io/MightyJoeW/full/JEEqNV/)
 
 
 

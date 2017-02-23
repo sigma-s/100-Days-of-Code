@@ -4,9 +4,11 @@
 
 **Today's Progress**: 
 - JavaScript Arrays practice (revisted Pokedex and began making the gen 1 list into an array)
+- JavaSript forEach lessons and practice
 - Created array for Gen 1 Pokemon on my Pokedex (so each one can be indexed by number). Also, added bootstrap and begin styling. 
 
 **Thoughts:** 
+forEach tricky at the moment. Will likely rewatch video tomorrow. 
 
 **Link to tweet:** [MightyJoeW Day 23] (https://twitter.com/MightyJoeW/)
 

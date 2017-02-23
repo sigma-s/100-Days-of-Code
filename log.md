@@ -1,5 +1,23 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 22: Wednesday February 22, 2017
+
+**Today's Progress**: 
+- Practice with JavaScript functions
+- HTML and CSS practice
+- Continued work on Porfolio
+- Finished Section 10: Javascript Basics: Functions
+
+
+**Thoughts:** 
+I actually had fun with functions this time around. I've done some JavaScript lessons before, but these videos are really helping this content sink in (the little quizzes are a good challenge too). I spent most of my coding time today going through the lessons. I do get distracted often created silly things with new things I've learned. 
+
+I actually don't mind at this stage though because I'm seeing how much I'm retaining. I was supposed to make a basic html file and js file to do some js practice problems, but I found myself going into design mode trying to make the html and css look nice and pretty before starting the js problems lol. And, I still get a kick out of inspecting web pages and switching out the words to make it more amusing and ridiculous. Juvenile but for some reason hilarious to me :D 
+
+**Link to tweet:** [MightyJoeW Day 22] (https://twitter.com/MightyJoeW/status/834624859422470144)
+
+**Sidenote Jones** I just realized this doesn't have a spell check. Hopefully everything has been half-decent...
+
 ### Day 21: Tuesday February 21, 2017
 
 **Today's Progress**: 

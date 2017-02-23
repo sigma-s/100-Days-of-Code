@@ -1,5 +1,17 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 23: Thursday February 23, 2017 - in progress
+
+**Today's Progress**: 
+- JavaScript Arrays practice (revisted Pokedex and began making the gen 1 list into an array)
+- Created array for Gen 1 Pokemon on my Pokedex (so each one can be indexed by number). Also, added bootstrap and begin styling. 
+
+**Thoughts:** 
+
+**Link to tweet:** [MightyJoeW Day 23] (https://twitter.com/MightyJoeW/)
+
+**Sidenote Jones** 
+
 ### Day 22: Wednesday February 22, 2017
 
 **Today's Progress**: 

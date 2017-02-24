@@ -2,8 +2,9 @@
 
 ### Day 24: Friday February 24, 2017
 
-**Today's Progress**: 
-- 
+**Today's Progress**: - in progress
+- More Array Iteration practice using forEach()
+
 
 **Thoughts:** 
 

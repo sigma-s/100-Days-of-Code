@@ -1,18 +1,33 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 23: Thursday February 23, 2017 - in progress
+### Day 24: Friday February 24, 2017
 
 **Today's Progress**: 
-- JavaScript Arrays practice (revisted Pokedex and began making the gen 1 list into an array)
-- JavaSript forEach lessons and practice
-- Created array for Gen 1 Pokemon on my Pokedex (so each one can be indexed by number). Also, added bootstrap and begin styling. 
+- 
 
 **Thoughts:** 
-forEach tricky at the moment. Will likely rewatch video tomorrow. 
 
-**Link to tweet:** [MightyJoeW Day 23] (https://twitter.com/MightyJoeW/)
+
+**Link to tweet:** [MightyJoeW Day 24] (https://twitter.com/MightyJoeW/)
 
 **Sidenote Jones** 
+
+### Day 23: Thursday February 23, 2017
+
+**Today's Progress**: 
+- JavaScript Arrays practice
+- JavaScript forEach() lessons and practice
+- Created array for Gen 1 Pokemon on my Pokedex (so each one can be indexed by number). Also, added bootstrap and began styling. 
+- Added tweeks to portfolio
+
+**Thoughts:** 
+Today's JavaScript lessons (forEach) were a bit tricky. I'm feeling alright with 'while' and 'for' loops, but I'm a bit hazy on the forEach concept. I'll more than likely watch these videos again and get more practice tomorrow. 
+
+Also, I'm ready to start making some apps! I was excited about the JavaScript 30 challange weeks ago, but I quickly saw that I needed more JavaScript training. I'm itching to get started on the JavaScript Drum Kit. I may take another look at it next week.
+
+**Link to tweet:** [MightyJoeW Day 23] (https://twitter.com/MightyJoeW/status/835006956653920257)
+
+**Sidenote Jones** I finally took advantage of this warm winter weather and went on a nice long bike ride earlier. It felt great but these legs are sore! (I've gotten sick a couple of times these past couple of months and my workout routine is all out of whack.)
 
 ### Day 22: Wednesday February 22, 2017
 

@@ -4,14 +4,15 @@
 
 **Today's Progress**: - in progress
 - More Array Iteration practice using forEach()
-
+- HTML and CSS tinkering
 
 **Thoughts:** 
+Array Iteration has not been my friend thus far. I'm currently trying to figure out an Array Problem Set.
 
-
-**Link to tweet:** [MightyJoeW Day 24] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 24] (https://twitter.com/MightyJoeW/status/835275665540788225)
 
 **Sidenote Jones** 
+The ‘coffee and code’ way of life is starting to make more sense. I’ve never been a consumer of coffee, but it’s been a few days in a row that I’ve gotten sleepy while trying to progress through this content. I may need to get a little taste of the coffee life #SleepyJones
 
 ### Day 23: Thursday February 23, 2017
 
@@ -28,7 +29,8 @@ Also, I'm ready to start making some apps! I was excited about the JavaScript 30
 
 **Link to tweet:** [MightyJoeW Day 23] (https://twitter.com/MightyJoeW/status/835006956653920257)
 
-**Sidenote Jones** I finally took advantage of this warm winter weather and went on a nice long bike ride earlier. It felt great but these legs are sore! (I've gotten sick a couple of times these past couple of months and my workout routine is all out of whack.)
+**Sidenote Jones** 
+I finally took advantage of this warm winter weather and went on a nice long bike ride earlier. It felt great but these legs are sore! (I've gotten sick a couple of times these past couple of months and my workout routine is all out of whack.)
 
 ### Day 22: Wednesday February 22, 2017
 

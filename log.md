@@ -3,6 +3,7 @@
 ### Day 25: Friday Saturday 25, 2017
 
 **Today's Progress**: - in progress
+- Finished adding temporary thumbails for each app/website on portfolio
 
 **Thoughts:** 
 

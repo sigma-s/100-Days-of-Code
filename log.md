@@ -1,8 +1,19 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 24: Friday February 24, 2017
+### Day 25: Friday Saturday 25, 2017
 
 **Today's Progress**: - in progress
+
+**Thoughts:** 
+
+**Link to tweet:** [MightyJoeW Day 24] (https://twitter.com/MightyJoeW/)
+
+**Sidenote Jones** 
+
+
+### Day 24: Friday February 24, 2017
+
+**Today's Progress**:
 - More Array Iteration practice using forEach()
 - HTML and CSS tinkering
 

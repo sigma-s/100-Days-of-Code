@@ -7,7 +7,7 @@
 
 **Thoughts:** 
 
-**Link to tweet:** [MightyJoeW Day 25] (https://twitter.com/MightyJoeW/status)
+**Link to tweet:** [MightyJoeW Day 26] (https://twitter.com/MightyJoeW/status)
 
 ### Day 25: Saturday 25, 2017
 

@@ -2,14 +2,16 @@
 
 ### Day 25: Friday Saturday 25, 2017
 
-**Today's Progress**: - in progress
+**Today's Progress**:
 - Finished adding temporary thumbails for each app/website on portfolio
+- Started working on a new website for practice
 
 **Thoughts:** 
+I didn't do anything too deep today. I'm dog sitting for a buddy, and this pup is loaded with energy (Border Collie/Pit mix)! I managed to mess around with some HTML and bootstrap. I began to recreate a page I made years ago with Blogspot. 
 
-**Link to tweet:** [MightyJoeW Day 24] (https://twitter.com/MightyJoeW/)
+Tomorrow, things will pick back up with the Free Code Camp meetup. They consistently keep us on our toes.
 
-**Sidenote Jones** 
+**Link to tweet:** [MightyJoeW Day 25] (https://twitter.com/MightyJoeW/status/835729938149842944)
 
 
 ### Day 24: Friday February 24, 2017

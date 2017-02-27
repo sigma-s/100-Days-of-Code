@@ -14,7 +14,7 @@ I spent some time at the end looking at one of the JS Array Problems, but I'll r
 
 Lastly, I still am wanting to make a cooler portfolio. I found some really good ones on Codepen and looked at some of their code. One of my favorites used SCSS which I want to learn in the near future. 
 
-**Link to tweet:** [MightyJoeW Day 26] (https://twitter.com/MightyJoeW/status/836024497346068480) (https://twitter.com/MightyJoeW/status/836026274028085248)
+**Link to tweet:** [MightyJoeW Day 26] (https://twitter.com/MightyJoeW/status/836024497346068480)
 
 ### Day 25: Saturday February 25, 2017
 

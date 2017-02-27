@@ -4,11 +4,17 @@
 
 **Today's Progress**:
 - Free Code Camp meetup (Discussed Wordpress & Git, Fetch API, and JavaScript Promises)
-- 
+- Worked on JavaScript Array Problem Set
+- Checked out some top ranked Portfolio's on Codepen
 
 **Thoughts:** 
+Today had a mix of many things. The content of today's Free Code Camp meetup was over my head, but it was still time well spent. Plus, someone that I was helping said "You know everything!" I literally said "Me?" and started laughing. Although I still feel so new to coding, I've come a long way and was very happy to be able to help and guide someone else. 
 
-**Link to tweet:** [MightyJoeW Day 26] (https://twitter.com/MightyJoeW/status)
+I spent some time at the end looking at one of the JS Array Problems, but I'll revisit this tomorrow with time and no distractions. 
+
+Lastly, I still am wanting to make a cooler portfolio. I found some really good ones on Codepen and looked at some of their code. One of my favorites used SCSS which I want to learn in the near future. 
+
+**Link to tweet:** [MightyJoeW Day 26] (https://twitter.com/MightyJoeW/status/836024497346068480) (https://twitter.com/MightyJoeW/status/836026274028085248)
 
 ### Day 25: Saturday February 25, 2017
 

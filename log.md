@@ -1,15 +1,16 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 26: Sunday 26, 2017 - in progress
+### Day 26: Sunday February 26, 2017 - in progress
 
 **Today's Progress**:
-- Free Code Camp meetup
+- Free Code Camp meetup (Discussed Wordpress & Git, Fetch API, and JavaScript Promises)
+- 
 
 **Thoughts:** 
 
 **Link to tweet:** [MightyJoeW Day 26] (https://twitter.com/MightyJoeW/status)
 
-### Day 25: Saturday 25, 2017
+### Day 25: Saturday February 25, 2017
 
 **Today's Progress**:
 - Finished adding temporary thumbails for each app/website on portfolio

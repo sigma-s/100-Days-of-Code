@@ -1,5 +1,15 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 28: Tuesday February 28, 2017 - in progress
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to tweet:** [MightyJoeW Day 28] (https://twitter.com/MightyJoeW/)
+
+**Link to work** [] () 
+
 ### Day 27: Monday February 27, 2017
 
 **Today's Progress**:

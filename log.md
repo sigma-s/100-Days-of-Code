@@ -1,6 +1,18 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 26: Sunday February 26, 2017 - in progress
+### Day 27: Monday February 27, 2017
+
+**Today's Progress**:
+- Installed Sass
+- Worked on third edition of my portfolio
+
+**Thoughts:** 
+Jumping ahead. Couldn't get Sass set up and functioning yet. Using Codepen in the meantime. 
+Took a peek at some portfolios on Codepen. Messed around and got excited and started on another new portfolio. Some of these portfolios are using CSS and JavaScript tools that I haven't learned or seen yet, and it's fascinating. 
+
+**Link to tweet:** [MightyJoeW Day 26] (https://twitter.com/MightyJoeW/)
+
+### Day 26: Sunday February 26, 2017
 
 **Today's Progress**:
 - Free Code Camp meetup (Discussed Wordpress & Git, Fetch API, and JavaScript Promises)
@@ -19,7 +31,7 @@ Lastly, I still am wanting to make a cooler portfolio. I found some really good 
 ### Day 25: Saturday February 25, 2017
 
 **Today's Progress**:
-- Finished adding temporary thumbails for each app/website on portfolio
+- Finished adding temporary thumbnails for each app/website on portfolio
 - Started working on a new website for practice
 
 **Thoughts:** 
@@ -50,12 +62,12 @@ The ‘coffee and code’ way of life is starting to make more sense. I’ve nev
 - JavaScript Arrays practice
 - JavaScript forEach() lessons and practice
 - Created array for Gen 1 Pokemon on my Pokedex (so each one can be indexed by number). Also, added bootstrap and began styling. 
-- Added tweeks to portfolio
+- Added tweaks to portfolio
 
 **Thoughts:** 
 Today's JavaScript lessons (forEach) were a bit tricky. I'm feeling alright with 'while' and 'for' loops, but I'm a bit hazy on the forEach concept. I'll more than likely watch these videos again and get more practice tomorrow. 
 
-Also, I'm ready to start making some apps! I was excited about the JavaScript 30 challange weeks ago, but I quickly saw that I needed more JavaScript training. I'm itching to get started on the JavaScript Drum Kit. I may take another look at it next week.
+Also, I'm ready to start making some apps! I was excited about the JavaScript 30 challenge weeks ago, but I quickly saw that I needed more JavaScript training. I'm itching to get started on the JavaScript Drum Kit. I may take another look at it next week.
 
 **Link to tweet:** [MightyJoeW Day 23] (https://twitter.com/MightyJoeW/status/835006956653920257)
 
@@ -67,7 +79,7 @@ I finally took advantage of this warm winter weather and went on a nice long bik
 **Today's Progress**: 
 - Practice with JavaScript functions
 - HTML and CSS practice
-- Continued work on Porfolio
+- Continued work on Portfolio
 - Finished Section 10: Javascript Basics: Functions
 
 
@@ -84,7 +96,7 @@ I actually don't mind at this stage though because I'm seeing how much I'm retai
 
 **Today's Progress**: 
 - Finished Udemy's Web Development Bootcamp Section 9: Javascript Basics: Control Flow. Up next: Section: 10 Javascript Basics: Functions
-- Figured out what was wrong with my Portfolio thumnail images (had to change the width and height in the links), centered text in jumbotron without adding effects of h1 and h3 (had to add div with text-center right before the text)
+- Figured out what was wrong with my Portfolio thumbnail images (had to change the width and height in the links), centered text in jumbotron without adding effects of h1 and h3 (had to add div with text-center right before the text)
 
 
 **Thoughts:** 
@@ -150,9 +162,9 @@ For example, I didn't know that text editors can rearrange your code to make it 
 **Thoughts:** 
 Udemy - I am thoroughly enjoying Udemy's Web Development Bootcamp course. Video lessons have been a great addition to my learning process. It's very helpful being able to see what someone is doing as well as hear explanations opposed to strictly reading. I am now to the JavaScript section, and I look forward to learning. Again, I bought this course specifically for help with JavaScript so I'm excited for another opportunity to learn this content. 
 
-Portfolio - The navbar was working properly, but the jumbotron engulfed the entire page. After being unsuccessful in figuring out where the issue was, I went through line-by-line (again) comparing to a solution from Web Development Bootcap (which led to another issue of the navbar icons not showing up, but I found an updated font awesome link on StackOverflow that worked).
+Portfolio - The navbar was working properly, but the jumbotron engulfed the entire page. After being unsuccessful in figuring out where the issue was, I went through line-by-line (again) comparing to a solution from Web Development Bootcamp (which led to another issue of the navbar icons not showing up, but I found an updated font awesome link on StackOverflow that worked).
 
-Landing Page - When I first was introduced to Bootstrap, I didn't know what to think. It seemed to good to be true and almost like cheating. On Codepen, you simply click the Quickadd buttong, and you can then do all of these magical things. What has helped me understand Bootstrap a lot more was actually seeing the css file. I had no idea what the magic was before. Now, I can actually look through the css to see how everything works. It doesn't feel like cheating anymore because it's exremely intricate, you still need a deep understanding, and I can go in and edit things if needed. 
+Landing Page - When I first was introduced to Bootstrap, I didn't know what to think. It seemed to good to be true and almost like cheating. On Codepen, you simply click the Quickadd button, and you can then do all of these magical things. What has helped me understand Bootstrap a lot more was actually seeing the css file. I had no idea what the magic was before. Now, I can actually look through the css to see how everything works. It doesn't feel like cheating anymore because it's extremely intricate, you still need a deep understanding, and I can go in and edit things if needed. 
 
 Using Bootstrap, I started working on a new landing page for one of my sites, gamesandkeys.com (video game piano tutorials, sheet music, and midi files). My focus is not currently on music and I haven't made any video game piano tutorials for awhile, but the site is still active and still gets traffic. I think I may keep going with this new version and do a complete overhaul. 
 
@@ -184,7 +196,7 @@ It's been fun experimenting and getting different things to work, but unfortunat
 
 **Thoughts:** I couldn't be happier with my progress as well as my continued passion for learning how to code. I've hit a lot of different roadblocks along the way, but today showed me how much I've learned over the last couple of months. 
 
-Since I had gotten stuck on multiple JavaScript challenges in Free Code Camp, I decided to find another resource to help me learn (enter Udemy's Web Development Bootcamp). Although I got the course for JavaScript, I thought it'd be a good idea to not jump ahead. I just completed the CSS section, and I felt extremeley comfortable on all of the little projects. All of the reps and different classes definitely helped me grasp these concepts. 
+Since I had gotten stuck on multiple JavaScript challenges in Free Code Camp, I decided to find another resource to help me learn (enter Udemy's Web Development Bootcamp). Although I got the course for JavaScript, I thought it'd be a good idea to not jump ahead. I just completed the CSS section, and I felt extremely comfortable on all of the little projects. All of the reps and different classes definitely helped me grasp these concepts. 
 
 Now, I'm hoping that this course can help these JavaScript concepts sink in more. I've been around JavaScript in SoloLearn, Free Code Camp, and various tutorials online, but it still feels over my head. It will be a marathon, and I'm prepared to getScript('or Die Tryin'). Let's do this!
 
@@ -192,10 +204,10 @@ Now, I'm hoping that this course can help these JavaScript concepts sink in more
 
 ### Day 14: Tuesday February 14, 2017 
 
-**Today's Progress**: Used JavaScript and the DOM tutotials to create webpages with various functionality. Completed CSS Selectors exercise in Udemy's Web Development Bootcamp course.
+**Today's Progress**: Used JavaScript and the DOM tutorials to create webpages with various functionality. Completed CSS Selectors exercise in Udemy's Web Development Bootcamp course.
 
 **Thoughts:**  Going off of DevTips' tutorials (https://www.youtube.com/watch?v=hM9h1wN4rfU), I created a webpage that changes colors as you move the mouse around the page as well as a page that changes colors as the time changes. This was all pure JavaScript and still very confusing as the moment. This was recommended to prep for Sunday's Free Code Camp meetup, so I at least have been introduced to these concepts. 
-After a few days away from Udemy, I got back to those lessons and completed the CSS Selctors exercise. I feel like I have a pretty good early understanding of CSS, and I continue to be impressed with each new thing that I learn it can do. 
+After a few days away from Udemy, I got back to those lessons and completed the CSS Selectors exercise. I feel like I have a pretty good early understanding of CSS, and I continue to be impressed with each new thing that I learn it can do. 
 
 **Link to tweet:** [MightyJoeW Day 14] (https://twitter.com/MightyJoeW/status/831675551203078144)
 
@@ -265,7 +277,7 @@ After a few days away from Udemy, I got back to those lessons and completed the 
 
 **Thoughts:** I decided to try out Udemy's Web Developer Bootcamp by Colt Steele. It's currently $15 (regular price $200), and I had seen many different people comment about how great this content is. I've been getting stuck on FCC challenges and felt like a needed a solid training program to go along with it. So far, it's been great!
 
-A couple of simple things I've picked up already are many helpful shortcuts in Sublime Text as well as how to hyperlink to a local file (relative path). I only knew how to hyperlink other webpages. The rest has been a good review of some HTML and CSS things I've forgotten.
+A couple of simple things I've picked up already are many helpful shortcuts in Sublime Text as well as how to hyperlink to a local file (relative path). I only knew how to hyperlink other web pages. The rest has been a good review of some HTML and CSS things I've forgotten.
 
 **Sidenote Jones:** I never imagined growing up that I'd be seeing Pokemon in learning material (or dominating mainstream news and media like when Pokemon Go took off). I still have my original Pokemon Yellow and Silver (I gave my Red and Blue away along with my wrestling action figures in a garage sale when we moved back in the day).
 
@@ -324,14 +336,14 @@ Being new to all of this, it's too early for me to even know what to look for in
 
 ### Day 3: Friday February 3, 2017 
 
-**Today's Progress**: Finished the Minutes to Hour Converer! Well, at least for now...
+**Today's Progress**: Finished the Minutes to Hour Converter! Well, at least for now...
 - added lang=""en-us"" to HTML
 - added <meta name=""viewport"" content=""width=device-width, initial-scale=1.0""> // trying to make mobile friendly
 - removed parenthesis from around <h3> It looked bad on mobile.
 - added mobile friendly code from w3 schools in .body. Can't figure out how to move everything to the center now. Found it!!! Change margin to auto!!
 - fixed footer on mobile by changing position from absolute to fixed :D
 
-**Thoughts:** It felt really good completing my first little project (especially without using jQuery or Bootstrap). I intentially decided not to use those as I'm still early in learning JavaScript and want to have a better understanding of it first. Plus, it sounds like they are losing popularity anyway. 
+**Thoughts:** It felt really good completing my first little project (especially without using jQuery or Bootstrap). I intentionally decided not to use those as I'm still early in learning JavaScript and want to have a better understanding of it first. Plus, it sounds like they are losing popularity anyway. 
 
 
 **Link to tweet:** [MightyJoeW Day 3] (https://twitter.com/MightyJoeW/status/827548443614859264)
@@ -343,10 +355,10 @@ Being new to all of this, it's too early for me to even know what to look for in
 
 **Today's Progress**: Got the web version of my minutes to hours converter looking decent. However, the mobile view was UGLY! Specific steps:
 - Added footer with copyright 
-- changed background (removed clock img since it looked bad on narrow pages, made a radient background in css). On second thought, just made background white. Not sure if background looks tacky here.
+- changed background (removed clock img since it looked bad on narrow pages, made a gradient background in css). On second thought, just made background white. Not sure if background looks tacky here.
 - bolded Minutes label
 
-**Thoughts:** Today was a really fun day. I initially had a background on the minutes conveter, but I noticed that it clashed with the form on narrow pages. I removed the background which made the page look plain, but it was good enough for the time being. Then, I added pasted my code to codepen to check how it looks on phones. You can see the results in my tweet lol. The fixex footer was in the middle of the page, and everything else looked sloppy. That gave me a good laugh as I looked forward to figuring this thing out.
+**Thoughts:** Today was a really fun day. I initially had a background on the minutes conveter, but I noticed that it clashed with the form on narrow pages. I removed the background which made the page look plain, but it was good enough for the time being. Then, I added pasted my code to codepen to check how it looks on phones. You can see the results in my tweet lol. The fixed footer was in the middle of the page, and everything else looked sloppy. That gave me a good laugh as I looked forward to figuring this thing out.
 
 **Link to tweet:** [MightyJoeW Day 2] (https://twitter.com/MightyJoeW/status/827239030563696640)
 

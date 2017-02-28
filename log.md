@@ -7,10 +7,11 @@
 - Worked on third edition of my portfolio
 
 **Thoughts:** 
-Jumping ahead. Couldn't get Sass set up and functioning yet. Using Codepen in the meantime. 
-Took a peek at some portfolios on Codepen. Messed around and got excited and started on another new portfolio. Some of these portfolios are using CSS and JavaScript tools that I haven't learned or seen yet, and it's fascinating. 
+I messed around and got excited looking ar portfolios on Codepen and started on yet another. The one I'm basing mine off of used all kinds of tools that I haven't seen before. Needless to say, I don't understand all of it, but it's fascinating!
 
-**Link to tweet:** [MightyJoeW Day 26] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 27] (https://twitter.com/MightyJoeW/)
+
+**Link to work** [Joe Warren Portfolio Deluxe] (http://codepen.io/MightyJoeW/full/GWpKOm/) This portfolio is based off of MOHAMMED ERRAYSY's so I give him all of the credit. I'm learning from his code. Also, I haven't looked at the JavaScript yet, so I don't know if the Contact form is active (don't try it). 
 
 ### Day 26: Sunday February 26, 2017
 

@@ -9,7 +9,7 @@
 **Thoughts:** 
 I messed around and got excited looking ar portfolios on Codepen and started on yet another. The one I'm basing mine off of used all kinds of tools that I haven't seen before. Needless to say, I don't understand all of it, but it's fascinating!
 
-**Link to tweet:** [MightyJoeW Day 27] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 27] (https://twitter.com/MightyJoeW/status/836428525884309504)
 
 **Link to work** [Joe Warren Portfolio Deluxe] (http://codepen.io/MightyJoeW/full/GWpKOm/) This portfolio is based off of MOHAMMED ERRAYSY's so I give him all of the credit. I'm learning from his code. Also, I haven't looked at the JavaScript yet, so I don't know if the Contact form is active (don't try it). 
 

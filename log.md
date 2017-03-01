@@ -3,12 +3,18 @@
 ### Day 28: Tuesday February 28, 2017 - in progress
 
 **Today's Progress**:
+- Continued working on Portfolio: Deluxe Edition
+- Checked out The Odin Project http://www.theodinproject.com/home
 
 **Thoughts:** 
+The coding part of my day continued with my deluxe portfolio. I was going through the SCSS trying to see how much of it I could understand (same with the JS). The amount that was loaded into both is incredible. I get bits and pieces, but I look forward to having a better grasp of what exactly is going on.
+Today’s learning came from The Odin Project. I had heard about it awhile ago on a podcast, and it was mentioned to me on Sunday. I thought it was only a Ruby program (it’s not), so I thought I’d take a look. Nearly 3 hours later, here I am in the trenches of another course! I learned some things I didn’t know about the Internet as well as some commands and shortcuts in the Command Line.
 
-**Link to tweet:** [MightyJoeW Day 28] (https://twitter.com/MightyJoeW/)
+I am still committed to completing Free Code Camp, and I’m definitely going to keep going with The Web Development Bootcamp because that has explained everything so well, but I’m kind of feeling this Odin Project too. The good news is that I’m not on any timelines, and it doesn’t hurt learning from different sources. I’ve just got to make sure I’m focused overall and moving forward each day. 
 
-**Link to work** [] () 
+**Link to tweet:** [MightyJoeW Day 28] (https://twitter.com/MightyJoeW/status/836758789567152131)
+
+**Link to work** [Joe Warren Portfolio Deluxe] (http://s.codepen.io/MightyJoeW/debug/GWpKOm/wQMPoZoYwgnk) Again, this portfolio is based off of MOHAMMED ERRAYSY's.
 
 ### Day 27: Monday February 27, 2017
 
@@ -21,7 +27,7 @@ I messed around and got excited looking ar portfolios on Codepen and started on 
 
 **Link to tweet:** [MightyJoeW Day 27] (https://twitter.com/MightyJoeW/status/836428525884309504)
 
-**Link to work** [Joe Warren Portfolio Deluxe] (http://codepen.io/MightyJoeW/full/GWpKOm/) This portfolio is based off of MOHAMMED ERRAYSY's so I give him all of the credit. I'm learning from his code. Also, I haven't looked at the JavaScript yet, so I don't know if the Contact form is active (don't try it). 
+**Link to work** [Joe Warren Portfolio Deluxe] (http://s.codepen.io/MightyJoeW/debug/GWpKOm/wQMPoZoYwgnk) This portfolio is based off of MOHAMMED ERRAYSY's so I give him all of the credit. I'm learning from his code. Also, I haven't looked at the JavaScript yet, so I don't know if the Contact form is active (don't try it). 
 
 ### Day 26: Sunday February 26, 2017
 

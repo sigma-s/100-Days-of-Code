@@ -5,12 +5,16 @@
 **Today's Progress**:
 - Odin project Command Line lessons
 - Completed entire Railsbridge Installfest 
+- Matrix Digital Rain in p5.js code along with Emily Xie
 
 **Thoughts:** 
+This will be short because I'm Sleepy Jones, but today was a really good day of unexpected progress. I continued going through the Odin project, and the Command Line now makes more sense to me than it ever has. I’ll try to use it regularly to get more comfortable with it. 
 
-**Link to tweet:** [MightyJoeW Day 29] (https://twitter.com/MightyJoeW)
+Then, I had a late night session coding along with Emily Xie’s Matrix Digital Rain in p5.js tutorial https://youtu.be/S1TQCi9axzg. Even though much of it was over my head, it was still fun and fascinating to code along with. Sleeeeepy. Mighty Out. 
 
-**Link to work** [] () 
+**Link to tweet:** [MightyJoeW Day 29] (https://twitter.com/MightyJoeW/status/837188094176735232)
+
+**Link to work** [Blue Matrix] (http://codepen.io/MightyJoeW/full/qrbJbL/) 
 
 
 ### Day 28: Tuesday February 28, 2017

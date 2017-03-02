@@ -1,6 +1,17 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 29: Wednesday March 1, 2017 - in progress
+### Day 30: Thursday March 3, 2017 - in progress
+
+**Today's Progress**:
+
+
+**Thoughts:** 
+
+**Link to tweet:** [MightyJoeW Day 29] (https://twitter.com/MightyJoeW)
+
+**Link to work**  
+
+### Day 29: Wednesday March 1, 2017
 
 **Today's Progress**:
 - Odin project Command Line lessons

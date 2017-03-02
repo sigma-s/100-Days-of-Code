@@ -3,7 +3,8 @@
 ### Day 29: Wednesday March 1, 2017 - in progress
 
 **Today's Progress**:
-
+- Odin project Command Line lessons
+- Completed entire Railsbridge Installfest 
 
 **Thoughts:** 
 

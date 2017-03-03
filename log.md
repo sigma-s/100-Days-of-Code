@@ -1,15 +1,17 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 30: Thursday March 3, 2017 - in progress
+### Day 30: Thursday March 2, 2017
 
 **Today's Progress**:
-
+- Odin project Git and front-end dev sections
 
 **Thoughts:** 
+I don't know if git takes awhile to get used to or The Odin Project is information overload, but git was wearing me out earlier! I do feel I have a much better understanding of it now though. Bottom line, it's going to take a lot of reps to get comfortable using git and the command line. 
 
-**Link to tweet:** [MightyJoeW Day 29] (https://twitter.com/MightyJoeW)
+**Link to tweet:** [MightyJoeW Day 30] (https://twitter.com/MightyJoeW/status/837531166001410049)
 
-**Link to work**  
+**Sidenote Jones** 
+I never knew about Google's Revision history. This can come in handy big time.
 
 ### Day 29: Wednesday March 1, 2017
 

@@ -1,17 +1,17 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 31: Friday March 3, 2017 - in progress
+### Day 31: Friday March 3, 2017
 
 **Today's Progress**:
-
+- More Odin Project HTML and CSS work
 
 **Thoughts:** 
- 
+ Another day with mostly review, but I have been picking up new little things with both HTML and CSS.
 
-**Link to tweet:** [MightyJoeW Day 31] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 31] (https://twitter.com/MightyJoeW/status/837863066066948096)
 
 **Sidenote Jones** 
-
+I'm both Hungry Jones and Sleepy Jones right now. I need food and a bed. Goodnight!
 
 
 ### Day 30: Thursday March 2, 2017

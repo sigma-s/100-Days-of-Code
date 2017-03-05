@@ -1,5 +1,20 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 32: Saturday March 4, 2017
+
+**Today's Progress**:
+- More Odin Project HTML and CSS work (focused more on CSS)
+
+**Thoughts:** 
+After a long day of driving (ROAD TRIP!!) and seeing family, I am definitely ready to dive into bed. However, I do NOT want to break my streak. Day 32, and I'm just getting warmed up! I just spent an hour continuing the Odin Project (I'm currently in the HTML & CSS Codecademy section). 
+
+This is mostly review, but I had forgotten all about the pseudo-classes in CSS. This was a good opportunity for me to get some more reps with this. A couple that I used were X:first-child{} and X:nth-child(n){}. In the Udemy course that I'm also working through (Web Development Bootcamp), he shared this helpful link with 30 important CSS Selectors https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048.
+
+**Link to tweet:** [MightyJoeW Day 32] (https://twitter.com/MightyJoeW/status/838281454945767424)
+
+**Sidenote Jones** 
+I really need to start writing these updates earlier in the day. I usually write this right before going to bed, and I'm about a half second away from dozing off and crashing my head right through my computer screen. I'm really not in the mood to go to the hospital or buy a new laptop (well, I am currently working on a 2009 Macbook so that wouldn't be the worst idea...). Yeah, time for bed... Goodnight!
+
 ### Day 31: Friday March 3, 2017
 
 **Today's Progress**:

@@ -1,5 +1,18 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 33: Sunday March 5, 2017 - in progress
+
+**Today's Progress**:
+- 
+
+**Thoughts:** 
+
+
+**Link to tweet:** [MightyJoeW Day 33] (https://twitter.com/MightyJoeW/)
+
+**Sidenote Jones** 
+
+
 ### Day 32: Saturday March 4, 2017
 
 **Today's Progress**:

@@ -13,7 +13,7 @@ This is mostly review, but I had forgotten all about the pseudo-classes in CSS. 
 **Link to tweet:** [MightyJoeW Day 32] (https://twitter.com/MightyJoeW/status/838281454945767424)
 
 **Sidenote Jones** 
-I really need to start writing these updates earlier in the day. I usually write this right before going to bed, and I'm about a half second away from dozing off and crashing my head right through my computer screen. I'm really not in the mood to go to the hospital or buy a new laptop (well, I am currently working on a 2009 Macbook so that wouldn't be the worst idea...). Yeah, time for bed... Goodnight!
+I really need to start writing these updates earlier in the day. I usually write this right before going to bed, and I'm about a half second away from dozing off and crashing my head right through my computer screen. I'm really not in the mood to go to the hospital or buy a new laptop (well, I am currently working on an old 2009 Macbook so that wouldn't be the worst idea...). Yeah, time for bed... Goodnight!
 
 ### Day 31: Friday March 3, 2017
 

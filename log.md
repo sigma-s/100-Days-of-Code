@@ -1,6 +1,6 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 33: Sunday March 5, 2017 - in progress
+### Day 34: Monday March 6, 2017 - in progress
 
 **Today's Progress**:
 - 
@@ -8,9 +8,26 @@
 **Thoughts:** 
 
 
-**Link to tweet:** [MightyJoeW Day 33] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 34] (https://twitter.com/MightyJoeW/)
 
 **Sidenote Jones** 
+
+### Day 33: Sunday March 5, 2017
+
+**Today's Progress**:
+- Continued CSS section of Codecademy for Odin Project
+
+**Thoughts:** 
+Today's work was a quick hour working with CSS. It was a great refresher since I had been focusing on Javascript for the past month or so. Specifically, it was good to get in some more reps with simple things such as block, inline-block, inline, none, floats, and clear. I was also able to get some more reps in with positioning. 
+
+**Link to tweet:** [MightyJoeW Day 33] (https://twitter.com/MightyJoeW/status/838642454924505089)
+
+**Sidenote Jones** 
+I spent most of yesterday with family I hadn't seen in awhile, and we had a great time. At the end of the night, we decided to put on a movie. We were met with the usual Netflix dilemma of “What should we watch?” I was very vocal about not wanting to pick since I watch movies the least, but somehow I ended up picking. 
+
+I had been wanting to see I.T. because the concept of some hacker taking over a smarthome intrigued me. I mentioned it but didn’t want to be responsible for provided everyone with two hours that they couldn’t get back if it was terrible or too technical. They were interested and fired it up. 
+
+The concept was good, but unfortunately the movie felt flat. Also, it was another source of entertainment that portrayed programmers (or hackers) as sick and sadistic people that hide in the shadows ruining people’s lives which kinda sucks as I was just telling everyone how I've gotten into coding... Darn you Hollywood! 
 
 
 ### Day 32: Saturday March 4, 2017

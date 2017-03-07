@@ -3,8 +3,6 @@
 ### Day 35: Tuesday March 7, 2017 - in progress
 
 **Today's Progress**:
-- Finished CSS section of Odin Project
-- Played CodeCombat with JavaScript as my language of choice
 
 **Thoughts:** 
 
@@ -36,8 +34,6 @@ The syntax is authentic, and the process feels true to coding although it doesnâ
 **Link to Work:** [Android Logo] (http://codepen.io/MightyJoeW/full/oZzreR/)
 
 **Link to tweet:** [MightyJoeW Day 34] (https://twitter.com/MightyJoeW/status/839016634174029824)
-
-**Sidenote Jones** 
 
 ### Day 33: Sunday March 5, 2017
 

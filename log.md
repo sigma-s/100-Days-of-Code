@@ -1,13 +1,39 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 34: Monday March 6, 2017 - in progress
+### Day 35: Tuesday March 7, 2017 - in progress
 
 **Today's Progress**:
 - Finished CSS section of Odin Project
-- Played some CodeCombat with JavaScript as my language of choice
+- Played CodeCombat with JavaScript as my language of choice
 
 **Thoughts:** 
 
+**Link to tweet:** [MightyJoeW Day 34] (https://twitter.com/MightyJoeW/)
+
+**Sidenote Jones** 
+
+
+### Day 34: Monday March 6, 2017
+
+**Today's Progress**:
+- Finished CSS section of Odin Project
+- Played CodeCombat with JavaScript as my language of choice
+
+**Thoughts:** 
+I'm near the end of the CSS section of the Odin Project and looking forward to the JavaScript section. I’m planning to work through the Free Code Camp, Web Development Bootcamp, and Odin Project JavaScript sections together to help reinforce various concepts. 
+
+Smooth segway to CodeCombat. I wanted to get a feel of CodeCombat to see if this was a good resource for kids to learn how to code, and I am very impressed. You can pick from a few different programming languages to use as commands to control your character. For example, one of the levels is a maze in which your character needs to go right, then up, then right, then down multiple times. With JavaScript as your language of choice, you can use a while loop like this:
+
+while(true) {
+    hero.moveRight();
+    hero.moveUp();
+    hero.moveRight();
+    hero.moveDown();
+}
+
+The syntax is authentic, and the process feels true to coding although it doesn’t feel like coding (it really feels like playing a video game). Looks like I better replace some Pokemon Moon time with CodeCombat. 
+
+**Link to Work:** [Android Logo] (http://codepen.io/MightyJoeW/full/oZzreR/)
 
 **Link to tweet:** [MightyJoeW Day 34] (https://twitter.com/MightyJoeW/status/839016634174029824)
 

@@ -18,7 +18,9 @@
 - Played CodeCombat with JavaScript as my language of choice
 
 **Thoughts:** 
-I'm near the end of the CSS section of the Odin Project and looking forward to the JavaScript section. I’m planning to work through the Free Code Camp, Web Development Bootcamp, and Odin Project JavaScript sections together to help reinforce various concepts. 
+I'm near the end of the CSS section of the Odin Project. I ended the night following along with The Code Player to create an animated Android Logo with CSS. 
+
+I'm looking forward to the JavaScript section. I’m planning to work through the Free Code Camp, Web Development Bootcamp, and Odin Project JavaScript sections together to help reinforce various concepts. 
 
 Smooth segway to CodeCombat. I wanted to get a feel of CodeCombat to see if this was a good resource for kids to learn how to code, and I am very impressed. You can pick from a few different programming languages to use as commands to control your character. For example, one of the levels is a maze in which your character needs to go right, then up, then right, then down multiple times. With JavaScript as your language of choice, you can use a while loop like this:
 

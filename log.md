@@ -3,12 +3,13 @@
 ### Day 34: Monday March 6, 2017 - in progress
 
 **Today's Progress**:
-- 
+- Finished CSS section of Odin Project
+- Played some CodeCombat with JavaScript as my language of choice
 
 **Thoughts:** 
 
 
-**Link to tweet:** [MightyJoeW Day 34] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 34] (https://twitter.com/MightyJoeW/status/839016634174029824)
 
 **Sidenote Jones** 
 

@@ -1,5 +1,17 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 36: Tuesday March 8, 2017
+
+**Today's Progress**:
+- 
+
+**Thoughts:** 
+
+**Link to tweet:** [MightyJoeW Day 36] (https://twitter.com/MightyJoeW/)
+
+**Sidenote Jones** 
+
+
 ### Day 35: Tuesday March 7, 2017
 
 **Today's Progress**:

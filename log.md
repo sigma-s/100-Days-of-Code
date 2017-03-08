@@ -1,14 +1,26 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 35: Tuesday March 7, 2017 - in progress
+### Day 35: Tuesday March 7, 2017
 
 **Today's Progress**:
+- Odin Project - Developer Tools
+- CodeCombat
 
 **Thoughts:** 
+I’ve been using Chrome’s DevTools for the last few months and have felt pretty comfortable with it, but I’ve learn a lot of new things that it can do today. Odin’s Project led to various articles and videos walking through what all you can do with HTML, CSS, and JavaScript with the DevTools. I only knew the basics, so I’ll list a few things that I picked up.
 
-**Link to tweet:** [MightyJoeW Day 34] (https://twitter.com/MightyJoeW/)
+
+HTML - In Elements, you can right-click on a line and choose Edit as HTML. Also, you can drag a line to move it somewhere else.
+CSS - You can click the plus button at top right to add a new style rule. Clicking :hov allows you to choose a hover state to edit
+Sources - allow you to edit the site's files (but it saves it to our browser storage, not the original file)
+Network - throttling allows you to change connection speed to test a site’s performance
+
+Next up is Project: HTML/CSS. Then, I'll be in the JavaScript section of the Odin Project. 
+
+**Link to tweet:** [MightyJoeW Day 35] (https://twitter.com/MightyJoeW/status/839353199307948033)
 
 **Sidenote Jones** 
+The DevTools things that I picked up today were immediately helpful, and I found myself spending a lot of time going through different sites and trying these out. After I had enough practice with these new things, I got back to one of my favorite pass times: simply editing words on serious sites to make it as sophomoric and juvenile as possible! I don't know why it's so funny, but I crack myself up :D
 
 
 ### Day 34: Monday March 6, 2017

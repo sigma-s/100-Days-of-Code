@@ -1,16 +1,29 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 36: Tuesday March 8, 2017
+### Day 37: Wednesday March 9, 2017
 
 **Today's Progress**:
-- 
+- Project: HTML/CSS (recreate Google Homepage)
 
 **Thoughts:** 
+The Google page is coming along well. There are a few little things I can’t figure out positioning-wise (specifically lining up everything in the header), and I still need to fix and finish the footer. 
 
-**Link to tweet:** [MightyJoeW Day 36] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 37] (https://twitter.com/MightyJoeW/status/839998100404076544)
+
+**Link to work** [Google Homepage] http://codepen.io/MightyJoeW/full/qrraWL/
 
 **Sidenote Jones** 
+So, I finally watched a couple of episodes of Silicon Valley and I'm pretty sure I'm hooked already.
 
+### Day 36: Wednesday March 8, 2017
+
+**Today's Progress**:
+- Project: HTML/CSS (recreate Google Homepage)
+
+**Thoughts:** 
+I was challenged to recreate Google’s homepage within the first few weeks of my coding journey (December 2016), so this will be a good opportunity to finish my original attempt. There were multiple things off with the header and the footer, so we’ll see if I can fix them. 
+
+**Link to tweet:** [MightyJoeW Day 36] (https://twitter.com/MightyJoeW/status/839733793258946560)
 
 ### Day 35: Tuesday March 7, 2017
 

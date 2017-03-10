@@ -1,5 +1,22 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 38: Wednesday March 10, 2017 - in progress
+
+**Today's Progress**:
+
+
+**Thoughts:** 
+
+
+**Link to tweet:** [MightyJoeW Day 38] (https://twitter.com/MightyJoeW/)
+
+**Link to work** [] 
+
+**Sidenote Jones** 
+
+
+### Day 36: Wednesday March 8, 2017
+
 ### Day 37: Wednesday March 9, 2017
 
 **Today's Progress**:

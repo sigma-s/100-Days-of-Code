@@ -15,8 +15,6 @@
 **Sidenote Jones** 
 
 
-### Day 36: Wednesday March 8, 2017
-
 ### Day 37: Wednesday March 9, 2017
 
 **Today's Progress**:
@@ -32,6 +30,7 @@ The Google page is coming along well. There are a few little things I can’t fi
 **Sidenote Jones** 
 So, I finally watched a couple of episodes of Silicon Valley and I'm pretty sure I'm hooked already.
 
+
 ### Day 36: Wednesday March 8, 2017
 
 **Today's Progress**:
@@ -41,6 +40,7 @@ So, I finally watched a couple of episodes of Silicon Valley and I'm pretty sure
 I was challenged to recreate Google’s homepage within the first few weeks of my coding journey (December 2016), so this will be a good opportunity to finish my original attempt. There were multiple things off with the header and the footer, so we’ll see if I can fix them. 
 
 **Link to tweet:** [MightyJoeW Day 36] (https://twitter.com/MightyJoeW/status/839733793258946560)
+
 
 ### Day 35: Tuesday March 7, 2017
 
@@ -91,6 +91,7 @@ The syntax is authentic, and the process feels true to coding although it doesn�
 
 **Link to tweet:** [MightyJoeW Day 34] (https://twitter.com/MightyJoeW/status/839016634174029824)
 
+
 ### Day 33: Sunday March 5, 2017
 
 **Today's Progress**:
@@ -124,6 +125,7 @@ This is mostly review, but I had forgotten all about the pseudo-classes in CSS. 
 **Sidenote Jones** 
 I really need to start writing these updates earlier in the day. I usually write this right before going to bed, and I'm about a half second away from dozing off and crashing my head right through my computer screen. I'm really not in the mood to go to the hospital or buy a new laptop (well, I am currently working on an old 2009 Macbook so that wouldn't be the worst idea...). Yeah, time for bed... Goodnight!
 
+
 ### Day 31: Friday March 3, 2017
 
 **Today's Progress**:
@@ -150,6 +152,7 @@ I don't know if git takes awhile to get used to or The Odin Project is informati
 
 **Sidenote Jones** 
 I never knew about Google's Revision history. This can come in handy big time.
+
 
 ### Day 29: Wednesday March 1, 2017
 
@@ -184,6 +187,7 @@ I am still committed to completing Free Code Camp, and I’m definitely going to
 
 **Link to work** [Joe Warren Portfolio Deluxe] (http://s.codepen.io/MightyJoeW/debug/GWpKOm/wQMPoZoYwgnk) Again, this portfolio is based off of MOHAMMED ERRAYSY's.
 
+
 ### Day 27: Monday February 27, 2017
 
 **Today's Progress**:
@@ -196,6 +200,7 @@ I messed around and got excited looking ar portfolios on Codepen and started on 
 **Link to tweet:** [MightyJoeW Day 27] (https://twitter.com/MightyJoeW/status/836428525884309504)
 
 **Link to work** [Joe Warren Portfolio Deluxe] (http://s.codepen.io/MightyJoeW/debug/GWpKOm/wQMPoZoYwgnk) This portfolio is based off of MOHAMMED ERRAYSY's so I give him all of the credit. I'm learning from his code. Also, I haven't looked at the JavaScript yet, so I don't know if the Contact form is active (don't try it). 
+
 
 ### Day 26: Sunday February 26, 2017
 
@@ -212,6 +217,7 @@ I spent some time at the end looking at one of the JS Array Problems, but I'll r
 Lastly, I still am wanting to make a cooler portfolio. I found some really good ones on Codepen and looked at some of their code. One of my favorites used SCSS which I want to learn in the near future. 
 
 **Link to tweet:** [MightyJoeW Day 26] (https://twitter.com/MightyJoeW/status/836024497346068480)
+
 
 ### Day 25: Saturday February 25, 2017
 
@@ -241,6 +247,7 @@ Array Iteration has not been my friend thus far. I'm currently trying to figure 
 **Sidenote Jones** 
 The ‘coffee and code’ way of life is starting to make more sense. I’ve never been a consumer of coffee, but it’s been a few days in a row that I’ve gotten sleepy while trying to progress through this content. I may need to get a little taste of the coffee life #SleepyJones
 
+
 ### Day 23: Thursday February 23, 2017
 
 **Today's Progress**: 
@@ -258,6 +265,7 @@ Also, I'm ready to start making some apps! I was excited about the JavaScript 30
 
 **Sidenote Jones** 
 I finally took advantage of this warm winter weather and went on a nice long bike ride earlier. It felt great but these legs are sore! (I've gotten sick a couple of times these past couple of months and my workout routine is all out of whack.)
+
 
 ### Day 22: Wednesday February 22, 2017
 
@@ -277,12 +285,12 @@ I actually don't mind at this stage though because I'm seeing how much I'm retai
 
 **Sidenote Jones** I just realized this doesn't have a spell check. Hopefully everything has been half-decent...
 
+
 ### Day 21: Tuesday February 21, 2017
 
 **Today's Progress**: 
 - Finished Udemy's Web Development Bootcamp Section 9: Javascript Basics: Control Flow. Up next: Section: 10 Javascript Basics: Functions
 - Figured out what was wrong with my Portfolio thumbnail images (had to change the width and height in the links), centered text in jumbotron without adding effects of h1 and h3 (had to add div with text-center right before the text)
-
 
 **Thoughts:** 
 Another good day of learning and coding. I successfully wrote JavaScript code for various while loops and for loops. I remember first seeing JavaScript loops and thinking, "What in the world is with these i's and +'s."  Modulus makes a lot more sense now too. 
@@ -298,7 +306,6 @@ Update: I figured it out!! Again, another small issue. I had the closing div tag
 **Link to work** [Joe Warren Portfolio] (http://codepen.io/MightyJoeW/full/JEEqNV/)
 
 
-
 ### Day 20: Monday February 20, 2017
 
 **Today's Progress**: 
@@ -309,8 +316,8 @@ Update: I figured it out!! Again, another small issue. I had the closing div tag
 **Thoughts:** 
 Today was another good day of learning and practicing. I'm working through the JavaScript section of my current course. I've learned a few new things, and have remembered things I've forgotten from weeks ago. I'm currently on the section about loops and working my way to the section about Objects (Objects is where I got stuck on Free Code Camp). 
 
-
 **Link to tweet:** [MightyJoeW Day 20] (https://twitter.com/MightyJoeW/status/833906812575481856)
+
 
 ### Day 19: Sunday February 19, 2017
 
@@ -336,7 +343,6 @@ For example, I didn't know that text editors can rearrange your code to make it 
 **Link to tweet:** [MightyJoeW Day 18] (https://twitter.com/MightyJoeW/status/833181935635726338)
 
 
-
 ### Day 17: Friday February 17, 2017
 
 **Today's Progress**: 
@@ -356,6 +362,7 @@ Using Bootstrap, I started working on a new landing page for one of my sites, ga
 **Sidenote Jones:** NBA Allstar Weekend!
 
 **Link to tweet:** [MightyJoeW Day 17] (https://twitter.com/MightyJoeW/status/832743411606179840)
+
 
 ### Day 16: Thursday February 16, 2017
 
@@ -387,6 +394,7 @@ Now, I'm hoping that this course can help these JavaScript concepts sink in more
 
 **Link to tweet:** [MightyJoeW Day 15] (https://twitter.com/MightyJoeW/status/832033261220196352)
 
+
 ### Day 14: Tuesday February 14, 2017 
 
 **Today's Progress**: Used JavaScript and the DOM tutorials to create webpages with various functionality. Completed CSS Selectors exercise in Udemy's Web Development Bootcamp course.
@@ -395,6 +403,7 @@ Now, I'm hoping that this course can help these JavaScript concepts sink in more
 After a few days away from Udemy, I got back to those lessons and completed the CSS Selectors exercise. I feel like I have a pretty good early understanding of CSS, and I continue to be impressed with each new thing that I learn it can do. 
 
 **Link to tweet:** [MightyJoeW Day 14] (https://twitter.com/MightyJoeW/status/831675551203078144)
+
 
 ### Day 13: Monday February 13, 2017 
 
@@ -405,6 +414,7 @@ After a few days away from Udemy, I got back to those lessons and completed the 
 **Link to tweet:** [MightyJoeW Day 13] (https://twitter.com/MightyJoeW/status/831305975470628865)
 
 **Link to work:** [Working JavaScript Quiz] (https://github.com/MightyJoeW/JavaScript-Quiz) [Pokedex] (https://github.com/MightyJoeW/The-Pokedex)
+
 
 ### Day 12: Sunday February 12, 2017 
 
@@ -437,7 +447,6 @@ After a few days away from Udemy, I got back to those lessons and completed the 
 **Link to work:** [Pokedex repository] https://github.com/MightyJoeW/Pokedex
 
 
-
 ### Day 9: Thursday February 9, 2017 
 
 **Today's Progress**: More Web Development Bootcamp CSS lessons plus additional work on Pokedex. Created pages for numerical list and alphabetical list.
@@ -445,6 +454,7 @@ After a few days away from Udemy, I got back to those lessons and completed the 
 **Thoughts:** Very tough day with flu-like symptoms, but made it an hour. 
 
 **Link to tweet:** [MightyJoeW Day 9] (https://twitter.com/MightyJoeW/status/829900574204256263)
+
 
 ### Day 8: Wednesday February 8, 2017 
 
@@ -455,6 +465,7 @@ After a few days away from Udemy, I got back to those lessons and completed the 
 **Sidenote Jones:** Whenever I get the hiccups, they last for days (sometimes weeks). I've had the hiccups since yesterday, and it's the most irritating thing when trying to learn and practice anything. And yes, I've tried all of the methods. None of the ever work, but I'll take suggestions... Hmm, since this problem has not been solved for me, I guess I need to create a solution and app to take care of this. To the laboratory!
 
 **Link to tweet:** [MightyJoeW Day 8] (https://twitter.com/MightyJoeW/status/829472654885261312)
+
 
 ### Day 7: Tuesday February 7, 2017 
 

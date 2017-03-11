@@ -1,5 +1,21 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 39: Saturday March 11, 2017 - in progress
+
+**Today's Progress**:
+- 
+
+**Thoughts:** 
+ 
+
+**Link to tweet:** [MightyJoeW Day 39] (https://twitter.com/MightyJoeW/)
+
+**Link to work** [Title] ()
+
+**Sidenote Jones** 
+ 
+
+
 ### Day 38: Friday March 10, 2017
 
 **Today's Progress**:

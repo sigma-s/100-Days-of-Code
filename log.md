@@ -8,7 +8,7 @@
 **Thoughts:** 
  
 
-**Link to tweet:** [MightyJoeW Day 39] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 39] (https://twitter.com/MightyJoeW/status/840660850289586181)
 
 **Link to work** [Title] ()
 

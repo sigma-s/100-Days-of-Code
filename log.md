@@ -1,19 +1,26 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 38: Friday March 10, 2017 - in progress
+### Day 38: Friday March 10, 2017
 
 **Today's Progress**:
--Finished Project: HTML/CSS (recreate Google Homepage)
+- Finished Project: HTML/CSS (recreate Google Homepage)
+- Started Javascript section of the Odin Project
 
 **Thoughts:** 
+Wow, so I'm updating this post a day later and I copy & pasted my link below to look at my Google replica and thought, "Shoot, I must have copied the wrong link because just Google popped up..." It quickly dawned on me that my project was a Google replica, so I am proud of myself that I fooled myself lol. 
 
+The replica is not identical (i.e. the header is not aligned the same way, the buttons look a bit different), but I’m very happy with it for now. I may revisit this in the future for a third attempt to see if I can get everything exactly the same. 
+
+After finishing, I hopped into the Javascript section (which starts off with a Codecademy course). It always feels good to fly through early sections of a course. Hopefully, the copious resources that the Odin Project provides will get me to that next level with Javascript. 
 
 **Link to tweet:** [MightyJoeW Day 38] (https://twitter.com/MightyJoeW/status/840357122089070592)
 
 **Link to work** [Google Homepage] (https://mightyjoew.github.io/google-homepage/)
 
 **Sidenote Jones** 
+I'm truly considering applying to speak at this summer's AlterConf. They tweeted "AlterConf is looking for marginalized ppl in tech/gaming for paid speaking opportunities. No experience necessary!" 
 
+It's in August, so I have plenty of time to come up with material. 
 
 ### Day 37: Thursday March 9, 2017
 

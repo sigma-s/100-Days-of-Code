@@ -1,6 +1,6 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 38: Wednesday March 10, 2017 - in progress
+### Day 38: Friday March 10, 2017 - in progress
 
 **Today's Progress**:
 -Finished Project: HTML/CSS (recreate Google Homepage)
@@ -15,7 +15,7 @@
 **Sidenote Jones** 
 
 
-### Day 37: Wednesday March 9, 2017
+### Day 37: Thursday March 9, 2017
 
 **Today's Progress**:
 - Project: HTML/CSS (recreate Google Homepage)

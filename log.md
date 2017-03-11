@@ -3,14 +3,14 @@
 ### Day 38: Wednesday March 10, 2017 - in progress
 
 **Today's Progress**:
-
+-Finished Project: HTML/CSS (recreate Google Homepage)
 
 **Thoughts:** 
 
 
-**Link to tweet:** [MightyJoeW Day 38] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 38] (https://twitter.com/MightyJoeW/status/840357122089070592)
 
-**Link to work** [] 
+**Link to work** [Google Homepage] (https://mightyjoew.github.io/google-homepage/)
 
 **Sidenote Jones** 
 

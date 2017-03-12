@@ -1,9 +1,9 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 39: Saturday March 11, 2017 - in progress
+### Day 39: Saturday March 11, 2017
 
 **Today's Progress**:
-- 
+- Built Rock Paper Scissors game with JavaScript
 
 **Thoughts:** 
  

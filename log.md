@@ -1,19 +1,32 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 40: Sunday March 12, 2017
+
+**Today's Progress**:
+- Free Code Camp meetup
+- Worked on HEEL Rock, Paper, Scissors
+
+**Thoughts:** 
+Today was a fun day of coding. At Free Code Camp, we used Kahoot to do a 20 question JavaScript quiz. I started off whoopin’ butt, but then the 20 second timer whooped me during the functions questions. It was good and fun opportunity to think quickly & work under pressure. 
+
+I spent the rest of the time working on my HEEL Rock Paper Scissors game. Shoutout to @HBoutrup for the idea. He made a joke about The Rock being unbeatable, so I thought it’d be funny to base my game off of that concept instead of the usual rules. 
+
+On a technical level, I’m having trouble getting everything connected. I feel like I’m missing some little bitty piece and just can’t yet figure out what it is. When using a prompt to get the user’s choice, everything is working fine. However, when trying to use a button onclick, the results are opened on a new page. I will figure this out.
+
+**Link to tweet:** [MightyJoeW Day 40] (https://twitter.com/MightyJoeW/)
+
+**Link to work** [HEEL Rock Paper Scissors] (https://mightyjoew.github.io/HeelRockPS/)
+
+
 ### Day 39: Saturday March 11, 2017
 
 **Today's Progress**:
 - Built Rock Paper Scissors game with JavaScript
 
 **Thoughts:** 
- 
+ After completing a quick Rock, Paper Scissors Javascript game, @HBoutrup suggested that nothing beats The Rock (which gave me an idea...) :D
 
 **Link to tweet:** [MightyJoeW Day 39] (https://twitter.com/MightyJoeW/status/840660850289586181)
-
-**Link to work** [Title] ()
-
-**Sidenote Jones** 
- 
 
 
 ### Day 38: Friday March 10, 2017

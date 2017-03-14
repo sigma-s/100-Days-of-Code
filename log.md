@@ -1,5 +1,17 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 41: Monday March 13, 2017 - in progress
+
+**Today's Progress**:
+- Added changes to HEEL Rock, Paper, Scissors
+
+**Thoughts:** 
+Added an if statement for when the user doesn't not enter rock, paper, or scissors.
+
+**Link to tweet:** [MightyJoeW Day 41] (https://twitter.com/MightyJoeW/)
+
+**Link to work** [HEEL Rock Paper Scissors] (https://mightyjoew.github.io/HeelRockPS/)
+
 ### Day 40: Sunday March 12, 2017
 
 **Today's Progress**:
@@ -13,7 +25,7 @@ I spent the rest of the time working on my HEEL Rock Paper Scissors game. Shouto
 
 On a technical level, I’m having trouble getting everything connected. I feel like I’m missing some little bitty piece and just can’t yet figure out what it is. When using a prompt to get the user’s choice, everything is working fine. However, when trying to use a button onclick, the results are opened on a new page. I will figure this out.
 
-**Link to tweet:** [MightyJoeW Day 40] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 40] (https://twitter.com/MightyJoeW/status/841143742958567424)
 
 **Link to work** [HEEL Rock Paper Scissors] (https://mightyjoew.github.io/HeelRockPS/)
 

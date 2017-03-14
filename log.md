@@ -1,16 +1,14 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 41: Monday March 13, 2017 - in progress
+### Day 41: Monday March 13, 2017
 
 **Today's Progress**:
 - Added changes to HEEL Rock, Paper, Scissors
 
 **Thoughts:** 
-Added an if statement for when the user doesn't not enter rock, paper, or scissors.
+I didn't spend as much time coding today as usual, but I made some good progress on HEEL Rock, Paper, Scissors today. By tomorrow, I think I'll have a newly designed and playable game :)
 
-**Link to tweet:** [MightyJoeW Day 41] (https://twitter.com/MightyJoeW/)
-
-**Link to work** [HEEL Rock Paper Scissors] (https://mightyjoew.github.io/HeelRockPS/)
+**Link to tweet:** [MightyJoeW Day 41] (https://twitter.com/MightyJoeW/status/841501322708963328)
 
 ### Day 40: Sunday March 12, 2017
 

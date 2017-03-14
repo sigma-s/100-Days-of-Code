@@ -1,5 +1,20 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 42: Tuesday March 14, 2017 - in progress
+
+**Today's Progress**:
+- Finished HEEL Rock Paper Scissors 2.0
+
+**Thoughts:** 
+Wow, it is finished and I am happy! HUGE shoutout to https://codepen.io/steveszc/. My original Rock Paper Scissors was not functional (and not pretty). I was able to use his version to learn how to get everything functioning and laid out much better. 
+
+I was able to experience what others mean when they said to just code and to learn from other people's code. I've been doing a lot of lessons, but it was very helpful having to experiment & Google, and also being able to see how the code looks of what I was actually striving for. There are a lot of little things you pick up that may not be covered in whatever lesson you are completing. 
+
+**Link to tweet:** [MightyJoeW Day 42] (https://twitter.com/MightyJoeW/status/841727679607013377)
+
+**Sidenote Jones**
+
+
 ### Day 41: Monday March 13, 2017
 
 **Today's Progress**:

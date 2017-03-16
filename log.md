@@ -1,16 +1,16 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 43: Wednesday March 15, 2017 - in progress
+### Day 43: Wednesday March 15, 2017
 
 **Today's Progress**:
-- 
+- Continued Odin project (Codecademy's Javascript Sections 1-5 and the Codecademy Choose-Your-Own-Adventure Project)
 
 **Thoughts:** 
+I experienced my first browser crash creating while loops. It took me a minute to realize what was happening. Once the lightbulb came on, I was like "OOOOH, this is what Codecademy warned me about with infinite loops!" Then, I was able to find what I had done wrong. 
  
+I wrapped up today's work with a Choose Your Own Adventure game which puts you in a gym. Then all of the sudden, an angry Brock Lesnar is standing over you. You have 3 choices (made with Javascript switch cases). Spoiler alert: None of the choices end well for you. After making a game based on The Rock then Brock Lesnar, I guess I'm ready for Wrestlemania :D
 
-**Link to tweet:** [MightyJoeW Day 43] (https://twitter.com/MightyJoeW)
-
-**Sidenote Jones**
+**Link to tweet:** [MightyJoeW Day 43] (https://twitter.com/MightyJoeW/status/842211821721382912)
 
 
 ### Day 42: Tuesday March 14, 2017

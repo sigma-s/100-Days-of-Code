@@ -1,5 +1,28 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 45: Friday March 17, 2017 - in progress
+
+**Today's Progress**:
+- 
+
+**Thoughts:** 
+
+
+**Link to tweet:** [MightyJoeW Day 45] (https://twitter.com/MightyJoeW/)
+
+### Day 44: Thursday March 16, 2017
+
+**Today's Progress**:
+- Warmed up with some HTML, CSS, and JavaScript (using https://jsfiddle.net/ for the first time)
+- Project Euler
+
+**Thoughts:** 
+Nothing too much today. Some minor html and css followed by working on the Project Euler project 1. I was able to get 2 of out 3 components of the problem set up correctly on my own (couldn't figure out how to print the sum of a list). 
+
+I ended the night with some CodeCombat (which is unfortunately starting to get on my nerves with the bad lag). I read on multiple sites that it works best on IE11 (ugh).
+
+**Link to tweet:** [MightyJoeW Day 44] (https://twitter.com/MightyJoeW/status/842514320424652806)
+
 ### Day 43: Wednesday March 15, 2017
 
 **Today's Progress**:

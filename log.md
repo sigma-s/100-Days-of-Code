@@ -3,7 +3,8 @@
 ### Day 45: Friday March 17, 2017 - in progress
 
 **Today's Progress**:
-- 
+- revisited Project Euler problem 1 https://projecteuler.net/problem=1
+- continued Dev Tools work
 
 **Thoughts:** 
 

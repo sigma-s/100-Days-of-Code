@@ -4,12 +4,14 @@
 
 **Today's Progress**:
 - revisited Project Euler problem 1 https://projecteuler.net/problem=1
-- continued Dev Tools work
+- revisted Web Development Bootcamp array problem set
 
 **Thoughts:** 
+Today was one of those days... Poor focus and stuck on array practice problems. Also, I'm about to the point in the Odin project where I got stuck in Free Code Camp and the Web Development Bootcamp. I think I'm going to just slow down and stay here as long as I need to (arrays, objects, etc.) I kept hearing to keep pushing early in my coding journey, but I've got to get a better understanding of this stuff. 
 
+The good news is that I understand what's being asked in the problems, I know what needs to be done, I'm writing parts of the code correctly, and I understand the logic in the solutions. I've worked out, played sports, and played instruments long enough to know that learning something new TAKES TIME so I just need to be patient and persistent. 
 
-**Link to tweet:** [MightyJoeW Day 45] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 45] (https://twitter.com/MightyJoeW/status/842941097391415296)
 
 ### Day 44: Thursday March 16, 2017
 

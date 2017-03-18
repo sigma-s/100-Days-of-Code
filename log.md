@@ -1,6 +1,20 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 45: Friday March 17, 2017 - in progress
+### Day 46: Saturday March 18, 2017 - in progress
+
+**Today's Progress**:
+- Continued Odin project (working through Code School's Discover DevTools)
+
+
+**Thoughts:** 
+ 
+
+**Link to tweet:** [MightyJoeW Day 46] (https://twitter.com/MightyJoeW/)
+
+**Sidenote Jones**
+I just learned about the ColorZilla Chrome store app. It seems very useful and convenient already.
+
+### Day 45: Friday March 17, 2017 
 
 **Today's Progress**:
 - revisited Project Euler problem 1 https://projecteuler.net/problem=1

@@ -1,6 +1,19 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 46: Saturday March 18, 2017 - in progress
+### Day 47: Sunday March 19, 2017
+
+**Today's Progress**:
+- Working on Additional resources section of JavaScript Odin (creating Contacts List app with objects)
+
+**Thoughts:** 
+
+
+**Link to tweet:** [MightyJoeW Day 46] (https://twitter.com/MightyJoeW/)
+
+**Sidenote Jones**
+I just learned about the ColorZilla Chrome store app. It seems very useful and convenient already.
+
+### Day 46: Saturday March 18, 2017
 
 **Today's Progress**:
 - Continued Odin project (completed Code School's Discover DevTools)
@@ -17,7 +30,7 @@ I just learned about the ColorZilla Chrome store app. It seems very useful and c
 
 **Today's Progress**:
 - revisited Project Euler problem 1 https://projecteuler.net/problem=1
-- revisted Web Development Bootcamp array problem set
+- revisited Web Development Bootcamp array problem set
 
 **Thoughts:** 
 Today was one of those days... Poor focus and stuck on array practice problems. Also, I'm about to the point in the Odin project where I got stuck in Free Code Camp and the Web Development Bootcamp. I think I'm going to just slow down and stay here as long as I need to (arrays, objects, etc.) I kept hearing to keep pushing early in my coding journey, but I've got to get a better understanding of this stuff. 

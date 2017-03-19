@@ -3,13 +3,12 @@
 ### Day 46: Saturday March 18, 2017 - in progress
 
 **Today's Progress**:
-- Continued Odin project (working through Code School's Discover DevTools)
-
+- Continued Odin project (completed Code School's Discover DevTools)
 
 **Thoughts:** 
- 
+I had no idea how in depth Chrome's Dev Tools goes. It is absolutely loaded with features. This will be something I come back to later and often.
 
-**Link to tweet:** [MightyJoeW Day 46] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 46] (https://twitter.com/MightyJoeW/status/843322359780139009)
 
 **Sidenote Jones**
 I just learned about the ColorZilla Chrome store app. It seems very useful and convenient already.

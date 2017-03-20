@@ -6,12 +6,10 @@
 - Working on Additional resources section of JavaScript Odin (creating Contacts List app with objects)
 
 **Thoughts:** 
+No Free Code Camp meetup today :( Steadily moving through Odin Camp (just about finished with the Codecademy JS section of creating a Contact List).
 
+**Link to tweet:** [MightyJoeW Day 46] (https://twitter.com/MightyJoeW/status/843688120524722181)
 
-**Link to tweet:** [MightyJoeW Day 46] (https://twitter.com/MightyJoeW/)
-
-**Sidenote Jones**
-I just learned about the ColorZilla Chrome store app. It seems very useful and convenient already.
 
 ### Day 46: Saturday March 18, 2017
 

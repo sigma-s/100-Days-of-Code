@@ -1,5 +1,17 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 48: Monday March 20, 2017
+
+**Today's Progress**:
+- Finished JS Contact List exercise. 
+- Working on Objects in Codecademy
+
+**Thoughts:** 
+
+
+**Link to tweet:** [MightyJoeW Day 47] (https://twitter.com/MightyJoeW/)
+
+
 ### Day 47: Sunday March 19, 2017
 
 **Today's Progress**:
@@ -8,7 +20,7 @@
 **Thoughts:** 
 No Free Code Camp meetup today :( Steadily moving through Odin Camp (just about finished with the Codecademy JS section of creating a Contact List).
 
-**Link to tweet:** [MightyJoeW Day 46] (https://twitter.com/MightyJoeW/status/843688120524722181)
+**Link to tweet:** [MightyJoeW Day 47] (https://twitter.com/MightyJoeW/status/843688120524722181)
 
 
 ### Day 46: Saturday March 18, 2017

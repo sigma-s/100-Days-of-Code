@@ -7,10 +7,16 @@
 - Working on Objects in Codecademy
 
 **Thoughts:** 
+I'm understanding how to use Objects more and more each day. In a day or two, I'll revisit the Free Code Camp objects section. I stopped on Manipulating Complex Objects last month before turning to Web Development Bootcamp and Odin project for more help and training.
 
+**Link to tweet:** [MightyJoeW Day 48] (https://twitter.com/MightyJoeW/status/844050073755553792)
 
-**Link to tweet:** [MightyJoeW Day 47] (https://twitter.com/MightyJoeW/)
+**Sidenote Jones**
+I worked on music for the first time in about 9 months and actually enjoyed it. I’ve had many jobs related to music over the span of 14 years, and I had finally hit a point where all of the enjoyment was gone. 
 
+Being passionate about music for so long and growing to resent it was a very strange and confusing feeling, so it felt really good to have fun creating again without the stress of lack of preparation time, having to regularly learn songs of a genre that I didn’t like at all, and being in environments I was uncomfortable in. 
+
+It’s something I’m sure I’ll have in the back of my mind as I continue my coding journey, but I’m NOT going to let that stop me from pursuing this dream. If down the line I end up not enjoying coding for similar reasons, I’ll deal with it then but I never will look at experience and new knowledge and connections as a waste. Plus, I didn't know if I would ever find anything else that I'd be passionate about, so I'm going to keep pushing forward and enjoy every minute of it :D
 
 ### Day 47: Sunday March 19, 2017
 

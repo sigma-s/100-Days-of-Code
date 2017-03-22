@@ -1,5 +1,15 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 49: Tuesday March 21, 2017 - in progress
+
+**Today's Progress**:
+- 
+
+**Thoughts:** 
+
+
+**Link to tweet:** [MightyJoeW Day 49] (https://twitter.com/MightyJoeW)
+
 ### Day 48: Monday March 20, 2017
 
 **Today's Progress**:

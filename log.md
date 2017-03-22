@@ -3,12 +3,15 @@
 ### Day 49: Tuesday March 21, 2017 - in progress
 
 **Today's Progress**:
-- 
+- Continued Odin Project (JS Objects in Codecademy)
+- Went back and completed Free Code Camp lesson I got stuck on last month
 
 **Thoughts:** 
+I can't believe the problem was that I didn't write ONE FREAKIN COMMA!!! I switched my code around so many times on the Manipulating Complex Objects problem. I ended up going through Web Development Bootcamp AND Odin Project because I thought I didn't understand objects correctly.
 
+I felt like my understanding was there by now, and finally Googled the answer and found that I was missing a comma... My goodness. Well, I am happy to learn that I did understand the concepts but just had a syntax error.
 
-**Link to tweet:** [MightyJoeW Day 49] (https://twitter.com/MightyJoeW)
+**Link to tweet:** [MightyJoeW Day 49] (https://twitter.com/MightyJoeW/status/844396576504254465)
 
 ### Day 48: Monday March 20, 2017
 

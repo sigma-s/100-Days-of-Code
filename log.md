@@ -1,6 +1,15 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 49: Tuesday March 21, 2017 - in progress
+### Day 50: Wednesday March 22, 2017 - in progress
+
+**Today's Progress**:
+- 
+
+**Thoughts:** 
+
+**Link to tweet:** [MightyJoeW Day 50] (https://twitter.com/MightyJoeW/)
+
+### Day 49: Tuesday March 21, 2017
 
 **Today's Progress**:
 - Continued Odin Project (JS Objects in Codecademy)

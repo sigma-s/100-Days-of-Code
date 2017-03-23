@@ -1,13 +1,14 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 50: Wednesday March 22, 2017 - in progress
+### Day 50: Wednesday March 22, 2017
 
 **Today's Progress**:
-- 
+- Continued Objects work with Free Code Camp and Odin Project.
 
 **Thoughts:** 
+Brain and body fried from work, studying, yard work, and working out all week... I am progressing through Objects and left off on Profile Lookup on Free Code Camp. Not sure what to do at the moment. I'm currently Sleepy Jones, so we'll see what the good ol brain can cook up tomorrow.
 
-**Link to tweet:** [MightyJoeW Day 50] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 50] (https://twitter.com/MightyJoeW/status/844758097948098561)
 
 ### Day 49: Tuesday March 21, 2017
 

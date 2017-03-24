@@ -1,16 +1,16 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 50: Thursday March 23, 2017 - in progress
+### Day 51: Thursday March 23, 2017 - in progress
 
 **Today's Progress**:
-- Continued Objects work with Free Code Camp and Odin Project.
+- Finished Free Code Camp Basic Javascript section.
 
 **Thoughts:** 
-I kick off the second half of my #100DaysOfCode challenge and quest to getScript('Or Die Tryin') with more Objects work. Honestly, I'm getting tired of these Objects and lessons. It's about time to start making stuff again, dangit!
+I kick off the second half of my #100DaysOfCode challenge and quest to getScript('Or Die Tryin') with more Objects work (mostly constructors). Honestly, I'm getting tired of these Objects and lessons. It's about time to start making stuff again, dangit!
 
-I really want to buckle down and spend more time each day coding. People are out here beasting for 8 to 12 hours, so I know I can be doing more.
+I really want to buckle down and spend more time each day coding. People are out here beasting for 8 to 12 hours, so I know I can be doing more. Upward and onward.
 
-**Link to tweet:** [MightyJoeW Day 51] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 51] (https://twitter.com/MightyJoeW/status/845135847561179136)
 
 ### Day 50: Wednesday March 22, 2017
 

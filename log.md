@@ -1,5 +1,15 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 53: Saturday March 25, 2017
+
+**Today's Progress**:
+- 
+
+**Thoughts:** 
+
+**Link to tweet:** [MightyJoeW Day 52] (https://twitter.com/MightyJoeW/)
+
+
 ### Day 52: Friday March 24, 2017
 
 **Today's Progress**:

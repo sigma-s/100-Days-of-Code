@@ -3,12 +3,15 @@
 ### Day 52: Friday March 24, 2017
 
 **Today's Progress**:
-- 
+- started on an About page for one of my sites
+- completes Intro to Objects 1 (Odin Project, Codecademy)
+- started on Building an Address Book
 
 **Thoughts:** 
+I've seen more Objects than I ever planned on seeing this week, but the repetition is definitely helping. I also got away from lessons for a bit today to work on some html and css again with a bootstrap About page. 
 
+**Link to tweet:** [MightyJoeW Day 52] (https://twitter.com/MightyJoeW/status/845512972055318528)
 
-**Link to tweet:** [MightyJoeW Day 52] (https://twitter.com/MightyJoeW/)
 
 ### Day 51: Thursday March 23, 2017
 

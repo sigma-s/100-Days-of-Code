@@ -1,6 +1,16 @@
 # 100 Days Of Code - The Mighty Log
 
-### Day 51: Thursday March 23, 2017 - in progress
+### Day 52: Friday March 24, 2017
+
+**Today's Progress**:
+- 
+
+**Thoughts:** 
+
+
+**Link to tweet:** [MightyJoeW Day 52] (https://twitter.com/MightyJoeW/)
+
+### Day 51: Thursday March 23, 2017
 
 **Today's Progress**:
 - Finished Free Code Camp Basic Javascript section.

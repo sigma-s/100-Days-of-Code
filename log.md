@@ -3,11 +3,15 @@
 ### Day 53: Saturday March 25, 2017
 
 **Today's Progress**:
-- 
+- finshed Building an Address Book (Odin Project, Codecademy)
+- continued working on Free Code Camp and Odin
 
 **Thoughts:** 
+I can tell that Objects will take awhile to fully grasp, but I'm feeling more comfortable with them each day. The this.concept is starting to make more sense.
 
-**Link to tweet:** [MightyJoeW Day 52] (https://twitter.com/MightyJoeW/)
+On another note, I think I'm going to take another crack at Javascript 30. I really want to make my own unique the Javascript drumkit (or full music experience). I should have a much better understanding of what's going on than when I attempted it a couple of months ago.
+
+**Link to tweet:** [MightyJoeW Day 53] (https://twitter.com/MightyJoeW/status/845864129973927937)
 
 
 ### Day 52: Friday March 24, 2017

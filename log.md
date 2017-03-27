@@ -3,11 +3,15 @@
 ### Day 54: Sunday March 26, 2017
 
 **Today's Progress**:
-- 
+- Free Code Camp Meetup
+- Finished Object Oriented Functional Programming section in Free Code Camp
 
 **Thoughts:** 
+Today’s Free Code Camp meetup began covering Angular 4. I’m not there yet, so I went with the group focusing on HTML, CSS, and Javascript. Time flew, so we didn’t get to any JS today, but we’ll continue next week. 
 
-**Link to tweet:** [MightyJoeW Day 54] (https://twitter.com/MightyJoeW/)
+At home, I continued going through both Odin Project and Free Code Camp. The .reverse section helped me solve a problem from The Web Development Bootcamp. Although it’s taking me longer, I love having multiple resources. They are all helping me with each other. 
+
+**Link to tweet:** [MightyJoeW Day 54] (https://twitter.com/MightyJoeW/status/846205910255063041)
 
 
 ### Day 53: Saturday March 25, 2017

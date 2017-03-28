@@ -1,5 +1,15 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 56: Tuesday March 28, 2017
+
+**Today's Progress**:
+- 
+
+**Thoughts:** 
+
+
+**Link to tweet:** [MightyJoeW Day 56] (https://twitter.com/MightyJoeW/)
+
 ### Day 55: Monday March 27, 2017
 
 **Today's Progress**:

@@ -3,11 +3,12 @@
 ### Day 55: Monday March 27, 2017
 
 **Today's Progress**:
-- 
+- Finished Javascript Basics section of Odin Project (Codecademy)
 
 **Thoughts:** 
+That Codecademy JavaScript track was loaded with new information to me (definitely not basic to this man)! I learned a lot, I will forget a lot, and I look forward to keeping this train moving. 
 
-**Link to tweet:** [MightyJoeW Day 55] (https://twitter.com/MightyJoeW)
+**Link to tweet:** [MightyJoeW Day 55] (https://twitter.com/MightyJoeW/status/846568705484095492)
 
 
 ### Day 54: Sunday March 26, 2017

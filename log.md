@@ -3,12 +3,21 @@
 ### Day 56: Tuesday March 28, 2017
 
 **Today's Progress**:
-- 
+- Completed Codecademy's jQuery Track sections 1-3
+- Halfway through Code School's Try jQuery
 
 **Thoughts:** 
+I hadn’t used jQuery since near the beginning of Free Code Camp, and I forgot how enjoyable it is to use. I plan to be finished with the Odin Project jQuery section by tomorrow.
+
+I have so many things I want to do, I don’t know what I’ll do after. I want to get back to Web Development Bootcamp because I felt that I was learning the best with it, but I want to continue working through FCC and Odin. But then the creative side in me (which is the majority of me) wants to focus on some other things.
+
+I want to revisit Javascript 30 to at least create the drum kit. I also want to get back to spending time with Arduino. The good news is that there is no shortage of lessons and projects, and I’m not in a rush. I do want to learn everything and get working on real projects as soon as possible, but fortunately I’m in a situation where I don’t have to rush the process.
 
 
-**Link to tweet:** [MightyJoeW Day 56] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 56] (https://twitter.com/MightyJoeW/status/846940508454825985)
+
+**Sidenote Jones** 
+jQuery sounds like a rapper that's about the drop the hottest mixtape of the summer. He would rap of coarse about $('.straightCashHomey')
 
 ### Day 55: Monday March 27, 2017
 

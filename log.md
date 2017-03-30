@@ -1,5 +1,22 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 57: Wednesday March 29, 2017
+
+**Today's Progress**:
+- More jQuery lessons and practice
+
+**Thoughts:** 
+I’m enjoying learning about jQuery again. Everything has been pretty logical so far, and I see how this can save time and work. I am getting into some more difficult processes, so I need to keep focused and work hard.
+
+On another note, I can’t get the thought of jQuery being a rapper out of my head lol. Anytime I see the name jQuery, I’m expecting to see a release date for a mixtape. 
+
+
+**Link to tweet:** [MightyJoeW Day 57] (https://twitter.com/MightyJoeW/status/847311787108163585)
+
+**Sidenote Jones** 
+
+
+
 ### Day 56: Tuesday March 28, 2017
 
 **Today's Progress**:

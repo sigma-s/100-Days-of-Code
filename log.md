@@ -1,5 +1,16 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 58: Thursday March 30, 2017
+
+**Today's Progress**:
+- 
+
+**Thoughts:** 
+
+
+**Link to tweet:** [MightyJoeW Day 58] (https://twitter.com/MightyJoeW/)
+
+
 ### Day 57: Wednesday March 29, 2017
 
 **Today's Progress**:
@@ -12,9 +23,6 @@ On another note, I can’t get the thought of jQuery being a rapper out of my he
 
 
 **Link to tweet:** [MightyJoeW Day 57] (https://twitter.com/MightyJoeW/status/847311787108163585)
-
-**Sidenote Jones** 
-
 
 
 ### Day 56: Tuesday March 28, 2017

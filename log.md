@@ -3,12 +3,15 @@
 ### Day 58: Thursday March 30, 2017
 
 **Today's Progress**:
-- 
+- Continued Code School's Try jQuery course
 
 **Thoughts:** 
+jQuery started to become Confusing Jones during the Traversing and Filtering section of Code School. Things are starting to sink in more though as I was able to apply some new concepts to some of my old code.
 
+**Link to tweet:** [MightyJoeW Day 58] (https://twitter.com/MightyJoeW/status/847684792019673089)
 
-**Link to tweet:** [MightyJoeW Day 58] (https://twitter.com/MightyJoeW/)
+**Sidenote Jones**
+Russell Westbrook MUST win mvp! I love Harden, but Westbrook is averaging a TRIPLE DOUBLE! And not regular triple doubles. Monstrous 50-point triple doubles WITH wins! I never thought I’d see a player average a triple double. 
 
 
 ### Day 57: Wednesday March 29, 2017

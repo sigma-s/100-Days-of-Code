@@ -1,5 +1,18 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 59: Friday March 31, 2017
+
+**Today's Progress**:
+- Returned to where my code journey began with Intro to CS from Google’s Technical Development Guide. 
+
+**Thoughts:** 
+After doing so many different courses and lessons which mostly focus on front end web development, I wanted to go back through my original goals and plans to make sure I was still on track. I originally started following Google’s Tech Dev Guide. There are many things I want to learn how to do beyond web dev, but I’ve been deep in this world with Free Code Camp, Odin Project, etc. 
+
+I still have the freedom to experiment and the benefit of time, but I do want to make sure I’m focused going forward. I’ll plan to finish the Intro to CS course (which focuses on Python) while progressing through Free Code Camp. I think I can move on from Odin at least for now (great material, but I’m wondering if a lot of this is becoming dated i.e. jQuery, Ruby, etc).
+
+**Link to tweet:** [MightyJoeW Day 59] (https://twitter.com/MightyJoeW/status/848041600693542913)
+
+
 ### Day 58: Thursday March 30, 2017
 
 **Today's Progress**:

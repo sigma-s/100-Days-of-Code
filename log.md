@@ -1,5 +1,18 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 60: Saturday April 1, 2017
+
+**Today's Progress**:
+- Continued into Unit 2 of  Udacity's Intro to Computer Science
+
+**Thoughts:** 
+It’s interesting to see how much of programming is similar across languages. I’ve been spending a lot of time in Javascript these last couple of months, but many of the concepts so far are similar. When procedures were introduced, I thought they looked similar to functions (turns out, they are very similar). 
+
+However, Unit 1 had many things I hadn’t done before such as web crawling and extracting links. This stuff is tough at the moment, but having html, css, and js experience helped with that as well.
+
+**Link to tweet:** [MightyJoeW Day 60] (https://twitter.com/MightyJoeW/status/848041600693542913)
+
+
 ### Day 59: Friday March 31, 2017
 
 **Today's Progress**:

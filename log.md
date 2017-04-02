@@ -1,5 +1,15 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 61: Sunday April 2, 2017
+
+**Today's Progress**:
+- 
+
+**Thoughts:** 
+
+
+**Link to tweet:** [MightyJoeW Day 61] (https://twitter.com/MightyJoeW/status/848671868940931073)
+
 ### Day 60: Saturday April 1, 2017
 
 **Today's Progress**:

@@ -1,5 +1,12 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 63: Tuesday April 4, 2017
+
+**Today's Progress**:
+- Completed Solo Learn's Python Functions & Modules section
+
+**Link to tweet:** [MightyJoeW Day 63] (https://twitter.com/MightyJoeW/)
+
 ### Day 62: Monday April 3, 2017
 
 **Today's Progress**:

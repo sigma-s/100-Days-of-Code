@@ -1,11 +1,21 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 62: Monday April 3, 2017
+
+**Today's Progress**:
+- Continued Solo Learn Python lessons to supplement Intro to CS.
+- Worked on a Python calculator
+
+**Link to tweet:** [MightyJoeW Day 62] (https://twitter.com/MightyJoeW/status/849134193359630336)
+
 ### Day 61: Sunday April 2, 2017
 
 **Today's Progress**:
-- 
+- Solo Learn Python lessons to supplement Intro to CS.
+- Started on Weather App at Free Code Camp meetup.
 
 **Thoughts:** 
+I can see why building this weather app has caused so much heartache throughout the community. Luckily, we are working on this together at our meetups. I'm not to this section yet, so a lot of this is over my head at the moment.
 
 
 **Link to tweet:** [MightyJoeW Day 61] (https://twitter.com/MightyJoeW/status/848671868940931073)

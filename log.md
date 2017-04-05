@@ -3,9 +3,9 @@
 ### Day 63: Tuesday April 4, 2017
 
 **Today's Progress**:
-- Completed Solo Learn's Python Functions & Modules section
+- Completed Solo Learn's Python 'Functions & Modules' and 'Exceptions and Files' sections
 
-**Link to tweet:** [MightyJoeW Day 63] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 63] (https://twitter.com/MightyJoeW/status/849472826960642049)
 
 ### Day 62: Monday April 3, 2017
 

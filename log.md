@@ -1,5 +1,20 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 65: Thursday April 6, 2017
+
+**Today's Progress**:
+- 
+
+**Link to tweet:** [MightyJoeW Day 65] (https://twitter.com/MightyJoeW/)
+
+### Day 64: Wednesday April 5, 2017
+
+**Today's Progress**:
+- Completed Solo Learn's Python 'More Tyes' section
+
+**Link to tweet:** [MightyJoeW Day 64] (https://twitter.com/MightyJoeW/status/849824770665435136)
+
+
 ### Day 63: Tuesday April 4, 2017
 
 **Today's Progress**:

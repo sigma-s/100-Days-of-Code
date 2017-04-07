@@ -3,9 +3,18 @@
 ### Day 65: Thursday April 6, 2017
 
 **Today's Progress**:
-- 
+- Continued progressing through Udacity’s Intro to CS course (unit 2)
 
-**Link to tweet:** [MightyJoeW Day 65] (https://twitter.com/MightyJoeW/)
+**Thoughts**
+Someone has been slacking on the ‘thoughts’ section… Seeing as how I usually code up until falling asleep, I’ve been getting that tweet out and then crashing without updating my thoughts. I’m stopping a little bit earlier today, so allow me to update you, friend.
+
+I’m still working through Udacity's Intro to CS and Free Code Camp. It’s interesting how your perception of something can depend on what you learn first. I can look at Python and Javascript and objectively say that Python looks and feels so much cleaner, but I’m still used to the convoluted syntax of Javascript. I’m used to seeing curly braces, parentheses, and semicolons all over the place.
+
+I’m glad to see that I continue to figure out things that I wouldn’t have had a clue about not too long ago, but I feel that I need to step it up. I’m already on day 65. These days are flying by, and I need to set a goal for day 100. I haven’t been creating content lately (it’s been all lessons the last few weeks), so I do want to set a goal of having something created by day 100. 
+
+I also need to devote more time daily to coding. I’ve heard of people that spent 8-12 hours coding when they began and there have been too many days where I barely got above 1 hour. No excuses. Make the time and focus!
+
+**Link to tweet:** [MightyJoeW Day 65] (https://twitter.com/MightyJoeW/status/850167336455864320)
 
 ### Day 64: Wednesday April 5, 2017
 

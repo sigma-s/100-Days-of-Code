@@ -1,5 +1,16 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 66: Friday April 7, 2017
+
+**Today's Progress**:
+- Continued progressing through Udacity’s Intro to CS course (unit 2)
+- Practiced with button onclick in HTML, CSS, and Javascript
+
+**Thoughts**
+
+
+**Link to tweet:** [MightyJoeW Day 66] (https://twitter.com/MightyJoeW/)
+
 ### Day 65: Thursday April 6, 2017
 
 **Today's Progress**:

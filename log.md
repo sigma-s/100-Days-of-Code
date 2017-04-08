@@ -4,7 +4,12 @@
 
 **Today's Progress**
 - Completed Udacity's Intro to CS Unit 2
-- 
+- Completed a Free Code Camp Basic Algorithm Scripting
+
+**Thoughts**
+Alright, now I'm not sure if learning two languages at once is more helpful or harmful (in regards to spreading confusion). I really wanted to complete Intro to CS (Python) first based on Google's Technical Development Guide, but I got into Free Code Camp not long after beginning my coding journey which focuses heavily on Javascript. Also, I am wanting to get back into Arduino to start working on physical projects (Arduino uses C++).
+
+I want to stick to my plans, but I don't want to spread myself too thin to where I'm not retaining enough of anything. At the moment, I think I'm leaning towards focusing back primarily on Javascript and doing Arduino in my free time.
 
 ### Day 66: Friday April 7, 2017
 
@@ -12,8 +17,8 @@
 - Continued progressing through Udacity’s Intro to CS course (unit 2)
 - Practiced with button onclick in HTML, CSS, and Javascript
 
+**Link to tweet:** [MightyJoeW Day 66] (https://twitter.com/MightyJoeW/status/850537127045726208)
 
-**Link to tweet:** [MightyJoeW Day 66] (https://twitter.com/MightyJoeW/)
 
 ### Day 65: Thursday April 6, 2017
 

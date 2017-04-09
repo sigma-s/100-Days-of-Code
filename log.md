@@ -1,10 +1,18 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 68: Sunday April 9, 2017
+
+**Today's Progress**
+- 
+
+**Thoughts**
+
+
 ### Day 67: Saturday April 8, 2017
 
 **Today's Progress**
 - Completed Udacity's Intro to CS Unit 2
-- Completed a Free Code Camp Basic Algorithm Scripting
+- Completed a Free Code Camp Basic Algorithm Scripting challenge (Factorialize a Number Complete)
 
 **Thoughts**
 Alright, now I'm not sure if learning two languages at once is more helpful or harmful (in regards to spreading confusion). I really wanted to complete Intro to CS (Python) first based on Google's Technical Development Guide, but I got into Free Code Camp not long after beginning my coding journey which focuses heavily on Javascript. Also, I am wanting to get back into Arduino to start working on physical projects (Arduino uses C++).

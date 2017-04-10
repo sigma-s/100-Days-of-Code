@@ -3,10 +3,12 @@
 ### Day 68: Sunday April 9, 2017
 
 **Today's Progress**
-- 
+- Worked on Weather App in groups at Free Code Camp meetup
 
 **Thoughts**
+Today’s FCC meetup was a follow up to last week. We continued working on the Weather App together (which I am very grateful for not having to attack it alone). Everything is coming along nicely, and I spent time at home working on the CSS side of it. 
 
+**Link to tweet:** [MightyJoeW Day 68] (https://twitter.com/MightyJoeW/status/851264058682523650)
 
 ### Day 67: Saturday April 8, 2017
 
@@ -14,10 +16,14 @@
 - Completed Udacity's Intro to CS Unit 2
 - Completed a Free Code Camp Basic Algorithm Scripting challenge (Factorialize a Number Complete)
 
+**Link to tweet:** [MightyJoeW Day 67] (https://twitter.com/MightyJoeW/status/850906962178998273)
+
 **Thoughts**
 Alright, now I'm not sure if learning two languages at once is more helpful or harmful (in regards to spreading confusion). I really wanted to complete Intro to CS (Python) first based on Google's Technical Development Guide, but I got into Free Code Camp not long after beginning my coding journey which focuses heavily on Javascript. Also, I am wanting to get back into Arduino to start working on physical projects (Arduino uses C++).
 
 I want to stick to my plans, but I don't want to spread myself too thin to where I'm not retaining enough of anything. At the moment, I think I'm leaning towards focusing back primarily on Javascript and doing Arduino in my free time.
+
+**Link to tweet:** [MightyJoeW Day 66] (https://twitter.com/MightyJoeW/status/850537127045726208)
 
 ### Day 66: Friday April 7, 2017
 

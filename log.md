@@ -1,5 +1,15 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 69: Monday April 10, 2017
+
+**Today's Progress** - in progess
+- Arduino Analog Read Signal
+
+**Thoughts**
+All of these Arduino lessons and projects go by so much quicker having programming experience opposed to going in cold turkey last year. 
+
+**Link to tweet:** [MightyJoeW Day 69] (https://twitter.com/MightyJoeW/)
+
 ### Day 68: Sunday April 9, 2017
 
 **Today's Progress**

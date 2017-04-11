@@ -1,5 +1,17 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 70: Tuesday April 11, 2017
+
+**Today's Progress** - 
+- Programming Electronics Arduino Crash Course Units 3-6.
+- Modified code and connected a Joystick to my Arduino to display data for x-axis, y-axis, and switch button
+
+**Thoughts**
+
+
+**Link to tweet:** [MightyJoeW Day 69] (https://twitter.com/MightyJoeW/status/851921228990492672)
+
+
 ### Day 69: Monday April 10, 2017
 
 **Today's Progress** - 

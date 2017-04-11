@@ -2,13 +2,14 @@
 
 ### Day 69: Monday April 10, 2017
 
-**Today's Progress** - in progess
-- Arduino Analog Read Signal
+**Today's Progress** - 
+- Arduino lessons including Analog Read Signal and Multiple Blinking LED exercises.
 
 **Thoughts**
-All of these Arduino lessons and projects go by so much quicker having programming experience opposed to going in cold turkey last year. 
+All of these Arduino lessons and projects go by so much quicker having programming experience opposed to going in cold turkey last year. I've got my lights blinking and nothing's on fire yet so I'm off to a good start!
 
-**Link to tweet:** [MightyJoeW Day 69] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 69] (https://twitter.com/MightyJoeW/status/851655636412706816)
+
 
 ### Day 68: Sunday April 9, 2017
 

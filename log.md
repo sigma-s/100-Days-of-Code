@@ -1,5 +1,20 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 71: Wednesday April 12, 2017
+
+**Today's Progress** - 
+- Arduino practice with push buttons
+- Free Code Camp Basic Algorithm Scripting continued.
+
+**Thoughts** 
+I finished the free section of Programming Electronics Arduino Crash Course, so I’ll be in search of what’s next. 
+
+With Javascript, I’m still on the Free Code Camp Basic Algorithm Scripting section. I just “completed” the Find the Longest Word in a String problem. These exercises have been like a punch in the gut. I feel like I’m at a point where the explanations make sense and I know what’s going on, but I’m not getting to the solutions all on my own. It’s frustrated, but I’m optimistic that I’ll eventually be able to put these solutions together myself.
+
+
+**Link to tweet:** [MightyJoeW Day 71] (https://twitter.com/MightyJoeW/status/852376630588837889)
+
+
 ### Day 70: Tuesday April 11, 2017
 
 **Today's Progress** - 

@@ -1,5 +1,16 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 72: Thursday April 13, 2017
+
+**Today's Progress** - 
+- Experimented with Arduino 1602 LCD examples
+
+**Thoughts** 
+No luck yet getting my LCD to display text. Will revisit later to find where the issue is.
+
+
+**Link to tweet:** [MightyJoeW Day 72] (https://twitter.com/MightyJoeW/)
+
 ### Day 71: Wednesday April 12, 2017
 
 **Today's Progress** - 

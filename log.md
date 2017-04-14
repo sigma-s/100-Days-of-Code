@@ -4,12 +4,16 @@
 
 **Today's Progress** - 
 - Experimented with Arduino 1602 LCD examples
+- Attempted to follow along with a ReactJS tutorial
 
 **Thoughts** 
-No luck yet getting my LCD to display text. Will revisit later to find where the issue is.
+I wasn’t able to get my 1602 LED display to display any words, so I will be revisiting this until I get it figured out. I’m not sure if the code is wrong or if something is hooked up incorrectly (I’m pretty sure the wiring is correct). 
 
+On the Javascript side, I ended up on a ReactJS video. About ten minutes in, I made the executive decision to close the video, close my computer, and go cry in a corner… Haha no, but I did do one of those three things…
 
-**Link to tweet:** [MightyJoeW Day 72] (https://twitter.com/MightyJoeW/)
+Back to Javascript. 
+
+**Link to tweet:** [MightyJoeW Day 72] (https://twitter.com/MightyJoeW/status/852723357409783808)
 
 ### Day 71: Wednesday April 12, 2017
 

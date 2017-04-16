@@ -1,14 +1,18 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 74: Saturday April 15, 2017
+
+**Today's Progress** - 
+- 
+
+**Link to tweet:** [MightyJoeW Day 74] (https://twitter.com/MightyJoeW/)
+
 ### Day 73: Friday April 14, 2017
 
 **Today's Progress** - 
 - More Arduino lessons and experimentation
 
-**Thoughts** 
-
-
-**Link to tweet:** [MightyJoeW Day 72] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 73] (https://twitter.com/MightyJoeW/status/853022422697750528)
 
 ### Day 72: Thursday April 13, 2017
 

@@ -3,9 +3,9 @@
 ### Day 74: Saturday April 15, 2017
 
 **Today's Progress** - 
-- 
+- Arduino lessons and practice with sensors
 
-**Link to tweet:** [MightyJoeW Day 74] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 74] (https://twitter.com/MightyJoeW/status/853469101758480385)
 
 ### Day 73: Friday April 14, 2017
 

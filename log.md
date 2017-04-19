@@ -1,9 +1,24 @@
 # 100 Days Of Code - The Mighty Log
 
+### Day 75: Tuesday April 18, 2017
+
+**Today's Progress** - 
+- Completed Free Code Camp's Title Case a Sentence and Return Largest Numbers in Arrays challenges
+
+**Thoughts**
+I thoroughly enjoyed my Easter weekend. I got a chance to see a lot of family, and we had a blast. Unfortunately for my 100 days of code journey, I missed a day for the first time in 74 days (I actually missed two days). It's alright though as I'm back home and into my regular routine. 
+
+I picked back up with Free Code Camp's challenges (which have been very challenging to me). Baby steps I suppose. Also, I've spent a lot of time with Arduino which has been a lot of fun. 
+
+As usual, I am Sleepy Jones. Until next time!
+
+**Link to tweet:** [MightyJoeW Day 75] (https://twitter.com/MightyJoeW/status/854577020826767361)
+
+
 ### Day 74: Saturday April 15, 2017
 
 **Today's Progress** - 
-- Arduino lessons and practice with sensors
+- Arduino lessons and practice with sensors (out of town)
 
 **Link to tweet:** [MightyJoeW Day 74] (https://twitter.com/MightyJoeW/status/853469101758480385)
 

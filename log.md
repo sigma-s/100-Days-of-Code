@@ -1,11 +1,19 @@
 # 100 Days Of Code - The Mighty Log
 
+### Days 78: Friday April 21, 2017
+
+**Today's Progress** - 
+- Got introduced to Java then reviewed interview prep materials
+
+**Link to tweet:** [MightyJoeW Day 78] (https://twitter.com/MightyJoeW/status/855638606463074304)
+
+
 ### Days 76 and 77: Wednesday April 19, 2017, Thursday April 20, 2017
 
 **Today's Progress** - 
 - worked on CSS for weather app, reviewed Javascript on SoloLearn, continued Intro to CS on Udacity
 
-**Link to tweet:** [MightyJoeW Dasy 76 and 77] (https://twitter.com/MightyJoeW/status/855255282703884288)
+**Link to tweet:** [MightyJoeW Days 76 and 77] (https://twitter.com/MightyJoeW/status/855255282703884288)
 
 
 ### Day 75: Tuesday April 18, 2017

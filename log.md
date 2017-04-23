@@ -1,9 +1,18 @@
 # 100 Days Of Code - The Mighty Log
 
+### Days 80: Sunday April 23, 2017
+
+**Today's Progress** - 
+- Added toggle button for fahrenheit/celcius roggle button on weather app
+- started Free Code Camp beta
+
+**Link to tweet:** [MightyJoeW Day 80] (https://twitter.com/MightyJoeW/)
+
 ### Days 79: Saturday April 22, 2017
 
 **Today's Progress** - 
-- 
+- Worked on Python problems
+- Practice white board coding
 
 **Link to tweet:** [MightyJoeW Day 79] (https://twitter.com/MightyJoeW/status/856029387275325440)
 

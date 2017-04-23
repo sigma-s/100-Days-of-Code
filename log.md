@@ -1,5 +1,13 @@
 # 100 Days Of Code - The Mighty Log
 
+### Days 79: Saturday April 22, 2017
+
+**Today's Progress** - 
+- 
+
+**Link to tweet:** [MightyJoeW Day 79] (https://twitter.com/MightyJoeW/status/856029387275325440)
+
+
 ### Days 78: Friday April 21, 2017
 
 **Today's Progress** - 

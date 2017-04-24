@@ -3,10 +3,11 @@
 ### Days 80: Sunday April 23, 2017
 
 **Today's Progress** - 
-- Added toggle button for fahrenheit/celcius roggle button on weather app
+- Added fahrenheit/celsius toggle button on weather app
 - started Free Code Camp beta
+- Created a local FCC Facebook group
 
-**Link to tweet:** [MightyJoeW Day 80] (https://twitter.com/MightyJoeW/)
+**Link to tweet:** [MightyJoeW Day 80] (https://twitter.com/MightyJoeW/status/856383171369238528)
 
 ### Days 79: Saturday April 22, 2017
 

@@ -1,5 +1,12 @@
 # 100 Days Of Code - The Mighty Log
 
+### Days 81: Monday April 24, 2017
+
+**Today's Progress** - 
+- Added updates to FCC local group then continued progressing through the FCC beta.
+
+**Link to tweet:** [MightyJoeW Day 81] (https://twitter.com/MightyJoeW/status/856694151697530880)
+
 ### Days 80: Sunday April 23, 2017
 
 **Today's Progress** - 

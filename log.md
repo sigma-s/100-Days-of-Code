@@ -1,5 +1,12 @@
 # 100 Days Of Code - The Mighty Log
 
+### Days 82: Tuesday April 25, 2017
+
+**Today's Progress** - 
+- Continued progressing through the FCC beta and revisited some CSS in old code
+
+**Link to tweet:** [MightyJoeW Day 82] (https://twitter.com/MightyJoeW/status/857111509780103169)
+
 ### Days 81: Monday April 24, 2017
 
 **Today's Progress** - 

@@ -1,5 +1,13 @@
 # 100 Days Of Code - The Mighty Log
 
+### Days 83: Wednesday April 26, 2017
+
+**Today's Progress** - 
+- Finished Applied Visual Design section of Free Code Camp beta
+- Created some CSS animations in Codepen
+
+**Link to tweet:** [MightyJoeW Day 83] (https://twitter.com/MightyJoeW/status/857461961486946306)
+
 ### Days 82: Tuesday April 25, 2017
 
 **Today's Progress** - 

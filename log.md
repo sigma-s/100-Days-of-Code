@@ -1,5 +1,13 @@
 # 100 Days Of Code - The Mighty Log
 
+### Days 85: Wednesday May 03, 2017
+
+**Today's Progress** - 
+- HTML5 Games Workshop
+- finished fCC beta's Applied Accessibility and Responsive Web Design Principles sections
+
+**Link to tweet** [MightyJoeW Day 85] (https://twitter.com/MightyJoeW/status/859953122550185984)
+
 ### Days 84: Sunday April 30, 2017
 
 **Today's Progress** - 

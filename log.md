@@ -3,9 +3,9 @@
 ### Days 86: Sunday May 07, 2017
 
 **Today's Progress** - 
-- 
+- Continued on fCC Wikipedia Viewer in today's fCC meetup.
 
-**Link to tweet** [MightyJoeW Day 86] (https://twitter.com/MightyJoeW/)
+**Link to tweet** [MightyJoeW Day 86] (https://twitter.com/MightyJoeW/status/861399428938203137)
 
 ### Days 85: Wednesday May 03, 2017
 

@@ -1,5 +1,19 @@
 # 100 Days Of Code - The Mighty Log
 
+### Days 87: Monday May 08, 2017
+
+**Today's Progress** - 
+- Continued working through CSS Flexbox section of fCC beta.
+
+**Thoughts**
+Woo! It’s been awhile since I written a thoughts section. Unacceptable sir! It’s been a rough past couple of weeks trying to code. I’ve missed multiple days as my focus has been divided, so it feels great sitting down and just straight coding. 
+
+I decided to start building a new page while going through these fCC beta lessons to actually apply concepts I haven’t been using regularly. This not only made the concepts easier to grasp, but it also allowed me to get lost in time while coding which is a good thing. It’s a similar feeling to creating music. I could sit for hours adding and tweaking sounds, panning instruments, changing chords, etc. Coding gives a similar feeling of progression and creation. 
+
+As I continue through the fCC beta, I plan to continue building my own pages while learning opposed to just knocking out lesson after lesson. 
+
+**Link to tweet** [MightyJoeW Day 87] (https://twitter.com/MightyJoeW/status/861779915514839040)
+
 ### Days 86: Sunday May 07, 2017
 
 **Today's Progress** - 

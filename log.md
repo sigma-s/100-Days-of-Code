@@ -1,5 +1,14 @@
 # 100 Days Of Code - The Mighty Log
 
+### Days 88: Tuesday May 09, 2017
+
+**Today's Progress** - 
+- Wrapping up the CSS Flexbox section of fCC beta.
+
+**Thoughts**
+
+**Link to tweet** [MightyJoeW Day 88] (https://twitter.com/MightyJoeW/status/862086297640472576)
+
 ### Days 87: Monday May 08, 2017
 
 **Today's Progress** - 

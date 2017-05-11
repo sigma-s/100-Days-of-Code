@@ -4,8 +4,9 @@
 
 **Today's Progress** - 
 - Finished CSS Flexbox section of fCC beta
+- Worked on new tribute page (this time without Bootstrap)
 
-**Link to tweet** [MightyJoeW Day 89] (https://twitter.com/MightyJoeW/)
+**Link to tweet** [MightyJoeW Day 89] (https://twitter.com/MightyJoeW/status/862508267515281408)
 
 ### Days 88: Tuesday May 09, 2017
 

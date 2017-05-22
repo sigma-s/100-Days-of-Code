@@ -1,5 +1,28 @@
 # 100 Days Of Code - The Mighty Log
 
+### Days 90: Monday May 22, 2017
+
+**Today's Progress**
+- Worked on landing page (based on a Kajabi page)
+- worked on fCC Survey Page assignment
+
+**Link to tweet** [MightyJoeW Day 90] (https://twitter.com/MightyJoeW/)
+
+**Thought**
+Good Lawd! It's been A LOT of days since I've sat down to do 100 days of code. Do I even remember how to code anything??? What’s an h1?
+
+In all seriousness, it has been awhile since I’ve coded regularly. My time has gone to other things, some being understandable (my current job, revamping my backing up/storage procedures, fitness) and some not-so-much (NBA playoffs, naps, etc...)
+
+I have still been connected, listening to coding podcasts and attending Free Code Camp each week, so all is not lost. I just ran through a 10-day free bootcamp from Skillcrush as a quick refresher before picking up where I left off with building a survey on the Free Code Camp beta. 
+
+Also, I unexpectedly have been able to use my newly acquired coding skills at my current job. We’ve recently started using Kajabi to help clients build their marketing funnels/sell content online, and my coding knowledge has been a tremendous help. Kajabi provides an easy point-and-click process of building beautiful web pages and pipelines. Being familiar with code helps me understand what all is going on behind the scenes. 
+
+I was asked about removing a certain section of a page (which was not possible with their editing tools available to users). I was able to do so using the Chrome dev tools on my end, so I just had to find a way to make this happen live. While chatting with support, their asked if I knew CSS. Of course I said yes ;) He sent me steps for a possible workaround which I would have had NO IDEA what I was supposed to do had I not been learning to code. I was able to successfully make the changes using a css workaround, and needless to say, my boss was highly impressed and appreciative. 
+
+Going forward, I anticipate using more code at my current job while getting back into coding more in my spare time. I was able to successfully wean myself off of watching wrestling (hey, don’t judge a brotha), and that time will go to coding. Not sure I can cut off the NBA Playoffs this close to a finals rematch that I can’t wait to see, so I’ll be trying to wake up earlier to be productive. 
+
+I’m well out of bounds of the official 100 days of code rules, but I am going to finish these last 11 days for me!
+
 ### Days 89: Wednesday May 10, 2017
 
 **Today's Progress** - 

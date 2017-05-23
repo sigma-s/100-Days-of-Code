@@ -6,7 +6,7 @@
 - Worked on landing page (based on a Kajabi page)
 - worked on fCC Survey Page assignment
 
-**Link to tweet** [MightyJoeW Day 90] (https://twitter.com/MightyJoeW/)
+**Link to tweet** [MightyJoeW Day 90] (https://twitter.com/MightyJoeW/status/866861564925816832)
 
 **Thought**
 Good Lawd! It's been A LOT of days since I've sat down to do 100 days of code. Do I even remember how to code anything??? What’s an h1?

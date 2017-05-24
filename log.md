@@ -1,20 +1,34 @@
 # 100 Days Of Code - The Mighty Log
 
+### Days 92: Wednesday May 24, 2017 - in progress
+
+**Today's Progress**
+- Submitted Music Learning Style assessment for fCC Beta Survey Form project
+- Began Landing Page project
+
+**Thoughts**
+
+
+**Link to tweet** [MightyJoeW Day 92] (https://twitter.com/MightyJoeW/)
+
+**Link to work**
+[Music Learning Style assessment repository] (https://github.com/MightyJoeW/music-learning-style)
+
 ### Days 91: Tuesday May 23, 2017
 
 **Today's Progress**
 - Completed 16/16 tests for fCC beta Survey Form challenge
 - Working on CSS for survey
 
-**Link to tweet** [MightyJoeW Day 91] (https://twitter.com/MightyJoeW/status/867164389886926848)
-
-**Link to work**
-[Music Learning Style assessment repository] (https://github.com/MightyJoeW/music-learning-style)
-
 **Thoughts**
 We're going streaking!!! After some time off, a little 2-day streak of coding feels great. After I’m finished adding CSS to my Survey, I’ll be moving on to the Build a Product Landing Page and Build a Technical Documentation Page challenges. I’ve already done a portfolio, so that will complete my Web Design Certificate!
  
 Then, I’ll be in the Javascript Algorithms And Data Structures section of the freeCodeCamp beta. Javascript seems to always lead me somewhere else at some point (usually from being stuck), but I am going to stick with it no matter what. No, I will not come play with you Java! Sorry Arduino, you’re going to have to wait. Javascript is where I’m focused right now, and I’m going to have some breakthroughs. 
+
+**Link to tweet** [MightyJoeW Day 91] (https://twitter.com/MightyJoeW/status/867164389886926848)
+
+**Link to work**
+[Music Learning Style assessment repository] (https://github.com/MightyJoeW/music-learning-style)
 
 
 ### Days 90: Monday May 22, 2017

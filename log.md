@@ -6,10 +6,10 @@
 - Completed 16/16 tests for fCC beta Survey Form challenge
 - Working on CSS for survey
 
+**Link to tweet** [MightyJoeW Day 91] (https://twitter.com/MightyJoeW/status/867164389886926848)
+
 **Link to work**
 [Music Learning Style assessment repository] (https://github.com/MightyJoeW/music-learning-style)
-
-**Link to tweet** [MightyJoeW Day 91] (https://twitter.com/MightyJoeW/status/867164389886926848)
 
 **Thoughts**
 We're going streaking!!! After some time off, a little 2-day streak of coding feels great. After I’m finished adding CSS to my Survey, I’ll be moving on to the Build a Product Landing Page and Build a Technical Documentation Page challenges. I’ve already done a portfolio, so that will complete my Web Design Certificate!

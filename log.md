@@ -7,12 +7,14 @@
 - Began Landing Page project
 
 **Thoughts**
+Momentum, baby. We’re going to keep this ball rolling. After finishing my survey form, I got started on a landing page. I’m actually picking up on one that I started some time ago, but I feel l’ll be making a lot of changes. It has bootstrap which I’m not sure I want to use here.
+ 
+Something else I’ve been working on this week is doing everything in the command line. I want to get as comfortable with it as possible, and the shortcuts have been sticking so far. Man, something about making things happen in the terminal makes me feel like a Certified Coding G.
 
-
-**Link to tweet** [MightyJoeW Day 92] (https://twitter.com/MightyJoeW/)
+**Link to tweet** [MightyJoeW Day 92] (https://twitter.com/MightyJoeW/status/867508480336375809)
 
 **Link to work**
-[Music Learning Style assessment repository] (https://github.com/MightyJoeW/music-learning-style)
+[Music Learning Style assessment submission] (http://s.codepen.io/MightyJoeW/debug/OmvVVJ/mWAoNbLxXNYr)
 
 ### Days 91: Tuesday May 23, 2017
 

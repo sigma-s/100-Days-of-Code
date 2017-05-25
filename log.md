@@ -3,15 +3,12 @@
 ### Days 93: Thursday May 25, 2017 - in progress
 
 **Today's Progress**
-- 
+- Working on Landing Page
 
 **Thoughts**
+I'm about at that point with this landing page of wondering should I be using bootstrap jQuery. This happens about everytime I try to build a page from scratch lol. Trying to keep it simple for now!
 
-
-**Link to tweet** [MightyJoeW Day 93] (https://twitter.com/MightyJoeW/)
-
-**Link to work**
-[] ()
+**Link to tweet** [MightyJoeW Day 93] (https://twitter.com/MightyJoeW/status/867865287114321921)
 
 
 ### Days 92: Wednesday May 24, 2017

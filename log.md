@@ -1,10 +1,24 @@
 # 100 Days Of Code - The Mighty Log
 
-### Days 92: Wednesday May 24, 2017 - in progress
+### Days 93: Thursday May 25, 2017 - in progress
+
+**Today's Progress**
+- 
+
+**Thoughts**
+
+
+**Link to tweet** [MightyJoeW Day 93] (https://twitter.com/MightyJoeW/)
+
+**Link to work**
+[] ()
+
+
+### Days 92: Wednesday May 24, 2017
 
 **Today's Progress**
 - Submitted Music Learning Style assessment for fCC Beta Survey Form project
-- Began Landing Page project
+- Started on Landing Page project
 
 **Thoughts**
 Momentum, baby. We’re going to keep this ball rolling. After finishing my survey form, I got started on a landing page. I’m actually picking up on one that I started some time ago, but I feel l’ll be making a lot of changes. It has bootstrap which I’m not sure I want to use here.

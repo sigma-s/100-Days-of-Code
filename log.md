@@ -1,12 +1,14 @@
 # 100 Days Of Code - The Mighty Log
 
-### Days 93: Thursday May 25, 2017 - in progress
+### Days 93: Thursday May 25, 2017
 
 **Today's Progress**
 - Working on Landing Page
 
 **Thoughts**
 I'm about at that point with this landing page of wondering should I be using bootstrap jQuery. This happens about everytime I try to build a page from scratch lol. Trying to keep it simple for now!
+
+I wrapped up the day with some Javascript review as I get closer to resuming my JS work in fCC.
 
 **Link to tweet** [MightyJoeW Day 93] (https://twitter.com/MightyJoeW/status/867865287114321921)
 

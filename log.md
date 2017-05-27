@@ -1,15 +1,16 @@
 # 100 Days Of Code - The Mighty Log
 
-### Days 95: Saturday May 27, 2017 - in progress
+### Days 95: Saturday May 27, 2017
 
 **Today's Progress**
 - Working on Landing Page
-- Continued working through Javascript Basic section of fCC Beta
 
 **Thoughts**
+I changed my mind yet again. I'm NOT going to use SCSS and jQuery for now. I'm finding work arounds for the Landing Page. Plus, I need to spend more time with the basics. This has been a fun process though :)
 
+Gym break then will hopefully be able to dive into more Javascript later.
 
-**Link to tweet** [MightyJoeW Day 95] (https://twitter.com/MightyJoeW/status/)
+**Link to tweet** [MightyJoeW Day 95] (https://twitter.com/MightyJoeW/status/868499899272376320)
 
 ### Days 94: Friday May 26, 2017
 

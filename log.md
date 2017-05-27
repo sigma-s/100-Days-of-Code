@@ -1,9 +1,29 @@
 # 100 Days Of Code - The Mighty Log
 
+### Days 94: Friday May 26, 2017
+
+**Today's Progress**
+- Working on Landing Page
+- Continued working through Javascript Basic section of fCC Beta
+
+**Thoughts**
+There are too many things that I am wanting to do with my Landing Page that aren't working with pure HTML and CSS, so I've made the executive decision to add SCSS and jQuery (dun dun DUN). I think I'll be working on this Landing Page for awhile.
+
+Yesterday, I worked on html and css in the morning and found myself later thinking that I need to be working on Javascript too. When going through a curriculum, I feel that once I get through all of the html & css and focus on Javascript for awhile, I start to forget too many concepts from html & css and vice versa. I'm going to try to do html & css in mornings and Javascript at night to stay sharp on all 3 going forward.
+
+(Later that day) I ended up working through some Javascript exercises and had a small, personal win! When I got to the Stand in Line challenge in the fCC Beta, I immediately had flash backs to when I first was learning to code with the original Free Code Camp. I remember being stuck on this for days. At the time, I knew what it was asking, but I didn't know how to get to the answer. I didn't want to look up the answer, but finally gave in.
+
+This time, it was much clearer what I needed to do, but I still wasn't completely sure. Some of these concepts are still hazy since I had been away from Javascript for some time. Although it took me nearly ten minutes (on what should have been an easy challenge), I was able to figure it out! You don't understand how great that small moment felt :D But like all champions, you can't celebrate too long. It's on to the next challenge.
+
+P.S. If you're curious about which exercise specifically, it was the Stand in Line one.
+
+**Link to tweet** [MightyJoeW Day 94] (https://twitter.com/MightyJoeW/status/868263743154778112)
+
 ### Days 93: Thursday May 25, 2017
 
 **Today's Progress**
 - Working on Landing Page
+- Started Javascript Basic section of fCC Beta
 
 **Thoughts**
 I'm about at that point with this landing page of wondering should I be using bootstrap jQuery. This happens about everytime I try to build a page from scratch lol. Trying to keep it simple for now!

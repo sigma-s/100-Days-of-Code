@@ -1,5 +1,15 @@
 # 100 Days Of Code - The Mighty Log
 
+### Days 96: Sunday May 28, 2017 - in progress
+
+**Today's Progress**
+- Worked on Basic JavaScript: Counting Cards
+- Free Code Camp meetup
+
+**Thoughts**
+
+**Link to tweet** [MightyJoeW Day 96] (https://twitter.com/MightyJoeW/)
+
 ### Days 95: Saturday May 27, 2017
 
 **Today's Progress**

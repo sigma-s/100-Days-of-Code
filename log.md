@@ -3,11 +3,12 @@
 ### Days 97: Sunday May 29, 2017
 
 **Today's Progress**
-- 
+- continued through fCC Beta Javascript section
 
 **Thoughts**
+Sleepy Jones so this will be quick. I can't believe I got stuck on the SAME mistake from the original FCC Manipulating Complex Objects challenge. And I made the SAME mistake of forgetting a comma between objects in an array. I better not EVER forget that again. I'm going to have nightmares of arrays with no commas. I will become the COMMA, KING. Goodnight! ,,,,,,,,,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,
 
-**Link to tweet** [MightyJoeW Day 97] (https://twitter.com/MightyJoeW/)
+**Link to tweet** [MightyJoeW Day 97] (https://twitter.com/MightyJoeW/status/869398932421578752)
 
 ### Days 96: Sunday May 28, 2017 - in progress
 

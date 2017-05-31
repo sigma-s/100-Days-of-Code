@@ -1,5 +1,7 @@
 # 100 Days Of Code with MightyJoeW
 
+<img src="https://images.unsplash.com/photo-1454165205744-3b78555e5572?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=&bg=" alt="Image of laptop with code">
+
 Hello World! You are about to witness the beginning of an epic 100-day coding journey: A story that great sages will pass down from generation to generation. This quest will feature a potpourri of unfiltered joy, unrivaled pain, and unexpected epiphanies.
 
 Some moments, I will be the smartest man alive. Others moments, I will be a stupid idiot. But each day, I will be a valiant warrior, fighting to develop and perfect the skills necessary to evolve into a true beast on the keys.
@@ -11,7 +13,8 @@ Ladies and gentlemen. I present to you, **#100DaysofCode with _MightyJoeW_**.
 <p align="center"><b>Catch me on Twitter: </b><a href="http://www.twitter.com/mightyjoew">MightyJoeW</a></p>
 
 <p align="center"><b>Peep my Repo: </b><a href="https://github.com/MightyJoeW">The Mighty Github</a></p>
-
+<hr>
+<br>
 
 
 ### Day 1: Wednesday February 1, 2017 

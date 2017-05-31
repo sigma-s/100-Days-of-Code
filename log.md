@@ -3,11 +3,11 @@
 ### Days 98: Tuesday May 30, 2017
 
 **Today's Progress**
-- continued through fCC Beta Javascript section
+- Continued working through fCC Beta Javascript section
 - Continued working on Landing Page
 
 **Thoughts**
-Oh, I didn’t see you there. Why hello, world. 
+Oh, I didn’t see you there. `console.log("Why, Hello, World.");` 
  
 So the question of the day is how does one spend day 98 of #100DaysOfCode? Two days away from a triumphant celebration of persistence and excellence? And how does one feel with all of this new knowledge?
  
@@ -15,16 +15,18 @@ I have a feeling in which I believe I’ll have the rest of my programming life.
 
 ![Par for the Course](http://metrouk2.files.wordpress.com/2014/04/81182_3ds_mariogolfwt_022013_scrn01.jpg)
  
-I kicked off my first coding session of the day working through JSON problems in the free Code Camp beta, and I spent my evening coding session working on my landing page. Seeing as how I started Free Code Camp back in January, I should be WAY past these sections. However, I’ve taken my time with the process while also exploring different programs and languages. I’ve enjoyed diving headfirst into the wacky world of coding, and I’ve taste-tested just about everything that has come my way. 
+I kicked off my first coding session of the day working through JSON problems in the free Code Camp beta, and I spent my evening coding session working on a landing page. Seeing as how I started Free Code Camp back in January, I should be WAY past these sections. However, I’ve taken my time with the process while also exploring different programs and languages. I’ve enjoyed diving headfirst into the wacky world of coding, and I’ve taste-tested just about everything that has come my way. 
+
+<img src="https://lh3.googleusercontent.com/DlQvKUy9INo6Tjz_8mdwzb-Rtu1iDavxdfF1haElQIW9zRB1BYSQ-Wn--DNKBEuU89AiIPNZYrhqOirQcaxwZECEtlAW9rh61IZm8IVxzZ02EAkg-ULwaCY3TWza11E4h3q91VWrFymD8ItSXtx6LLrf1RxaAVMJ2t_06SdRVbIVmtRld4GCUJj8dJMZJ3mjDvEVTD_cVfqNn8vO4E211171SKagmgM6agw8n5_CT6FsVCS2bdH_FnxVWUv9Oti6cFjfrbu4ZAxhSLSt11bCaSCb-hKEUBKMTchiFiFAAo8NyhDec735xy3Cw-e_15gvMPzElEH7kiPkGU19uOfbi4MtzpJAKH-BW_onEcjqrf5ekkjzqugX4Pi7zwujuCFTEem3EYROJo81AO8-TEwR4i_riGUep0RqMU1uAb47iitzwlBW39LHb4ES2x7xh5zDKBAEHyWqeKopVn6wwnx_6WVYE20M-GNfsIYk9Rxeh60KycgaBzXTnkO1wngOK5VtjoOqV2W0JhuuN19VeXtPksVoy6CPXHREFAlzb6R5QGl9qFzB8_GorsDY7DxAFf8taDWVZYZZ3uiINLSAzEPgE0pbOTM1jS7E9rzawYosTTV0Zuq8o_Isrw=w1194-h627-no" alt="Free Code Camp Beta - Basic JavaScript: Record Collection">
  
-But at some point in time, I believe one must focus in on a set of specific goals. When I’d get stuck, I would use that as an opportunity to dabble in a new language or play with some Arduino code. But I’m on a new path to stay focused on front end development for now. Free Code Camp has it all laid out for me (along with the Web Development Bootcamp course on Udemy), I have all of the resources I need (including a live weekly fCC meetup), and I will NOT use difficult problems as an excuse to switch gears to learn something new. 
+But at some point in time, I believe one must focus in on a set of specific goals. When I’d get stuck, I would use that as an opportunity to dabble in a new language or play with some Arduino code. But I’m on a new path to stay focused on front-end development for now. [Free Code Camp](https://www.freecodecamp.com/) has it all laid out for me (along with the [Web Development Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) course on Udemy), I have all of the resources I need (including a live weekly fCC meetup), and I will NOT use difficult problems as an excuse to switch gears to learn something new. 
  
-So as I work through the fCC Beta and catch up to where I left off on fCC, I plan to work my way through both, gaining more reps and experience along the way (annnnd I’m not sure if the beta progress will be saved long term). 
+So as I work through the fCC Beta and catch up to where I left off on the original Free Code Camp curriculum, I plan to work my way through both, gaining more reps and experience along the way (plus, I’m not sure if the beta progress will be saved long term). 
  
 So to everyone out there learning, struggling, and succeeding, keep fighting through it. We WILL make it, and it will be dang worth it!
 
 
-**Link to tweet** [MightyJoeW Day 98] (https://twitter.com/MightyJoeW/status/869780685535404032)
+**Link to tweet** [MightyJoeW Day 98](https://twitter.com/MightyJoeW/status/869780685535404032)
 
 
 ### Days 97: Sunday May 29, 2017
@@ -33,20 +35,20 @@ So to everyone out there learning, struggling, and succeeding, keep fighting thr
 - continued through fCC Beta Javascript section
 
 **Thoughts**
-Sleepy Jones so this will be quick. I can't believe I got stuck on the SAME mistake from the original FCC Manipulating Complex Objects challenge. And I made the SAME mistake of forgetting a comma between objects in an array. I better not EVER forget that again. I'm going to have nightmares of arrays with no commas. I will become the COMMA, KING. Goodnight! ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, `#CommaCity`
+Sleepy Jones so this will be quick. I can't believe I got stuck on the SAME mistake from the original FCC Manipulating Complex Objects challenge. And I made the SAME mistake of forgetting a comma between objects in an array. I better not EVER forget that again. I'm going to have nightmares of arrays with no commas :grimacing:. I will become the COMMA, KING. Goodnight! ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, `#CommaCity`
 
-<img src="https://pbs.twimg.com/media/C7fkiSpXkAEEdsn.jpg" alt="JSON Missing Comma" width="500" height="250">
+<img src="https://pbs.twimg.com/media/C7fkiSpXkAEEdsn.jpg" alt="JSON Missing Comma">
 
 
-**Link to tweet** [MightyJoeW Day 97] (https://twitter.com/MightyJoeW/status/869398932421578752)
+**Link to tweet** [MightyJoeW Day 97](https://twitter.com/MightyJoeW/status/869398932421578752)
 
-### Days 96: Sunday May 28, 2017 - in progress
+### Days 96: Sunday May 28, 2017
 
 **Today's Progress**
 - Worked on Basic JavaScript: Counting Cards
 - Free Code Camp meetup
 
-**Link to tweet** [MightyJoeW Day 96] (https://twitter.com/MightyJoeW/status/869040491207290880)
+**Link to tweet** [MightyJoeW Day 96](https://twitter.com/MightyJoeW/status/869040491207290880)
 
 ### Days 95: Saturday May 27, 2017
 
@@ -58,7 +60,7 @@ I changed my mind yet again. I'm NOT going to use SCSS and jQuery for now. I'm f
 
 Gym break then will hopefully be able to dive into more Javascript later.
 
-**Link to tweet** [MightyJoeW Day 95] (https://twitter.com/MightyJoeW/status/868499899272376320)
+**Link to tweet** [MightyJoeW Day 95](https://twitter.com/MightyJoeW/status/868499899272376320)
 
 ### Days 94: Friday May 26, 2017
 
@@ -77,7 +79,7 @@ This time, it was much clearer what I needed to do, but I still wasn't completel
 
 P.S. If you're curious about which exercise specifically, it was the Stand in Line one.
 
-**Link to tweet** [MightyJoeW Day 94] (https://twitter.com/MightyJoeW/status/868263743154778112)
+**Link to tweet** [MightyJoeW Day 94](https://twitter.com/MightyJoeW/status/868263743154778112)
 
 ### Days 93: Thursday May 25, 2017
 
@@ -90,7 +92,7 @@ I'm about at that point with this landing page of wondering should I be using bo
 
 I wrapped up the day with some Javascript review as I get closer to resuming my JS work in fCC.
 
-**Link to tweet** [MightyJoeW Day 93] (https://twitter.com/MightyJoeW/status/867865287114321921)
+**Link to tweet** [MightyJoeW Day 93](https://twitter.com/MightyJoeW/status/867865287114321921)
 
 
 ### Days 92: Wednesday May 24, 2017
@@ -104,7 +106,7 @@ Momentum, baby. We’re going to keep this ball rolling. After finishing my surv
  
 Something else I’ve been working on this week is doing everything in the command line. I want to get as comfortable with it as possible, and the shortcuts have been sticking so far. Man, something about making things happen in the terminal makes me feel like a Certified Coding G.
 
-**Link to tweet** [MightyJoeW Day 92] (https://twitter.com/MightyJoeW/status/867508480336375809)
+**Link to tweet** [MightyJoeW Day 92](https://twitter.com/MightyJoeW/status/867508480336375809)
 
 **Link to work**
 [Music Learning Style assessment submission] (http://s.codepen.io/MightyJoeW/debug/OmvVVJ/mWAoNbLxXNYr)
@@ -120,7 +122,7 @@ We're going streaking!!! After some time off, a little 2-day streak of coding fe
  
 Then, I’ll be in the Javascript Algorithms And Data Structures section of the freeCodeCamp beta. Javascript seems to always lead me somewhere else at some point (usually from being stuck), but I am going to stick with it no matter what. No, I will not come play with you Java! Sorry Arduino, you’re going to have to wait. Javascript is where I’m focused right now, and I’m going to have some breakthroughs. 
 
-**Link to tweet** [MightyJoeW Day 91] (https://twitter.com/MightyJoeW/status/867164389886926848)
+**Link to tweet** [MightyJoeW Day 91](https://twitter.com/MightyJoeW/status/867164389886926848)
 
 **Link to work**
 [Music Learning Style assessment repository] (https://github.com/MightyJoeW/music-learning-style)
@@ -132,7 +134,7 @@ Then, I’ll be in the Javascript Algorithms And Data Structures section of the 
 - Worked on landing page (based on a Kajabi page)
 - worked on fCC Survey Page assignment
 
-**Link to tweet** [MightyJoeW Day 90] (https://twitter.com/MightyJoeW/status/866861564925816832)
+**Link to tweet** [MightyJoeW Day 90](https://twitter.com/MightyJoeW/status/866861564925816832)
 
 **Thoughts**
 Good Lawd! It's been A LOT of days since I've sat down to do 100 days of code. Do I even remember how to code anything??? What’s an h1?
@@ -155,14 +157,14 @@ I’m well out of bounds of the official 100 days of code rules, but I am going 
 - Finished CSS Flexbox section of fCC beta
 - Worked on new tribute page (this time without Bootstrap)
 
-**Link to tweet** [MightyJoeW Day 89] (https://twitter.com/MightyJoeW/status/862508267515281408)
+**Link to tweet** [MightyJoeW Day 89](https://twitter.com/MightyJoeW/status/862508267515281408)
 
 ### Days 88: Tuesday May 09, 2017
 
 **Today's Progress** - 
 - Wrapping up the CSS Flexbox section of fCC beta.
 
-**Link to tweet** [MightyJoeW Day 88] (https://twitter.com/MightyJoeW/status/862086297640472576)
+**Link to tweet** [MightyJoeW Day 88](https://twitter.com/MightyJoeW/status/862086297640472576)
 
 ### Days 87: Monday May 08, 2017
 
@@ -176,14 +178,14 @@ I decided to start building a new page while going through these fCC beta lesson
 
 As I continue through the fCC beta, I plan to continue building my own pages while learning opposed to just knocking out lesson after lesson. 
 
-**Link to tweet** [MightyJoeW Day 87] (https://twitter.com/MightyJoeW/status/861779915514839040)
+**Link to tweet** [MightyJoeW Day 87](https://twitter.com/MightyJoeW/status/861779915514839040)
 
 ### Days 86: Sunday May 07, 2017
 
 **Today's Progress** - 
 - Continued on fCC Wikipedia Viewer in today's fCC meetup.
 
-**Link to tweet** [MightyJoeW Day 86] (https://twitter.com/MightyJoeW/status/861399428938203137)
+**Link to tweet** [MightyJoeW Day 86](https://twitter.com/MightyJoeW/status/861399428938203137)
 
 ### Days 85: Wednesday May 03, 2017
 
@@ -191,7 +193,7 @@ As I continue through the fCC beta, I plan to continue building my own pages whi
 - HTML5 Games Workshop
 - finished fCC beta's Applied Accessibility and Responsive Web Design Principles sections
 
-**Link to tweet** [MightyJoeW Day 85] (https://twitter.com/MightyJoeW/status/859953122550185984)
+**Link to tweet** [MightyJoeW Day 85](https://twitter.com/MightyJoeW/status/859953122550185984)
 
 ### Days 84: Sunday April 30, 2017
 
@@ -201,7 +203,7 @@ As I continue through the fCC beta, I plan to continue building my own pages whi
 **Thoughts**
 
 
-**Link to tweet:** [MightyJoeW Day 84] (https://twitter.com/MightyJoeW/status/858789779823046657)
+**Link to tweet:** [MightyJoeW Day 84](https://twitter.com/MightyJoeW/status/858789779823046657)
 
 ### Days 83: Wednesday April 26, 2017
 
@@ -209,21 +211,21 @@ As I continue through the fCC beta, I plan to continue building my own pages whi
 - Finished Applied Visual Design section of Free Code Camp beta
 - Created some CSS animations in Codepen
 
-**Link to tweet:** [MightyJoeW Day 83] (https://twitter.com/MightyJoeW/status/857461961486946306)
+**Link to tweet:** [MightyJoeW Day 83](https://twitter.com/MightyJoeW/status/857461961486946306)
 
 ### Days 82: Tuesday April 25, 2017
 
 **Today's Progress** - 
 - Continued progressing through the FCC beta and revisited some CSS in old code
 
-**Link to tweet:** [MightyJoeW Day 82] (https://twitter.com/MightyJoeW/status/857111509780103169)
+**Link to tweet:** [MightyJoeW Day 82](https://twitter.com/MightyJoeW/status/857111509780103169)
 
 ### Days 81: Monday April 24, 2017
 
 **Today's Progress** - 
 - Added updates to FCC local group then continued progressing through the FCC beta.
 
-**Link to tweet:** [MightyJoeW Day 81] (https://twitter.com/MightyJoeW/status/856694151697530880)
+**Link to tweet:** [MightyJoeW Day 81](https://twitter.com/MightyJoeW/status/856694151697530880)
 
 ### Days 80: Sunday April 23, 2017
 
@@ -232,7 +234,7 @@ As I continue through the fCC beta, I plan to continue building my own pages whi
 - started Free Code Camp beta
 - Created a local FCC Facebook group
 
-**Link to tweet:** [MightyJoeW Day 80] (https://twitter.com/MightyJoeW/status/856383171369238528)
+**Link to tweet:** [MightyJoeW Day 80](https://twitter.com/MightyJoeW/status/856383171369238528)
 
 ### Days 79: Saturday April 22, 2017
 
@@ -240,7 +242,7 @@ As I continue through the fCC beta, I plan to continue building my own pages whi
 - Worked on Python problems
 - Practice white board coding
 
-**Link to tweet:** [MightyJoeW Day 79] (https://twitter.com/MightyJoeW/status/856029387275325440)
+**Link to tweet:** [MightyJoeW Day 79](https://twitter.com/MightyJoeW/status/856029387275325440)
 
 
 ### Days 78: Friday April 21, 2017
@@ -256,7 +258,7 @@ As I continue through the fCC beta, I plan to continue building my own pages whi
 **Today's Progress** - 
 - worked on CSS for weather app, reviewed Javascript on SoloLearn, continued Intro to CS on Udacity
 
-**Link to tweet:** [MightyJoeW Days 76 and 77] (https://twitter.com/MightyJoeW/status/855255282703884288)
+**Link to tweet:** [MightyJoeW Days 76 and 77](https://twitter.com/MightyJoeW/status/855255282703884288)
 
 
 ### Day 75: Tuesday April 18, 2017
@@ -279,14 +281,14 @@ As usual, I am Sleepy Jones. Until next time!
 **Today's Progress** - 
 - Arduino lessons and practice with sensors (out of town)
 
-**Link to tweet:** [MightyJoeW Day 74] (https://twitter.com/MightyJoeW/status/853469101758480385)
+**Link to tweet:** [MightyJoeW Day 74](https://twitter.com/MightyJoeW/status/853469101758480385)
 
 ### Day 73: Friday April 14, 2017
 
 **Today's Progress** - 
 - More Arduino lessons and experimentation
 
-**Link to tweet:** [MightyJoeW Day 73] (https://twitter.com/MightyJoeW/status/853022422697750528)
+**Link to tweet:** [MightyJoeW Day 73](https://twitter.com/MightyJoeW/status/853022422697750528)
 
 ### Day 72: Thursday April 13, 2017
 
@@ -301,7 +303,7 @@ On the Javascript side, I ended up on a ReactJS video. About ten minutes in, I m
 
 Back to Javascript. 
 
-**Link to tweet:** [MightyJoeW Day 72] (https://twitter.com/MightyJoeW/status/852723357409783808)
+**Link to tweet:** [MightyJoeW Day 72](https://twitter.com/MightyJoeW/status/852723357409783808)
 
 ### Day 71: Wednesday April 12, 2017
 
@@ -315,7 +317,7 @@ I finished the free section of Programming Electronics Arduino Crash Course, so 
 With Javascript, I’m still on the Free Code Camp Basic Algorithm Scripting section. I just “completed” the Find the Longest Word in a String problem. These exercises have been like a punch in the gut. I feel like I’m at a point where the explanations make sense and I know what’s going on, but I’m not getting to the solutions all on my own. It’s frustrated, but I’m optimistic that I’ll eventually be able to put these solutions together myself.
 
 
-**Link to tweet:** [MightyJoeW Day 71] (https://twitter.com/MightyJoeW/status/852376630588837889)
+**Link to tweet:** [MightyJoeW Day 71](https://twitter.com/MightyJoeW/status/852376630588837889)
 
 
 ### Day 70: Tuesday April 11, 2017
@@ -324,7 +326,7 @@ With Javascript, I’m still on the Free Code Camp Basic Algorithm Scripting sec
 - Completed Programming Electronics Arduino Crash Course Module 3 - Basics and Module 4	- Control - Unit 1
 - Modified code and connected a Joystick to my Arduino to display data for x-axis, y-axis, and switch button
 
-**Link to tweet:** [MightyJoeW Day 70] (https://twitter.com/MightyJoeW/status/851921228990492672)
+**Link to tweet:** [MightyJoeW Day 70](https://twitter.com/MightyJoeW/status/851921228990492672)
 
 
 ### Day 69: Monday April 10, 2017
@@ -335,7 +337,7 @@ With Javascript, I’m still on the Free Code Camp Basic Algorithm Scripting sec
 **Thoughts**
 All of these Arduino lessons and projects go by so much quicker having programming experience opposed to going in cold turkey last year. I've got my lights blinking and nothing's on fire yet so I'm off to a good start!
 
-**Link to tweet:** [MightyJoeW Day 69] (https://twitter.com/MightyJoeW/status/851655636412706816)
+**Link to tweet:** [MightyJoeW Day 69](https://twitter.com/MightyJoeW/status/851655636412706816)
 
 
 ### Day 68: Sunday April 9, 2017
@@ -346,7 +348,7 @@ All of these Arduino lessons and projects go by so much quicker having programmi
 **Thoughts**
 Today’s FCC meetup was a follow up to last week. We continued working on the Weather App together (which I am very grateful for not having to attack it alone). Everything is coming along nicely, and I spent time at home working on the CSS side of it. 
 
-**Link to tweet:** [MightyJoeW Day 68] (https://twitter.com/MightyJoeW/status/851264058682523650)
+**Link to tweet:** [MightyJoeW Day 68](https://twitter.com/MightyJoeW/status/851264058682523650)
 
 ### Day 67: Saturday April 8, 2017
 
@@ -354,7 +356,7 @@ Today’s FCC meetup was a follow up to last week. We continued working on the W
 - Completed Udacity's Intro to CS Unit 2
 - Completed a Free Code Camp Basic Algorithm Scripting challenge (Factorialize a Number Complete)
 
-**Link to tweet:** [MightyJoeW Day 67] (https://twitter.com/MightyJoeW/status/850906962178998273)
+**Link to tweet:** [MightyJoeW Day 67](https://twitter.com/MightyJoeW/status/850906962178998273)
 
 **Thoughts**
 Alright, now I'm not sure if learning two languages at once is more helpful or harmful (in regards to spreading confusion). I really wanted to complete Intro to CS (Python) first based on Google's Technical Development Guide, but I got into Free Code Camp not long after beginning my coding journey which focuses heavily on Javascript. Also, I am wanting to get back into Arduino to start working on physical projects (Arduino uses C++).
@@ -369,7 +371,7 @@ I want to stick to my plans, but I don't want to spread myself too thin to where
 - Continued progressing through Udacity’s Intro to CS course (unit 2)
 - Practiced with button onclick in HTML, CSS, and Javascript
 
-**Link to tweet:** [MightyJoeW Day 66] (https://twitter.com/MightyJoeW/status/850537127045726208)
+**Link to tweet:** [MightyJoeW Day 66](https://twitter.com/MightyJoeW/status/850537127045726208)
 
 
 ### Day 65: Thursday April 6, 2017
@@ -386,7 +388,7 @@ I’m glad to see that I continue to figure out things that I wouldn’t have ha
 
 I also need to devote more time daily to coding. I’ve heard of people that spent 8-12 hours coding when they began and there have been too many days where I barely got above 1 hour. No excuses. Make the time and focus!
 
-**Link to tweet:** [MightyJoeW Day 65] (https://twitter.com/MightyJoeW/status/850167336455864320)
+**Link to tweet:** [MightyJoeW Day 65](https://twitter.com/MightyJoeW/status/850167336455864320)
 
 ### Day 64: Wednesday April 5, 2017
 
@@ -401,7 +403,7 @@ I also need to devote more time daily to coding. I’ve heard of people that spe
 **Today's Progress**:
 - Completed Solo Learn's Python 'Functions & Modules' and 'Exceptions and Files' sections
 
-**Link to tweet:** [MightyJoeW Day 63] (https://twitter.com/MightyJoeW/status/849472826960642049)
+**Link to tweet:** [MightyJoeW Day 63](https://twitter.com/MightyJoeW/status/849472826960642049)
 
 ### Day 62: Monday April 3, 2017
 
@@ -409,7 +411,7 @@ I also need to devote more time daily to coding. I’ve heard of people that spe
 - Continued Solo Learn Python lessons to supplement Intro to CS.
 - Worked on a Python calculator
 
-**Link to tweet:** [MightyJoeW Day 62] (https://twitter.com/MightyJoeW/status/849134193359630336)
+**Link to tweet:** [MightyJoeW Day 62](https://twitter.com/MightyJoeW/status/849134193359630336)
 
 ### Day 61: Sunday April 2, 2017
 
@@ -421,7 +423,7 @@ I also need to devote more time daily to coding. I’ve heard of people that spe
 I can see why building this weather app has caused so much heartache throughout the community. Luckily, we are working on this together at our meetups. I'm not to this section yet, so a lot of this is over my head at the moment.
 
 
-**Link to tweet:** [MightyJoeW Day 61] (https://twitter.com/MightyJoeW/status/848671868940931073)
+**Link to tweet:** [MightyJoeW Day 61](https://twitter.com/MightyJoeW/status/848671868940931073)
 
 ### Day 60: Saturday April 1, 2017
 
@@ -433,7 +435,7 @@ It’s interesting to see how much of programming is similar across languages. I
 
 However, Unit 1 had many things I hadn’t done before such as web crawling and extracting links. This stuff is tough at the moment, but having html, css, and js experience helped with that as well.
 
-**Link to tweet:** [MightyJoeW Day 60] (https://twitter.com/MightyJoeW/status/848041600693542913)
+**Link to tweet:** [MightyJoeW Day 60](https://twitter.com/MightyJoeW/status/848041600693542913)
 
 
 ### Day 59: Friday March 31, 2017
@@ -446,7 +448,7 @@ After doing so many different courses and lessons which mostly focus on front en
 
 I still have the freedom to experiment and the benefit of time, but I do want to make sure I’m focused going forward. I’ll plan to finish the Intro to CS course (which focuses on Python) while progressing through Free Code Camp. I think I can move on from Odin at least for now (great material, but I’m wondering if a lot of this is becoming dated i.e. jQuery, Ruby, etc).
 
-**Link to tweet:** [MightyJoeW Day 59] (https://twitter.com/MightyJoeW/status/848041600693542913)
+**Link to tweet:** [MightyJoeW Day 59](https://twitter.com/MightyJoeW/status/848041600693542913)
 
 
 ### Day 58: Thursday March 30, 2017
@@ -457,7 +459,7 @@ I still have the freedom to experiment and the benefit of time, but I do want to
 **Thoughts:** 
 jQuery started to become Confusing Jones during the Traversing and Filtering section of Code School. Things are starting to sink in more though as I was able to apply some new concepts to some of my old code.
 
-**Link to tweet:** [MightyJoeW Day 58] (https://twitter.com/MightyJoeW/status/847684792019673089)
+**Link to tweet:** [MightyJoeW Day 58](https://twitter.com/MightyJoeW/status/847684792019673089)
 
 **Sidenote Jones**
 Russell Westbrook MUST win mvp! I love Harden, but Westbrook is averaging a TRIPLE DOUBLE! And not regular triple doubles. Monstrous 50-point triple doubles WITH wins! I never thought I’d see a player average a triple double. 
@@ -474,7 +476,7 @@ I’m enjoying learning about jQuery again. Everything has been pretty logical s
 On another note, I can’t get the thought of jQuery being a rapper out of my head lol. Anytime I see the name jQuery, I’m expecting to see a release date for a mixtape. 
 
 
-**Link to tweet:** [MightyJoeW Day 57] (https://twitter.com/MightyJoeW/status/847311787108163585)
+**Link to tweet:** [MightyJoeW Day 57](https://twitter.com/MightyJoeW/status/847311787108163585)
 
 
 ### Day 56: Tuesday March 28, 2017
@@ -491,7 +493,7 @@ I have so many things I want to do, I don’t know what I’ll do after. I want 
 I want to revisit Javascript 30 to at least create the drum kit. I also want to get back to spending time with Arduino. The good news is that there is no shortage of lessons and projects, and I’m not in a rush. I do want to learn everything and get working on real projects as soon as possible, but fortunately I’m in a situation where I don’t have to rush the process.
 
 
-**Link to tweet:** [MightyJoeW Day 56] (https://twitter.com/MightyJoeW/status/846940508454825985)
+**Link to tweet:** [MightyJoeW Day 56](https://twitter.com/MightyJoeW/status/846940508454825985)
 
 **Sidenote Jones** 
 jQuery sounds like a rapper that's about the drop the hottest mixtape of the summer. He would rap of coarse about $('.straightCashHomey')
@@ -504,7 +506,7 @@ jQuery sounds like a rapper that's about the drop the hottest mixtape of the sum
 **Thoughts:** 
 That Codecademy JavaScript track was loaded with new information to me (definitely not basic to this man)! I learned a lot, I will forget a lot, and I look forward to keeping this train moving. 
 
-**Link to tweet:** [MightyJoeW Day 55] (https://twitter.com/MightyJoeW/status/846568705484095492)
+**Link to tweet:** [MightyJoeW Day 55](https://twitter.com/MightyJoeW/status/846568705484095492)
 
 
 ### Day 54: Sunday March 26, 2017
@@ -532,7 +534,7 @@ I can tell that Objects will take awhile to fully grasp, but I'm feeling more co
 
 On another note, I think I'm going to take another crack at Javascript 30. I really want to make my own unique the Javascript drumkit (or full music experience). I should have a much better understanding of what's going on than when I attempted it a couple of months ago.
 
-**Link to tweet:** [MightyJoeW Day 53] (https://twitter.com/MightyJoeW/status/845864129973927937)
+**Link to tweet:** [MightyJoeW Day 53](https://twitter.com/MightyJoeW/status/845864129973927937)
 
 
 ### Day 52: Friday March 24, 2017
@@ -545,7 +547,7 @@ On another note, I think I'm going to take another crack at Javascript 30. I rea
 **Thoughts:** 
 I've seen more Objects than I ever planned on seeing this week, but the repetition is definitely helping. I also got away from lessons for a bit today to work on some html and css again with a bootstrap About page. 
 
-**Link to tweet:** [MightyJoeW Day 52] (https://twitter.com/MightyJoeW/status/845512972055318528)
+**Link to tweet:** [MightyJoeW Day 52](https://twitter.com/MightyJoeW/status/845512972055318528)
 
 
 ### Day 51: Thursday March 23, 2017
@@ -558,7 +560,7 @@ I kick off the second half of my #100DaysOfCode challenge and quest to getScript
 
 I really want to buckle down and spend more time each day coding. People are out here beasting for 8 to 12 hours, so I know I can be doing more. Upward and onward.
 
-**Link to tweet:** [MightyJoeW Day 51] (https://twitter.com/MightyJoeW/status/845135847561179136)
+**Link to tweet:** [MightyJoeW Day 51](https://twitter.com/MightyJoeW/status/845135847561179136)
 
 ### Day 50: Wednesday March 22, 2017
 
@@ -568,7 +570,7 @@ I really want to buckle down and spend more time each day coding. People are out
 **Thoughts:** 
 Brain and body fried from work, studying, yard work, and working out all week... I am progressing through Objects and left off on Profile Lookup on Free Code Camp. Not sure what to do at the moment. I'm currently Sleepy Jones, so we'll see what the good ol brain can cook up tomorrow.
 
-**Link to tweet:** [MightyJoeW Day 50] (https://twitter.com/MightyJoeW/status/844758097948098561)
+**Link to tweet:** [MightyJoeW Day 50](https://twitter.com/MightyJoeW/status/844758097948098561)
 
 ### Day 49: Tuesday March 21, 2017
 
@@ -581,7 +583,7 @@ I can't believe the problem was that I didn't write ONE FREAKIN COMMA!!! I switc
 
 I felt like my understanding was there by now, and finally Googled the answer and found that I was missing a comma... My goodness. Well, I am happy to learn that I did understand the concepts but just had a syntax error.
 
-**Link to tweet:** [MightyJoeW Day 49] (https://twitter.com/MightyJoeW/status/844396576504254465)
+**Link to tweet:** [MightyJoeW Day 49](https://twitter.com/MightyJoeW/status/844396576504254465)
 
 ### Day 48: Monday March 20, 2017
 
@@ -592,7 +594,7 @@ I felt like my understanding was there by now, and finally Googled the answer an
 **Thoughts:** 
 I'm understanding how to use Objects more and more each day. In a day or two, I'll revisit the Free Code Camp objects section. I stopped on Manipulating Complex Objects last month before turning to Web Development Bootcamp and Odin project for more help and training.
 
-**Link to tweet:** [MightyJoeW Day 48] (https://twitter.com/MightyJoeW/status/844050073755553792)
+**Link to tweet:** [MightyJoeW Day 48](https://twitter.com/MightyJoeW/status/844050073755553792)
 
 **Sidenote Jones**
 I worked on music for the first time in about 9 months and actually enjoyed it. I’ve had many jobs related to music over the span of 14 years, and I had finally hit a point where all of the enjoyment was gone. 
@@ -609,7 +611,7 @@ It’s something I’m sure I’ll have in the back of my mind as I continue my 
 **Thoughts:** 
 No Free Code Camp meetup today :( Steadily moving through Odin Camp (just about finished with the Codecademy JS section of creating a Contact List).
 
-**Link to tweet:** [MightyJoeW Day 47] (https://twitter.com/MightyJoeW/status/843688120524722181)
+**Link to tweet:** [MightyJoeW Day 47](https://twitter.com/MightyJoeW/status/843688120524722181)
 
 
 ### Day 46: Saturday March 18, 2017
@@ -620,7 +622,7 @@ No Free Code Camp meetup today :( Steadily moving through Odin Camp (just about 
 **Thoughts:** 
 I had no idea how in depth Chrome's Dev Tools goes. It is absolutely loaded with features. This will be something I come back to later and often.
 
-**Link to tweet:** [MightyJoeW Day 46] (https://twitter.com/MightyJoeW/status/843322359780139009)
+**Link to tweet:** [MightyJoeW Day 46](https://twitter.com/MightyJoeW/status/843322359780139009)
 
 **Sidenote Jones**
 I just learned about the ColorZilla Chrome store app. It seems very useful and convenient already.
@@ -636,7 +638,7 @@ Today was one of those days... Poor focus and stuck on array practice problems. 
 
 The good news is that I understand what's being asked in the problems, I know what needs to be done, I'm writing parts of the code correctly, and I understand the logic in the solutions. I've worked out, played sports, and played instruments long enough to know that learning something new TAKES TIME so I just need to be patient and persistent. 
 
-**Link to tweet:** [MightyJoeW Day 45] (https://twitter.com/MightyJoeW/status/842941097391415296)
+**Link to tweet:** [MightyJoeW Day 45](https://twitter.com/MightyJoeW/status/842941097391415296)
 
 ### Day 44: Thursday March 16, 2017
 
@@ -649,7 +651,7 @@ Nothing too much today. Some minor html and css followed by working on the Proje
 
 I ended the night with some CodeCombat (which is unfortunately starting to get on my nerves with the bad lag). I read on multiple sites that it works best on IE11 (ugh).
 
-**Link to tweet:** [MightyJoeW Day 44] (https://twitter.com/MightyJoeW/status/842514320424652806)
+**Link to tweet:** [MightyJoeW Day 44](https://twitter.com/MightyJoeW/status/842514320424652806)
 
 ### Day 43: Wednesday March 15, 2017
 
@@ -661,7 +663,7 @@ I experienced my first browser crash creating while loops. It took me a minute t
  
 I wrapped up today's work with a Choose Your Own Adventure game which puts you in a gym. Then all of the sudden, an angry Brock Lesnar is standing over you. You have 3 choices (made with Javascript switch cases). Spoiler alert: None of the choices end well for you. After making a game based on The Rock then Brock Lesnar, I guess I'm ready for Wrestlemania :D
 
-**Link to tweet:** [MightyJoeW Day 43] (https://twitter.com/MightyJoeW/status/842211821721382912)
+**Link to tweet:** [MightyJoeW Day 43](https://twitter.com/MightyJoeW/status/842211821721382912)
 
 
 ### Day 42: Tuesday March 14, 2017
@@ -674,7 +676,7 @@ Wow, it is finished and I am happy! HUGE shoutout to https://codepen.io/steveszc
 
 I was able to experience what others mean when they said to just code and to learn from other people's code. I've been doing a lot of lessons, but it was very helpful having to experiment & Google, and also being able to see how the code looks of what I was actually striving for. There are a lot of little things you pick up that may not be covered in whatever lesson you are completing. 
 
-**Link to tweet:** [MightyJoeW Day 42] (https://twitter.com/MightyJoeW/status/841727679607013377)
+**Link to tweet:** [MightyJoeW Day 42](https://twitter.com/MightyJoeW/status/841727679607013377)
 
 
 ### Day 41: Monday March 13, 2017
@@ -685,7 +687,7 @@ I was able to experience what others mean when they said to just code and to lea
 **Thoughts:** 
 I didn't spend as much time coding today as usual, but I made some good progress on HEEL Rock, Paper, Scissors today. By tomorrow, I think I'll have a newly designed and playable game :)
 
-**Link to tweet:** [MightyJoeW Day 41] (https://twitter.com/MightyJoeW/status/841501322708963328)
+**Link to tweet:** [MightyJoeW Day 41](https://twitter.com/MightyJoeW/status/841501322708963328)
 
 ### Day 40: Sunday March 12, 2017
 
@@ -700,9 +702,9 @@ I spent the rest of the time working on my HEEL Rock Paper Scissors game. Shouto
 
 On a technical level, I’m having trouble getting everything connected. I feel like I’m missing some little bitty piece and just can’t yet figure out what it is. When using a prompt to get the user’s choice, everything is working fine. However, when trying to use a button onclick, the results are opened on a new page. I will figure this out.
 
-**Link to tweet:** [MightyJoeW Day 40] (https://twitter.com/MightyJoeW/status/841143742958567424)
+**Link to tweet:** [MightyJoeW Day 40](https://twitter.com/MightyJoeW/status/841143742958567424)
 
-**Link to work** [HEEL Rock Paper Scissors] (https://mightyjoew.github.io/HeelRockPS/)
+**Link to work** [HEEL Rock Paper Scissors](https://mightyjoew.github.io/HeelRockPS/)
 
 
 ### Day 39: Saturday March 11, 2017
@@ -713,7 +715,7 @@ On a technical level, I’m having trouble getting everything connected. I feel 
 **Thoughts:** 
  After completing a quick Rock, Paper Scissors Javascript game, @HBoutrup suggested that nothing beats The Rock (which gave me an idea...) :D
 
-**Link to tweet:** [MightyJoeW Day 39] (https://twitter.com/MightyJoeW/status/840660850289586181)
+**Link to tweet:** [MightyJoeW Day 39](https://twitter.com/MightyJoeW/status/840660850289586181)
 
 
 ### Day 38: Friday March 10, 2017
@@ -729,9 +731,9 @@ The replica is not identical (i.e. the header is not aligned the same way, the b
 
 After finishing, I hopped into the Javascript section (which starts off with a Codecademy course). It always feels good to fly through early sections of a course. Hopefully, the copious resources that the Odin Project provides will get me to that next level with Javascript. 
 
-**Link to tweet:** [MightyJoeW Day 38] (https://twitter.com/MightyJoeW/status/840357122089070592)
+**Link to tweet:** [MightyJoeW Day 38](https://twitter.com/MightyJoeW/status/840357122089070592)
 
-**Link to work** [Google Homepage] (https://mightyjoew.github.io/google-homepage/)
+**Link to work** [Google Homepage](https://mightyjoew.github.io/google-homepage/)
 
 **Sidenote Jones** 
 I'm truly considering applying to speak at this summer's AlterConf. They tweeted "AlterConf is looking for marginalized ppl in tech/gaming for paid speaking opportunities. No experience necessary!" 
@@ -746,9 +748,9 @@ It's in August, so I have plenty of time to come up with material.
 **Thoughts:** 
 The Google page is coming along well. There are a few little things I can’t figure out positioning-wise (specifically lining up everything in the header), and I still need to fix and finish the footer. 
 
-**Link to tweet:** [MightyJoeW Day 37] (https://twitter.com/MightyJoeW/status/839998100404076544)
+**Link to tweet:** [MightyJoeW Day 37](https://twitter.com/MightyJoeW/status/839998100404076544)
 
-**Link to work** [Google Homepage] http://codepen.io/MightyJoeW/full/qrraWL/
+**Link to work** [Google Homepage](http://codepen.io/MightyJoeW/full/qrraWL/)
 
 **Sidenote Jones** 
 So, I finally watched a couple of episodes of Silicon Valley and I'm pretty sure I'm hooked already.
@@ -762,7 +764,7 @@ So, I finally watched a couple of episodes of Silicon Valley and I'm pretty sure
 **Thoughts:** 
 I was challenged to recreate Google’s homepage within the first few weeks of my coding journey (December 2016), so this will be a good opportunity to finish my original attempt. There were multiple things off with the header and the footer, so we’ll see if I can fix them. 
 
-**Link to tweet:** [MightyJoeW Day 36] (https://twitter.com/MightyJoeW/status/839733793258946560)
+**Link to tweet:** [MightyJoeW Day 36](https://twitter.com/MightyJoeW/status/839733793258946560)
 
 
 ### Day 35: Tuesday March 7, 2017
@@ -782,7 +784,7 @@ Network - throttling allows you to change connection speed to test a site’s pe
 
 Next up is Project: HTML/CSS. Then, I'll be in the JavaScript section of the Odin Project. 
 
-**Link to tweet:** [MightyJoeW Day 35] (https://twitter.com/MightyJoeW/status/839353199307948033)
+**Link to tweet:** [MightyJoeW Day 35](https://twitter.com/MightyJoeW/status/839353199307948033)
 
 **Sidenote Jones** 
 The DevTools things that I picked up today were immediately helpful, and I found myself spending a lot of time going through different sites and trying these out. After I had enough practice with these new things, I got back to one of my favorite pass times: simply editing words on serious sites to make it as sophomoric and juvenile as possible! I don't know why it's so funny, but I crack myself up :D
@@ -801,18 +803,18 @@ I'm looking forward to the JavaScript section. I’m planning to work through th
 
 Smooth segway to CodeCombat. I wanted to get a feel of CodeCombat to see if this was a good resource for kids to learn how to code, and I am very impressed. You can pick from a few different programming languages to use as commands to control your character. For example, one of the levels is a maze in which your character needs to go right, then up, then right, then down multiple times. With JavaScript as your language of choice, you can use a while loop like this:
 
-while(true) {
+`while(true) {
     hero.moveRight();
     hero.moveUp();
     hero.moveRight();
     hero.moveDown();
-}
+}`
 
 The syntax is authentic, and the process feels true to coding although it doesn’t feel like coding (it really feels like playing a video game). Looks like I better replace some Pokemon Moon time with CodeCombat. 
 
-**Link to Work:** [Android Logo] (http://codepen.io/MightyJoeW/full/oZzreR/)
+**Link to Work:** [Android Logo](http://codepen.io/MightyJoeW/full/oZzreR/)
 
-**Link to tweet:** [MightyJoeW Day 34] (https://twitter.com/MightyJoeW/status/839016634174029824)
+**Link to tweet:** [MightyJoeW Day 34](https://twitter.com/MightyJoeW/status/839016634174029824)
 
 
 ### Day 33: Sunday March 5, 2017
@@ -823,7 +825,7 @@ The syntax is authentic, and the process feels true to coding although it doesn�
 **Thoughts:** 
 Today's work was a quick hour working with CSS. It was a great refresher since I had been focusing on Javascript for the past month or so. Specifically, it was good to get in some more reps with simple things such as block, inline-block, inline, none, floats, and clear. I was also able to get some more reps in with positioning. 
 
-**Link to tweet:** [MightyJoeW Day 33] (https://twitter.com/MightyJoeW/status/838642454924505089)
+**Link to tweet:** [MightyJoeW Day 33](https://twitter.com/MightyJoeW/status/838642454924505089)
 
 **Sidenote Jones** 
 I spent most of yesterday with family I hadn't seen in awhile, and we had a great time. At the end of the night, we decided to put on a movie. We were met with the usual Netflix dilemma of “What should we watch?” I was very vocal about not wanting to pick since I watch movies the least, but somehow I ended up picking. 
@@ -843,7 +845,7 @@ After a long day of driving (ROAD TRIP!!) and seeing family, I am definitely rea
 
 This is mostly review, but I had forgotten all about the pseudo-classes in CSS. This was a good opportunity for me to get some more reps with this. A couple that I used were X:first-child{} and X:nth-child(n){}. In the Udemy course that I'm also working through (Web Development Bootcamp), he shared this helpful link with 30 important CSS Selectors https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048.
 
-**Link to tweet:** [MightyJoeW Day 32] (https://twitter.com/MightyJoeW/status/838281454945767424)
+**Link to tweet:** [MightyJoeW Day 32](https://twitter.com/MightyJoeW/status/838281454945767424)
 
 **Sidenote Jones** 
 I really need to start writing these updates earlier in the day. I usually write this right before going to bed, and I'm about a half second away from dozing off and crashing my head right through my computer screen. I'm really not in the mood to go to the hospital or buy a new laptop (well, I am currently working on an old 2009 Macbook so that wouldn't be the worst idea...). Yeah, time for bed... Goodnight!
@@ -857,7 +859,7 @@ I really need to start writing these updates earlier in the day. I usually write
 **Thoughts:** 
  Another day with mostly review, but I have been picking up new little things with both HTML and CSS.
 
-**Link to tweet:** [MightyJoeW Day 31] (https://twitter.com/MightyJoeW/status/837863066066948096)
+**Link to tweet:** [MightyJoeW Day 31](https://twitter.com/MightyJoeW/status/837863066066948096)
 
 **Sidenote Jones** 
 I'm both Hungry Jones and Sleepy Jones right now. I need food and a bed. Goodnight!
@@ -871,7 +873,7 @@ I'm both Hungry Jones and Sleepy Jones right now. I need food and a bed. Goodnig
 **Thoughts:** 
 I don't know if git takes awhile to get used to or The Odin Project is information overload, but git was wearing me out earlier! I do feel I have a much better understanding of it now though. Bottom line, it's going to take a lot of reps to get comfortable using git and the command line. 
 
-**Link to tweet:** [MightyJoeW Day 30] (https://twitter.com/MightyJoeW/status/837531166001410049)
+**Link to tweet:** [MightyJoeW Day 30](https://twitter.com/MightyJoeW/status/837531166001410049)
 
 **Sidenote Jones** 
 I never knew about Google's Revision history. This can come in handy big time.
@@ -889,9 +891,9 @@ This will be short because I'm Sleepy Jones, but today was a really good day of 
 
 Then, I had a late night session coding along with Emily Xie’s Matrix Digital Rain in p5.js tutorial https://youtu.be/S1TQCi9axzg. Even though much of it was over my head, it was still fun and fascinating to code along with. Sleeeeepy. Mighty Out. 
 
-**Link to tweet:** [MightyJoeW Day 29] (https://twitter.com/MightyJoeW/status/837188094176735232)
+**Link to tweet:** [MightyJoeW Day 29](https://twitter.com/MightyJoeW/status/837188094176735232)
 
-**Link to work** [Blue Matrix] (http://codepen.io/MightyJoeW/full/qrbJbL/) 
+**Link to work** [Blue Matrix](http://codepen.io/MightyJoeW/full/qrbJbL/) 
 
 
 ### Day 28: Tuesday February 28, 2017
@@ -906,9 +908,9 @@ Today’s learning came from The Odin Project. I had heard about it awhile ago o
 
 I am still committed to completing Free Code Camp, and I’m definitely going to keep going with The Web Development Bootcamp because that has explained everything so well, but I’m kind of feeling this Odin Project too. The good news is that I’m not on any timelines, and it doesn’t hurt learning from different sources. I’ve just got to make sure I’m focused overall and moving forward each day. 
 
-**Link to tweet:** [MightyJoeW Day 28] (https://twitter.com/MightyJoeW/status/836758789567152131)
+**Link to tweet:** [MightyJoeW Day 28](https://twitter.com/MightyJoeW/status/836758789567152131)
 
-**Link to work** [Joe Warren Portfolio Deluxe] (http://s.codepen.io/MightyJoeW/debug/GWpKOm/wQMPoZoYwgnk) Again, this portfolio is based off of MOHAMMED ERRAYSY's.
+**Link to work** [Joe Warren Portfolio Deluxe](http://s.codepen.io/MightyJoeW/debug/GWpKOm/wQMPoZoYwgnk) Again, this portfolio is based off of MOHAMMED ERRAYSY's.
 
 
 ### Day 27: Monday February 27, 2017
@@ -920,9 +922,9 @@ I am still committed to completing Free Code Camp, and I’m definitely going to
 **Thoughts:** 
 I messed around and got excited looking ar portfolios on Codepen and started on yet another. The one I'm basing mine off of used all kinds of tools that I haven't seen before. Needless to say, I don't understand all of it, but it's fascinating!
 
-**Link to tweet:** [MightyJoeW Day 27] (https://twitter.com/MightyJoeW/status/836428525884309504)
+**Link to tweet:** [MightyJoeW Day 27](https://twitter.com/MightyJoeW/status/836428525884309504)
 
-**Link to work** [Joe Warren Portfolio Deluxe] (http://s.codepen.io/MightyJoeW/debug/GWpKOm/wQMPoZoYwgnk) This portfolio is based off of MOHAMMED ERRAYSY's so I give him all of the credit. I'm learning from his code. Also, I haven't looked at the JavaScript yet, so I don't know if the Contact form is active (don't try it). 
+**Link to work** [Joe Warren Portfolio Deluxe](http://s.codepen.io/MightyJoeW/debug/GWpKOm/wQMPoZoYwgnk) This portfolio is based off of MOHAMMED ERRAYSY's so I give him all of the credit. I'm learning from his code. Also, I haven't looked at the JavaScript yet, so I don't know if the Contact form is active (don't try it). 
 
 
 ### Day 26: Sunday February 26, 2017
@@ -939,7 +941,7 @@ I spent some time at the end looking at one of the JS Array Problems, but I'll r
 
 Lastly, I still am wanting to make a cooler portfolio. I found some really good ones on Codepen and looked at some of their code. One of my favorites used SCSS which I want to learn in the near future. 
 
-**Link to tweet:** [MightyJoeW Day 26] (https://twitter.com/MightyJoeW/status/836024497346068480)
+**Link to tweet:** [MightyJoeW Day 26](https://twitter.com/MightyJoeW/status/836024497346068480)
 
 
 ### Day 25: Saturday February 25, 2017
@@ -953,7 +955,7 @@ I didn't do anything too deep today. I'm dog sitting for a buddy, and this pup i
 
 Tomorrow, things will pick back up with the Free Code Camp meetup. They consistently keep us on our toes.
 
-**Link to tweet:** [MightyJoeW Day 25] (https://twitter.com/MightyJoeW/status/835729938149842944)
+**Link to tweet:** [MightyJoeW Day 25](https://twitter.com/MightyJoeW/status/835729938149842944)
 
 
 ### Day 24: Friday February 24, 2017
@@ -965,7 +967,7 @@ Tomorrow, things will pick back up with the Free Code Camp meetup. They consiste
 **Thoughts:** 
 Array Iteration has not been my friend thus far. I'm currently trying to figure out an Array Problem Set.
 
-**Link to tweet:** [MightyJoeW Day 24] (https://twitter.com/MightyJoeW/status/835275665540788225)
+**Link to tweet:** [MightyJoeW Day 24](https://twitter.com/MightyJoeW/status/835275665540788225)
 
 **Sidenote Jones** 
 The ‘coffee and code’ way of life is starting to make more sense. I’ve never been a consumer of coffee, but it’s been a few days in a row that I’ve gotten sleepy while trying to progress through this content. I may need to get a little taste of the coffee life #SleepyJones
@@ -984,7 +986,7 @@ Today's JavaScript lessons (forEach) were a bit tricky. I'm feeling alright with
 
 Also, I'm ready to start making some apps! I was excited about the JavaScript 30 challenge weeks ago, but I quickly saw that I needed more JavaScript training. I'm itching to get started on the JavaScript Drum Kit. I may take another look at it next week.
 
-**Link to tweet:** [MightyJoeW Day 23] (https://twitter.com/MightyJoeW/status/835006956653920257)
+**Link to tweet:** [MightyJoeW Day 23](https://twitter.com/MightyJoeW/status/835006956653920257)
 
 **Sidenote Jones** 
 I finally took advantage of this warm winter weather and went on a nice long bike ride earlier. It felt great but these legs are sore! (I've gotten sick a couple of times these past couple of months and my workout routine is all out of whack.)
@@ -1004,7 +1006,7 @@ I actually had fun with functions this time around. I've done some JavaScript le
 
 I actually don't mind at this stage though because I'm seeing how much I'm retaining. I was supposed to make a basic html file and js file to do some js practice problems, but I found myself going into design mode trying to make the html and css look nice and pretty before starting the js problems lol. And, I still get a kick out of inspecting web pages and switching out the words to make it more amusing and ridiculous. Juvenile but for some reason hilarious to me :D 
 
-**Link to tweet:** [MightyJoeW Day 22] (https://twitter.com/MightyJoeW/status/834624859422470144)
+**Link to tweet:** [MightyJoeW Day 22](https://twitter.com/MightyJoeW/status/834624859422470144)
 
 **Sidenote Jones** I just realized this doesn't have a spell check. Hopefully everything has been half-decent...
 
@@ -1024,9 +1026,9 @@ I also added photos and titles for projects I plan on completing including a Jav
 
 Update: I figured it out!! Again, another small issue. I had the closing div tag AFTER my photo. I needed to change it to be above the photo. Now, the photo (which is a col), is showing up properly next to the text :D
 
-**Link to tweet:** [MightyJoeW Day 21] (https://twitter.com/MightyJoeW/status/834226942660505600)
+**Link to tweet:** [MightyJoeW Day 21](https://twitter.com/MightyJoeW/status/834226942660505600)
 
-**Link to work** [Joe Warren Portfolio] (http://codepen.io/MightyJoeW/full/JEEqNV/)
+**Link to work** [Joe Warren Portfolio](http://codepen.io/MightyJoeW/full/JEEqNV/)
 
 
 ### Day 20: Monday February 20, 2017
@@ -1039,7 +1041,7 @@ Update: I figured it out!! Again, another small issue. I had the closing div tag
 **Thoughts:** 
 Today was another good day of learning and practicing. I'm working through the JavaScript section of my current course. I've learned a few new things, and have remembered things I've forgotten from weeks ago. I'm currently on the section about loops and working my way to the section about Objects (Objects is where I got stuck on Free Code Camp). 
 
-**Link to tweet:** [MightyJoeW Day 20] (https://twitter.com/MightyJoeW/status/833906812575481856)
+**Link to tweet:** [MightyJoeW Day 20](https://twitter.com/MightyJoeW/status/833906812575481856)
 
 
 ### Day 19: Sunday February 19, 2017
@@ -1052,7 +1054,7 @@ I really enjoyed today's meetup (as I do each week). Today, we spent a lot of ti
 
 For example, I didn't know that text editors can rearrange your code to make it look better. In Sublime, highlight your code and go to Edit > Line > Reindent and voila, your code is cleaned up! I don't know the ins and outs of this or how reliable it is yet, but I will be utilizing this going forward.
 
-**Link to tweet:** [MightyJoeW Day 19] (https://twitter.com/MightyJoeW/status/833513634215124992)
+**Link to tweet:** [MightyJoeW Day 19](https://twitter.com/MightyJoeW/status/833513634215124992)
 
 
 ### Day 18: Saturday February 18, 2017
@@ -1063,7 +1065,7 @@ For example, I didn't know that text editors can rearrange your code to make it 
 **Thoughts:** 
 - Not much done today as I was entertaining my nieces throughout the day, but I made some good progress on my portfolio. It's coming along nicely.
 
-**Link to tweet:** [MightyJoeW Day 18] (https://twitter.com/MightyJoeW/status/833181935635726338)
+**Link to tweet:** [MightyJoeW Day 18](https://twitter.com/MightyJoeW/status/833181935635726338)
 
 
 ### Day 17: Friday February 17, 2017
@@ -1084,7 +1086,7 @@ Using Bootstrap, I started working on a new landing page for one of my sites, ga
 
 **Sidenote Jones:** NBA Allstar Weekend!
 
-**Link to tweet:** [MightyJoeW Day 17] (https://twitter.com/MightyJoeW/status/832743411606179840)
+**Link to tweet:** [MightyJoeW Day 17](https://twitter.com/MightyJoeW/status/832743411606179840)
 
 
 ### Day 16: Thursday February 16, 2017
@@ -1100,9 +1102,9 @@ Update 2: I found the error!!! I missing </nav>!!! I feel so relieved and frustr
 
 It's been fun experimenting and getting different things to work, but unfortunately breaking things is a part of the process. I will figure this out. I will figure out how to have a fixed navbar and footer with everything in between displaying properly.
 
-**Link to tweet:** [MightyJoeW Day 16] (https://twitter.com/MightyJoeW/status/832394962432036868)
+**Link to tweet:** [MightyJoeW Day 16](https://twitter.com/MightyJoeW/status/832394962432036868)
 
-**Link to work:** Portfolio (http://s.codepen.io/MightyJoeW/debug/JEEqNV/PNrvYLBOzOQM)
+**Link to work:** Portfolio(http://s.codepen.io/MightyJoeW/debug/JEEqNV/PNrvYLBOzOQM)
 
 
 ### Day 15: Wednesday February 15, 2017 
@@ -1115,7 +1117,7 @@ Since I had gotten stuck on multiple JavaScript challenges in Free Code Camp, I 
 
 Now, I'm hoping that this course can help these JavaScript concepts sink in more. I've been around JavaScript in SoloLearn, Free Code Camp, and various tutorials online, but it still feels over my head. It will be a marathon, and I'm prepared to getScript('or Die Tryin'). Let's do this!
 
-**Link to tweet:** [MightyJoeW Day 15] (https://twitter.com/MightyJoeW/status/832033261220196352)
+**Link to tweet:** [MightyJoeW Day 15](https://twitter.com/MightyJoeW/status/832033261220196352)
 
 
 ### Day 14: Tuesday February 14, 2017 
@@ -1125,7 +1127,7 @@ Now, I'm hoping that this course can help these JavaScript concepts sink in more
 **Thoughts:**  Going off of DevTips' tutorials (https://www.youtube.com/watch?v=hM9h1wN4rfU), I created a webpage that changes colors as you move the mouse around the page as well as a page that changes colors as the time changes. This was all pure JavaScript and still very confusing as the moment. This was recommended to prep for Sunday's Free Code Camp meetup, so I at least have been introduced to these concepts. 
 After a few days away from Udemy, I got back to those lessons and completed the CSS Selectors exercise. I feel like I have a pretty good early understanding of CSS, and I continue to be impressed with each new thing that I learn it can do. 
 
-**Link to tweet:** [MightyJoeW Day 14] (https://twitter.com/MightyJoeW/status/831675551203078144)
+**Link to tweet:** [MightyJoeW Day 14](https://twitter.com/MightyJoeW/status/831675551203078144)
 
 
 ### Day 13: Monday February 13, 2017 
@@ -1134,9 +1136,9 @@ After a few days away from Udemy, I got back to those lessons and completed the 
 
 **Thoughts:** Why did I choose something with 151 different character for an early table project? This took forever!! But I was determined to finish. I'm sure there was an easier way to input this information especially with some coding, and I look forward to implementing some changes in the future. I'd want to change the view from numerical to alphabetical without creating a second page and re-entering all of the data again. I'll be on the lookout for how to do this.  
 
-**Link to tweet:** [MightyJoeW Day 13] (https://twitter.com/MightyJoeW/status/831305975470628865)
+**Link to tweet:** [MightyJoeW Day 13](https://twitter.com/MightyJoeW/status/831305975470628865)
 
-**Link to work:** [Working JavaScript Quiz] (https://github.com/MightyJoeW/JavaScript-Quiz) [Pokedex] (https://github.com/MightyJoeW/The-Pokedex)
+**Link to work:** [Working JavaScript Quiz](https://github.com/MightyJoeW/JavaScript-Quiz) [Pokedex] (https://github.com/MightyJoeW/The-Pokedex)
 
 
 ### Day 12: Sunday February 12, 2017 
@@ -1145,9 +1147,9 @@ After a few days away from Udemy, I got back to those lessons and completed the 
 
 **Thoughts:** As we created the JavaScript quiz, I felt like a pro setting up the basic HTML and CSS sections. Then, JavaScript stepped in and kicked my butt! I understood the concepts, but I have a long way to go before I can create this kind of content on my own. The good thing is that it gets me more pumped and hungrier to keep pushing forward. Baby steps.
 
-**Link to tweet:** [MightyJoeW Day 12] (https://twitter.com/MightyJoeW/status/830989197112700929)
+**Link to tweet:** [MightyJoeW Day 12](https://twitter.com/MightyJoeW/status/830989197112700929)
 
-**Link to work:** [Simple JavaSCript Quiz] (https://github.com/MightyJoeW/JavaScript-Quiz)
+**Link to work:** [Simple JavaSCript Quiz](https://github.com/MightyJoeW/JavaScript-Quiz)
 
 
 ### Day 11: Saturday February 11, 2017 
@@ -1156,7 +1158,7 @@ After a few days away from Udemy, I got back to those lessons and completed the 
 
 **Thoughts:** Feeling better than yesterday. I should be back in my regular zone tomorrow. 
 
-**Link to tweet:** [MightyJoeW Day 11] (https://twitter.com/MightyJoeW/status/830646204576968704
+**Link to tweet:** [MightyJoeW Day 11](https://twitter.com/MightyJoeW/status/830646204576968704
 
 
 ### Day 10: Friday February 10, 2017 
@@ -1165,9 +1167,9 @@ After a few days away from Udemy, I got back to those lessons and completed the 
 
 **Thoughts:** Still under the weather so today was mostly filling in information opposed to creating new things. 
 
-**Link to tweet:** [MightyJoeW Day 10] (https://twitter.com/MightyJoeW/status/830243763821895680)
+**Link to tweet:** [MightyJoeW Day 10](https://twitter.com/MightyJoeW/status/830243763821895680)
 
-**Link to work:** [Pokedex repository] https://github.com/MightyJoeW/Pokedex
+**Link to work:** [Pokedex repository](https://github.com/MightyJoeW/Pokedex)
 
 
 ### Day 9: Thursday February 9, 2017 
@@ -1176,7 +1178,7 @@ After a few days away from Udemy, I got back to those lessons and completed the 
 
 **Thoughts:** Very tough day with flu-like symptoms, but made it an hour. 
 
-**Link to tweet:** [MightyJoeW Day 9] (https://twitter.com/MightyJoeW/status/829900574204256263)
+**Link to tweet:** [MightyJoeW Day 9](https://twitter.com/MightyJoeW/status/829900574204256263)
 
 
 ### Day 8: Wednesday February 8, 2017 
@@ -1187,7 +1189,7 @@ After a few days away from Udemy, I got back to those lessons and completed the 
 
 **Sidenote Jones:** Whenever I get the hiccups, they last for days (sometimes weeks). I've had the hiccups since yesterday, and it's the most irritating thing when trying to learn and practice anything. And yes, I've tried all of the methods. None of the ever work, but I'll take suggestions... Hmm, since this problem has not been solved for me, I guess I need to create a solution and app to take care of this. To the laboratory!
 
-**Link to tweet:** [MightyJoeW Day 8] (https://twitter.com/MightyJoeW/status/829472654885261312)
+**Link to tweet:** [MightyJoeW Day 8](https://twitter.com/MightyJoeW/status/829472654885261312)
 
 
 ### Day 7: Tuesday February 7, 2017 
@@ -1200,7 +1202,7 @@ A couple of simple things I've picked up already are many helpful shortcuts in S
 
 **Sidenote Jones:** I never imagined growing up that I'd be seeing Pokemon in learning material (or dominating mainstream news and media like when Pokemon Go took off). I still have my original Pokemon Yellow and Silver (I gave my Red and Blue away along with my wrestling action figures in a garage sale when we moved back in the day).
 
-**Link to tweet:** [MightyJoeW Day 7] (https://twitter.com/MightyJoeW/status/829134236686942208)
+**Link to tweet:** [MightyJoeW Day 7](https://twitter.com/MightyJoeW/status/829134236686942208)
 
 **Link to work:** [First Gen Pokemon Chart](http://codepen.io/MightyJoeW/pen/zNJNQQ)
 
@@ -1211,7 +1213,7 @@ A couple of simple things I've picked up already are many helpful shortcuts in S
 
 **Thoughts:** Node.js seems to be functioning properly. However, Express is still giving me issues. I don't think everything installed correctly (I saw some errors). Also, when trying to open package.json, I get the following: 
 
- {
+ `{
  "name": "myapp",
   "version": "1.0.0",
   "description": "",
@@ -1221,11 +1223,11 @@ A couple of simple things I've picked up already are many helpful shortcuts in S
   },
   "author": "",
   "license": "ISC"
-}
+}`
 
 Being new to all of this, it's too early for me to even know what to look for in regards to what's going wrong. I'm going to keep pushing the next few days because I want to get this all set up and be able to shift more of my attention back to coding. Not a fun day of coding, but an important one.
 
-**Link to tweet:** [MightyJoeW Day 6] (https://twitter.com/MightyJoeW/status/828813131988217857)
+**Link to tweet:** [MightyJoeW Day 6](https://twitter.com/MightyJoeW/status/828813131988217857)
 
 **Link to work:** [Nodejs Tutorial](https://www.tutorialspoint.com/nodejs/nodejs_npm.htm)
 
@@ -1236,7 +1238,7 @@ Being new to all of this, it's too early for me to even know what to look for in
 
 **Thoughts:** It's amazing how quickly you can go from feeling on top of the world to feeling like you know absolutely nothing. This happens often to me at our Free Code Camp meetups lol. I have a decent understanding of HTML and CSS, and I'm getting more comfortable with JavaScript, but I have never seen Node.js or React before. I felt like my brain was put in a blender, but I was happy to get exposed to both of these early in my learning. I've wanted to learn both, and I got a little preview of what they both are like. 
 
-**Link to tweet:** [MightyJoeW Day 5] (https://twitter.com/MightyJoeW/status/828369204793446400)
+**Link to tweet:** [MightyJoeW Day 5](https://twitter.com/MightyJoeW/status/828369204793446400)
 
 **Link to work:** [Free Code Camp](http://freecodecampdallas.com/)
 
@@ -1247,7 +1249,7 @@ Being new to all of this, it's too early for me to even know what to look for in
 
 **Thoughts:** At this past Free Code Camp meetup, we spent a lot of time in GitHub. I felt like it was moving too fast, so I really wanted to get a grasp on how to use GitHub. It looked like I was looking at gibberish before, but now it makes a lot more sense.  
 
-**Link to tweet:** [MightyJoeW Day 4] (https://twitter.com/MightyJoeW/status/827932053660397569)
+**Link to tweet:** [MightyJoeW Day 4](https://twitter.com/MightyJoeW/status/827932053660397569)
 
 **Link to work:** [GitHub Guides](https://guides.github.com/) 
 **My GitHub:** (https://github.com/MightyJoeW}
@@ -1265,7 +1267,7 @@ Being new to all of this, it's too early for me to even know what to look for in
 **Thoughts:** It felt really good completing my first little project (especially without using jQuery or Bootstrap). I intentionally decided not to use those as I'm still early in learning JavaScript and want to have a better understanding of it first. Plus, it sounds like they are losing popularity anyway. 
 
 
-**Link to tweet:** [MightyJoeW Day 3] (https://twitter.com/MightyJoeW/status/827548443614859264)
+**Link to tweet:** [MightyJoeW Day 3](https://twitter.com/MightyJoeW/status/827548443614859264)
 
 **Link to work:** [Minutes to Hour Converter (Codepen link)](http://codepen.io/MightyJoeW/full/qRoeYy/)
 
@@ -1279,7 +1281,7 @@ Being new to all of this, it's too early for me to even know what to look for in
 
 **Thoughts:** Today was a really fun day. I initially had a background on the minutes conveter, but I noticed that it clashed with the form on narrow pages. I removed the background which made the page look plain, but it was good enough for the time being. Then, I added pasted my code to codepen to check how it looks on phones. You can see the results in my tweet lol. The fixed footer was in the middle of the page, and everything else looked sloppy. That gave me a good laugh as I looked forward to figuring this thing out.
 
-**Link to tweet:** [MightyJoeW Day 2] (https://twitter.com/MightyJoeW/status/827239030563696640)
+**Link to tweet:** [MightyJoeW Day 2](https://twitter.com/MightyJoeW/status/827239030563696640)
 
 
 ### Day 1: Wednesday February 1, 2017 
@@ -1290,7 +1292,7 @@ Being new to all of this, it's too early for me to even know what to look for in
 Also, I figured out how to show the answer in the console and as a pop up, but I couldn't figure out how to write it to the screen while controlling the placement.
 
 **Link to tweet**
-[MightyJoeW Day 1] (https://twitter.com/MightyJoeW/status/826959358391107584)
+[MightyJoeW Day 1](https://twitter.com/MightyJoeW/status/826959358391107584)
 
 
 ### Day 0: Tuesday Janbruary 32, 2020
@@ -1299,6 +1301,6 @@ Also, I figured out how to show the answer in the console and as a pop up, but I
 
 **Thoughts:** 
 
-**Link to tweet:** [MightyJoeW Day 0] (http://www.twitter.com/mightyjoew)
+**Link to tweet:** [MightyJoeW Day 0](http://www.twitter.com/mightyjoew)
 
 **Link to work:** [The Mighty Hub](https://github.com/MightyJoeW)

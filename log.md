@@ -29,7 +29,7 @@ I kicked off my first coding session of the day working through JSON problems in
 
 <img src="https://lh3.googleusercontent.com/DlQvKUy9INo6Tjz_8mdwzb-Rtu1iDavxdfF1haElQIW9zRB1BYSQ-Wn--DNKBEuU89AiIPNZYrhqOirQcaxwZECEtlAW9rh61IZm8IVxzZ02EAkg-ULwaCY3TWza11E4h3q91VWrFymD8ItSXtx6LLrf1RxaAVMJ2t_06SdRVbIVmtRld4GCUJj8dJMZJ3mjDvEVTD_cVfqNn8vO4E211171SKagmgM6agw8n5_CT6FsVCS2bdH_FnxVWUv9Oti6cFjfrbu4ZAxhSLSt11bCaSCb-hKEUBKMTchiFiFAAo8NyhDec735xy3Cw-e_15gvMPzElEH7kiPkGU19uOfbi4MtzpJAKH-BW_onEcjqrf5ekkjzqugX4Pi7zwujuCFTEem3EYROJo81AO8-TEwR4i_riGUep0RqMU1uAb47iitzwlBW39LHb4ES2x7xh5zDKBAEHyWqeKopVn6wwnx_6WVYE20M-GNfsIYk9Rxeh60KycgaBzXTnkO1wngOK5VtjoOqV2W0JhuuN19VeXtPksVoy6CPXHREFAlzb6R5QGl9qFzB8_GorsDY7DxAFf8taDWVZYZZ3uiINLSAzEPgE0pbOTM1jS7E9rzawYosTTV0Zuq8o_Isrw=w1194-h627-no" alt="Free Code Camp Beta - Basic JavaScript: Record Collection">
  
-But at some point in time, I believe one must focus in on a set of specific goals. When I’d get stuck, I would use that as an opportunity to dabble in a new language or play with some Arduino code. But I’m on a new path to stay focused on front-end development for now. [Free Code Camp](https://www.freecodecamp.com/) has it all laid out for me (along with the <a href="https://www.udemy.com/the-web-developer-bootcamp/" target="about_blank">Web Development Bootcamp</a> course on Udemy), I have all of the resources I need (including a live weekly fCC meetup), and I will NOT use difficult problems as an excuse to switch gears to learn something new. 
+But at some point in time, I believe one must focus in on a set of specific goals. When I’d get stuck, I would use that as an opportunity to dabble in a new language or play with some Arduino code. But I’m on a new path to stay focused on front-end development for now. [Free Code Camp](https://www.freecodecamp.com/) has it all laid out for me (along with the [Web Development Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) course on Udemy), I have all of the resources I need (including a live weekly fCC meetup), and I will NOT use difficult problems as an excuse to switch gears to learn something new. 
  
 So as I work through the fCC Beta and catch up to where I left off on the original Free Code Camp curriculum, I plan to work my way through both, gaining more reps and experience along the way (plus, I’m not sure if the beta progress will be saved long term). 
  
@@ -1312,12 +1312,16 @@ Also, I figured out how to show the answer in the console and as a pop up, but I
 [MightyJoeW Day 1](https://twitter.com/MightyJoeW/status/826959358391107584)
 
 
-### Day 0: Tuesday Janbruary 32, 2020
-
-**Today's Progress**: 
+### Day 0: The Genesis
 
 **Thoughts:** 
+<p>Today marks the beginning of an epic 100-day coding journey. A story that great sages will pass down from generation to generation. This quest will feature a potpourri unfiltered joy, unrivaled pain, comedy, and creativity.</p>
+ 
+Ladies and gentlemen. I present to you, #100DaysofCode with **MightyJoeW**.
 
-**Link to tweet:** [MightyJoeW Day 0](http://www.twitter.com/mightyjoew)
+<img src="https://lh3.googleusercontent.com/IxWrbHJO5XBL5BTVpoEWggK78ftwBFSb6Ydzl3i5xzXvG29uvMK-V7POuH9lasxumWGN-wYqcEi5nPH9GV-IuFdt42_8uUnhiZ3_5RrJo2OE2ZEWg65xCNzChfKpoHqdEt0ZDULmp1kdbBMPb5QD-UIW5Ir5Hjag0Ph9rrhn3_rXWUDDvsS21SriUyJEGZV8zg6ys36yHRD46WlvWusmaunrv2KDsMfW3_RJF1StKSQeJTOx5L8fYJq8e4yxlKw7H_Qx21VvB9qbm9MozT9HIFYb1p9Yhyxn4Z003KERjrrC2ef7oHvan97himXPd6fenidiPNjXmfMWooOqbBRus2y0oZL_kM9T2dPBLMKHxCM5p2EGmiSoiTT8GZdnSjAmsVoasb4y_vUyQPA0aOXoJ1n93iNvq9jjimR9rdxMJE2i43XPIA-OpjjN_2j5hZtyDVazVfH48W36xW116QSEQT2SgeBFc4CILu-WPXmIa-Y96hFkaHLm4tgdejHz2gJD_UPbeUlti_LOOZ0aXJSSrOf9VrH3b-XSdY-DL1KpLy9Zpiup_hAaAmJLeuHQQJkYPjSvdAWyImVbopXIByRREHhFxu6_IxTzyuylnFCC0l51NuQpa1r5jg=w600-h380-no" alt="Cartoon Photo of MightyJoeW">
 
-**Link to work:** [The Mighty Hub](https://github.com/MightyJoeW)
+
+**Catch me on Twitter:** [MightyJoeW](http://www.twitter.com/mightyjoew)
+
+**Peep my Repo:** [The Mighty Hub](https://github.com/MightyJoeW)

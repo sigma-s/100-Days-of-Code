@@ -1341,11 +1341,10 @@ So to everyone out there learning, struggling, and succeeding, keep fighting thr
 
 
 <h2 align="center">Day 99: Tuesday May 30, 2017 - in progress</h2>
-
 **Today's Progress**
 - Spent time learning and implementing advanced Github Markdown
 
 **Thoughts**
 (Currently overhauling this log)
 
-**Link to tweet** [MightyJoeW Day 99](https://twitter.com/MightyJoeW/)
+**Link to tweet** [MightyJoeW Day 99](https://twitter.com/MightyJoeW/status/870063111406993408)

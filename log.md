@@ -7,11 +7,11 @@
 - Continued working on Landing Page
 
 **Thoughts**
-Oh, I didn’t see you there. `console.log("Why, Hello, World.");` 
+Oh, I didn’t see you there. `console.log("Why hello there, World.");` 
  
 So the question of the day is how does one spend day 98 of #100DaysOfCode? Two days away from a triumphant celebration of persistence and excellence? And how does one feel with all of this new knowledge?
  
-I have a feeling in which I believe I’ll have the rest of my programming life. I feel like I’ve learned so much yet know so little. I’ve heard many guests on podcasts speak of this feeling including the dreaded imposter’s syndrome, so I’ll continue to move smoothly knowing that this is par for the course. 
+I have a feeling in which I believe I’ll have the rest of my programming life. I feel like I’ve learned so much yet know so little. I’ve heard many guests on podcasts speak of this feeling including the dreaded *Imposter’s Syndrome*, so I’ll continue to move smoothly knowing that this is par for the course. 
 
 ![Par for the Course](http://metrouk2.files.wordpress.com/2014/04/81182_3ds_mariogolfwt_022013_scrn01.jpg)
  
@@ -32,13 +32,16 @@ So to everyone out there learning, struggling, and succeeding, keep fighting thr
 ### Days 97: Sunday May 29, 2017
 
 **Today's Progress**
-- continued through fCC Beta Javascript section
+- Continued through fCC Beta Javascript section
 
 **Thoughts**
-Sleepy Jones so this will be quick. I can't believe I got stuck on the SAME mistake from the original FCC Manipulating Complex Objects challenge. And I made the SAME mistake of forgetting a comma between objects in an array. I better not EVER forget that again. I'm going to have nightmares of arrays with no commas :grimacing:. I will become the COMMA, KING. Goodnight! ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, `#CommaCity`
+Another late coding session = Sleepy Jones :sleeping: so this will be a quick yet impactful post about a man who has been fooled twice by the same concept.
+
+I can't believe I got stuck on the SAME mistake from the original Free Code Camp challenge [Manipulating Complex Objects](https://www.freecodecamp.com/challenges/manipulating-complex-objects). Even worse, I made the SAME mistake of forgetting a comma between objects in an array. 
 
 <img src="https://pbs.twimg.com/media/C7fkiSpXkAEEdsn.jpg" alt="JSON Missing Comma">
 
+I better not EVER forget that again. I'm going to have nightmares of arrays with no commas :grimacing:. I vow to become **The COMMA, KING.** `console.log("Goodnight");` ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, `#CommaCity`
 
 **Link to tweet** [MightyJoeW Day 97](https://twitter.com/MightyJoeW/status/869398932421578752)
 
@@ -803,12 +806,14 @@ I'm looking forward to the JavaScript section. I’m planning to work through th
 
 Smooth segway to CodeCombat. I wanted to get a feel of CodeCombat to see if this was a good resource for kids to learn how to code, and I am very impressed. You can pick from a few different programming languages to use as commands to control your character. For example, one of the levels is a maze in which your character needs to go right, then up, then right, then down multiple times. With JavaScript as your language of choice, you can use a while loop like this:
 
+```
 while(true) {
     hero.moveRight();
     hero.moveUp();
     hero.moveRight();
     hero.moveDown();
 }
+```
 
 The syntax is authentic, and the process feels true to coding although it doesn’t feel like coding (it really feels like playing a video game). Looks like I better replace some Pokemon Moon time with CodeCombat. 
 
@@ -1213,7 +1218,8 @@ A couple of simple things I've picked up already are many helpful shortcuts in S
 
 **Thoughts:** Node.js seems to be functioning properly. However, Express is still giving me issues. I don't think everything installed correctly (I saw some errors). Also, when trying to open package.json, I get the following: 
 
- `{
+```
+ {
  "name": "myapp",
   "version": "1.0.0",
   "description": "",
@@ -1223,7 +1229,8 @@ A couple of simple things I've picked up already are many helpful shortcuts in S
   },
   "author": "",
   "license": "ISC"
-}`
+}
+```
 
 Being new to all of this, it's too early for me to even know what to look for in regards to what's going wrong. I'm going to keep pushing the next few days because I want to get this all set up and be able to shift more of my attention back to coding. Not a fun day of coding, but an important one.
 

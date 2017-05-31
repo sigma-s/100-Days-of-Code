@@ -1,5 +1,32 @@
 # 100 Days Of Code - The Mighty Log
 
+### Days 98: Tuesday May 30, 2017
+
+**Today's Progress**
+- continued through fCC Beta Javascript section
+- Continued working on Landing Page
+
+**Thoughts**
+Oh, I didn’t see you there. Why hello, world. 
+ 
+So the question of the day is how does one spend day 98 of #100DaysOfCode? Two days away from a triumphant celebration of persistence and excellence? And how does one feel with all of this new knowledge?
+ 
+I have a feeling in which I believe I’ll have the rest of my programming life. I feel like I’ve learned so much yet know so little. I’ve heard many guests on podcasts speak of this feeling including the dreaded imposter’s syndrome, so I’ll continue to move smoothly knowing that this is par for the course. 
+
+![Par for the Course](http://metrouk2.files.wordpress.com/2014/04/81182_3ds_mariogolfwt_022013_scrn01.jpg)
+ 
+I kicked off my first coding session of the day working through JSON problems in the free Code Camp beta, and I spent my evening coding session working on my landing page. Seeing as how I started Free Code Camp back in January, I should be WAY past these sections. However, I’ve taken my time with the process while also exploring different programs and languages. I’ve enjoyed diving headfirst into the wacky world of coding, and I’ve taste-tested just about everything that has come my way. 
+ 
+But at some point in time, I believe one must focus in on a set of specific goals. When I’d get stuck, I would use that as an opportunity to dabble in a new language or play with some Arduino code. But I’m on a new path to stay focused on front end development for now. Free Code Camp has it all laid out for me (along with the Web Development Bootcamp course on Udemy), I have all of the resources I need (including a live weekly fCC meetup), and I will NOT use difficult problems as an excuse to switch gears to learn something new. 
+ 
+So as I work through the fCC Beta and catch up to where I left off on fCC, I plan to work my way through both, gaining more reps and experience along the way (annnnd I’m not sure if the beta progress will be saved long term). 
+ 
+So to everyone out there learning, struggling, and succeeding, keep fighting through it. We WILL make it, and it will be dang worth it!
+
+
+**Link to tweet** [MightyJoeW Day 98] (https://twitter.com/MightyJoeW/status/869780685535404032)
+
+
 ### Days 97: Sunday May 29, 2017
 
 **Today's Progress**

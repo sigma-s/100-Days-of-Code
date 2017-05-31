@@ -803,12 +803,12 @@ I'm looking forward to the JavaScript section. I’m planning to work through th
 
 Smooth segway to CodeCombat. I wanted to get a feel of CodeCombat to see if this was a good resource for kids to learn how to code, and I am very impressed. You can pick from a few different programming languages to use as commands to control your character. For example, one of the levels is a maze in which your character needs to go right, then up, then right, then down multiple times. With JavaScript as your language of choice, you can use a while loop like this:
 
-`while(true) {
+while(true) {
     hero.moveRight();
     hero.moveUp();
     hero.moveRight();
     hero.moveDown();
-}`
+}
 
 The syntax is authentic, and the process feels true to coding although it doesn’t feel like coding (it really feels like playing a video game). Looks like I better replace some Pokemon Moon time with CodeCombat. 
 

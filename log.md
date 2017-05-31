@@ -4,14 +4,14 @@ Hello World! You are about to witness the beginning of an epic 100-day coding jo
 
 Some moments, I will be the smartest man alive. Others moments, I will be a stupid idiot. But each day, I will be a valiant warrior, fighting to develop and perfect the skills necessary to evolve into a true beast on the keys.
  
-Ladies and gentlemen. I present to you, #100DaysofCode with **MightyJoeW**.
+Ladies and gentlemen. I present to you, **#100DaysofCode with _MightyJoeW_**.
 
 <img src="https://lh3.googleusercontent.com/IxWrbHJO5XBL5BTVpoEWggK78ftwBFSb6Ydzl3i5xzXvG29uvMK-V7POuH9lasxumWGN-wYqcEi5nPH9GV-IuFdt42_8uUnhiZ3_5RrJo2OE2ZEWg65xCNzChfKpoHqdEt0ZDULmp1kdbBMPb5QD-UIW5Ir5Hjag0Ph9rrhn3_rXWUDDvsS21SriUyJEGZV8zg6ys36yHRD46WlvWusmaunrv2KDsMfW3_RJF1StKSQeJTOx5L8fYJq8e4yxlKw7H_Qx21VvB9qbm9MozT9HIFYb1p9Yhyxn4Z003KERjrrC2ef7oHvan97himXPd6fenidiPNjXmfMWooOqbBRus2y0oZL_kM9T2dPBLMKHxCM5p2EGmiSoiTT8GZdnSjAmsVoasb4y_vUyQPA0aOXoJ1n93iNvq9jjimR9rdxMJE2i43XPIA-OpjjN_2j5hZtyDVazVfH48W36xW116QSEQT2SgeBFc4CILu-WPXmIa-Y96hFkaHLm4tgdejHz2gJD_UPbeUlti_LOOZ0aXJSSrOf9VrH3b-XSdY-DL1KpLy9Zpiup_hAaAmJLeuHQQJkYPjSvdAWyImVbopXIByRREHhFxu6_IxTzyuylnFCC0l51NuQpa1r5jg=w990-h627-no" alt="Cartoon Photo of MightyJoeW">
 
+<p align="center"><b>Catch me on Twitter: </b><a href="http://www.twitter.com/mightyjoew">MightyJoeW</a></p>
 
-**Catch me on Twitter:** [MightyJoeW](http://www.twitter.com/mightyjoew)
+<p align="center"><b>Peep my Repo: </b><a href="https://github.com/MightyJoeW">The Mighty Github</a></p>
 
-**Peep my Repo:** [The Mighty Hub](https://github.com/MightyJoeW)
 
 
 ### Day 1: Wednesday February 1, 2017 

@@ -4,7 +4,7 @@
 
 Hello World! You are about to witness the beginning of an epic 100-day coding journey: A story that great sages will pass down from generation to generation. This quest will feature a potpourri of unfiltered joy, unrivaled pain, and unexpected epiphanies.
 
-Some moments, I will be the smartest man alive. Others moments, I will be a stupid idiot. But each day, I will be a valiant warrior, fighting to develop and perfect the skills necessary to evolve into a true beast on the keys.
+Some moments, I will be the smartest man alive. Others moments, I will be a stupid idiot. But each day, I will be a valiant warrior, fighting to develop and perfect the skills necessary to evolve into a true beast with these keys.
  
 Ladies and gentlemen. I present to you, **#100DaysofCode with _MightyJoeW_**.
 
@@ -16,19 +16,22 @@ Ladies and gentlemen. I present to you, **#100DaysofCode with _MightyJoeW_**.
 <hr>
 <br>
 
+<h2 align="center">
+Day 1: Wednesday February 1, 2017
+</h2>
+ 
+**Today's Progress**: I've been working on a minutes to hours converter, and I was able to figure out the JavaScript code to make the conversion happen when clicking the Convert button.
 
-### Day 1: Wednesday February 1, 2017 
-
-**Today's Progress**: I've been working on a minutes to hours converter, and I was able to figure out the JavaScript code to make the conversion happen when click the Convert button.
-
-**Thoughts** I've been coding regularly since December 2016, but this was my first independent project. When a user inputs a number, the output would be that number of minutes in hours. I created an else if statement for if userInput is 60 (the "hours" string would be singular in that case). I didn't look at any code for the statement so needless to say, I felt like a BOSS.
+**Thoughts** I've been coding regularly since December 2016, but this was my first independent project. When a user inputs a number, the output would be that number of minutes in hours. I created an if/else statement for if userInput is 60 (the "hours" string would be singular in that case). I didn't look at any code for the statement so needless to say, I felt like a BOSS.
 Also, I figured out how to show the answer in the console and as a pop up, but I couldn't figure out how to write it to the screen while controlling the placement.
 
 **Link to tweet**
 [MightyJoeW Day 1](https://twitter.com/MightyJoeW/status/826959358391107584)
 
 
-### Day 2: Thursday February 2, 2017 
+<h2 align="center">
+Day 2: Thursday February 2, 2017
+</h2> 
 
 **Today's Progress**: Got the web version of my minutes to hours converter looking decent. However, the mobile view was UGLY! Specific steps:
 - Added footer with copyright 
@@ -40,7 +43,9 @@ Also, I figured out how to show the answer in the console and as a pop up, but I
 **Link to tweet:** [MightyJoeW Day 2](https://twitter.com/MightyJoeW/status/827239030563696640)
 
 
-### Day 3: Friday February 3, 2017 
+<h2 align="center">
+Day 3: Friday February 3, 2017
+</h2>   
 
 **Today's Progress**: Finished the Minutes to Hour Converter! Well, at least for now...
 - added lang=""en-us"" to HTML
@@ -57,7 +62,10 @@ Also, I figured out how to show the answer in the console and as a pop up, but I
 **Link to work:** [Minutes to Hour Converter (Codepen link)](http://codepen.io/MightyJoeW/full/qRoeYy/)
 
 
-### Day 4: Saturday February 4, 2017 
+<h2 align="center">
+Day 4: Saturday February 4, 2017
+</h2>
+  
 
 **Today's Progress**: Learned my way around GitHub.
 
@@ -69,7 +77,9 @@ Also, I figured out how to show the answer in the console and as a pop up, but I
 **My GitHub:** (https://github.com/MightyJoeW}
 
 
-### Day 5: Sunday February 5, 2017 
+<h2 align="center">
+Day 5: Sunday February 5, 2017
+</h2>  
 
 **Today's Progress**: Spent more time learning how to use GitHub. Then, worked with Node.js and React for the first time at Free Code Camp. 
 
@@ -80,7 +90,9 @@ Also, I figured out how to show the answer in the console and as a pop up, but I
 **Link to work:** [Free Code Camp](http://freecodecampdallas.com/)
 
 
-### Day 6: Monday February 6, 2017 
+<h2 align="center">
+Day 6: Monday February 6, 2017
+</h2>  
 
 **Today's Progress**: Morning - Free Code Camp lessons. Evening - Got my first HTTP server up and running with node.js.
 
@@ -107,7 +119,9 @@ Being new to all of this, it's too early for me to even know what to look for in
 **Link to work:** [Nodejs Tutorial](https://www.tutorialspoint.com/nodejs/nodejs_npm.htm)
 
 
-### Day 7: Tuesday February 7, 2017 
+<h2 align="center">
+Day 7: Tuesday February 7, 2017
+</h2> 
 
 **Today's Progress**: Reviewed HTML and CSS. Created a few basic HTML pages including a Pokemon chart and a login page.
 
@@ -122,7 +136,9 @@ A couple of simple things I've picked up already are many helpful shortcuts in S
 **Link to work:** [First Gen Pokemon Chart](http://codepen.io/MightyJoeW/pen/zNJNQQ)
 
 
-### Day 8: Wednesday February 8, 2017 
+<h2 align="center">
+Day 8: Wednesday February 8, 2017 
+</h2>
 
 **Today's Progress**: Week 1 complete! More HTML and CSS review (working through Udemy's Web Developer Bootcamp by Colt Steele). Practiced CSS with an 'About Me' page and a 'To Do list' page.
 
@@ -133,6 +149,9 @@ A couple of simple things I've picked up already are many helpful shortcuts in S
 **Link to tweet:** [MightyJoeW Day 8](https://twitter.com/MightyJoeW/status/829472654885261312)
 
 
+<h2 align="center">
+Day 8: Wednesday February 8, 2017 
+</h2>
 ### Day 9: Thursday February 9, 2017 
 
 **Today's Progress**: More Web Development Bootcamp CSS lessons plus additional work on Pokedex. Created pages for numerical list and alphabetical list.
@@ -936,7 +955,7 @@ I can see why building this weather app has caused so much heartache throughout 
 **Today's Progress**:
 - Completed Solo Learn's Python 'More Tyes' section
 
-**Link to tweet:** [MightyJoeW Day 64] (https://twitter.com/MightyJoeW/status/849824770665435136)
+**Link to tweet:** [MightyJoeW Day 64](https://twitter.com/MightyJoeW/status/849824770665435136)
 
 
 ### Day 65: Thursday April 6, 2017
@@ -978,7 +997,7 @@ Alright, now I'm not sure if learning two languages at once is more helpful or h
 
 I want to stick to my plans, but I don't want to spread myself too thin to where I'm not retaining enough of anything. At the moment, I think I'm leaning towards focusing back primarily on Javascript and doing Arduino in my free time.
 
-**Link to tweet:** [MightyJoeW Day 66] (https://twitter.com/MightyJoeW/status/850537127045726208)
+**Link to tweet:** [MightyJoeW Day 67](https://twitter.com/MightyJoeW/status/850537127045726208)
 
 
 ### Day 68: Sunday April 9, 2017
@@ -1043,19 +1062,20 @@ Back to Javascript.
 **Link to tweet:** [MightyJoeW Day 72](https://twitter.com/MightyJoeW/status/852723357409783808)
 
 
-### Day 74: Saturday April 15, 2017
-
-**Today's Progress** - 
-- Arduino lessons and practice with sensors (out of town)
-
-**Link to tweet:** [MightyJoeW Day 74](https://twitter.com/MightyJoeW/status/853469101758480385)
-
 ### Day 73: Friday April 14, 2017
 
 **Today's Progress** - 
 - More Arduino lessons and experimentation
 
 **Link to tweet:** [MightyJoeW Day 73](https://twitter.com/MightyJoeW/status/853022422697750528)
+
+
+### Day 74: Saturday April 15, 2017
+
+**Today's Progress** - 
+- Arduino lessons and practice with sensors (out of town)
+
+**Link to tweet:** [MightyJoeW Day 74](https://twitter.com/MightyJoeW/status/853469101758480385)
 
 
 ### Day 75: Tuesday April 18, 2017
@@ -1070,7 +1090,7 @@ I picked back up with Free Code Camp's challenges (which have been very challeng
 
 As usual, I am Sleepy Jones. Until next time!
 
-**Link to tweet:** [MightyJoeW Day 75] (https://twitter.com/MightyJoeW/status/854577020826767361)
+**Link to tweet:** [MightyJoeW Day 75](https://twitter.com/MightyJoeW/status/854577020826767361)
 
 
 ### Days 76 and 77: Wednesday April 19, 2017, Thursday April 20, 2017
@@ -1086,7 +1106,7 @@ As usual, I am Sleepy Jones. Until next time!
 **Today's Progress** - 
 - Got introduced to Java then reviewed interview prep materials
 
-**Link to tweet:** [MightyJoeW Day 78] (https://twitter.com/MightyJoeW/status/855638606463074304)
+**Link to tweet:** [MightyJoeW Day 78](https://twitter.com/MightyJoeW/status/855638606463074304)
 
 
 ### Days 79: Saturday April 22, 2017
@@ -1353,6 +1373,9 @@ So to everyone out there learning, struggling, and succeeding, keep fighting thr
 **Link to tweet** [MightyJoeW Day 98](https://twitter.com/MightyJoeW/status/869780685535404032)
 
 
+<h2 align="center">
+Day 8: Wednesday February 8, 2017 
+</h2>
 ### Days 99: Tuesday May 30, 2017 - in progress
 
 **Today's Progress**

@@ -1,5 +1,15 @@
 # 100 Days Of Code - The Mighty Log
 
+### Days 99: Tuesday May 30, 2017 - in progress
+
+**Today's Progress**
+- Spent time learning and implementing advanced Github Markdown
+
+**Thoughts**
+
+**Link to tweet** [MightyJoeW Day 99](https://twitter.com/MightyJoeW/)
+
+
 ### Days 98: Tuesday May 30, 2017
 
 **Today's Progress**
@@ -37,11 +47,11 @@ So to everyone out there learning, struggling, and succeeding, keep fighting thr
 **Thoughts**
 Another late coding session = Sleepy Jones :sleeping: so this will be a quick yet impactful post about a man who has been fooled twice by the same concept.
 
-I can't believe I got stuck on the SAME mistake from the original Free Code Camp challenge [Manipulating Complex Objects](https://www.freecodecamp.com/challenges/manipulating-complex-objects). Even worse, I made the SAME mistake of forgetting a comma between objects in an array. 
+I can't believe I got stuck on the **SAME** mistake from the original Free Code Camp challenge [Manipulating Complex Objects](https://www.freecodecamp.com/challenges/manipulating-complex-objects). Even worse, I made the **_SAME_** mistake of forgetting a comma between objects in an array. 
 
 <img src="https://pbs.twimg.com/media/C7fkiSpXkAEEdsn.jpg" alt="JSON Missing Comma">
 
-I better not EVER forget that again. I'm going to have nightmares of arrays with no commas :grimacing:. I vow to become **The COMMA, KING.** `console.log("Goodnight");` ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, `#CommaCity`
+I better not EVER forget that again. I'm going to have nightmares of arrays with no commas :grimacing:. I vow to become **THE COMMA KING.** ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, `#TheCommaKing`
 
 **Link to tweet** [MightyJoeW Day 97](https://twitter.com/MightyJoeW/status/869398932421578752)
 

@@ -150,9 +150,8 @@ Day 8: Wednesday February 8, 2017
 
 
 <h2 align="center">
-Day 8: Wednesday February 8, 2017 
-</h2>
-### Day 9: Thursday February 9, 2017 
+Day 9: Thursday February 9, 2017 
+</h2>  
 
 **Today's Progress**: More Web Development Bootcamp CSS lessons plus additional work on Pokedex. Created pages for numerical list and alphabetical list.
 
@@ -161,7 +160,9 @@ Day 8: Wednesday February 8, 2017
 **Link to tweet:** [MightyJoeW Day 9](https://twitter.com/MightyJoeW/status/829900574204256263)
 
 
-### Day 10: Friday February 10, 2017 
+<h2 align="center">
+Day 10: Friday February 10, 2017 
+</h2>  
 
 **Today's Progress**: More work on the Pokedex. Hyperlinked the Number and Name titles to allow user to rearrange the Pokemon by number of name. Filled in more Pokemon info. Removed background photo. Also, created a repository https://github.com/MightyJoeW/Pokedex.
 
@@ -172,7 +173,10 @@ Day 8: Wednesday February 8, 2017
 **Link to work:** [Pokedex repository](https://github.com/MightyJoeW/Pokedex)
 
 
-### Day 11: Saturday February 11, 2017 
+<h2 align="center">
+Day 11: Saturday February 11, 2017 
+</h2>
+
 
 **Today's Progress**: Continued filling in Pokedex. Good amount of reps creating hrefs by scratch. 
 
@@ -181,7 +185,9 @@ Day 8: Wednesday February 8, 2017
 **Link to tweet:** [MightyJoeW Day 11](https://twitter.com/MightyJoeW/status/830646204576968704
 
 
-### Day 12: Sunday February 12, 2017 
+<h2 align="center">
+Day 12: Sunday February 12, 2017 
+</h2> 
 
 **Today's Progress**: Created a JavaScript quiz during today's Free Code Camp meetup. Also, continued filling out Pokedex. 
 
@@ -192,7 +198,9 @@ Day 8: Wednesday February 8, 2017
 **Link to work:** [Simple JavaSCript Quiz](https://github.com/MightyJoeW/JavaScript-Quiz)
 
 
-### Day 13: Monday February 13, 2017 
+<h2 align="center">
+Day 13: Monday February 13, 2017 
+</h2>   
 
 **Today's Progress**: Found error in my JavaScript quiz. ONE missing parenthesis messed up the whole code! Also, finally finished HTML section of Gen 1 Pokemon Chart.
 
@@ -203,7 +211,9 @@ Day 8: Wednesday February 8, 2017
 **Link to work:** [Working JavaScript Quiz](https://github.com/MightyJoeW/JavaScript-Quiz) [Pokedex] (https://github.com/MightyJoeW/The-Pokedex)
 
 
-### Day 14: Tuesday February 14, 2017 
+<h2 align="center">
+Day 14: Tuesday February 14, 2017 
+</h2>   
 
 **Today's Progress**: Used JavaScript and the DOM tutorials to create webpages with various functionality. Completed CSS Selectors exercise in Udemy's Web Development Bootcamp course.
 
@@ -213,7 +223,9 @@ After a few days away from Udemy, I got back to those lessons and completed the 
 **Link to tweet:** [MightyJoeW Day 14](https://twitter.com/MightyJoeW/status/831675551203078144)
 
 
-### Day 15: Wednesday February 15, 2017 
+<h2 align="center">
+Day 15: Wednesday February 15, 2017 
+</h2> 
 
 **Today's Progress**: Udemy lessons then created CSS Tic Tac Toe board and blog from scratch.  
 
@@ -226,7 +238,9 @@ Now, I'm hoping that this course can help these JavaScript concepts sink in more
 **Link to tweet:** [MightyJoeW Day 15](https://twitter.com/MightyJoeW/status/832033261220196352)
 
 
-### Day 16: Thursday February 16, 2017
+<h2 align="center">
+Day 16: Thursday February 16, 2017 
+</h2> 
 
 **Today's Progress**: FINALLY fixed navbar on portfolio to stay fixed at top (container needed to be ABOVE the navbar) 
 . Also, fixed hamburger menu (needed to manually add bootstrap links from site opposed to using the quick links in codepen). Udemy course led me to finding this error.
@@ -244,7 +258,9 @@ It's been fun experimenting and getting different things to work, but unfortunat
 **Link to work:** Portfolio(http://s.codepen.io/MightyJoeW/debug/JEEqNV/PNrvYLBOzOQM)
 
 
-### Day 17: Friday February 17, 2017
+<h2 align="center">
+Day 17: Friday February 17, 2017 
+</h2> 
 
 **Today's Progress**: 
 - Finished HTML and CSS sections of Udemy's Web Development Bootcamp. 
@@ -265,7 +281,9 @@ Using Bootstrap, I started working on a new landing page for one of my sites, ga
 **Link to tweet:** [MightyJoeW Day 17](https://twitter.com/MightyJoeW/status/832743411606179840)
 
 
-### Day 18: Saturday February 18, 2017
+<h2 align="center">
+Day 18: Saturday February 18, 2017 
+</h2>
 
 **Today's Progress**: 
 - continued working on new portfolio page
@@ -276,7 +294,9 @@ Using Bootstrap, I started working on a new landing page for one of my sites, ga
 **Link to tweet:** [MightyJoeW Day 18](https://twitter.com/MightyJoeW/status/833181935635726338)
 
 
-### Day 19: Sunday February 19, 2017
+<h2 align="center">
+Day 19: Sunday February 19, 2017 
+</h2>
 
 **Today's Progress**: 
 Worked in the DOM and with JavaScript at today's Free Code Camp meetup
@@ -289,7 +309,9 @@ For example, I didn't know that text editors can rearrange your code to make it 
 **Link to tweet:** [MightyJoeW Day 19](https://twitter.com/MightyJoeW/status/833513634215124992)
 
 
-### Day 20: Monday February 20, 2017
+<h2 align="center">
+Day 20: Monday February 20, 2017 
+</h2> 
 
 **Today's Progress**: 
 - Continued Udemy's Web Development Bootcamp lessons (working through JavaScript sections)
@@ -302,7 +324,9 @@ Today was another good day of learning and practicing. I'm working through the J
 **Link to tweet:** [MightyJoeW Day 20](https://twitter.com/MightyJoeW/status/833906812575481856)
 
 
-### Day 21: Tuesday February 21, 2017
+<h2 align="center">
+Day 21: Tuesday February 21, 2017 
+</h2> 
 
 **Today's Progress**: 
 - Finished Udemy's Web Development Bootcamp Section 9: Javascript Basics: Control Flow. Up next: Section: 10 Javascript Basics: Functions
@@ -322,7 +346,9 @@ Update: I figured it out!! Again, another small issue. I had the closing div tag
 **Link to work** [Joe Warren Portfolio](http://codepen.io/MightyJoeW/full/JEEqNV/)
 
 
-### Day 22: Wednesday February 22, 2017
+<h2 align="center">
+Day 22: Wednesday February 22, 2017 
+</h2>
 
 **Today's Progress**: 
 - Practice with JavaScript functions
@@ -341,7 +367,9 @@ I actually don't mind at this stage though because I'm seeing how much I'm retai
 **Sidenote Jones** I just realized this doesn't have a spell check. Hopefully everything has been half-decent...
 
 
-### Day 23: Thursday February 23, 2017
+<h2 align="center">
+Day 23: Thursday February 23, 2017 
+</h2>
 
 **Today's Progress**: 
 - JavaScript Arrays practice
@@ -360,7 +388,9 @@ Also, I'm ready to start making some apps! I was excited about the JavaScript 30
 I finally took advantage of this warm winter weather and went on a nice long bike ride earlier. It felt great but these legs are sore! (I've gotten sick a couple of times these past couple of months and my workout routine is all out of whack.)
 
 
-### Day 24: Friday February 24, 2017
+<h2 align="center">
+Day 24: Friday February 24, 2017 
+</h2> 
 
 **Today's Progress**:
 - More Array Iteration practice using forEach()
@@ -375,7 +405,9 @@ Array Iteration has not been my friend thus far. I'm currently trying to figure 
 The ‘coffee and code’ way of life is starting to make more sense. I’ve never been a consumer of coffee, but it’s been a few days in a row that I’ve gotten sleepy while trying to progress through this content. I may need to get a little taste of the coffee life #SleepyJones
 
 
-### Day 25: Saturday February 25, 2017
+<h2 align="center">
+Day 25: Saturday February 25, 2017 
+</h2> 
 
 **Today's Progress**:
 - Finished adding temporary thumbnails for each app/website on portfolio
@@ -389,7 +421,9 @@ Tomorrow, things will pick back up with the Free Code Camp meetup. They consiste
 **Link to tweet:** [MightyJoeW Day 25](https://twitter.com/MightyJoeW/status/835729938149842944)
 
 
-### Day 26: Sunday February 26, 2017
+<h2 align="center">
+Day 26: Sunday February 26, 2017 
+</h2>
 
 **Today's Progress**:
 - Free Code Camp meetup (Discussed Wordpress & Git, Fetch API, and JavaScript Promises)
@@ -406,7 +440,9 @@ Lastly, I still am wanting to make a cooler portfolio. I found some really good 
 **Link to tweet:** [MightyJoeW Day 26](https://twitter.com/MightyJoeW/status/836024497346068480)
 
 
-### Day 27: Monday February 27, 2017
+<h2 align="center">
+Day 27: Monday February 27, 2017 
+</h2>
 
 **Today's Progress**:
 - Installed Sass
@@ -420,7 +456,9 @@ I messed around and got excited looking ar portfolios on Codepen and started on 
 **Link to work** [Joe Warren Portfolio Deluxe](http://s.codepen.io/MightyJoeW/debug/GWpKOm/wQMPoZoYwgnk) This portfolio is based off of MOHAMMED ERRAYSY's so I give him all of the credit. I'm learning from his code. Also, I haven't looked at the JavaScript yet, so I don't know if the Contact form is active (don't try it). 
 
 
-### Day 28: Tuesday February 28, 2017
+<h2 align="center">
+Day 28: Tuesday February 28, 2017 
+</h2>
 
 **Today's Progress**:
 - Continued working on Portfolio: Deluxe Edition
@@ -437,7 +475,7 @@ I am still committed to completing Free Code Camp, and I’m definitely going to
 **Link to work** [Joe Warren Portfolio Deluxe](http://s.codepen.io/MightyJoeW/debug/GWpKOm/wQMPoZoYwgnk) Again, this portfolio is based off of MOHAMMED ERRAYSY's.
 
 
-### Day 29: Wednesday March 1, 2017
+<h2 align="center">Day 29: Wednesday March 1, 2017 </h2>
 
 **Today's Progress**:
 - Odin project Command Line lessons
@@ -454,8 +492,7 @@ Then, I had a late night session coding along with Emily Xie’s Matrix Digital 
 **Link to work** [Blue Matrix](http://codepen.io/MightyJoeW/full/qrbJbL/) 
 
 
-### Day 30: Thursday March 2, 2017
-
+<h2 align="center">Day 30: Thursday March 2, 2017 </h2>
 **Today's Progress**:
 - Odin project Git and front-end dev sections
 
@@ -468,8 +505,7 @@ I don't know if git takes awhile to get used to or The Odin Project is informati
 I never knew about Google's Revision history. This can come in handy big time.
 
 
-### Day 31: Friday March 3, 2017
-
+<h2 align="center">Day 31: Friday March 3, 2017</h2>
 **Today's Progress**:
 - More Odin Project HTML and CSS work
 
@@ -482,8 +518,7 @@ I never knew about Google's Revision history. This can come in handy big time.
 I'm both Hungry Jones and Sleepy Jones right now. I need food and a bed. Goodnight!
 
 
-### Day 32: Saturday March 4, 2017
-
+<h2 align="center">Day 32: Saturday March 4, 2017</h2>
 **Today's Progress**:
 - More Odin Project HTML and CSS work (focused more on CSS)
 
@@ -498,8 +533,7 @@ This is mostly review, but I had forgotten all about the pseudo-classes in CSS. 
 I really need to start writing these updates earlier in the day. I usually write this right before going to bed, and I'm about a half second away from dozing off and crashing my head right through my computer screen. I'm really not in the mood to go to the hospital or buy a new laptop (well, I am currently working on an old 2009 Macbook so that wouldn't be the worst idea...). Yeah, time for bed... Goodnight!
 
 
-### Day 33: Sunday March 5, 2017
-
+<h2 align="center">Day 33: Sunday March 5, 2017</h2>
 **Today's Progress**:
 - Continued CSS section of Codecademy for Odin Project
 
@@ -516,8 +550,7 @@ I had been wanting to see I.T. because the concept of some hacker taking over a 
 The concept was good, but unfortunately the movie felt flat. Also, it was another source of entertainment that portrayed programmers (or hackers) as sick and sadistic people that hide in the shadows ruining people’s lives which kinda sucks as I was just telling everyone how I've gotten into coding... Darn you Hollywood! 
 
 
-### Day 34: Monday March 6, 2017
-
+<h2 align="center">Day 34: Monday March 6, 2017</h2>
 **Today's Progress**:
 - Finished CSS section of Odin Project
 - Played CodeCombat with JavaScript as my language of choice
@@ -545,8 +578,7 @@ The syntax is authentic, and the process feels true to coding although it doesn�
 **Link to tweet:** [MightyJoeW Day 34](https://twitter.com/MightyJoeW/status/839016634174029824)
 
 
-### Day 35: Tuesday March 7, 2017
-
+<h2 align="center">Day 35: Tuesday March 7, 2017</h2>
 **Today's Progress**:
 - Odin Project - Developer Tools
 - CodeCombat
@@ -555,10 +587,10 @@ The syntax is authentic, and the process feels true to coding although it doesn�
 I’ve been using Chrome’s DevTools for the last few months and have felt pretty comfortable with it, but I’ve learn a lot of new things that it can do today. Odin’s Project led to various articles and videos walking through what all you can do with HTML, CSS, and JavaScript with the DevTools. I only knew the basics, so I’ll list a few things that I picked up.
 
 
-HTML - In Elements, you can right-click on a line and choose Edit as HTML. Also, you can drag a line to move it somewhere else.
-CSS - You can click the plus button at top right to add a new style rule. Clicking :hov allows you to choose a hover state to edit
-Sources - allow you to edit the site's files (but it saves it to our browser storage, not the original file)
-Network - throttling allows you to change connection speed to test a site’s performance
+* **HTML** - In Elements, you can right-click on a line and choose Edit as HTML. Also, you can drag a line to move it somewhere else.
+* **CSS** - You can click the plus button at top right to add a new style rule. Clicking :hov allows you to choose a hover state to edit
+* **Sources** - allow you to edit the site's files (but it saves it to our browser storage, not the original file)
+* **Network** - throttling allows you to change connection speed to test a site’s performance
 
 Next up is Project: HTML/CSS. Then, I'll be in the JavaScript section of the Odin Project. 
 
@@ -568,8 +600,7 @@ Next up is Project: HTML/CSS. Then, I'll be in the JavaScript section of the Odi
 The DevTools things that I picked up today were immediately helpful, and I found myself spending a lot of time going through different sites and trying these out. After I had enough practice with these new things, I got back to one of my favorite pass times: simply editing words on serious sites to make it as sophomoric and juvenile as possible! I don't know why it's so funny, but I crack myself up :D
 
 
-### Day 36: Wednesday March 8, 2017
-
+<h2 align="center">Day 36: Wednesday March 8, 2017</h2>
 **Today's Progress**:
 - Project: HTML/CSS (recreate Google Homepage)
 
@@ -579,8 +610,7 @@ I was challenged to recreate Google’s homepage within the first few weeks of m
 **Link to tweet:** [MightyJoeW Day 36](https://twitter.com/MightyJoeW/status/839733793258946560)
 
 
-### Day 37: Thursday March 9, 2017
-
+<h2 align="center">Day 37: Thursday March 9, 2017</h2>
 **Today's Progress**:
 - Project: HTML/CSS (recreate Google Homepage)
 
@@ -595,8 +625,7 @@ The Google page is coming along well. There are a few little things I can’t fi
 So, I finally watched a couple of episodes of Silicon Valley and I'm pretty sure I'm hooked already.
 
 
-### Day 38: Friday March 10, 2017
-
+<h2 align="center">Day 38: Friday March 10, 2017</h2>
 **Today's Progress**:
 - Finished Project: HTML/CSS (recreate Google Homepage)
 - Started Javascript section of the Odin Project
@@ -618,8 +647,7 @@ I'm truly considering applying to speak at this summer's AlterConf. They tweeted
 It's in August, so I have plenty of time to come up with material.
 
 
-### Day 39: Saturday March 11, 2017
-
+<h2 align="center">Day 39: Saturday March 11, 2017</h2>
 **Today's Progress**:
 - Built Rock Paper Scissors game with JavaScript
 
@@ -629,8 +657,8 @@ It's in August, so I have plenty of time to come up with material.
 **Link to tweet:** [MightyJoeW Day 39](https://twitter.com/MightyJoeW/status/840660850289586181)
 
 
-### Day 40: Sunday March 12, 2017
 
+<h2 align="center">Day 40: Sunday March 12, 2017</h2>
 **Today's Progress**:
 - Free Code Camp meetup
 - Worked on HEEL Rock, Paper, Scissors
@@ -647,8 +675,7 @@ On a technical level, I’m having trouble getting everything connected. I feel 
 **Link to work** [HEEL Rock Paper Scissors](https://mightyjoew.github.io/HeelRockPS/)
 
 
-### Day 41: Monday March 13, 2017
-
+<h2 align="center">Day 41: Monday March 13, 2017</h2>
 **Today's Progress**:
 - Added changes to HEEL Rock, Paper, Scissors
 
@@ -658,8 +685,7 @@ I didn't spend as much time coding today as usual, but I made some good progress
 **Link to tweet:** [MightyJoeW Day 41](https://twitter.com/MightyJoeW/status/841501322708963328)
 
 
-### Day 42: Tuesday March 14, 2017
-
+<h2 align="center">Day 42: Tuesday March 14, 2017</h2>
 **Today's Progress**:
 - Finished HEEL Rock Paper Scissors 2.0
 
@@ -671,8 +697,7 @@ I was able to experience what others mean when they said to just code and to lea
 **Link to tweet:** [MightyJoeW Day 42](https://twitter.com/MightyJoeW/status/841727679607013377)
 
 
-### Day 43: Wednesday March 15, 2017
-
+<h2 align="center">Day 43: Wednesday March 15, 2017</h2>
 **Today's Progress**:
 - Continued Odin project (Codecademy's Javascript Sections 1-5 and the Codecademy Choose-Your-Own-Adventure Project)
 
@@ -684,8 +709,7 @@ I wrapped up today's work with a Choose Your Own Adventure game which puts you i
 **Link to tweet:** [MightyJoeW Day 43](https://twitter.com/MightyJoeW/status/842211821721382912)
 
 
-### Day 44: Thursday March 16, 2017
-
+<h2 align="center">Day 44: Thursday March 16, 2017</h2>
 **Today's Progress**:
 - Warmed up with some HTML, CSS, and JavaScript (using https://jsfiddle.net/ for the first time)
 - Project Euler
@@ -698,8 +722,7 @@ I ended the night with some CodeCombat (which is unfortunately starting to get o
 **Link to tweet:** [MightyJoeW Day 44](https://twitter.com/MightyJoeW/status/842514320424652806)
 
 
-### Day 45: Friday March 17, 2017 
-
+<h2 align="center">Day 45: Friday March 17, 2017</h2>
 **Today's Progress**:
 - revisited Project Euler problem 1 https://projecteuler.net/problem=1
 - revisited Web Development Bootcamp array problem set
@@ -712,8 +735,7 @@ The good news is that I understand what's being asked in the problems, I know wh
 **Link to tweet:** [MightyJoeW Day 45](https://twitter.com/MightyJoeW/status/842941097391415296)
 
 
-### Day 46: Saturday March 18, 2017
-
+<h2 align="center">Day 46: Saturday March 18, 2017</h2>
 **Today's Progress**:
 - Continued Odin project (completed Code School's Discover DevTools)
 
@@ -726,8 +748,7 @@ I had no idea how in depth Chrome's Dev Tools goes. It is absolutely loaded with
 I just learned about the ColorZilla Chrome store app. It seems very useful and convenient already.
 
 
-### Day 47: Sunday March 19, 2017
-
+<h2 align="center">Day 47: Sunday March 19, 2017</h2>
 **Today's Progress**:
 - Working on Additional resources section of JavaScript Odin (creating Contacts List app with objects)
 
@@ -737,8 +758,7 @@ No Free Code Camp meetup today :( Steadily moving through Odin Camp (just about 
 **Link to tweet:** [MightyJoeW Day 47](https://twitter.com/MightyJoeW/status/843688120524722181)
 
 
-### Day 48: Monday March 20, 2017
-
+<h2 align="center">Day 48: Monday March 20, 2017</h2>
 **Today's Progress**:
 - Finished JS Contact List exercise. 
 - Working on Objects in Codecademy
@@ -756,8 +776,7 @@ Being passionate about music for so long and growing to resent it was a very str
 It’s something I’m sure I’ll have in the back of my mind as I continue my coding journey, but I’m NOT going to let that stop me from pursuing this dream. If down the line I end up not enjoying coding for similar reasons, I’ll deal with it then but I never will look at experience and new knowledge and connections as a waste. Plus, I didn't know if I would ever find anything else that I'd be passionate about, so I'm going to keep pushing forward and enjoy every minute of it :D
 
 
-### Day 49: Tuesday March 21, 2017
-
+<h2 align="center">Day 49: Tuesday March 21, 2017</h2>
 **Today's Progress**:
 - Continued Odin Project (JS Objects in Codecademy)
 - Went back and completed Free Code Camp lesson I got stuck on last month
@@ -770,8 +789,7 @@ I felt like my understanding was there by now, and finally Googled the answer an
 **Link to tweet:** [MightyJoeW Day 49](https://twitter.com/MightyJoeW/status/844396576504254465)
 
 
-### Day 50: Wednesday March 22, 2017
-
+<h2 align="center">Day 50: Wednesday March 22, 2017</h2>
 **Today's Progress**:
 - Continued Objects work with Free Code Camp and Odin Project.
 
@@ -781,8 +799,7 @@ Brain and body fried from work, studying, yard work, and working out all week...
 **Link to tweet:** [MightyJoeW Day 50](https://twitter.com/MightyJoeW/status/844758097948098561)
 
 
-### Day 51: Thursday March 23, 2017
-
+<h2 align="center">Day 51: Thursday March 23, 2017</h2>
 **Today's Progress**:
 - Finished Free Code Camp Basic Javascript section.
 
@@ -794,8 +811,7 @@ I really want to buckle down and spend more time each day coding. People are out
 **Link to tweet:** [MightyJoeW Day 51](https://twitter.com/MightyJoeW/status/845135847561179136)
 
 
-### Day 52: Friday March 24, 2017
-
+<h2 align="center">Day 52: Friday March 24, 2017</h2>
 **Today's Progress**:
 - started on an About page for one of my sites
 - completes Intro to Objects 1 (Odin Project, Codecademy)
@@ -807,8 +823,7 @@ I've seen more Objects than I ever planned on seeing this week, but the repetiti
 **Link to tweet:** [MightyJoeW Day 52](https://twitter.com/MightyJoeW/status/845512972055318528)
 
 
-### Day 53: Saturday March 25, 2017
-
+<h2 align="center">Day 53: Saturday March 25, 2017</h2>
 **Today's Progress**:
 - finshed Building an Address Book (Odin Project, Codecademy)
 - continued working on Free Code Camp and Odin
@@ -821,8 +836,7 @@ On another note, I think I'm going to take another crack at Javascript 30. I rea
 **Link to tweet:** [MightyJoeW Day 53](https://twitter.com/MightyJoeW/status/845864129973927937)
 
 
-### Day 54: Sunday March 26, 2017
-
+<h2 align="center">Day 54: Sunday March 26, 2017</h2>
 **Today's Progress**:
 - Free Code Camp Meetup
 - Finished Object Oriented Functional Programming section in Free Code Camp
@@ -835,8 +849,7 @@ At home, I continued going through both Odin Project and Free Code Camp. The .re
 **Link to tweet:** [MightyJoeW Day 54] (https://twitter.com/MightyJoeW/status/846205910255063041)
 
 
-### Day 55: Monday March 27, 2017
-
+<h2 align="center">Day 55: Monday March 27, 2017</h2>
 **Today's Progress**:
 - Finished Javascript Basics section of Odin Project (Codecademy)
 
@@ -846,8 +859,7 @@ That Codecademy JavaScript track was loaded with new information to me (definite
 **Link to tweet:** [MightyJoeW Day 55](https://twitter.com/MightyJoeW/status/846568705484095492)
 
 
-### Day 56: Tuesday March 28, 2017
-
+<h2 align="center">Day 56: Tuesday March 28, 2017</h2>
 **Today's Progress**:
 - Completed Codecademy's jQuery Track sections 1-3
 - Halfway through Code School's Try jQuery
@@ -866,8 +878,7 @@ I want to revisit Javascript 30 to at least create the drum kit. I also want to 
 jQuery sounds like a rapper that's about the drop the hottest mixtape of the summer. He would rap of coarse about `$('.straightCashHomey')`
 
 
-### Day 57: Wednesday March 29, 2017
-
+<h2 align="center">Day 57: Wednesday March 29, 2017</h2>
 **Today's Progress**:
 - More jQuery lessons and practice
 
@@ -876,12 +887,10 @@ I’m enjoying learning about jQuery again. Everything has been pretty logical s
 
 On another note, I can’t get the thought of jQuery being a rapper out of my head lol. Anytime I see the name jQuery, I’m expecting to see a release date for a mixtape. 
 
-
 **Link to tweet:** [MightyJoeW Day 57](https://twitter.com/MightyJoeW/status/847311787108163585)
 
 
-### Day 58: Thursday March 30, 2017
-
+<h2 align="center">Day 58: Thursday March 30, 2017</h2> 
 **Today's Progress**:
 - Continued Code School's Try jQuery course
 
@@ -894,8 +903,7 @@ jQuery started to become Confusing Jones during the Traversing and Filtering sec
 Russell Westbrook MUST win mvp! I love Harden, but Westbrook is averaging a TRIPLE DOUBLE! And not regular triple doubles. Monstrous 50-point triple doubles WITH wins! I never thought I’d see a player average a triple double.
 
 
-### Day 59: Friday March 31, 2017
-
+<h2 align="center">Day 59: Friday March 31, 2017</h2>
 **Today's Progress**:
 - Returned to where my code journey began with Intro to CS from Google’s Technical Development Guide. 
 
@@ -907,8 +915,7 @@ I still have the freedom to experiment and the benefit of time, but I do want to
 **Link to tweet:** [MightyJoeW Day 59](https://twitter.com/MightyJoeW/status/848041600693542913)
 
 
-### Day 60: Saturday April 1, 2017
-
+<h2 align="center">Day 60: Saturday April 1, 2017</h2>
 **Today's Progress**:
 - Continued into Unit 2 of  Udacity's Intro to Computer Science
 
@@ -920,8 +927,7 @@ However, Unit 1 had many things I hadn’t done before such as web crawling and 
 **Link to tweet:** [MightyJoeW Day 60](https://twitter.com/MightyJoeW/status/848041600693542913)
 
 
-### Day 61: Sunday April 2, 2017
-
+<h2 align="center">Day 61: Sunday April 2, 2017</h2>
 **Today's Progress**:
 - Solo Learn Python lessons to supplement Intro to CS.
 - Started on Weather App at Free Code Camp meetup.
@@ -929,12 +935,10 @@ However, Unit 1 had many things I hadn’t done before such as web crawling and 
 **Thoughts:** 
 I can see why building this weather app has caused so much heartache throughout the community. Luckily, we are working on this together at our meetups. I'm not to this section yet, so a lot of this is over my head at the moment.
 
-
 **Link to tweet:** [MightyJoeW Day 61](https://twitter.com/MightyJoeW/status/848671868940931073)
 
 
-### Day 62: Monday April 3, 2017
-
+<h2 align="center">Day 62: Monday April 3, 2017</h2>
 **Today's Progress**:
 - Continued Solo Learn Python lessons to supplement Intro to CS.
 - Worked on a Python calculator
@@ -942,24 +946,21 @@ I can see why building this weather app has caused so much heartache throughout 
 **Link to tweet:** [MightyJoeW Day 62](https://twitter.com/MightyJoeW/status/849134193359630336)
 
 
-### Day 63: Tuesday April 4, 2017
-
+<h2 align="center">Day 63: Tuesday April 4, 2017</h2>
 **Today's Progress**:
 - Completed Solo Learn's Python 'Functions & Modules' and 'Exceptions and Files' sections
 
 **Link to tweet:** [MightyJoeW Day 63](https://twitter.com/MightyJoeW/status/849472826960642049)
 
 
-### Day 64: Wednesday April 5, 2017
-
+<h2 align="center">Day 64: Wednesday April 5, 2017</h2>
 **Today's Progress**:
 - Completed Solo Learn's Python 'More Tyes' section
 
 **Link to tweet:** [MightyJoeW Day 64](https://twitter.com/MightyJoeW/status/849824770665435136)
 
 
-### Day 65: Thursday April 6, 2017
-
+<h2 align="center">Day 65: Thursday April 6, 2017</h2>
 **Today's Progress**:
 - Continued progressing through Udacity’s Intro to CS course (unit 2)
 
@@ -975,8 +976,7 @@ I also need to devote more time daily to coding. I’ve heard of people that spe
 **Link to tweet:** [MightyJoeW Day 65](https://twitter.com/MightyJoeW/status/850167336455864320)
 
 
-### Day 66: Friday April 7, 2017
-
+<h2 align="center">Day 66: Friday April 7, 2017</h2>
 **Today's Progress**:
 - Continued progressing through Udacity’s Intro to CS course (unit 2)
 - Practiced with button onclick in HTML, CSS, and Javascript
@@ -984,8 +984,7 @@ I also need to devote more time daily to coding. I’ve heard of people that spe
 **Link to tweet:** [MightyJoeW Day 66](https://twitter.com/MightyJoeW/status/850537127045726208)
 
 
-### Day 67: Saturday April 8, 2017
-
+<h2 align="center">Day 67: Saturday April 8, 2017</h2>
 **Today's Progress**
 - Completed Udacity's Intro to CS Unit 2
 - Completed a Free Code Camp Basic Algorithm Scripting challenge (Factorialize a Number Complete)
@@ -1000,8 +999,7 @@ I want to stick to my plans, but I don't want to spread myself too thin to where
 **Link to tweet:** [MightyJoeW Day 67](https://twitter.com/MightyJoeW/status/850537127045726208)
 
 
-### Day 68: Sunday April 9, 2017
-
+<h2 align="center">Day 68: Sunday April 9, 2017</h2>
 **Today's Progress**
 - Worked on Weather App in groups at Free Code Camp meetup
 
@@ -1011,8 +1009,7 @@ Today’s FCC meetup was a follow up to last week. We continued working on the W
 **Link to tweet:** [MightyJoeW Day 68](https://twitter.com/MightyJoeW/status/851264058682523650)
 
 
-### Day 69: Monday April 10, 2017
-
+<h2 align="center">Day 69: Monday April 10, 2017</h2>
 **Today's Progress** - 
 - Arduino lessons including Analog Read Signal and Multiple Blinking LED exercises.
 
@@ -1022,8 +1019,7 @@ All of these Arduino lessons and projects go by so much quicker having programmi
 **Link to tweet:** [MightyJoeW Day 69](https://twitter.com/MightyJoeW/status/851655636412706816)
 
 
-### Day 70: Tuesday April 11, 2017
-
+<h2 align="center">Day 70: Tuesday April 11, 2017</h2>
 **Today's Progress** - 
 - Completed Programming Electronics Arduino Crash Course Module 3 - Basics and Module 4	- Control - Unit 1
 - Modified code and connected a Joystick to my Arduino to display data for x-axis, y-axis, and switch button
@@ -1031,8 +1027,7 @@ All of these Arduino lessons and projects go by so much quicker having programmi
 **Link to tweet:** [MightyJoeW Day 70](https://twitter.com/MightyJoeW/status/851921228990492672)
 
 
-### Day 71: Wednesday April 12, 2017
-
+<h2 align="center">Day 71: Wednesday April 12, 2017</h2>
 **Today's Progress** - 
 - Arduino practice with push buttons
 - Free Code Camp Basic Algorithm Scripting continued.
@@ -1374,9 +1369,8 @@ So to everyone out there learning, struggling, and succeeding, keep fighting thr
 
 
 <h2 align="center">
-Day 8: Wednesday February 8, 2017 
+Days 99: Tuesday May 30, 2017 - in progress 
 </h2>
-### Days 99: Tuesday May 30, 2017 - in progress
 
 **Today's Progress**
 - Spent time learning and implementing advanced Github Markdown

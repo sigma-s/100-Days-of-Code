@@ -1098,7 +1098,7 @@ As usual, I am Sleepy Jones. Until next time!
 **Link to tweet:** [MightyJoeW Day 78](https://twitter.com/MightyJoeW/status/855638606463074304)
 
 
-<h2 align="center">Days 79: Saturday April 22, 2017</h2>
+<h2 align="center">Day 79: Saturday April 22, 2017</h2>
 **Today's Progress** - 
 - Worked on Python problems
 - Practice white board coding
@@ -1106,7 +1106,7 @@ As usual, I am Sleepy Jones. Until next time!
 **Link to tweet:** [MightyJoeW Day 79](https://twitter.com/MightyJoeW/status/856029387275325440)
 
 
-<h2 align="center">Days 80: Sunday April 23, 2017</h2>
+<h2 align="center">Day 80: Sunday April 23, 2017</h2>
 **Today's Progress** - 
 - Added fahrenheit/celsius toggle button on weather app
 - started Free Code Camp beta
@@ -1115,21 +1115,21 @@ As usual, I am Sleepy Jones. Until next time!
 **Link to tweet:** [MightyJoeW Day 80](https://twitter.com/MightyJoeW/status/856383171369238528)
 
 
-<h2 align="center">Days 81: Monday April 24, 2017</h2>
+<h2 align="center">Day 81: Monday April 24, 2017</h2>
 **Today's Progress** - 
 - Added updates to FCC local group then continued progressing through the FCC beta.
 
 **Link to tweet:** [MightyJoeW Day 81](https://twitter.com/MightyJoeW/status/856694151697530880)
 
 
-<h2 align="center">Days 82: Tuesday April 25, 2017</h2>
+<h2 align="center">Day 82: Tuesday April 25, 2017</h2>
 **Today's Progress** - 
 - Continued progressing through the FCC beta and revisited some CSS in old code
 
 **Link to tweet:** [MightyJoeW Day 82](https://twitter.com/MightyJoeW/status/857111509780103169)
 
 
-<h2 align="center">Days 83: Wednesday April 26, 2017</h2>
+<h2 align="center">Day 83: Wednesday April 26, 2017</h2>
 **Today's Progress** - 
 - Finished Applied Visual Design section of Free Code Camp beta
 - Created some CSS animations in Codepen
@@ -1137,7 +1137,7 @@ As usual, I am Sleepy Jones. Until next time!
 **Link to tweet:** [MightyJoeW Day 83](https://twitter.com/MightyJoeW/status/857461961486946306)
 
 
-<h2 align="center">Days 84: Sunday April 30, 2017</h2>
+<h2 align="center">Day 84: Sunday April 30, 2017</h2>
 **Today's Progress** - 
 - Started on the Build a Wikipedia Viewer project at today's freeCodeCamp meetup.
 
@@ -1145,7 +1145,7 @@ As usual, I am Sleepy Jones. Until next time!
 **Link to tweet:** [MightyJoeW Day 84](https://twitter.com/MightyJoeW/status/858789779823046657)
 
 
-<h2 align="center">Days 85: Wednesday May 03, 2017</h2>
+<h2 align="center">Day 85: Wednesday May 03, 2017</h2>
 **Today's Progress** - 
 - HTML5 Games Workshop
 - finished fCC beta's Applied Accessibility and Responsive Web Design Principles sections
@@ -1153,14 +1153,14 @@ As usual, I am Sleepy Jones. Until next time!
 **Link to tweet** [MightyJoeW Day 85](https://twitter.com/MightyJoeW/status/859953122550185984)
 
 
-<h2 align="center">Days 86: Sunday May 07, 2017</h2>
+<h2 align="center">Day 86: Sunday May 07, 2017</h2>
 **Today's Progress** - 
 - Continued on fCC Wikipedia Viewer in today's fCC meetup.
 
 **Link to tweet** [MightyJoeW Day 86](https://twitter.com/MightyJoeW/status/861399428938203137)
 
 
-<h2 align="center">Days 87: Monday May 08, 2017</h2>
+<h2 align="center">Day 87: Monday May 08, 2017</h2>
 **Today's Progress** - 
 - Continued working through CSS Flexbox section of fCC beta.
 
@@ -1174,14 +1174,14 @@ As I continue through the fCC beta, I plan to continue building my own pages whi
 **Link to tweet** [MightyJoeW Day 87](https://twitter.com/MightyJoeW/status/861779915514839040)
 
 
-<h2 align="center">Days 88: Tuesday May 09, 2017</h2>
+<h2 align="center">Day 88: Tuesday May 09, 2017</h2>
 **Today's Progress** - 
 - Wrapping up the CSS Flexbox section of fCC beta.
 
 **Link to tweet** [MightyJoeW Day 88](https://twitter.com/MightyJoeW/status/862086297640472576)
 
 
-<h2 align="center">Days 89: Wednesday May 10, 2017</h2>
+<h2 align="center">Day 89: Wednesday May 10, 2017</h2>
 **Today's Progress** - 
 - Finished CSS Flexbox section of fCC beta
 - Worked on new tribute page (this time without Bootstrap)
@@ -1189,7 +1189,7 @@ As I continue through the fCC beta, I plan to continue building my own pages whi
 **Link to tweet** [MightyJoeW Day 89](https://twitter.com/MightyJoeW/status/862508267515281408)
 
 
-<h2 align="center">Days 90: Monday May 22, 2017</h2>
+<h2 align="center">Day 90: Monday May 22, 2017</h2>
 **Today's Progress**
 - Worked on landing page (based on a Kajabi page)
 - worked on fCC Survey Page assignment
@@ -1212,7 +1212,7 @@ Going forward, I anticipate using more code at my current job while getting back
 I’m well out of bounds of the official 100 days of code rules, but I am going to finish these last 11 days for me!
 
 
-<h2 align="center">Days 91: Tuesday May 23, 2017</h2>
+<h2 align="center">Day 91: Tuesday May 23, 2017</h2>
 **Today's Progress**
 - Completed 16/16 tests for fCC beta Survey Form challenge
 - Working on CSS for survey
@@ -1228,7 +1228,7 @@ Then, I’ll be in the Javascript Algorithms And Data Structures section of the 
 [Music Learning Style assessment repository](https://github.com/MightyJoeW/music-learning-style)
 
 
-<h2 align="center">Days 92: Wednesday May 24, 2017</h2>
+<h2 align="center">Day 92: Wednesday May 24, 2017</h2>
 **Today's Progress**
 - Submitted Music Learning Style assessment for fCC Beta Survey Form project
 - Started on Landing Page project
@@ -1244,7 +1244,7 @@ Something else I’ve been working on this week is doing everything in the comma
 [Music Learning Style assessment submission](http://s.codepen.io/MightyJoeW/debug/OmvVVJ/mWAoNbLxXNYr)
 
 
-<h2 align="center">Days 93: Thursday May 25, 2017</h2>
+<h2 align="center">Day 93: Thursday May 25, 2017</h2>
 **Today's Progress**
 - Working on Landing Page
 - Started Javascript Basic section of fCC Beta
@@ -1257,7 +1257,7 @@ I wrapped up the day with some Javascript review as I get closer to resuming my 
 **Link to tweet** [MightyJoeW Day 93](https://twitter.com/MightyJoeW/status/867865287114321921)
 
 
-<h2 align="center">Days 94: Friday May 26, 2017</h2>
+<h2 align="center">Day 94: Friday May 26, 2017</h2>
 **Today's Progress**
 - Working on Landing Page
 - Continued working through Javascript Basic section of fCC Beta

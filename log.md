@@ -1312,14 +1312,18 @@ Also, I figured out how to show the answer in the console and as a pop up, but I
 [MightyJoeW Day 1](https://twitter.com/MightyJoeW/status/826959358391107584)
 
 
-### Day 0: The Genesis
+<h1 align="center">
+Day 0: The Genesis
+</h1>
 
-**Thoughts:** 
-<p>Today marks the beginning of an epic 100-day coding journey. A story that great sages will pass down from generation to generation. This quest will feature a potpourri unfiltered joy, unrivaled pain, comedy, and creativity.</p>
+<img src="https://lh3.googleusercontent.com/IxWrbHJO5XBL5BTVpoEWggK78ftwBFSb6Ydzl3i5xzXvG29uvMK-V7POuH9lasxumWGN-wYqcEi5nPH9GV-IuFdt42_8uUnhiZ3_5RrJo2OE2ZEWg65xCNzChfKpoHqdEt0ZDULmp1kdbBMPb5QD-UIW5Ir5Hjag0Ph9rrhn3_rXWUDDvsS21SriUyJEGZV8zg6ys36yHRD46WlvWusmaunrv2KDsMfW3_RJF1StKSQeJTOx5L8fYJq8e4yxlKw7H_Qx21VvB9qbm9MozT9HIFYb1p9Yhyxn4Z003KERjrrC2ef7oHvan97himXPd6fenidiPNjXmfMWooOqbBRus2y0oZL_kM9T2dPBLMKHxCM5p2EGmiSoiTT8GZdnSjAmsVoasb4y_vUyQPA0aOXoJ1n93iNvq9jjimR9rdxMJE2i43XPIA-OpjjN_2j5hZtyDVazVfH48W36xW116QSEQT2SgeBFc4CILu-WPXmIa-Y96hFkaHLm4tgdejHz2gJD_UPbeUlti_LOOZ0aXJSSrOf9VrH3b-XSdY-DL1KpLy9Zpiup_hAaAmJLeuHQQJkYPjSvdAWyImVbopXIByRREHhFxu6_IxTzyuylnFCC0l51NuQpa1r5jg=w990-h627-no" alt="Cartoon Photo of MightyJoeW">
+
+
+Hello World! Today marks the beginning of an epic 100-day coding journey: A story that great sages will pass down from generation to generation. This quest will feature a potpourri unfiltered joy, unrivaled pain, and unexpected epiphanies.
+
+Some moments, I will be the smartest man alive. Others moments, I will be a stupid idiot. But each day, I will be a valiant warrior, fighting to develop and perfect the skills necessary to evolve into a true beast on the keys.
  
 Ladies and gentlemen. I present to you, #100DaysofCode with **MightyJoeW**.
-
-<img src="https://lh3.googleusercontent.com/IxWrbHJO5XBL5BTVpoEWggK78ftwBFSb6Ydzl3i5xzXvG29uvMK-V7POuH9lasxumWGN-wYqcEi5nPH9GV-IuFdt42_8uUnhiZ3_5RrJo2OE2ZEWg65xCNzChfKpoHqdEt0ZDULmp1kdbBMPb5QD-UIW5Ir5Hjag0Ph9rrhn3_rXWUDDvsS21SriUyJEGZV8zg6ys36yHRD46WlvWusmaunrv2KDsMfW3_RJF1StKSQeJTOx5L8fYJq8e4yxlKw7H_Qx21VvB9qbm9MozT9HIFYb1p9Yhyxn4Z003KERjrrC2ef7oHvan97himXPd6fenidiPNjXmfMWooOqbBRus2y0oZL_kM9T2dPBLMKHxCM5p2EGmiSoiTT8GZdnSjAmsVoasb4y_vUyQPA0aOXoJ1n93iNvq9jjimR9rdxMJE2i43XPIA-OpjjN_2j5hZtyDVazVfH48W36xW116QSEQT2SgeBFc4CILu-WPXmIa-Y96hFkaHLm4tgdejHz2gJD_UPbeUlti_LOOZ0aXJSSrOf9VrH3b-XSdY-DL1KpLy9Zpiup_hAaAmJLeuHQQJkYPjSvdAWyImVbopXIByRREHhFxu6_IxTzyuylnFCC0l51NuQpa1r5jg=w600-h380-no" alt="Cartoon Photo of MightyJoeW">
 
 
 **Catch me on Twitter:** [MightyJoeW](http://www.twitter.com/mightyjoew)

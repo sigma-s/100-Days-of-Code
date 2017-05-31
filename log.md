@@ -1346,5 +1346,6 @@ So to everyone out there learning, struggling, and succeeding, keep fighting thr
 - Spent time learning and implementing advanced Github Markdown
 
 **Thoughts**
+(Currently overhauling this log)
 
 **Link to tweet** [MightyJoeW Day 99](https://twitter.com/MightyJoeW/)

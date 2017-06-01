@@ -292,6 +292,8 @@ Day 12: Sunday February 12, 2017
 
 **Today's Progress**: Created a JavaScript quiz during today's Free Code Camp meetup. Also, continued filling out Pokedex. 
 
+> Test your Javascript knowledge with my 5 question quiz [here](https://codepen.io/MightyJoeW/full/WOeOar/).
+
 **Thoughts:** As we created the JavaScript quiz, I felt like a pro setting up the basic HTML and CSS sections. Then, JavaScript stepped in and kicked my butt! I understood the concepts, but I have a long way to go before I can create this kind of content on my own. The good thing is that it gets me more pumped and hungrier to keep pushing forward. Baby steps.
 
 **Link to tweet:** [MightyJoeW Day 12](https://twitter.com/MightyJoeW/status/830989197112700929)
@@ -305,11 +307,13 @@ Day 13: Monday February 13, 2017
 
 **Today's Progress**: Found error in my JavaScript quiz. ONE missing parenthesis messed up the whole code! Also, finally finished HTML section of Gen 1 Pokemon Chart.
 
+<img src="https://lh3.googleusercontent.com/KI_GIoMuP_x9DPMEXB2Ttz37ZPuzpNop79E8GTnvt_dzVqX0Sc1bg0-SGV4cEXX7aZcSiwB0AnAt47zXCVx2JvSgZ0oeLqw2y0KUkO1K68PZossk5mteaz9rNtGRA6ufNiyfRAeTWV6xdBqzgnqlEdFTHtvDuiHBvbfGvzyiKmvtoeJAVI3k_MJEuQMH-GMBkUm7XBLYmPBSY8Xm1scvYKVgOVE3_BQRa4H33rAnC-2JaVGpgwTPCB8HFK2X6DW_tCBWOL3x5ptdOXnFM15GzSKaNPS29k4RU8SUdTRMGq2R7E0g91U5dV1jPoMR7_2Fem-esAcb4NQ7KnDDCGKzvQI8w14GiqnrzLo39Si1-0aslqHIxrI3Flgkd6OrMvncA6nxxpElOo7ZfcKCjqBHdTVrkQ6gXI4W0Sfd1Gp9DHr_LHfD5NCN1Sb1r5jBEu3R2h3gpGeEPbdssL5RjIAogpPT6f0BBaukfH03MNfDs0rzH0EOda1y1d13dPuKE8id5xC-38vf4u-DP_fzbdRW_iQ-FUaJ0oxaGpOfRkkI6RYu4xwA0HBSej7M9pEWsoeeDZHKehs4FbapbGKWRAtczenFcw0-cYr-lJovlXv9Rdbk9SavnSohzQ=w603-h296-no" alt="Bottom of Pokemon Chart">
+
 **Thoughts:** Why did I choose something with 151 different character for an early table project? This took forever!! But I was determined to finish. I'm sure there was an easier way to input this information especially with some coding, and I look forward to implementing some changes in the future. I'd want to change the view from numerical to alphabetical without creating a second page and re-entering all of the data again. I'll be on the lookout for how to do this.  
 
 **Link to tweet:** [MightyJoeW Day 13](https://twitter.com/MightyJoeW/status/831305975470628865)
 
-**Link to work:** [Working JavaScript Quiz](https://github.com/MightyJoeW/JavaScript-Quiz), [Pokedex](https://github.com/MightyJoeW/The-Pokedex)
+**Link to repositories:** [Working JavaScript Quiz](https://github.com/MightyJoeW/JavaScript-Quiz), [Pokedex](https://github.com/MightyJoeW/The-Pokedex)
 
 
 <h2 align="center">

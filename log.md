@@ -409,7 +409,7 @@ Day 18: Saturday February 18, 2017
 - continued working on new portfolio page
 
 **Thoughts:** 
-- Not much done today as I was entertaining my nieces throughout the day, but I made some good progress on my portfolio. It's coming along nicely.
+- Not much done today as I was entertaining my nieces throughout the day :running:, but I made some good progress on my portfolio. It's coming along nicely.
 
 **Link to tweet:** [MightyJoeW Day 18](https://twitter.com/MightyJoeW/status/833181935635726338)
 
@@ -425,6 +425,8 @@ Worked in the DOM and with JavaScript at today's Free Code Camp meetup
 I really enjoyed today's meetup (as I do each week). Today, we spent a lot of time discussing the DOM and practicing some JavaScript. One of the things I love most about being around others when learning are the little things that you pick up. Things are mentioned in passing that feel life changing lol. 
 
 For example, I didn't know that text editors can rearrange your code to make it look better. In Sublime, highlight your code and go to Edit > Line > Reindent and voila, your code is cleaned up! I don't know the ins and outs of this or how reliable it is yet, but I will be utilizing this going forward.
+
+<img src="https://lh3.googleusercontent.com/eOYQgZ7OEgUI_5a2im575xSWi_6G7kQkorYNOetpbu6qOlZr4C-iEs0V1GUNPlQ0w7QdfNWMfkVX5IHipwHnraMy4loAlg1B13pZT952dOb9EFzmdjxdR28OBQ7ksvoktR5aBjGF33bmmUESn3PmqLJw9XcR_PD_QGt8jmnm8_LgqCx4udw2SbQU0R-OS0WVGf23Z1W-oGTwmr2OC7-pKm9f4l9OIk0JJJaLV_kX0qskNGYkAke7V8PhiI46JPp8zwVwYFuySmeidSdL9a1G2BlHpnLE2VEW_QBZxNT10FLkGq7KeZnLOIDZlojxTKSxZw5LKGKcuXEctcdxuTToOfPstWmXs-UhB9EIhP8y_jsgYpxMJgri7CbWuFB-qdM2Knclvabu5i8e7VCdnsoXWP6oGAW3cbLMn1KfNqUZuYq3TrbDLns4nRDD_fm5g7-nXKr-cFOiSf6iJIi1k-fJbZLgDfulk1v1ROnU4-cKe7YGIgLFWc7gctbh6Q9taHt4asqEulIvgsFMJqQ9oShlVM-CanXsa83HzY9IeTg2YCp6Yw-yqyolBpMQNVxwQr5wUJ76yO0xbdZo4-WFUSHUPU6cCuRw_5oB_tQ8OWerEy9flhj8PDGMqg=w1280-h516-no" alt="Sublime Text Reindent">
 
 **Link to tweet:** [MightyJoeW Day 19](https://twitter.com/MightyJoeW/status/833513634215124992)
 

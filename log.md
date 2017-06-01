@@ -22,6 +22,7 @@ Day 1: Wednesday February 1, 2017
  
 **Today's Progress**: I've been working on a minutes to hours converter, and I was able to figure out the JavaScript code to make the conversion happen when clicking the Convert button.
 
+**Thoughts** I've been coding regularly since December 2016, but this was my first independent project. When a user inputs a number, the output would be that number of minutes in hours. I created an if/else statement for if userInput is 60 (the "hours" string would be singular in that case). I didn't look at any code for the statement so needless to say, I felt like a BOSS.
 ```
 <script>
     function outputHours() {
@@ -36,8 +37,6 @@ Day 1: Wednesday February 1, 2017
         }
     </script>
 ```
-
-**Thoughts** I've been coding regularly since December 2016, but this was my first independent project. When a user inputs a number, the output would be that number of minutes in hours. I created an if/else statement for if userInput is 60 (the "hours" string would be singular in that case). I didn't look at any code for the statement so needless to say, I felt like a BOSS.
 Also, I figured out how to show the answer in the console and as a pop up, but I couldn't figure out how to write it to the screen while controlling the placement.
 
 **Link to tweet**

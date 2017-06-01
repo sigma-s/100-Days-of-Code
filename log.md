@@ -57,10 +57,10 @@ Day 2: Thursday February 2, 2017
 
 Specific steps:
 - Added footer with copyright 
-- changed background (removed clock img since it looked bad on narrow pages, made a gradient background in css). On second thought, just made background white. Not sure if background looks tacky here.
-- bolded Minutes label
+- Changed background (removed clock img since it looked bad on narrow pages, made a gradient background in CSS). On second thought, just made background white. Not sure if backgrounds looks tacky here.
+- Bolded Minutes label
 
-**Thoughts:** Today was a really fun day. I initially had a background on the minutes conveter, but I noticed that it clashed with the form on narrow pages. I removed the background which made the page look plain, but it was good enough for the time being. Then, I added pasted my code to codepen to check how it looks on phones. You can see the results in my tweet lol. The fixed footer was in the middle of the page, and everything else looked sloppy. That gave me a good laugh as I looked forward to figuring this thing out.
+**Thoughts:** Today was a really fun day. I initially had a background on the minutes conveter, but I noticed that it clashed with the form on narrow pages. I removed the background which made the page look plain, but it was good enough for the time being. Then, I pasted my code to Codepen to check how it looks on phones. You can see the results in my tweet lol. The fixed Footer was in the middle of the page, and everything else looked sloppy. That gave me a good laugh as I looked forward to figuring this thing out.
 
 **Link to tweet:** [MightyJoeW Day 2](https://twitter.com/MightyJoeW/status/827239030563696640)
 
@@ -70,11 +70,18 @@ Day 3: Friday February 3, 2017
 </h2>   
 
 **Today's Progress**: Finished the Minutes to Hour Converter! Well, at least for now...
-- added `lang="en-us"` to HTML
-- added `<meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">` // trying to make mobile friendly
-- removed parenthesis from around It looked **BAD** on mobile.
-- added mobile friendly code from w3 schools in `.body`. Can't figure out how to move everything to the center now. Found it!!! Change margin to auto!!
-- fixed footer on mobile by changing position from `absolute` to `fixed` :D
+
+<div>
+  <img src="https://lh3.googleusercontent.com/x3cZN1jiu0z1SAQ8zPyPaoYK3MXZYmVh8bCBz_T2LewZEfJrzBRTjUZCj4s8pMMlYIHBDzoZDLrEpcH9vPe0Sq4v8mujqKP3AzxHkzACMr-DuBiTIwKzcOFL51rC9YKirqlgPwLNZEAC6H8n85Cz9HHXl4xK0y2knOEvhwQJ1IHFoz_6U_6I7VJM97CL-KP8DI1_eRXw3spsXvuWhHt78GFA9SLQ22Alx07LAAUc5nQ9tGuV8PAj-TmZKdVwI8Vhugm1dicf5vugX44EXEz3j0e83zHh0LR_IgFJk428S2YDzxUiQk-SXEd-LFFvlj9u_xsnvgl8YS9D6QNbGTgJSM8o64NB_whsZOnIyx_7JzxZ27ZUeLX1ehwkH-slydknEykdXkRxFomif-773IaDLFIZYXV3PtwJQv5K3EUtVAmW1U37gpPkWLssEXcgCFu3rHQoXhuaZpDdbqsxjIxQ5eorCwLnoiLsk5Ea8K0L6W-N5wMlzimRaerR8EZgb1ERbUtBinGfnu0lVS3RCe7fApjH28ClAUXVXQJ4VoMfgYcC5Mlr7ggl3JHUX8xylhViKmwDcGyB2U_W8ixQ62X-GxLzX3sGkOWw3n6IPrDNnAseQ1Q11aKyvg=w411-h703-no" style="float: left;" alt="Mobile Minutes Converter">
+  
+  <img src="https://lh3.googleusercontent.com/Hr7vHmCip7-GJw7q0VNu_5I-0KVVJjIXLgtdXi7aoDUnLrfhfMByyHstQV9HU6m5oLfSxt1IghXeZ7ur7zr3_Jufc59vQysALzpFR4-Q1tjIGjgVuKg8fCki-PiH1rJxjrIBsdCGhuCEoVaVAABZpxrxSQ02DC1LjivldliEKjFYjBLycpUb-2vJiR5ktZ-8uxo52HAUCbAZJhP9bx1gJqF-tAuDRdR_oY6jEB_GQ8fUBK59Fb_4itWzysNbBFsFG1XwjW_hlsB3e-ASqD8q2lqRYRF0nGYCxuqaiBJWMu1Rr4YRqERtmIKYOBjDI5zwB4TsX-f9q0G03ndb9I5W_FmRBy4R5pnEfVJJHKOGyyiRL4Xc3NV9Gg32SkzpdF4IpJAvdmhzwgJNqkx85Vr0X5pDFgpUaJo108MQzBdiIEGml4lnl-GJ3113Z313T5jSz-FWrrjcsQ1PjbJ8n2VDzDwUByqV5VqEOItA3fYMDE_de6o2yBvHSPlD1p8yaF1HEFZZh0fVEmyS9DA6JGU48rBmPy8uQbLH_j5xKi4V5bfo4YwI1vpbbroJWPtUUxCidRDQSIi9SdHz7HYAhUHz31DfZ4eHOOokZodbUDmELlCRcxOGhUmAxA=w412-h703-no" style="float: left;" alt="Mobile Minutes Converter">
+</div>
+
+- Added `lang="en-us"` to HTML
+- Added `<meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">` (trying to make mobile friendly)
+- Removed parenthesis from around. It looked **BAD** on mobile.
+- Added mobile friendly code from [W3 Schools](https://www.w3schools.com/) in `.body`. Can't figure out how to move everything to the center now... Found it!!! Change margin to `auto`!!
+- Fixed Footer on mobile by changing position from `absolute` to `fixed` :smile:
 
 **Thoughts:** It felt really good completing my first little project (especially without using jQuery or Bootstrap). I intentionally decided not to use those as I'm still early in learning JavaScript and want to have a better understanding of it first. Plus, it sounds like they are losing popularity anyway. 
 

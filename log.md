@@ -322,7 +322,7 @@ Day 14: Tuesday February 14, 2017
 
 **Today's Progress**: Used JavaScript and the DOM tutorials to create webpages with various functionality. Completed CSS Selectors exercise in Udemy's Web Development Bootcamp course.
 
-**Thoughts:**  Going off of [DevTips' tutorials](https://www.youtube.com/watch?v=hM9h1wN4rfU), I created a webpage that changes colors as you move the mouse around the page as well as a page that changes colors as the time changes. This was all pure JavaScript and still very confusing as the moment. This was recommended to prep for Sunday's Free Code Camp meetup, so I at least have been introduced to these concepts. 
+**Thoughts:**  Going off of DevTips' tutorials, I created a webpage that changes colors as you move the mouse around the page as well as a page that changes colors as the time changes. This was all pure JavaScript and still very confusing as the moment. This was recommended to prep for Sunday's Free Code Camp meetup, so I at least have been introduced to these concepts. 
 
 [![JavaScript and the DOM](https://i.ytimg.com/vi/hM9h1wN4rfU/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD0QG_jxhCT9c_DP465YMjqZ4WL8Q)](https://www.youtube.com/watch?v=hM9h1wN4rfU)
 

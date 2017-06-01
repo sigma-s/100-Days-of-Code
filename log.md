@@ -12,7 +12,7 @@ Ladies and gentlemen. I present to you, **#100DaysofCode with _MightyJoeW_**.
 
 <p align="center"><b>Catch me on Twitter: </b><a href="http://www.twitter.com/mightyjoew">MightyJoeW</a></p>
 
-<p align="center"><b>Peep my Repo: </b><a href="https://github.com/MightyJoeW">The Mighty Github</a></p>
+<p align="center"><b>Peep my Repos: </b><a href="https://github.com/MightyJoeW">The Mighty Github</a></p>
 <hr>
 <br>
 

@@ -223,7 +223,19 @@ Day 9: Thursday February 9, 2017
 Day 10: Friday February 10, 2017 
 </h2>  
 
-**Today's Progress**: More work on the Pokedex. Hyperlinked the Number and Name titles to allow user to rearrange the Pokemon by number of name. Filled in more Pokemon info. Removed background photo. Also, created a [Pokemon Table Repository](https://github.com/MightyJoeW/The-Pokedex).
+**Today's Progress**: More work on the Pokedex. Hyperlinked the Number and Name titles to allow user to rearrange the Pokemon by number of name. 
+
+```
+<tr>
+	<th><a href="#">Number</a></th>
+	<th>Image</th>
+	<th><a href="#">Name</a></th>
+	<th>Type</th>
+	<th>Evolves Into</th>
+</tr>
+```
+
+Filled in more Pokemon info. Removed background photo. Also, created a [Pokemon Table Repository](https://github.com/MightyJoeW/The-Pokedex).
 
 **Thoughts:** Still under the weather so today was mostly filling in information opposed to creating new things. 
 
@@ -239,7 +251,37 @@ Day 11: Saturday February 11, 2017
 
 **Today's Progress**: Continued filling in Pokedex. Good amount of reps creating hrefs by scratch. 
 
-**Thoughts:** Feeling better than yesterday. I should be back in my regular zone tomorrow. 
+```
+<!-- Abra -->
+<tr>
+	<td>063</td>
+	<td><img width=50 src="http://vignette2.wikia.nocookie.net/pokemon/images/6/62/063Abra.png/revision/latest/scale-to-width-down/200?cb=20140328202819"></td>
+	<td><a href="http://pokemon.wikia.com/wiki/Abra" target="_blank">Abra</a></td>
+	<td>Psychic</td>
+	<td><a href="http://pokemon.wikia.com/wiki/Kadabra" target="_blank">Kadabra</a></td>
+</tr>
+<!-- Kadabra -->
+<tr>
+	<td>064</td>
+	<td><img width=50 src="http://vignette2.wikia.nocookie.net/pokemon/images/9/97/064Kadabra.png/revision/latest/scale-to-width-down/200?cb=20140328202820&format=webp"></td>
+	<td><a href="http://pokemon.wikia.com/wiki/Kadabra" target="_blank">Kadabra</a></td>
+	<td>Psychic</td>
+	<td><a href="http://pokemon.wikia.com/wiki/Alakazam" target="_blank">Alakazam</a></td>
+</tr>
+<!-- Alakazam -->
+<tr>
+	<td>065</td>
+	<td><img width=50 src="http://vignette4.wikia.nocookie.net/pokemon/images/c/cc/065Alakazam.png/revision/latest/scale-to-width-down/200?cb=20140328202820"></td>
+	<td><a href="http://pokemon.wikia.com/wiki/Alakazam" target="_blank">Alakazam</a></td>
+	<td>Psychic</td>
+	<td></td>
+</tr>
+
+```
+
+<img src="https://lh3.googleusercontent.com/juOIwp32Uek9UsVmGFdY0G_jQpLN75BK75OJlsBixiMng01oVuGEcXT5ewhuKXt5ws3efz3ZXlyoywKGfUSY07f7EPnaxuaT1VuLW7aplW8SaJhxUHjT3JirqMnSBP74u2Jw7JYqpq577-0r_NJqI7U05oh6RMrfHuz5wzCBxxNIZAbxTpnpfLRFQqmE3bwqLm-1lhLeSpfUA3u0jP5x6KNH31YfT6xvG6soCQtWHqncNwZuRgXL-DMsbytyf6NpyyLaITa_uYXhGHIPZgSUZMYM_AxCqlwvN5QvIn_DQ9BqLoQDrX_lNDwNtJAq9ZT4xB-Dykt9P_ZX0P8vhINUq7GHDkWdGAlhdofCV3tIm_AcGlta_5zIalDmz-rCxeuvAxmOrr6MmkTuxx2HnlEIWwNthCdU_0i28Oa8ZFzA4aHs2JTnoZH6YyFXN1b_lRAupW6E_CrSCUwwl6NbsyVe1xeD0HczbhQ13OvZhD2aJh_nDSLOPZQh42WpCG3zWaTTVlho6NfUQ3z1x-R3t-pxjkfx6F5ko2KNs06mJ86UHVa0nMwglLAIWFARW64_CqXIOUjChb6kxZRzevYRbiIz7G2vdFcUV2VNiY6L7DXPpwXNoSGLGqxRnw=w1280-h179-no" alt="Abra, Kadabra, Alakazam">
+
+**Thoughts:** Feeling better than yesterday (gettng over this sickness). I should be back in my regular zone tomorrow. 
 
 **Link to tweet:** [MightyJoeW Day 11](https://twitter.com/MightyJoeW/status/830646204576968704)
 

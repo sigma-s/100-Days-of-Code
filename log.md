@@ -1405,12 +1405,25 @@ So to everyone out there learning, struggling, and succeeding, keep fighting thr
 **Link to tweet** [MightyJoeW Day 98](https://twitter.com/MightyJoeW/status/869780685535404032)
 
 
-<h2 align="center">Day 99: Tuesday May 30, 2017 - in progress</h2>
+<h2 align="center">Day 99: Tuesday May 30, 2017 - 99 Problems</h2>
 
 **Today's Progress**
 - Spent time learning and implementing advanced Github Markdown
 
 **Thoughts**
-(Currently overhauling this log)
+<br>
+<img src="http://i3.kym-cdn.com/photos/images/facebook/000/094/422/tumblr_leretcb0Sa1qfawn6o1_500.jpg" alt="Funny Code Meme">
+
+A glitch may not be my problem at the moment, but markdown sure was. A combination of things led me to wanting to give my Github a makeover, starting with this very log. 
+ 
+We used Github a lot in our past Free Code Camp meetup, and I have some exciting tech events coming up. You never know, so it’s best to have my online presence in tip top shape heading into these events. 
+ 
+But let’s get down to the *real* reason why I decided to give my Github some TLC. Richard. Goofy, irritating Richard from HBO’s Silicon Valley. Well, it wasn’t directly from him, but I’m still laughing at what he did in the Tabs vs Space episode (I won’t spoil anything major). 
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--pjpRvNqK--/c_scale,fl_progressive,q_80,w_800/v9uxhcf6didf4cgsakmd.png" alt="Image of Scene from HBO's Silicon Valley">
+
+Anyway, the part that had me thinking about Github wasn’t even a major part. Some of the crew was looking at the code of a Facebook worker’s Github page. Without being around developers in a job scenario, I don’t know what exactly people’s process looks like of using Github to view or clone someone else’s code. Realistic or not, this scene was enough to make me want to give mine an overhaul. Enter *markdown*. 
+ 
+I can’t believe I’ve been logging all of this time without using markdown or HTML, so I’ve been going through cleaning everything up. Plus, I found a ton of errors including most of my Twitter links not properly displaying as hyperlinks. I almost contemplated leaving my log as is and keeping it pure and raw, but naahh. Mighty Joe needs his content to be presentable. Plus, you can just look at the history if you really want to experience the raw :wink:.
 
 **Link to tweet** [MightyJoeW Day 99](https://twitter.com/MightyJoeW/status/870063111406993408)

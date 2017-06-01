@@ -1426,4 +1426,9 @@ Anyway, the part that had me thinking about Github wasn’t even a major part. S
  
 I can’t believe I’ve been logging all of this time without using markdown or HTML, so I’ve been going through cleaning and spicing things up. Plus, I found a ton of errors including most of my Twitter links not properly displaying as hyperlinks. I almost contemplated leaving my log as is and keeping it pure and raw... naahh. Mighty Joe needs his content to be presentable. Plus, you can just look at the history if you really want to experience *the raw* :wink:.
 
+If you are wanting to learn or refresh your markup skills for Github, the following links were very helpful to me:
+1. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+2. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+3. [Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+
 **Link to tweet** [MightyJoeW Day 99](https://twitter.com/MightyJoeW/status/870063111406993408)

@@ -1405,7 +1405,9 @@ So to everyone out there learning, struggling, and succeeding, keep fighting thr
 **Link to tweet** [MightyJoeW Day 98](https://twitter.com/MightyJoeW/status/869780685535404032)
 
 
-<h2 align="center">Day 99: Tuesday May 30, 2017 - 99 Problems</h2>
+<h2 align="center">Day 99: Tuesday May 30, 2017</h2>
+
+<h3 align="center"> 99 Problems </h3>
 
 **Today's Progress**
 - Spent time learning and implementing advanced Github Markdown

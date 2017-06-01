@@ -223,13 +223,13 @@ Day 9: Thursday February 9, 2017
 Day 10: Friday February 10, 2017 
 </h2>  
 
-**Today's Progress**: More work on the Pokedex. Hyperlinked the Number and Name titles to allow user to rearrange the Pokemon by number of name. Filled in more Pokemon info. Removed background photo. Also, created a repository https://github.com/MightyJoeW/Pokedex.
+**Today's Progress**: More work on the Pokedex. Hyperlinked the Number and Name titles to allow user to rearrange the Pokemon by number of name. Filled in more Pokemon info. Removed background photo. Also, created a [Pokemob Table Repository](https://github.com/MightyJoeW/The-Pokedex).
 
 **Thoughts:** Still under the weather so today was mostly filling in information opposed to creating new things. 
 
 **Link to tweet:** [MightyJoeW Day 10](https://twitter.com/MightyJoeW/status/830243763821895680)
 
-**Link to work:** [Pokedex repository](https://github.com/MightyJoeW/Pokedex)
+**Link to work:** [Pokedex repository](https://github.com/MightyJoeW/The-Pokedex)
 
 
 <h2 align="center">

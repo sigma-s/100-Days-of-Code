@@ -335,13 +335,15 @@ After a few days away from Udemy, I got back to those lessons and completed the 
 Day 15: Wednesday February 15, 2017 
 </h2> 
 
-**Today's Progress**: Udemy lessons then created CSS Tic Tac Toe board and blog from scratch.  
+**Today's Progress**: Udemy lessons then created a CSS Tic Tac Toe board and a CSS blog from scratch.  
+
+<img src="https://lh3.googleusercontent.com/cu518KsC4s2wESx9sSX_Wkrs8t__WdoFtzBM8vMVbuwVsGpHDSFgQKCuIy0ISW6vEFFm0chYyFgJ6r5OJTH0gk0rMB-msBpDtoMV9yTp2X_Wy6bzliP_s_KmprAwlog3Ig31cmfCSDoumDIOpgDWK59yB1tsWhXodBeyam9DQjGiXJhq1PVrQ3oa3crpNcv-SBqEkB2At5C73QSk9xEa_bLG2Pcd__TlMlk_mdAwOKwu7DQNFmin1vKu58x58pjm-_MReCOkT7FMVI8pzsMwFqpHjoKCsJh4Ecq1gepWy3tj9YE6nhi5l0dmedm_9n1USm7fYIl8TbdrL7EAV8EOT6Rx94Fpo8KkzF2oX1EYyxwk2t5CQbUPvy9fS-BFtI0V2gXYr7fh-ehfb6qUG_7znWxkipWP1GxOlqK7d2IvpAJuToP66jKYH8XSsiFweBOEatITQBS5KQET5gGm5_2it5vfa42zTZH1bwJriiZAQbQNjnV9ayaMxVOlBL0hI5rib6EVEwV42GqgDQpLkAE66y58ya6IG3OA4UzAYgNhKXoBh4A1zvbE5FrNDO-mq6Wkz9UcDYLS91RnSZtUbtC6b6lpGTOlCuUpaQ3V1lRg0Zywg10NdwLTvA=w1130-h627-no" alt="CSS Blog">
 
 **Thoughts:** I couldn't be happier with my progress as well as my continued passion for learning how to code. I've hit a lot of different roadblocks along the way, but today showed me how much I've learned over the last couple of months. 
 
 Since I had gotten stuck on multiple JavaScript challenges in Free Code Camp, I decided to find another resource to help me learn (enter Udemy's Web Development Bootcamp). Although I got the course for JavaScript, I thought it'd be a good idea to not jump ahead. I just completed the CSS section, and I felt extremely comfortable on all of the little projects. All of the reps and different classes definitely helped me grasp these concepts. 
 
-Now, I'm hoping that this course can help these JavaScript concepts sink in more. I've been around JavaScript in SoloLearn, Free Code Camp, and various tutorials online, but it still feels over my head. It will be a marathon, and I'm prepared to getScript('or Die Tryin'). Let's do this!
+Now, I'm hoping that this course can help these JavaScript concepts sink in more. I've been around JavaScript in SoloLearn, Free Code Camp, and various tutorials online, but it still feels over my head. It will be a marathon, and I'm prepared to **getScript('or Die Tryin')**. Let's do this!
 
 **Link to tweet:** [MightyJoeW Day 15](https://twitter.com/MightyJoeW/status/832033261220196352)
 

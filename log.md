@@ -475,7 +475,7 @@ I am still committed to completing Free Code Camp, and I’m definitely going to
 **Link to work** [Joe Warren Portfolio Deluxe](http://s.codepen.io/MightyJoeW/debug/GWpKOm/wQMPoZoYwgnk) Again, this portfolio is based off of MOHAMMED ERRAYSY's.
 
 
-<h2 align="center">Day 29: Wednesday March 1, 2017 </h2>
+<h2 align="center">Day 29: Wednesday March 1, 2017</h2>
 
 **Today's Progress**:
 - Odin project Command Line lessons
@@ -493,6 +493,7 @@ Then, I had a late night session coding along with Emily Xie’s Matrix Digital 
 
 
 <h2 align="center">Day 30: Thursday March 2, 2017 </h2>
+
 **Today's Progress**:
 - Odin project Git and front-end dev sections
 
@@ -506,6 +507,7 @@ I never knew about Google's Revision history. This can come in handy big time.
 
 
 <h2 align="center">Day 31: Friday March 3, 2017</h2>
+
 **Today's Progress**:
 - More Odin Project HTML and CSS work
 
@@ -519,6 +521,7 @@ I'm both Hungry Jones and Sleepy Jones right now. I need food and a bed. Goodnig
 
 
 <h2 align="center">Day 32: Saturday March 4, 2017</h2>
+
 **Today's Progress**:
 - More Odin Project HTML and CSS work (focused more on CSS)
 
@@ -534,6 +537,7 @@ I really need to start writing these updates earlier in the day. I usually write
 
 
 <h2 align="center">Day 33: Sunday March 5, 2017</h2>
+
 **Today's Progress**:
 - Continued CSS section of Codecademy for Odin Project
 
@@ -551,6 +555,7 @@ The concept was good, but unfortunately the movie felt flat. Also, it was anothe
 
 
 <h2 align="center">Day 34: Monday March 6, 2017</h2>
+
 **Today's Progress**:
 - Finished CSS section of Odin Project
 - Played CodeCombat with JavaScript as my language of choice
@@ -579,6 +584,7 @@ The syntax is authentic, and the process feels true to coding although it doesn�
 
 
 <h2 align="center">Day 35: Tuesday March 7, 2017</h2>
+
 **Today's Progress**:
 - Odin Project - Developer Tools
 - CodeCombat
@@ -601,6 +607,7 @@ The DevTools things that I picked up today were immediately helpful, and I found
 
 
 <h2 align="center">Day 36: Wednesday March 8, 2017</h2>
+
 **Today's Progress**:
 - Project: HTML/CSS (recreate Google Homepage)
 
@@ -611,6 +618,7 @@ I was challenged to recreate Google’s homepage within the first few weeks of m
 
 
 <h2 align="center">Day 37: Thursday March 9, 2017</h2>
+
 **Today's Progress**:
 - Project: HTML/CSS (recreate Google Homepage)
 
@@ -626,6 +634,7 @@ So, I finally watched a couple of episodes of Silicon Valley and I'm pretty sure
 
 
 <h2 align="center">Day 38: Friday March 10, 2017</h2>
+
 **Today's Progress**:
 - Finished Project: HTML/CSS (recreate Google Homepage)
 - Started Javascript section of the Odin Project
@@ -648,6 +657,7 @@ It's in August, so I have plenty of time to come up with material.
 
 
 <h2 align="center">Day 39: Saturday March 11, 2017</h2>
+
 **Today's Progress**:
 - Built Rock Paper Scissors game with JavaScript
 
@@ -659,6 +669,7 @@ It's in August, so I have plenty of time to come up with material.
 
 
 <h2 align="center">Day 40: Sunday March 12, 2017</h2>
+
 **Today's Progress**:
 - Free Code Camp meetup
 - Worked on HEEL Rock, Paper, Scissors
@@ -676,6 +687,7 @@ On a technical level, I’m having trouble getting everything connected. I feel 
 
 
 <h2 align="center">Day 41: Monday March 13, 2017</h2>
+
 **Today's Progress**:
 - Added changes to HEEL Rock, Paper, Scissors
 
@@ -686,6 +698,7 @@ I didn't spend as much time coding today as usual, but I made some good progress
 
 
 <h2 align="center">Day 42: Tuesday March 14, 2017</h2>
+
 **Today's Progress**:
 - Finished HEEL Rock Paper Scissors 2.0
 
@@ -698,6 +711,7 @@ I was able to experience what others mean when they said to just code and to lea
 
 
 <h2 align="center">Day 43: Wednesday March 15, 2017</h2>
+
 **Today's Progress**:
 - Continued Odin project (Codecademy's Javascript Sections 1-5 and the Codecademy Choose-Your-Own-Adventure Project)
 
@@ -710,6 +724,7 @@ I wrapped up today's work with a Choose Your Own Adventure game which puts you i
 
 
 <h2 align="center">Day 44: Thursday March 16, 2017</h2>
+
 **Today's Progress**:
 - Warmed up with some HTML, CSS, and JavaScript (using https://jsfiddle.net/ for the first time)
 - Project Euler
@@ -723,6 +738,7 @@ I ended the night with some CodeCombat (which is unfortunately starting to get o
 
 
 <h2 align="center">Day 45: Friday March 17, 2017</h2>
+
 **Today's Progress**:
 - revisited Project Euler problem 1 https://projecteuler.net/problem=1
 - revisited Web Development Bootcamp array problem set
@@ -736,6 +752,7 @@ The good news is that I understand what's being asked in the problems, I know wh
 
 
 <h2 align="center">Day 46: Saturday March 18, 2017</h2>
+
 **Today's Progress**:
 - Continued Odin project (completed Code School's Discover DevTools)
 
@@ -749,6 +766,7 @@ I just learned about the ColorZilla Chrome store app. It seems very useful and c
 
 
 <h2 align="center">Day 47: Sunday March 19, 2017</h2>
+
 **Today's Progress**:
 - Working on Additional resources section of JavaScript Odin (creating Contacts List app with objects)
 
@@ -759,6 +777,7 @@ No Free Code Camp meetup today :( Steadily moving through Odin Camp (just about 
 
 
 <h2 align="center">Day 48: Monday March 20, 2017</h2>
+
 **Today's Progress**:
 - Finished JS Contact List exercise. 
 - Working on Objects in Codecademy
@@ -777,6 +796,7 @@ It’s something I’m sure I’ll have in the back of my mind as I continue my 
 
 
 <h2 align="center">Day 49: Tuesday March 21, 2017</h2>
+
 **Today's Progress**:
 - Continued Odin Project (JS Objects in Codecademy)
 - Went back and completed Free Code Camp lesson I got stuck on last month
@@ -790,6 +810,7 @@ I felt like my understanding was there by now, and finally Googled the answer an
 
 
 <h2 align="center">Day 50: Wednesday March 22, 2017</h2>
+
 **Today's Progress**:
 - Continued Objects work with Free Code Camp and Odin Project.
 
@@ -800,6 +821,7 @@ Brain and body fried from work, studying, yard work, and working out all week...
 
 
 <h2 align="center">Day 51: Thursday March 23, 2017</h2>
+
 **Today's Progress**:
 - Finished Free Code Camp Basic Javascript section.
 
@@ -812,6 +834,7 @@ I really want to buckle down and spend more time each day coding. People are out
 
 
 <h2 align="center">Day 52: Friday March 24, 2017</h2>
+
 **Today's Progress**:
 - started on an About page for one of my sites
 - completes Intro to Objects 1 (Odin Project, Codecademy)
@@ -824,6 +847,7 @@ I've seen more Objects than I ever planned on seeing this week, but the repetiti
 
 
 <h2 align="center">Day 53: Saturday March 25, 2017</h2>
+
 **Today's Progress**:
 - finshed Building an Address Book (Odin Project, Codecademy)
 - continued working on Free Code Camp and Odin
@@ -837,6 +861,7 @@ On another note, I think I'm going to take another crack at Javascript 30. I rea
 
 
 <h2 align="center">Day 54: Sunday March 26, 2017</h2>
+
 **Today's Progress**:
 - Free Code Camp Meetup
 - Finished Object Oriented Functional Programming section in Free Code Camp
@@ -850,6 +875,7 @@ At home, I continued going through both Odin Project and Free Code Camp. The .re
 
 
 <h2 align="center">Day 55: Monday March 27, 2017</h2>
+
 **Today's Progress**:
 - Finished Javascript Basics section of Odin Project (Codecademy)
 
@@ -860,6 +886,7 @@ That Codecademy JavaScript track was loaded with new information to me (definite
 
 
 <h2 align="center">Day 56: Tuesday March 28, 2017</h2>
+
 **Today's Progress**:
 - Completed Codecademy's jQuery Track sections 1-3
 - Halfway through Code School's Try jQuery
@@ -879,6 +906,7 @@ jQuery sounds like a rapper that's about the drop the hottest mixtape of the sum
 
 
 <h2 align="center">Day 57: Wednesday March 29, 2017</h2>
+
 **Today's Progress**:
 - More jQuery lessons and practice
 
@@ -891,6 +919,7 @@ On another note, I can’t get the thought of jQuery being a rapper out of my he
 
 
 <h2 align="center">Day 58: Thursday March 30, 2017</h2> 
+
 **Today's Progress**:
 - Continued Code School's Try jQuery course
 
@@ -904,6 +933,7 @@ Russell Westbrook MUST win mvp! I love Harden, but Westbrook is averaging a TRIP
 
 
 <h2 align="center">Day 59: Friday March 31, 2017</h2>
+
 **Today's Progress**:
 - Returned to where my code journey began with Intro to CS from Google’s Technical Development Guide. 
 
@@ -916,6 +946,7 @@ I still have the freedom to experiment and the benefit of time, but I do want to
 
 
 <h2 align="center">Day 60: Saturday April 1, 2017</h2>
+
 **Today's Progress**:
 - Continued into Unit 2 of  Udacity's Intro to Computer Science
 
@@ -928,6 +959,7 @@ However, Unit 1 had many things I hadn’t done before such as web crawling and 
 
 
 <h2 align="center">Day 61: Sunday April 2, 2017</h2>
+
 **Today's Progress**:
 - Solo Learn Python lessons to supplement Intro to CS.
 - Started on Weather App at Free Code Camp meetup.
@@ -939,6 +971,7 @@ I can see why building this weather app has caused so much heartache throughout 
 
 
 <h2 align="center">Day 62: Monday April 3, 2017</h2>
+
 **Today's Progress**:
 - Continued Solo Learn Python lessons to supplement Intro to CS.
 - Worked on a Python calculator
@@ -954,6 +987,7 @@ I can see why building this weather app has caused so much heartache throughout 
 
 
 <h2 align="center">Day 64: Wednesday April 5, 2017</h2>
+
 **Today's Progress**:
 - Completed Solo Learn's Python 'More Tyes' section
 
@@ -961,6 +995,7 @@ I can see why building this weather app has caused so much heartache throughout 
 
 
 <h2 align="center">Day 65: Thursday April 6, 2017</h2>
+
 **Today's Progress**:
 - Continued progressing through Udacity’s Intro to CS course (unit 2)
 
@@ -977,6 +1012,7 @@ I also need to devote more time daily to coding. I’ve heard of people that spe
 
 
 <h2 align="center">Day 66: Friday April 7, 2017</h2>
+
 **Today's Progress**:
 - Continued progressing through Udacity’s Intro to CS course (unit 2)
 - Practiced with button onclick in HTML, CSS, and Javascript
@@ -985,6 +1021,7 @@ I also need to devote more time daily to coding. I’ve heard of people that spe
 
 
 <h2 align="center">Day 67: Saturday April 8, 2017</h2>
+
 **Today's Progress**
 - Completed Udacity's Intro to CS Unit 2
 - Completed a Free Code Camp Basic Algorithm Scripting challenge (Factorialize a Number Complete)
@@ -1000,6 +1037,7 @@ I want to stick to my plans, but I don't want to spread myself too thin to where
 
 
 <h2 align="center">Day 68: Sunday April 9, 2017</h2>
+
 **Today's Progress**
 - Worked on Weather App in groups at Free Code Camp meetup
 
@@ -1010,6 +1048,7 @@ Today’s FCC meetup was a follow up to last week. We continued working on the W
 
 
 <h2 align="center">Day 69: Monday April 10, 2017</h2>
+
 **Today's Progress** - 
 - Arduino lessons including Analog Read Signal and Multiple Blinking LED exercises.
 
@@ -1020,6 +1059,7 @@ All of these Arduino lessons and projects go by so much quicker having programmi
 
 
 <h2 align="center">Day 70: Tuesday April 11, 2017</h2>
+
 **Today's Progress** - 
 - Completed Programming Electronics Arduino Crash Course Module 3 - Basics and Module 4	- Control - Unit 1
 - Modified code and connected a Joystick to my Arduino to display data for x-axis, y-axis, and switch button
@@ -1042,6 +1082,7 @@ With Javascript, I’m still on the Free Code Camp Basic Algorithm Scripting sec
 
 
 <h2 align="center">Day 72: Thursday April 13, 2017</h2>
+
 **Today's Progress** - 
 - Experimented with Arduino 1602 LCD examples
 - Attempted to follow along with a ReactJS tutorial
@@ -1057,6 +1098,7 @@ Back to Javascript.
 
 
 <h2 align="center">Day 73: Friday April 14, 2017</h2>
+
 **Today's Progress** - 
 - More Arduino lessons and experimentation
 
@@ -1064,6 +1106,7 @@ Back to Javascript.
 
 
 <h2 align="center">Day 74: Saturday April 15, 2017</h2>
+
 **Today's Progress** - 
 - Arduino lessons and practice with sensors (out of town)
 
@@ -1071,6 +1114,7 @@ Back to Javascript.
 
 
 <h2 align="center">Day 75: Tuesday April 18, 2017</h2>
+
 **Today's Progress** - 
 - Completed Free Code Camp's Title Case a Sentence and Return Largest Numbers in Arrays challenges
 
@@ -1085,6 +1129,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 
 <h2 align="center">Days 76 and 77: Wednesday April 19, 2017, Thursday April 20, 2017</h2>
+
 **Today's Progress** - 
 - worked on CSS for weather app, reviewed Javascript on SoloLearn, continued Intro to CS on Udacity
 
@@ -1092,6 +1137,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 
 <h2 align="center">Days 78: Friday April 21, 2017</h2>
+
 **Today's Progress** - 
 - Got introduced to Java then reviewed interview prep materials
 
@@ -1099,6 +1145,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 
 <h2 align="center">Day 79: Saturday April 22, 2017</h2>
+
 **Today's Progress** - 
 - Worked on Python problems
 - Practice white board coding
@@ -1107,6 +1154,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 
 <h2 align="center">Day 80: Sunday April 23, 2017</h2>
+
 **Today's Progress** - 
 - Added fahrenheit/celsius toggle button on weather app
 - started Free Code Camp beta
@@ -1116,6 +1164,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 
 <h2 align="center">Day 81: Monday April 24, 2017</h2>
+
 **Today's Progress** - 
 - Added updates to FCC local group then continued progressing through the FCC beta.
 
@@ -1123,6 +1172,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 
 <h2 align="center">Day 82: Tuesday April 25, 2017</h2>
+
 **Today's Progress** - 
 - Continued progressing through the FCC beta and revisited some CSS in old code
 
@@ -1130,6 +1180,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 
 <h2 align="center">Day 83: Wednesday April 26, 2017</h2>
+
 **Today's Progress** - 
 - Finished Applied Visual Design section of Free Code Camp beta
 - Created some CSS animations in Codepen
@@ -1138,6 +1189,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 
 <h2 align="center">Day 84: Sunday April 30, 2017</h2>
+
 **Today's Progress** - 
 - Started on the Build a Wikipedia Viewer project at today's freeCodeCamp meetup.
 
@@ -1146,6 +1198,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 
 <h2 align="center">Day 85: Wednesday May 03, 2017</h2>
+
 **Today's Progress** - 
 - HTML5 Games Workshop
 - finished fCC beta's Applied Accessibility and Responsive Web Design Principles sections
@@ -1154,6 +1207,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 
 <h2 align="center">Day 86: Sunday May 07, 2017</h2>
+
 **Today's Progress** - 
 - Continued on fCC Wikipedia Viewer in today's fCC meetup.
 
@@ -1161,6 +1215,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 
 <h2 align="center">Day 87: Monday May 08, 2017</h2>
+
 **Today's Progress** - 
 - Continued working through CSS Flexbox section of fCC beta.
 
@@ -1175,6 +1230,7 @@ As I continue through the fCC beta, I plan to continue building my own pages whi
 
 
 <h2 align="center">Day 88: Tuesday May 09, 2017</h2>
+
 **Today's Progress** - 
 - Wrapping up the CSS Flexbox section of fCC beta.
 
@@ -1182,6 +1238,7 @@ As I continue through the fCC beta, I plan to continue building my own pages whi
 
 
 <h2 align="center">Day 89: Wednesday May 10, 2017</h2>
+
 **Today's Progress** - 
 - Finished CSS Flexbox section of fCC beta
 - Worked on new tribute page (this time without Bootstrap)
@@ -1190,6 +1247,7 @@ As I continue through the fCC beta, I plan to continue building my own pages whi
 
 
 <h2 align="center">Day 90: Monday May 22, 2017</h2>
+
 **Today's Progress**
 - Worked on landing page (based on a Kajabi page)
 - worked on fCC Survey Page assignment
@@ -1213,6 +1271,7 @@ I’m well out of bounds of the official 100 days of code rules, but I am going 
 
 
 <h2 align="center">Day 91: Tuesday May 23, 2017</h2>
+
 **Today's Progress**
 - Completed 16/16 tests for fCC beta Survey Form challenge
 - Working on CSS for survey
@@ -1229,6 +1288,7 @@ Then, I’ll be in the Javascript Algorithms And Data Structures section of the 
 
 
 <h2 align="center">Day 92: Wednesday May 24, 2017</h2>
+
 **Today's Progress**
 - Submitted Music Learning Style assessment for fCC Beta Survey Form project
 - Started on Landing Page project
@@ -1245,6 +1305,7 @@ Something else I’ve been working on this week is doing everything in the comma
 
 
 <h2 align="center">Day 93: Thursday May 25, 2017</h2>
+
 **Today's Progress**
 - Working on Landing Page
 - Started Javascript Basic section of fCC Beta
@@ -1258,6 +1319,7 @@ I wrapped up the day with some Javascript review as I get closer to resuming my 
 
 
 <h2 align="center">Day 94: Friday May 26, 2017</h2>
+
 **Today's Progress**
 - Working on Landing Page
 - Continued working through Javascript Basic section of fCC Beta
@@ -1277,6 +1339,7 @@ P.S. If you're curious about which exercise specifically, it was the Stand in Li
 
 
 <h2 align="center">Day 95: Saturday May 27, 2017</h2>
+
 **Today's Progress**
 - Working on Landing Page
 
@@ -1289,6 +1352,7 @@ Gym break then will hopefully be able to dive into more Javascript later.
 
 
 <h2 align="center">Day 96: Sunday May 28, 2017</h2>
+
 **Today's Progress**
 - Worked on Basic JavaScript: Counting Cards
 - Free Code Camp meetup
@@ -1297,6 +1361,7 @@ Gym break then will hopefully be able to dive into more Javascript later.
 
 
 <h2 align="center">Day 97: Sunday May 29, 2017</h2>
+
 **Today's Progress**
 - Continued through fCC Beta Javascript section
 
@@ -1313,6 +1378,7 @@ I better not EVER forget that again. I'm going to have nightmares of arrays with
 
 
 <h2 align="center">Day 98: Tuesday May 30, 2017</h2>
+
 **Today's Progress**
 - Continued working through fCC Beta Javascript section
 - Continued working on Landing Page
@@ -1341,6 +1407,7 @@ So to everyone out there learning, struggling, and succeeding, keep fighting thr
 
 
 <h2 align="center">Day 99: Tuesday May 30, 2017 - in progress</h2>
+
 **Today's Progress**
 - Spent time learning and implementing advanced Github Markdown
 

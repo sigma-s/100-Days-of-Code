@@ -48,11 +48,11 @@ Day 3: Friday February 3, 2017
 </h2>   
 
 **Today's Progress**: Finished the Minutes to Hour Converter! Well, at least for now...
-- added lang=""en-us"" to HTML
-- added <meta name=""viewport"" content=""width=device-width, initial-scale=1.0""> // trying to make mobile friendly
-- removed parenthesis from around <h3> It looked bad on mobile.
-- added mobile friendly code from w3 schools in .body. Can't figure out how to move everything to the center now. Found it!!! Change margin to auto!!
-- fixed footer on mobile by changing position from absolute to fixed :D
+- added `lang="en-us"` to HTML
+- added `<meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">` // trying to make mobile friendly
+- removed parenthesis from around It looked **BAD** on mobile.
+- added mobile friendly code from w3 schools in `.body`. Can't figure out how to move everything to the center now. Found it!!! Change margin to auto!!
+- fixed footer on mobile by changing position from `absolute` to `fixed` :D
 
 **Thoughts:** It felt really good completing my first little project (especially without using jQuery or Bootstrap). I intentionally decided not to use those as I'm still early in learning JavaScript and want to have a better understanding of it first. Plus, it sounds like they are losing popularity anyway. 
 

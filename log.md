@@ -212,7 +212,9 @@ Day 9: Thursday February 9, 2017
 
 **Today's Progress**: More Web Development Bootcamp CSS lessons plus additional work on Pokedex. Created pages for numerical list and alphabetical list.
 
-**Thoughts:** Very tough day with flu-like symptoms, but made it an hour. 
+<img src="https://lh3.googleusercontent.com/D29o-O-DE_xBXCVu_iHotMOrwIcOlfLVETINJ-sOgsVqISQp-jTYavzZ4nNORS1qQCVCegggdI5IINN-WinKpg0LK3JI_UujKdSDi_i7cNLqeQEu6gHZfYTGWV2tFPXCPrTFEdLX9MGgcQ6sWyg3LQhqhQOnETpYRCKEI2UZf33M55bKuU90Rx68biIDzVQcSPAJvNp4SQZibLn0AIZ6MVqmhMqswZyRxIQyS10sE0utpP_5KFKWd5x6mg3B6aT8jZHYr4b0uGnrdJmFyR2siClZZF3_Bx80dHrTX-W22LxdrVZPXoVcQKFsDkBmd13bAECiU07cMBh6-Fj2C3u1SZZn2qPcweSCImwfFBt0VxlrOv8K-hv3hqZkSZLn4HJKeKbcUTG4Ey2mQpXZnGdgIIt9Abao3xQ5xB9cjZbn0q67LQN_t9RkvIUH_f4rEwtKMK8pb5goCiRuylp_7enuIyK3DB2nWrCo7ymelKiEpH0mCtWXBEpV493R0SUL_IzThdebJILtBNKypRaK75daO0ahjyrXg7EWFiHdrc_HNQcojEab1j5eyPrxdk6V-htq08W4dgiY7Mgbw1ajvUi_Q1TBnXtT3HgL1iVstD-vjiIjiun55ZmRIA=w1186-h627-no" alt="Pokemon Table Code in Sublime Text">
+
+**Thoughts:** Very tough day with flu-like symptoms, but made it an hour :cold_sweat:. 
 
 **Link to tweet:** [MightyJoeW Day 9](https://twitter.com/MightyJoeW/status/829900574204256263)
 

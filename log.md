@@ -94,7 +94,7 @@ Day 3: Friday February 3, 2017
 <h2 align="center">
 Day 4: Saturday February 4, 2017
 </h2>
-  
+<img src="http://www.aha.io/assets/github.7433692cabbfa132f34adb034e7909fa.png" alt"Github logo">
 
 **Today's Progress**: Learned my way around GitHub.
 
@@ -109,9 +109,15 @@ Day 4: Saturday February 4, 2017
 Day 5: Sunday February 5, 2017
 </h2>  
 
+<img src="https://react-etc.net/files/2016-07/logo-578x270.png" alt="ReactJs">
+
 **Today's Progress**: Spent more time learning how to use GitHub. Then, worked with Node.js and React for the first time at Free Code Camp. 
 
-**Thoughts:** It's amazing how quickly you can go from feeling on top of the world to feeling like you know absolutely nothing. This happens often to me at our Free Code Camp meetups lol. I have a decent understanding of HTML and CSS, and I'm getting more comfortable with JavaScript, but I have never seen Node.js or React before. I felt like my brain was put in a blender, but I was happy to get exposed to both of these early in my learning. I've wanted to learn both, and I got a little preview of what they both are like. 
+**Thoughts:** It's amazing how quickly you can go from feeling on top of the world to feeling like you know absolutely nothing. This happens often to me at our Free Code Camp meetups lol. I have a decent understanding of HTML and CSS, and I'm getting more comfortable with JavaScript, but I have never seen Node.js or React before. 
+
+<img src="http://i.imgur.com/c4jt321.png" alt="ReactJs">
+
+I felt like my brain was put in a blender, but I was happy to get exposed to both of these early in my learning. I've wanted to learn both, and I got a little preview of what they both are like. 
 
 **Link to tweet:** [MightyJoeW Day 5](https://twitter.com/MightyJoeW/status/828369204793446400)
 
@@ -153,7 +159,7 @@ Day 7: Tuesday February 7, 2017
 
 **Today's Progress**: Reviewed HTML and CSS. Created a few basic HTML pages including a Pokemon chart and a login page.
 
-**Thoughts:** I decided to try out Udemy's Web Developer Bootcamp by Colt Steele. It's currently $15 (regular price $200), and I had seen many different people comment about how great this content is. I've been getting stuck on FCC challenges and felt like a needed a solid training program to go along with it. So far, it's been great!
+**Thoughts:** I decided to try out Udemy's [Web Developer Bootcamp by Colt Steele](https://www.udemy.com/the-web-developer-bootcamp/). It's currently $15 (regular price $200), and I had seen many different people comment about how great this content is. I've been getting stuck on FCC challenges and felt like a needed a solid training program to go along with it. So far, it's been great!
 
 A couple of simple things I've picked up already are many helpful shortcuts in Sublime Text as well as how to hyperlink to a local file (relative path). I only knew how to hyperlink other web pages. The rest has been a good review of some HTML and CSS things I've forgotten.
 
@@ -169,6 +175,29 @@ Day 8: Wednesday February 8, 2017
 </h2>
 
 **Today's Progress**: Week 1 complete! More HTML and CSS review (working through Udemy's Web Developer Bootcamp by Colt Steele). Practiced CSS with an 'About Me' page and a 'To Do list' page.
+
+<img src="https://lh3.googleusercontent.com/SsQaWdf1OoPEuVct6-OivZTleXCJsolfv5YErb_smxNZ3-ncvKSAazCPBeus1pBb1sFw9fXdrmNQ9_DJwsmVsVunZw1UdzW-paOa0dto8yoPXE_3oIL8KFfOX2t-DnphVbBodtqedUiQHq1PhCaVorR7jwtnJ5T3EQ637JugsRgbzCsoS-uhzjl7KfrPRqT5KooT-CgkwpCjklwF0o3KzHSdFXD-yqKEI2jEl6KKpQJhmhh92kHkyq8_9zop90vtOuQw4npHjY20T9gzqKzS9W8g45UoBpd5KCG0M8gqj8_LORflZtk5JaAAH_hqjGZNiGBmPeKoGWhkvjHSN8kVTYXIdl8eIa1KICtwFnwg-fpz1mvxB7or_98x8LqdxcGdPjtqq497FPki2uN9JV1ootj6KyyxEHXSECF6rpabcNgsiusJQtgaS4BILNPj752sc9p3XC1RHM7nn_cNKBlZbmKMqGbkvhgGrkwqEMc3GwdWLTr-NifrH5KMaR4dRRGlXLdUP0jnVvXVnwVVVMrXuqLH7ShBx_KfWj2vKvcID45vqYMGmOV0v98Ms3qZImKRZuC9X659Gij5gdnTlk0RSpFRCJwWMlNTGSjO2w5rZBoc0GzFUGPIuQ=w1274-h199-no" alt="Basic To Do List">
+
+```
+<body>
+<h1>To Do List</h1>
+
+<ul>
+	<li id="priority" class="completed">
+		<input type="checkbox" name="" checked>
+		Hour of Code
+	</li>
+	<li class="completed">
+		<input type="checkbox" name="">
+		Post to Twitter
+	</li>
+	<li><input type="checkbox" name="">
+	Update GitHub log
+	</li>
+</ul>
+
+</body>
+```
 
 **Thoughts:** Today has been another very productive day so far. Colt Steele's lessons are very good, and I definitely enjoy having video content to learn from now. It seems like concepts are sticking better by being able to hear, watch, and participate opposed to solely reading and practicing. This was another good review for me as I lead up to the JavaScript section (why I really bought this course).
 

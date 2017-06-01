@@ -1412,6 +1412,7 @@ So to everyone out there learning, struggling, and succeeding, keep fighting thr
 </p>
 
 <p align="center"><b>Today's Progress:</b> Spent time learning and implementing advanced Github Markdown & HTML</p>
+<br>
 
 A glitch may not be my problem at the moment, but markdown sure ~~is~~ was. A combination of things led me to wanting to give my Github a makeover, starting with this very log. 
  

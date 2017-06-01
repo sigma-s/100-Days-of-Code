@@ -338,7 +338,7 @@ In regards to my portfolio, it's coming along. At the moment, I can't get my pho
 
 I also added photos and titles for projects I plan on completing including a JavaScript Drum Kit, a Simon game, and a Whack a Mole game. I look forward to diving into these projects in the near future.
 
-Update: I figured it out!! Again, another small issue. I had the closing div tag AFTER my photo. I needed to change it to be above the photo. Now, the photo (which is a col), is showing up properly next to the text :D
+Update: I figured it out!! Again, another small issue. I had the closing div tag AFTER my photo. I needed to change it to be above the photo. Now, the photo (which is a col), is showing up properly next to the text :smile:
 
 **Link to tweet:** [MightyJoeW Day 21](https://twitter.com/MightyJoeW/status/834226942660505600)
 
@@ -363,7 +363,7 @@ I actually don't mind at this stage though because I'm seeing how much I'm retai
 
 **Link to tweet:** [MightyJoeW Day 22](https://twitter.com/MightyJoeW/status/834624859422470144)
 
-**Sidenote Jones** I just realized this doesn't have a spell check. Hopefully everything has been half-decent...
+**Sidenote Jones** I just realized this doesn't have a spell check. Hopefully everything has been half-decent... :flushed:
 
 
 <h2 align="center">
@@ -401,7 +401,7 @@ Array Iteration has not been my friend thus far. I'm currently trying to figure 
 **Link to tweet:** [MightyJoeW Day 24](https://twitter.com/MightyJoeW/status/835275665540788225)
 
 **Sidenote Jones** 
-The ‘coffee and code’ way of life is starting to make more sense. I’ve never been a consumer of coffee, but it’s been a few days in a row that I’ve gotten sleepy while trying to progress through this content. I may need to get a little taste of the coffee life #SleepyJones
+The ‘coffee and code’ way of life is starting to make more sense. I’ve never been a consumer of coffee, but it’s been a few days in a row that I’ve gotten sleepy while trying to progress through this content. I may need to get a little taste of the coffee life :sleeping: #SleepyJones
 
 
 <h2 align="center">
@@ -413,7 +413,7 @@ Day 25: Saturday February 25, 2017
 - Started working on a new website for practice
 
 **Thoughts:** 
-I didn't do anything too deep today. I'm dog sitting for a buddy, and this pup is loaded with energy (Border Collie/Pit mix)! I managed to mess around with some HTML and bootstrap. I began to recreate a page I made years ago with Blogspot. 
+I didn't do anything too deep today. I'm dog sitting for a buddy, and this pup is loaded with energy (Border Collie/Pit mix :dog:)! I managed to mess around with some HTML and bootstrap. I began to recreate a page I made years ago with Blogspot. 
 
 Tomorrow, things will pick back up with the Free Code Camp meetup. They consistently keep us on our toes.
 
@@ -448,7 +448,7 @@ Day 27: Monday February 27, 2017
 - Worked on third edition of my portfolio
 
 **Thoughts:** 
-I messed around and got excited looking ar portfolios on Codepen and started on yet another. The one I'm basing mine off of used all kinds of tools that I haven't seen before. Needless to say, I don't understand all of it, but it's fascinating!
+I messed around and got excited looking at portfolios on Codepen and started on yet another. The one I'm basing mine off of used all kinds of tools that I haven't seen before. Needless to say, I don't understand all of it, but it's fascinating!
 
 **Link to tweet:** [MightyJoeW Day 27](https://twitter.com/MightyJoeW/status/836428525884309504)
 
@@ -461,7 +461,7 @@ Day 28: Tuesday February 28, 2017
 
 **Today's Progress**:
 - Continued working on Portfolio: Deluxe Edition
-- Checked out The Odin Project http://www.theodinproject.com/home
+- Checked out [The Odin Project](http://www.theodinproject.com/home)
 
 **Thoughts:** 
 The coding part of my day continued with my deluxe portfolio. I was going through the SCSS trying to see how much of it I could understand (same with the JS). The amount that was loaded into both is incredible. I get bits and pieces, but I look forward to having a better grasp of what exactly is going on.
@@ -484,7 +484,7 @@ I am still committed to completing Free Code Camp, and I’m definitely going to
 **Thoughts:** 
 This will be short because I'm Sleepy Jones, but today was a really good day of unexpected progress. I continued going through the Odin project, and the Command Line now makes more sense to me than it ever has. I’ll try to use it regularly to get more comfortable with it. 
 
-Then, I had a late night session coding along with Emily Xie’s Matrix Digital Rain in p5.js tutorial https://youtu.be/S1TQCi9axzg. Even though much of it was over my head, it was still fun and fascinating to code along with. Sleeeeepy. Mighty Out. 
+Then, I had a late night session coding along with Emily Xie’s Matrix [Digital Rain in p5.js tutorial](https://youtu.be/S1TQCi9axzg). Even though much of it was over my head, it was still fun and fascinating to code along with. Sleeeeepy. Mighty Out. 
 
 **Link to tweet:** [MightyJoeW Day 29](https://twitter.com/MightyJoeW/status/837188094176735232)
 
@@ -527,7 +527,7 @@ I'm both Hungry Jones and Sleepy Jones right now. I need food and a bed. Goodnig
 **Thoughts:** 
 After a long day of driving (ROAD TRIP!!) and seeing family, I am definitely ready to dive into bed. However, I do NOT want to break my streak. Day 32, and I'm just getting warmed up! I just spent an hour continuing the Odin Project (I'm currently in the HTML & CSS Codecademy section). 
 
-This is mostly review, but I had forgotten all about the pseudo-classes in CSS. This was a good opportunity for me to get some more reps with this. A couple that I used were X:first-child{} and X:nth-child(n){}. In the Udemy course that I'm also working through (Web Development Bootcamp), he shared this helpful link with 30 important CSS Selectors https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048.
+This is mostly review, but I had forgotten all about the pseudo-classes in CSS. This was a good opportunity for me to get some more reps with this. A couple that I used were X:first-child{} and X:nth-child(n){}. In the Udemy course that I'm also working through (Web Development Bootcamp), he shared this helpful link with [30 important CSS Selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048).
 
 **Link to tweet:** [MightyJoeW Day 32](https://twitter.com/MightyJoeW/status/838281454945767424)
 
@@ -702,7 +702,7 @@ I didn't spend as much time coding today as usual, but I made some good progress
 - Finished HEEL Rock Paper Scissors 2.0
 
 **Thoughts:** 
-Wow, it is finished and I am happy! HUGE shoutout to https://codepen.io/steveszc/. My original Rock Paper Scissors was not functional (and not pretty). I was able to use his version to learn how to get everything functioning and laid out much better. 
+Wow, it is finished and I am happy! HUGE shoutout to [steveszc](https://codepen.io/steveszc/). My original Rock Paper Scissors was not functional (and not pretty). I was able to use his version to learn how to get everything functioning and laid out much better. 
 
 I was able to experience what others mean when they said to just code and to learn from other people's code. I've been doing a lot of lessons, but it was very helpful having to experiment & Google, and also being able to see how the code looks of what I was actually striving for. There are a lot of little things you pick up that may not be covered in whatever lesson you are completing. 
 
@@ -725,7 +725,7 @@ I wrapped up today's work with a Choose Your Own Adventure game which puts you i
 <h2 align="center">Day 44: Thursday March 16, 2017</h2>
 
 **Today's Progress**:
-- Warmed up with some HTML, CSS, and JavaScript (using https://jsfiddle.net/ for the first time)
+- Warmed up with some HTML, CSS, and JavaScript (using [JS Fiddle](https://jsfiddle.net/) for the first time)
 - Project Euler
 
 **Thoughts:** 
@@ -739,7 +739,7 @@ I ended the night with some CodeCombat (which is unfortunately starting to get o
 <h2 align="center">Day 45: Friday March 17, 2017</h2>
 
 **Today's Progress**:
-- revisited Project Euler problem 1 https://projecteuler.net/problem=1
+- revisited [Project Euler problem 1](https://projecteuler.net/problem=1)
 - revisited Web Development Bootcamp array problem set
 
 **Thoughts:** 
@@ -1048,7 +1048,7 @@ Today’s FCC meetup was a follow up to last week. We continued working on the W
 
 <h2 align="center">Day 69: Monday April 10, 2017</h2>
 
-**Today's Progress** - 
+**Today's Progress** 
 - Arduino lessons including Analog Read Signal and Multiple Blinking LED exercises.
 
 **Thoughts**
@@ -1059,7 +1059,7 @@ All of these Arduino lessons and projects go by so much quicker having programmi
 
 <h2 align="center">Day 70: Tuesday April 11, 2017</h2>
 
-**Today's Progress** - 
+**Today's Progress**
 - Completed Programming Electronics Arduino Crash Course Module 3 - Basics and Module 4	- Control - Unit 1
 - Modified code and connected a Joystick to my Arduino to display data for x-axis, y-axis, and switch button
 
@@ -1067,7 +1067,7 @@ All of these Arduino lessons and projects go by so much quicker having programmi
 
 
 <h2 align="center">Day 71: Wednesday April 12, 2017</h2>
-**Today's Progress** - 
+**Today's Progress**
 - Arduino practice with push buttons
 - Free Code Camp Basic Algorithm Scripting continued.
 
@@ -1082,7 +1082,7 @@ With Javascript, I’m still on the Free Code Camp Basic Algorithm Scripting sec
 
 <h2 align="center">Day 72: Thursday April 13, 2017</h2>
 
-**Today's Progress** - 
+**Today's Progress**
 - Experimented with Arduino 1602 LCD examples
 - Attempted to follow along with a ReactJS tutorial
 
@@ -1098,7 +1098,7 @@ Back to Javascript.
 
 <h2 align="center">Day 73: Friday April 14, 2017</h2>
 
-**Today's Progress** - 
+**Today's Progress**
 - More Arduino lessons and experimentation
 
 **Link to tweet:** [MightyJoeW Day 73](https://twitter.com/MightyJoeW/status/853022422697750528)
@@ -1106,7 +1106,7 @@ Back to Javascript.
 
 <h2 align="center">Day 74: Saturday April 15, 2017</h2>
 
-**Today's Progress** - 
+**Today's Progress**
 - Arduino lessons and practice with sensors (out of town)
 
 **Link to tweet:** [MightyJoeW Day 74](https://twitter.com/MightyJoeW/status/853469101758480385)
@@ -1114,7 +1114,7 @@ Back to Javascript.
 
 <h2 align="center">Day 75: Tuesday April 18, 2017</h2>
 
-**Today's Progress** - 
+**Today's Progress**
 - Completed Free Code Camp's Title Case a Sentence and Return Largest Numbers in Arrays challenges
 
 **Thoughts**
@@ -1129,7 +1129,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 <h2 align="center">Days 76 and 77: Wednesday April 19, 2017, Thursday April 20, 2017</h2>
 
-**Today's Progress** - 
+**Today's Progress**
 - worked on CSS for weather app, reviewed Javascript on SoloLearn, continued Intro to CS on Udacity
 
 **Link to tweet:** [MightyJoeW Days 76 and 77](https://twitter.com/MightyJoeW/status/855255282703884288)
@@ -1137,7 +1137,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 <h2 align="center">Days 78: Friday April 21, 2017</h2>
 
-**Today's Progress** - 
+**Today's Progress**
 - Got introduced to Java then reviewed interview prep materials
 
 **Link to tweet:** [MightyJoeW Day 78](https://twitter.com/MightyJoeW/status/855638606463074304)
@@ -1145,7 +1145,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 <h2 align="center">Day 79: Saturday April 22, 2017</h2>
 
-**Today's Progress** - 
+**Today's Progress**
 - Worked on Python problems
 - Practice white board coding
 
@@ -1154,7 +1154,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 <h2 align="center">Day 80: Sunday April 23, 2017</h2>
 
-**Today's Progress** - 
+**Today's Progress**
 - Added fahrenheit/celsius toggle button on weather app
 - started Free Code Camp beta
 - Created a local FCC Facebook group
@@ -1164,7 +1164,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 <h2 align="center">Day 81: Monday April 24, 2017</h2>
 
-**Today's Progress** - 
+**Today's Progress** 
 - Added updates to FCC local group then continued progressing through the FCC beta.
 
 **Link to tweet:** [MightyJoeW Day 81](https://twitter.com/MightyJoeW/status/856694151697530880)
@@ -1172,7 +1172,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 <h2 align="center">Day 82: Tuesday April 25, 2017</h2>
 
-**Today's Progress** - 
+**Today's Progress**
 - Continued progressing through the FCC beta and revisited some CSS in old code
 
 **Link to tweet:** [MightyJoeW Day 82](https://twitter.com/MightyJoeW/status/857111509780103169)
@@ -1180,7 +1180,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 <h2 align="center">Day 83: Wednesday April 26, 2017</h2>
 
-**Today's Progress** - 
+**Today's Progress**
 - Finished Applied Visual Design section of Free Code Camp beta
 - Created some CSS animations in Codepen
 
@@ -1189,7 +1189,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 <h2 align="center">Day 84: Sunday April 30, 2017</h2>
 
-**Today's Progress** - 
+**Today's Progress**
 - Started on the Build a Wikipedia Viewer project at today's freeCodeCamp meetup.
 
 
@@ -1198,7 +1198,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 <h2 align="center">Day 85: Wednesday May 03, 2017</h2>
 
-**Today's Progress** - 
+**Today's Progress**
 - HTML5 Games Workshop
 - finished fCC beta's Applied Accessibility and Responsive Web Design Principles sections
 
@@ -1207,7 +1207,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 <h2 align="center">Day 86: Sunday May 07, 2017</h2>
 
-**Today's Progress** - 
+**Today's Progress**
 - Continued on fCC Wikipedia Viewer in today's fCC meetup.
 
 **Link to tweet** [MightyJoeW Day 86](https://twitter.com/MightyJoeW/status/861399428938203137)
@@ -1215,7 +1215,7 @@ As usual, I am Sleepy Jones. Until next time!
 
 <h2 align="center">Day 87: Monday May 08, 2017</h2>
 
-**Today's Progress** - 
+**Today's Progress**
 - Continued working through CSS Flexbox section of fCC beta.
 
 **Thoughts**
@@ -1230,7 +1230,7 @@ As I continue through the fCC beta, I plan to continue building my own pages whi
 
 <h2 align="center">Day 88: Tuesday May 09, 2017</h2>
 
-**Today's Progress** - 
+**Today's Progress**
 - Wrapping up the CSS Flexbox section of fCC beta.
 
 **Link to tweet** [MightyJoeW Day 88](https://twitter.com/MightyJoeW/status/862086297640472576)
@@ -1238,7 +1238,7 @@ As I continue through the fCC beta, I plan to continue building my own pages whi
 
 <h2 align="center">Day 89: Wednesday May 10, 2017</h2>
 
-**Today's Progress** - 
+**Today's Progress**
 - Finished CSS Flexbox section of fCC beta
 - Worked on new tribute page (this time without Bootstrap)
 

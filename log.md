@@ -359,6 +359,8 @@ Update 1: Never mind. Moving the container broke some other parts of the page (p
 
 Update 2: I found the error!!! A missing `</nav>`!!! I feel so relieved and frustrated at the same time lol. Great way to wrap up the night though :) 
 
+<img src="https://lh3.googleusercontent.com/n7fgTZI930nf6CMjCieTm1Id73_TeeIfBadoAelRdhF--ETFRkaLAKMXEAIr0SuhdNDq3lIXQkHVVgy97adNdPEnlsR8qIE0Yos-sApXwj77Ly5y3T-AUlNfSO_cemRbU7kYR1GThXjW5dxhx-sZJChtNDwWdb_nVQ0aO2mSkqSQl4Lwo-opNRwlb9iApsg5tRxdAfbdElDHPy6F3cCbSEmZnATc6s3Kye0eebKIKI0TsNCT2vDpSn7bSZf_aQYSUSRSLfPwsYLPK_LEejGpzkgTnVLQCaFlkmCuliwQ0-hRDZtvjg2ex-Hc9HGeUgO5kzLtsSF9bxgU-pqhZKsQRhMDstGZDwKK0EWw7yqIulXeN2g6lLAecf5_bP57Wtk55HtRTjrYT-fGnkNNssoe4BtfP_UFu4yeTVHKP_lMjZshVDMOZ2UUcSVaDUUQNmG-4qODBCWK3GFtLRkwQXfuBQz2SNj-c1hoi7WhFJamyJBitQp674PbLmqEaSimaxBc67K8uTVsiqN4a4VqCRPLrcspPXWGbwBFxcN_TGZ0-tOPBb_1Uy57qZFDcL2CJNRSG3J5Rpakhp0aoE44CWiY3QI0THVKb0TaIR2Lx9bdE-Sa2TgFC08-Yw=w1213-h627-no" alt="Joe Warren Portfolio">
+
 **Thoughts:** I'm thinking I may need to start from scratch with my portfolio. But I do feel like I can eventually figure out why the navbar will not work when fixed (and let's be honest, I don't want to start over from scratch lol).
 
 It's been fun experimenting and getting different things to work, but unfortunately breaking things is a part of the process. I will figure this out. I will figure out how to have a fixed navbar and footer with everything in between displaying properly.
@@ -382,9 +384,17 @@ Day 17: Friday February 17, 2017
 
 - **Portfolio** - The navbar was working properly, but the jumbotron engulfed the entire page. After being unsuccessful in figuring out where the issue was, I went through line-by-line (again) comparing to a solution from Web Development Bootcamp (which led to another issue of the navbar icons not showing up, but I found an updated font awesome link on StackOverflow that worked).
 
-- **Landing Page** - When I first was introduced to Bootstrap, I didn't know what to think. It seemed to good to be true and almost like cheating. On Codepen, you simply click the Quickadd button, and you can then do all of these magical things. What has helped me understand Bootstrap a lot more was actually seeing the css file. I had no idea what the magic was before. Now, I can actually look through the css to see how everything works. It doesn't feel like cheating anymore because it's extremely intricate, you still need a deep understanding, and I can go in and edit things if needed. 
+- **Landing Page** - When I first was introduced to Bootstrap, I didn't know what to think. It seemed too good to be true and almost like cheating. On Codepen, you simply click the Quickadd button, and you can then do all of these magical things. What has helped me understand Bootstrap a lot more was actually seeing the CSS file. I had no idea what the magic was before. Now, I can actually look through the CSS to see how everything works. It doesn't feel like cheating anymore because it's extremely intricate, you still need a deep understanding, and I can go in and edit things if needed. 
 
 Using Bootstrap, I started working on a new landing page for one of my sites, gamesandkeys.com (video game piano tutorials, sheet music, and midi files). My focus is not currently on music and I haven't made any video game piano tutorials for awhile, but the site is still active and still gets traffic. I think I may keep going with this new version and do a complete overhaul. 
+
+> Current GamesAndKeys.com Homepage (Blogger)
+
+<img src="https://lh3.googleusercontent.com/Y9N7QSrKK59rrOd3frYCgZIZ69swdsfwymf_39NXV1yooZO24KSUyrLV-oyC-mmxnf3KtH7SBJiR5PJkmcHJoME8DhMyRt6xlDYyISJwn7IByea74upOTHSHeGgWb6bpeWv99PR7K2ox995pkSrqSnfnL35m1yMrUTkkrOBqHTbYyxaLikHyKp9xt_b9LyXukI835EwgDAGJG70o_KjmQcXLOko8PSoDoyNj0i4mg01uvMBHmq7nYDyJtdAlfvd8eVhq_L4KfkEEPeGLiCed0IHzT7gnfh9-PPvGMQrZzM5k2eSb7tYTxdaRwp01DUce5TkmYAdOa2nSV2xgjm5xWhPZP4Yyl5BdgiKkDWH6_JAgIj_QfiCyvn3VRevOlpUjEzkcJcArJTBPVOXaYLqknQkjeM7xNXVVg1IUwBCIXfS5GeBHoBz3OjNwlKaI2lUHGEJgWMnIPWIW0WkmKwWfAODnGGBYAXiR5pERR4ItMgONXO-Fmi4shLKvhf1fX1LpdHoq0HqKUut6gajmdFirAR4eSVlYl4bNsGtCSG5puarREu-iuCCaj6vPJc9BIXFb7gfIwL7aqqEYhwAUPkZGTRHILggYlSZEOsU16aW8BRLwWwgNjTkGlw=w1266-h597-no" alt="GamesAndKeys Blogger page">
+
+> GamesAndKeys Landing Page concept
+
+<img src="https://lh3.googleusercontent.com/4TqplbKaRs8I-Ysp04oY6Zy54NI6pXjN7soXB3Sx5DbMPb9c2VUoKnVt3MQA1vtQTyPhM0WbjZHgHxm3IN0aLQwW_6_DXEbDcXZZyPThmY5lgOD6fUrC6jBHllT2cACHo3Fz9HW73p3DpsnY9ycbX5GGAngQnOY5kJVps1t0sbnT6nh4zn7yABXC2dSMGs8BxN4TcD_HFKMDVVC5XBhfSjvWQ9k250Tjr63Ff_SMEzQFyf_lHnVh-tdNAl42D2J0xJgAsup9fkk4txmqpiMGSu3HsPZr94IheWFKzbfpXrEXFwBPGh072rkoWJzl6c1CXW-pPb88A58CTDHYvNd8ALy7k2E1UqngXN8iY-XJYoXOztHw9D748VHihY-MhcLZT3FyY7Nnj1Eu3FdpZc-XkBzuFTDC63a3rTRysGqJFTA9dgyANujckXXeweqDilthWEqZtt_i9p-FoNw1daCum59mO7MrthlzdY61Z1yDzTgHUxu8iCDY0j4MfeqrYwssAgcioJhEiapGy50s5gZ8rA_Km3cgmTdn6EBLPflkehMLYCoCNjZi9kNp8zTt8jpD8IlY-DCcKaPsaphJ5IflVb3g7W76NHQCugpukfl6A0GM4fi1jVdz6A=w1280-h626-no" alt="GamesAndKeys Blogger page">
 
 **Sidenote Jones:** NBA Allstar Weekend!
 

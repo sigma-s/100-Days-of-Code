@@ -69,12 +69,11 @@ Day 4: Saturday February 4, 2017
 
 **Today's Progress**: Learned my way around GitHub.
 
-**Thoughts:** At this past Free Code Camp meetup, we spent a lot of time in GitHub. I felt like it was moving too fast, so I really wanted to get a grasp on how to use GitHub. It looked like I was looking at gibberish before, but now it makes a lot more sense.  
+**Thoughts:** At this past Free Code Camp meetup, we spent a lot of time in GitHub. I felt like it was moving too fast, so I really wanted to get a grasp on how to use GitHub using [GitHub Guides](https://guides.github.com/). It looked like I was looking at gibberish before, but now it makes a lot more sense.  
 
 **Link to tweet:** [MightyJoeW Day 4](https://twitter.com/MightyJoeW/status/827932053660397569)
 
-**Link to work:** [GitHub Guides](https://guides.github.com/) 
-**My GitHub:** (https://github.com/MightyJoeW}
+**My GitHub:** [MightyJoeW](https://github.com/MightyJoeW)
 
 
 <h2 align="center">
@@ -133,7 +132,7 @@ A couple of simple things I've picked up already are many helpful shortcuts in S
 
 **Link to tweet:** [MightyJoeW Day 7](https://twitter.com/MightyJoeW/status/829134236686942208)
 
-**Link to work:** [First Gen Pokemon Chart](http://codepen.io/MightyJoeW/pen/zNJNQQ)
+**Link to work:** [First Gen Pokemon Chart](https://codepen.io/MightyJoeW/full/zNJNQQ/)
 
 
 <h2 align="center">
@@ -182,7 +181,7 @@ Day 11: Saturday February 11, 2017
 
 **Thoughts:** Feeling better than yesterday. I should be back in my regular zone tomorrow. 
 
-**Link to tweet:** [MightyJoeW Day 11](https://twitter.com/MightyJoeW/status/830646204576968704
+**Link to tweet:** [MightyJoeW Day 11](https://twitter.com/MightyJoeW/status/830646204576968704)
 
 
 <h2 align="center">
@@ -208,7 +207,7 @@ Day 13: Monday February 13, 2017
 
 **Link to tweet:** [MightyJoeW Day 13](https://twitter.com/MightyJoeW/status/831305975470628865)
 
-**Link to work:** [Working JavaScript Quiz](https://github.com/MightyJoeW/JavaScript-Quiz) [Pokedex] (https://github.com/MightyJoeW/The-Pokedex)
+**Link to work:** [Working JavaScript Quiz](https://github.com/MightyJoeW/JavaScript-Quiz), [Pokedex](https://github.com/MightyJoeW/The-Pokedex)
 
 
 <h2 align="center">
@@ -217,7 +216,7 @@ Day 14: Tuesday February 14, 2017
 
 **Today's Progress**: Used JavaScript and the DOM tutorials to create webpages with various functionality. Completed CSS Selectors exercise in Udemy's Web Development Bootcamp course.
 
-**Thoughts:**  Going off of DevTips' tutorials (https://www.youtube.com/watch?v=hM9h1wN4rfU), I created a webpage that changes colors as you move the mouse around the page as well as a page that changes colors as the time changes. This was all pure JavaScript and still very confusing as the moment. This was recommended to prep for Sunday's Free Code Camp meetup, so I at least have been introduced to these concepts. 
+**Thoughts:**  Going off of [DevTips' tutorials](https://www.youtube.com/watch?v=hM9h1wN4rfU), I created a webpage that changes colors as you move the mouse around the page as well as a page that changes colors as the time changes. This was all pure JavaScript and still very confusing as the moment. This was recommended to prep for Sunday's Free Code Camp meetup, so I at least have been introduced to these concepts. 
 After a few days away from Udemy, I got back to those lessons and completed the CSS Selectors exercise. I feel like I have a pretty good early understanding of CSS, and I continue to be impressed with each new thing that I learn it can do. 
 
 **Link to tweet:** [MightyJoeW Day 14](https://twitter.com/MightyJoeW/status/831675551203078144)
@@ -247,7 +246,7 @@ Day 16: Thursday February 16, 2017
 
 Update 1: Never mind. Moving the container broke some other parts of the page (put whole page in a jumbotron and messed up the footer). Back to the drawing board!
 
-Update 2: I found the error!!! I missing </nav>!!! I feel so relieved and frustrated at the same time lol. Great way to wrap up the night though :) 
+Update 2: I found the error!!! A missing `</nav>`!!! I feel so relieved and frustrated at the same time lol. Great way to wrap up the night though :) 
 
 **Thoughts:** I'm thinking I may need to start from scratch with my portfolio. But I do feel like I can eventually figure out why the navbar will not work when fixed (and let's be honest, I don't want to start over from scratch lol).
 
@@ -255,7 +254,7 @@ It's been fun experimenting and getting different things to work, but unfortunat
 
 **Link to tweet:** [MightyJoeW Day 16](https://twitter.com/MightyJoeW/status/832394962432036868)
 
-**Link to work:** Portfolio(http://s.codepen.io/MightyJoeW/debug/JEEqNV/PNrvYLBOzOQM)
+**Link to work:** [Portfolio](http://s.codepen.io/MightyJoeW/debug/JEEqNV/PNrvYLBOzOQM)
 
 
 <h2 align="center">
@@ -268,11 +267,11 @@ Day 17: Friday February 17, 2017
 - Created new landing page for one of my websites
 
 **Thoughts:** 
-Udemy - I am thoroughly enjoying Udemy's Web Development Bootcamp course. Video lessons have been a great addition to my learning process. It's very helpful being able to see what someone is doing as well as hear explanations opposed to strictly reading. I am now to the JavaScript section, and I look forward to learning. Again, I bought this course specifically for help with JavaScript so I'm excited for another opportunity to learn this content. 
+- **Udemy** - I am thoroughly enjoying Udemy's Web Development Bootcamp course. Video lessons have been a great addition to my learning process. It's very helpful being able to see what someone is doing as well as hear explanations opposed to strictly reading. I am now to the JavaScript section, and I look forward to learning. Again, I bought this course specifically for help with JavaScript so I'm excited for another opportunity to learn this content. 
 
-Portfolio - The navbar was working properly, but the jumbotron engulfed the entire page. After being unsuccessful in figuring out where the issue was, I went through line-by-line (again) comparing to a solution from Web Development Bootcamp (which led to another issue of the navbar icons not showing up, but I found an updated font awesome link on StackOverflow that worked).
+- **Portfolio** - The navbar was working properly, but the jumbotron engulfed the entire page. After being unsuccessful in figuring out where the issue was, I went through line-by-line (again) comparing to a solution from Web Development Bootcamp (which led to another issue of the navbar icons not showing up, but I found an updated font awesome link on StackOverflow that worked).
 
-Landing Page - When I first was introduced to Bootstrap, I didn't know what to think. It seemed to good to be true and almost like cheating. On Codepen, you simply click the Quickadd button, and you can then do all of these magical things. What has helped me understand Bootstrap a lot more was actually seeing the css file. I had no idea what the magic was before. Now, I can actually look through the css to see how everything works. It doesn't feel like cheating anymore because it's extremely intricate, you still need a deep understanding, and I can go in and edit things if needed. 
+- **Landing Page** - When I first was introduced to Bootstrap, I didn't know what to think. It seemed to good to be true and almost like cheating. On Codepen, you simply click the Quickadd button, and you can then do all of these magical things. What has helped me understand Bootstrap a lot more was actually seeing the css file. I had no idea what the magic was before. Now, I can actually look through the css to see how everything works. It doesn't feel like cheating anymore because it's extremely intricate, you still need a deep understanding, and I can go in and edit things if needed. 
 
 Using Bootstrap, I started working on a new landing page for one of my sites, gamesandkeys.com (video game piano tutorials, sheet music, and midi files). My focus is not currently on music and I haven't made any video game piano tutorials for awhile, but the site is still active and still gets traffic. I think I may keep going with this new version and do a complete overhaul. 
 

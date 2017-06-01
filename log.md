@@ -47,7 +47,15 @@ Also, I figured out how to show the answer in the console and as a pop up, but I
 Day 2: Thursday February 2, 2017
 </h2> 
 
-**Today's Progress**: Got the web version of my minutes to hours converter looking decent. However, the mobile view was UGLY! Specific steps:
+**Today's Progress**: Got the web version of my minutes to hours converter looking decent. However, the mobile view was UGLY!
+
+> Exhibit A - Early Web View
+<img src="https://lh3.googleusercontent.com/rjzi8Y7JAI8F1WX4exGHdeS58za2AO0OtzP5rwZ62TGxtcOzqhk3IVfW3vDohmPEm-1ApKiVyFxHNwiJHxJk02rjgYPO-EPZirt_uJHEoJlc7Ehv_Mbxd487HTsasbGVkJQCp6ObXSk89cvHBGk-ls6Z_a51rPF0YBlCXyQY9Lh0BVnzuOLKWo9m3fMswg_z47etG37fH0xkcKqRz-Dk53QppMZpXaW4NHPGlRj8HVedVsgoLwXAJ5IDUqHI9NnjB1m2DfSQjIvhmKk_AdZKsgskoEwCCdJFAT0Rss0g3_L38znuEsbWpFkd9WSKdPVaTJFISLb-yoIYe8vM49Ilz630A2OHatFXiKwoWBkSjYjTLZ8AMk-UxqoXyp-5nPeG8mcbnfLqhqnxPwUjU5V8SSWzdU_N0rEh0-SG3o1ltKtjwRvPshbcPrOkDUPpDLf3apNGQjPNAwTtF6RpRxllVXDDyPE8Itw1Z3uOhR5WNckgrjTtWPktwFgJADlB1vVKFZlfXJapG1m0Tu5M700w1C3fDqOkTGwpuXoURj1V0R4lb7gOGPk_L5jnu0YVRddhx5iNq13QtTWeg7Pp8BO-iSQ5sVh8Kf63H9_P-ThBoNSgO8lTnef4lg=w1139-h627-no" alt="Early Web Minutes Converter">
+
+> Exhibit B - Hideous Mobile View
+<img src="https://lh3.googleusercontent.com/duicZ0g5NdFgAAxhao9qcClaGp5828f263Q1eX1ILdF5UtIvy8QmAOjP1FFu1ABydbCIBwzNR-CiOyKQg2yuLTEUCOpMmh3jcUj8Ny8KGTovw3WcFgKp-ILViGQKTUWsjD4hBdwzkQPbIyd9ilCtQlyVIiBToBVue9ja_cFh4_gfk-bUsKRCnqtX1qcnXZD7ZdeSYVQRyFcj3reLzOmvtcLQiyfsCdUmxnLFcNep4VUhg5cg8UQiyzLSSVjyVMZXe68TB_Sggh2m609Bi5HBuWXuyX2SIwsH5uyvTys2CYppMyRTwOUTakvtnfzBkpPZECRrGR0JF0ZsuXHWmOeavIi2_a5tNKQF3oxPLsyuqfX-kjI0p263LzcHgAmd1BVChfpzhh10lKVtBTBCGG4aakSblmH9SS4R1xWWgs_mlFCFZoFxMkFSQHpDJAJPn9t2V6TvAth4nR_sKh41Rb6prEb3VI45AUwJfvLIM2qzqyIW7E8pcNhnffTrzp75pIoRylMInRAMRWmCS-2XWUvNEftSyFgoh7ORiiyzQ28_hr7d2YiCIMOhTQPTtJnzKkR_PFYAQPSCPCFqFDhMpjbRVOMWD5E6iYe7FB5hijyDWtirXQveSzowfA=w365-h627-no" alt="Ugly Minutes Converter">
+
+Specific steps:
 - Added footer with copyright 
 - changed background (removed clock img since it looked bad on narrow pages, made a gradient background in css). On second thought, just made background white. Not sure if background looks tacky here.
 - bolded Minutes label

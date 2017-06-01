@@ -1409,12 +1409,11 @@ So to everyone out there learning, struggling, and succeeding, keep fighting thr
 
 <h3 align="center"> 99 Problems </h3>
 
-**Today's Progress**
-- Spent time learning and implementing advanced Github Markdown
+<img align="center" src="http://i3.kym-cdn.com/photos/images/facebook/000/094/422/tumblr_leretcb0Sa1qfawn6o1_500.jpg" alt="Funny Code Meme">
 
-**Thoughts**
+**Today's Progress:**
+Spent time learning and implementing advanced Github Markdown
 <br>
-<img src="http://i3.kym-cdn.com/photos/images/facebook/000/094/422/tumblr_leretcb0Sa1qfawn6o1_500.jpg" alt="Funny Code Meme">
 
 A glitch may not be my problem at the moment, but markdown sure ~~is~~ was. A combination of things led me to wanting to give my Github a makeover, starting with this very log. 
  

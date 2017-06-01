@@ -1405,7 +1405,7 @@ So to everyone out there learning, struggling, and succeeding, keep fighting thr
 **Link to tweet** [MightyJoeW Day 98](https://twitter.com/MightyJoeW/status/869780685535404032)
 
 
-<h2 align="center">Day 99: Tuesday May 30, 2017</h2>
+<h2 align="center">Day 99: Wednesday May 31, 2017</h2>
 
 <p align="center">
 <img src="http://i3.kym-cdn.com/photos/images/facebook/000/094/422/tumblr_leretcb0Sa1qfawn6o1_500.jpg" alt="Funny Code Meme">

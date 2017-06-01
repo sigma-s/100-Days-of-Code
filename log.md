@@ -22,6 +22,21 @@ Day 1: Wednesday February 1, 2017
  
 **Today's Progress**: I've been working on a minutes to hours converter, and I was able to figure out the JavaScript code to make the conversion happen when clicking the Convert button.
 
+'''
+<script>
+    function outputHours() {
+        var minutes=document.getElementById("userInput").value;
+        var hours=minutes/60;
+        if (minutes == 60) {
+                alert(minutes + " minutes = " + hours + " hour"); //If input is 60 minutes, outputs 'hour' since 1 hour is singular
+            } 
+            else {
+                alert(minutes + " minutes = " + hours + " hours"); //outputs 'hours' for anything that is not 60 minutes
+            }
+        }
+    </script>
+'''
+
 **Thoughts** I've been coding regularly since December 2016, but this was my first independent project. When a user inputs a number, the output would be that number of minutes in hours. I created an if/else statement for if userInput is 60 (the "hours" string would be singular in that case). I didn't look at any code for the statement so needless to say, I felt like a BOSS.
 Also, I figured out how to show the answer in the console and as a pop up, but I couldn't figure out how to write it to the screen while controlling the placement.
 
@@ -1410,9 +1425,8 @@ So to everyone out there learning, struggling, and succeeding, keep fighting thr
 <p align="center">
 <img src="http://i3.kym-cdn.com/photos/images/facebook/000/094/422/tumblr_leretcb0Sa1qfawn6o1_500.jpg" alt="Funny Code Meme">
 </p>
-
-<p align="center"><b>Today's Progress:</b> Spent time learning and implementing advanced Github Markdown & HTML</p>
 <br>
+<p align="center"><b>Today's Progress:</b> Spent time learning and implementing advanced Github Markdown & HTML</p>
 
 A glitch may not be my problem at the moment, but markdown sure ~~is~~ was. A combination of things led me to wanting to give my Github a makeover, starting with this very log. 
  

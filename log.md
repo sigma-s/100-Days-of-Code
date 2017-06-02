@@ -1570,3 +1570,32 @@ If you are wanting to learn or refresh your markup skills for Github, the follow
 3. [Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 **Link to tweet** [MightyJoeW Day 99](https://twitter.com/MightyJoeW/status/870063111406993408)
+
+<h2 align="center">Day 100: Thursday June 01, 2017</h2>
+
+<p align="center">
+<img src="http://www.ounewsbureau.com/wp-content/uploads/2013/02/finish-line.jpg" alt="Finish Line Ahead">
+</p>
+<br>
+<p align="center"><b>Today's Progress:</b> Reviewing code and continued upgrading this log into a unique visual experience</p>
+
+#100DaysOfCode has been an absolutely wonderful experience, and I sincerely thank Alex Kallaway for creating this challenge (and CodeNewbie for interviewing him). 
+ 
+These 100+ days have been a roller coaster complete with ups, downs, twists, and turns. Although it has been an unpredictable journey, one thing that was consistent was well... consistency. I made it to somewhere in the 80s without missing a day as this challenge created a routine for me. No matter how I felt or how late it was, I was going to get in an hour of code. It takes dedication and consistency to see a difference, and I owe a lot of my progress to this challenge.
+ 
+There came a stretch where I had to tend to other things then couldn’t get quite back in my groove, but the challenge brought me back. I **had** to finish. Coming back to finish also got me working on some other projects that were more enjoyable which brought that spark back (Javascript algorithms beat me down lol).
+ 
+These 100 Days of coding led me to live meetups, online courses, new friends, and so much more. I’ve been exposed to many different programming languages and practices, and I gained a clearer idea of what I am wanting to focus on.
+
+<img src="https://lh3.googleusercontent.com/AVUZpVhbPHVxLmMLG5rwTdqv6jGGJ9aVIER3dKkiNvVN0n6B8e1HJDvK5eNIxnLii7EOgbCDIMRApUIz_8I3V0wHn9BB54cY19Gy4oih8X6YQg4mGjt3OG6y476bcsYmiwyckP1lubtU3wobKRcRG5qgRuPYiNaFCBLyhyoFXmUaGUgnI7XwSybAurj7u7VmEibv_Z9O8zliMAqXyur4j05kDKD96Ay9GvGROjrgROYPiZZg8CxaYdNNQN6PkvvA1w4vfXDgZQIwjZnxjofa4mQ4izxxbSqyIwsRFZ9GGgXp5he641WyKaych9ckPOLQRrSr3tz-unQ0EGR2QYp5vOxqjfRrJNWhO7CAewyt9T5VzC7FInHCmogtfEvJqnkU1eyp0xMwmMh_lXZfkFyUgbyYYEm4fuaySfMh2HPh8PKOjld3ySMZjeBZjl3MyN8BLIBS85OTrNL-LKDVi1cidb7peejfRMZotsDbLUnna3VYa55LuZgTl8hhelfdivquXp3-cFMYRsq3IIpU-5amDVdifZ3m06MCm1dYV0kf461_XN-aI1-U3Iv3Qf3UI2Es1t_8xdg1if6v55TAHesnd-wvmTW2e8ndIt1FSe4CMaySXTJdLetLCg=w791-h582-no" alt="fCC Study Group of the Day - Dallas">
+ 
+As I wrap up this journey, I look forward to embarking on the next one as this is only the beginning. I plan to write an article and submit it to Medium. I have some tech conferences next week that I am really exciting about (including one early tomorrow morning). I am hoping to give a talk this summer at a tech conference in Austin. I have _tons_ of projects that I’d like to finish and post on Github. Our Free Code Camp group is starting on some open source projects. And I still want to make an Arduino Magic Mirror dangit!
+ 
+Thank you for your time. I hope you enjoyed experiencing this with me, and I wish you the very best on your journey.
+ 
+Sincerely, 
+Joe
+
+**Link to tweet:** [MightyJoeW Day 100](https://twitter.com/MightyJoeW/status/870484699776401409)
+
+**Link to work:** Scroll up :wink:

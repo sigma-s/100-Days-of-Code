@@ -638,6 +638,8 @@ Sleeeeepy. Mighty Out.
 **Thoughts:** 
 I don't know if git takes awhile to get used to or The Odin Project is information overload, but git was wearing me out earlier! I do feel I have a much better understanding of it now though. Bottom line, it's going to take a lot of reps to get comfortable using git and the command line. 
 
+<img src="https://lh3.googleusercontent.com/BqqW4-vBVH8T5Ik9laB3lpCsos9nPUn0DTbFtDiBsn0WFtlDzS2Lvf336kScQSkkYO6rdiUNLaG--K8k-F3dSlUttt5GW6zNTp0rowVgxg-7xnr91GXnuyw5c159dXSwZB_qFIuspSHAolECuNuejXlyev1cbjbpTNLRPYjluebNG2VpodvpqqyYqvPh5iworZv1g3BXVFGvGmxkCb6o4-XhSyOpCNn5YN01q9XCUbwpEpV8deZwgCMde-V0x3Pvw-f-Ieyq4lCzBLvcV3jfQvn_TPkTRHDXhqzDehlygPqHArD8eJfMSHK26vIi995rQn9Bx9rvS_VBdRYREYkWVFg0dfZoRZLy3q1bsfzxOhNSQ7oG125RXYYwAxeekCWzzd-3ZwJfU9pOwTEUTDu0mGzImkOy63hM6fpifneayPwjFvwGpSjmwN_Zv1dKoFehlY1kA_Nf7Fx2u9h6IMGRgMjGqNkNwCmrJbfS0saaP_Kf-gug0OjFh_CpIMQFHxwgY7TOQ8lhhcoGWGxqQ2j9wjeCE_PUL-hQwV1ohddgyoxymORqqSFByrO3PQ0AOees0bdarRWCgWYD2NFkGnWw-tLLyhcMROcycPQ-8qe_2y5K6V915LFyfg=w1147-h627-no" alt="What is the Command Line?">
+
 **Link to tweet:** [MightyJoeW Day 30](https://twitter.com/MightyJoeW/status/837531166001410049)
 
 **Sidenote Jones** 

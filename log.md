@@ -832,6 +832,8 @@ It's in August, so I have plenty of time to come up with material.
 **Thoughts:** 
 Today was a fun day of coding. At Free Code Camp, we used Kahoot to do a 20 question JavaScript quiz. I started off whoopin’ butt, but then the 20 second timer whooped me during the functions questions. It was good and fun opportunity to think quickly & work under pressure. 
 
+<img src="https://lh3.googleusercontent.com/4Xw0S7Zet_98cqGWzQMCwK6UPXfk6qh5wPZWDUuPrVDwq8BqOUAcFWBiVrJOrdvweyzzdxTS9W3zn-xFdQmCriWphlL5T8T8HLfYzojxZJQs7xBHsVQt07OH8IMrDKqQQ_keSgtF-gWuAKFWsTXH8bppCGuZS0nSr0WNx7EWXr_23DhuKb2k_NNaF_qQPzNmiqbfx0LqKsBtBpIt_5SlPlL4qSBxbW7AIfVgJNIGVVeFs37j-42Z9W3xtd9OqHYNXlkykC_FOM8EhHy-pnbCEHaNONCADfHfrwXAOizh0Mu8zLdOj6g9eRjB4c6iDbTwNiCWpXP43ai4IU4v6OHP88sOD6QkefV-OprEUCq2LKPjxqIJBaQkltVXNWODEAoJIIPpaPZle0wjAeOsWA5nN2DNG_ndDxAFFThAGkwtdoX3f3MLiQiijqeyV0uripovT4wjnBM1koKrBm0H_awtZliZ0P4yaTtJfpDWreBMU8qkg80iMB2lLGKyB9auv7p390cgxkvgyBE_9PXNchOc-eNiB9VDl3moL6EuD6vhwz4PgMIU95ziY1ZR4BCn95o-4vosY4C-ilGt1-wKHTlUzYI5n-50TdUUckezvRYI3U5zISUAfw=w353-h627-no" alt="Kahoot Javascript challenge">
+
 I spent the rest of the time working on my HEEL Rock Paper Scissors game. Shoutout to @HBoutrup for the idea. He made a joke about The Rock being unbeatable, so I thought it’d be funny to base my game off of that concept instead of the usual rules. 
 
 On a technical level, I’m having trouble getting everything connected. I feel like I’m missing some little bitty piece and just can’t yet figure out what it is. When using a prompt to get the user’s choice, everything is working fine. However, when trying to use a button onclick, the results are opened on a new page. I will figure this out.
@@ -859,6 +861,8 @@ I didn't spend as much time coding today as usual, but I made some good progress
 
 **Thoughts:** 
 Wow, it is finished and I am happy! HUGE shoutout to [steveszc](https://codepen.io/steveszc/). My original Rock Paper Scissors was not functional (and not pretty). I was able to use his version to learn how to get everything functioning and laid out much better. 
+
+<img src="https://lh3.googleusercontent.com/ELQBHyboW7KeNDV0PjM6ycGGl3NeWfQAZ_zHMrHpdlCAEEXqRwSzQaZZgTtyW2hx7fXlv6jQANtDChW15lYivqQdj243AA5BwgZaV-12xW0oBXxun1bTXUtIIMamBEseA_WYFiq-nPGREiRlChApHuxlhQR9WQ6sEl4C6qB4KO9GazqE-oQ2Tgh3M80tKrp4zmkl9d1XWpEKrwk7PrNhYJFmlRleLSOSczTFlGs3wBgai59eCj-h64c3JY_Z7r16GrlwUSZpRdl6NpXF4Hdhzyw2wYFPHEjpUdObUXnZd46f4wAIUPXz7l0PaiJMsSYi7WhdGCHd04QhOH-ywWxAvDdJdUyU5OVfna5Lu6tEcaVxiYd_E60YN-oULRNNi7V7kTM1DvneY1DJXv1LUmkoAo8x0KYbs3MNjHHrMkT-jQBh5hLJsbwY3eWAvGttfJxr9rGZl0tSp5A5h3owEzBghOIhxHnct8PTsd2gfE0fl87D4YeYx4fr-IdLIa3bik4-l2flcApHwUzFQNq9t70Rb7idDsxT_3Dg0YOyOPOLw2K0CgQb6LkxyyKDetzITsPXq5R66maJU1ZZDzefUHHVaVHHwPLpFoXmi-1enQ9ZYn7Rq40HZSiShA=w1152-h627-no" alt="HEEL Rock Paper Scissors">
 
 I was able to experience what others mean when they said to just code and to learn from other people's code. I've been doing a lot of lessons, but it was very helpful having to experiment & Google, and also being able to see how the code looks of what I was actually striving for. There are a lot of little things you pick up that may not be covered in whatever lesson you are completing. 
 

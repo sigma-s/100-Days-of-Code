@@ -793,6 +793,8 @@ So, I finally watched a couple of episodes of Silicon Valley and I'm pretty sure
 **Thoughts:** 
 Wow, so I'm updating this post a day later and I copy & pasted my link below to look at my Google replica and thought, "Shoot, I must have copied the wrong link because just Google popped up..." It quickly dawned on me that my project was a Google replica, so I am proud of myself that I fooled myself lol. 
 
+<img src="https://lh3.googleusercontent.com/WL3reD1U3s9_XyDgI-9Hv0UceX6I4iQjZb3JCDaj68l273twyLWQpyFD1cfNZVI5QtD2aLJoIl1P-GwbN61Izo6O28v0T2dfQVE0MmDo1J1YXIeT033vfrCDVJ9DQXDLzR8R-P0w720YLizV4sPkT4KcJgXqi4zApWcdl2QTpUe-v5iFiS77zLS3IWju76pKMy78bZik4QEpQJzm0iRkraEyv8UB530hNwmxK-ijdhLXaLk2dozNGu9lPleGrctcUSTbvip0V5u7EXfGkzUBjcf_z08gqkFosBp-wtYNfbrAnYZfEDXjwhY-B9pe-AObGbb1sjRDzuICO8nP_tc6dJLAw6ZsVRrO6IcwyRWqKCiE59C8BEBeQRHHAFADfC9KDSy3OJUXJaADb-nO0Z_gKSX4JiSNZhHO9654hbtTuv-5dvdaxBMLXFvcBuS1fzXu88p44C1VBWEfIZYmv1RYg_BScUQWUF228akotJNsDXO0T758Mb5e0Ms2uNhSCa-1ID1lvUEwq19B6X3UkX9aF8_FZe4IfkoaNEnocxiE3kSqbx0Gj5zefeDMsiZqTGrL-XXUVyTaviAt--SlECItxbHFbhYeRzj6inZE6hOPGJ2Bekg9F4VNwA=w539-h296-no" alt="Google Replica">
+
 The replica is not identical (i.e. the header is not aligned the same way, the buttons look a bit different), but I’m very happy with it for now. I may revisit this in the future for a third attempt to see if I can get everything exactly the same. 
 
 After finishing, I hopped into the Javascript section (which starts off with a Codecademy course). It always feels good to fly through early sections of a course. Hopefully, the copious resources that the Odin Project provides will get me to that next level with Javascript. 
@@ -814,6 +816,8 @@ It's in August, so I have plenty of time to come up with material.
 
 **Thoughts:** 
  After completing a quick Rock, Paper Scissors Javascript game, @HBoutrup suggested that nothing beats The Rock (which gave me an idea...) :D
+ 
+ <img src="https://lh3.googleusercontent.com/Xc_Hs8pvojwxuev0ytoDQwRgRDg2aHns9xE3eTbOLmZOTqs6B0UXf7tmCJkmAfYqVe7TLxtqvS-RMYXloRE9i0kxP8100XjGz_OjcPMZDIEtWLs0kiNyvUKVBipCSfk9zaCc4dSEuSzdq4_PzlX7b3pWSHpm1SsLwabxKHYrcjQZR33GR3YfBkJ8fzrBqcIdNghcj20mZ-AAAKvLdza6oJ5KCbEj1qBIiCk7vcb9RoJ7zFkSYlGJuvWdzvyrg70MHrvLaf9c1xf-fPEhwSneckmOVKw5XwzwphFSjfVGQ6gxdCzzXmeEt1ltHVs-xLcHr0fr4n7chUHpTQfq2rArxtmvznRgErZ80xG-NlGu_3OMJTOdOCvb93F86wYSwhUIcdtC9V0JZkT9ZnbpJU-OS2PRb_o6LEyM9A7_JFIj86OJmyKqq8O_7q4wTZZ1CO_cLk4jBiPjET2KlcYcvsvJzTZklmNi9nhgywL1HnvXHpwEpCS3dHS2GztRwfovHqY7-u31K6fkMOLki-1b0_4FVdELwDYfFopYnCEILORE2PrDpHnD26Nt00n-JAoTG0JhvrdCi4wO-rMP9KC_W8a33fs-qryVQMaXB-TjzTJNMN9FO7Sae5fuLw=w1270-h703-no" alt="ROCK paper scissors tweet">
 
 **Link to tweet:** [MightyJoeW Day 39](https://twitter.com/MightyJoeW/status/840660850289586181)
 

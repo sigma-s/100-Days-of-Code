@@ -482,9 +482,13 @@ Day 22: Wednesday February 22, 2017
 **Thoughts:** 
 I actually had fun with functions this time around. I've done some JavaScript lessons before, but these videos are really helping this content sink in (the little quizzes are a good challenge too). I spent most of my coding time today going through the lessons. I do get distracted often created silly things with new things I've learned. 
 
-I actually don't mind at this stage though because I'm seeing how much I'm retaining. I was supposed to make a basic html file and js file to do some js practice problems, but I found myself going into design mode trying to make the html and css look nice and pretty before starting the js problems lol. And, I still get a kick out of inspecting web pages and switching out the words to make it more amusing and ridiculous. Juvenile but for some reason hilarious to me :D 
+I actually don't mind at this stage though because I'm seeing how much I'm retaining. I was supposed to make a basic html file and js file to do some js practice problems, but I found myself going into design mode trying to make the html and css look nice and pretty before starting the js problems lol. And, I still get a kick out of inspecting web pages and switching out the words to make it more amusing and ridiculous. Juvenile but for some reason hilarious to me.
 
+> Sorry Github. But this is great practice :sweat_smile:
 
+<img src="https://lh3.googleusercontent.com/wa-W9ZmRv9jYDyfsXjzcEm_0Gjl-g8715BzCaUQF8bJt0-Or9ovTo1Q3hV7ukcMzQa6XtV1KyPefkUawO0OLGjBM1rcHdeFsgFX3uruoVA0F0-GAww5Cu4ipqJvFZe5RKGSxMAO4Jvd9lYuIh8PTXqNzniJclgqUEQIhONkGrlEkIKt45SUhhTEZDUBmswminNrp73tsOSmVpXz6s2qpDJjUXRcl18uijjrBdPQBaBZRuyYA5FuFeyFOVRytaWrqM08QJBhzmfWRDW9nYouJWbiiMcS7xk0f2GVNyG5440UDlD-i6nUsSvkX-kszaBkyQf8_gYbDX0aYC3kDbV5p9srdAwAaqdGAgz1tIrPUVtEjCNR1h8S61Qe9alp6ma7hZh3W7RVPA1idb_l4SqR65QdHHKQF-MIKlj5bq6_wYL1f15aj3fGqrsf9dGzjSC5LtHKFg0zjlY3d4n7_Mx9a4MzlFYW7_D3V0xqRKS7jw7lkWj7Q_UXSexsgPigp7Duoj6mxA2ZjtoBJgQTnHPgJzyWfKrEQ02LsYofs9pqc_0ObiSztNpvWVCinfnQlb5Xc0nRjRSqqjqN0se6UZxW4MEOQ3wKSH_PktNB3GgWoCkp1iO6g_lBA_Q=w1265-h627-no" alt="Github Dookie Homepage">
+
+**Edit Thursday 6-1-2017:** If you've never worked in the console on your browser to edit a page, right-click on the text that you want to change and click Inspect. It'll take you right to the html to make changes. The changes will only be visible on your browser, and will go away as soon as you leave or refresh the page, so have fun :thumbsup:
 
 **Link to tweet:** [MightyJoeW Day 22](https://twitter.com/MightyJoeW/status/834624859422470144)
 

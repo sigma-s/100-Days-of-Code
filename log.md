@@ -406,7 +406,7 @@ Day 18: Saturday February 18, 2017
 </h2>
 
 **Today's Progress**: 
-- continued working on new portfolio page
+- Continued working on new portfolio page
 
 **Thoughts:** 
 - Not much done today as I was entertaining my nieces throughout the day :running:, but I made some good progress on my portfolio. It's coming along nicely.
@@ -455,7 +455,7 @@ Day 21: Tuesday February 21, 2017
 - Figured out what was wrong with my Portfolio thumbnail images (had to change the width and height in the links), centered text in jumbotron without adding effects of h1 and h3 (had to add div with text-center right before the text)
 
 **Thoughts:** 
-Another good day of learning and coding. I successfully wrote JavaScript code for various while loops and for loops. I remember first seeing JavaScript loops and thinking, "What in the world is with these i's and +'s."  Modulus makes a lot more sense now too. 
+Another good day of learning and coding. I successfully wrote JavaScript code for various While Loops and For Loops. I remember first seeing JavaScript loops and thinking, "What in the world is with these i's and +'s."  Modulus makes a lot more sense now too. 
 
 In regards to my portfolio, it's coming along. At the moment, I can't get my photo to appear on the right-side of my text (I had this working on my initial portfolio). I created a row and have my text as a col as well as my photo, so I just have to figure out what is missing or wrong. 
 
@@ -483,6 +483,8 @@ Day 22: Wednesday February 22, 2017
 I actually had fun with functions this time around. I've done some JavaScript lessons before, but these videos are really helping this content sink in (the little quizzes are a good challenge too). I spent most of my coding time today going through the lessons. I do get distracted often created silly things with new things I've learned. 
 
 I actually don't mind at this stage though because I'm seeing how much I'm retaining. I was supposed to make a basic html file and js file to do some js practice problems, but I found myself going into design mode trying to make the html and css look nice and pretty before starting the js problems lol. And, I still get a kick out of inspecting web pages and switching out the words to make it more amusing and ridiculous. Juvenile but for some reason hilarious to me :D 
+
+
 
 **Link to tweet:** [MightyJoeW Day 22](https://twitter.com/MightyJoeW/status/834624859422470144)
 

@@ -510,6 +510,8 @@ Today's JavaScript lessons (forEach) were a bit tricky. I'm feeling alright with
 
 Also, I'm ready to start making some apps! I was excited about the JavaScript 30 challenge weeks ago, but I quickly saw that I needed more JavaScript training. I'm itching to get started on the JavaScript Drum Kit. I may take another look at it next week.
 
+<img src="http://tosbourn.com/img/javascript30-review.png" alt="#Javascript30">
+
 **Link to tweet:** [MightyJoeW Day 23](https://twitter.com/MightyJoeW/status/835006956653920257)
 
 **Sidenote Jones** 
@@ -579,6 +581,8 @@ Day 27: Monday February 27, 2017
 **Thoughts:** 
 I messed around and got excited looking at portfolios on Codepen and started on yet another. The one I'm basing mine off of used all kinds of tools that I haven't seen before. Needless to say, I don't understand all of it, but it's fascinating!
 
+<img src="https://lh3.googleusercontent.com/XnFs00uzOax_IZLd2I2ROgEd0N5Dh5gNy10y_LTwDRJA1LDWzizki6FM5aYSJWWH2SRZhCyg179MNfNketN1P5ekQQmO4C-NFg42KFSavvvie64UZ6XD3-JrukDYoKm4pef0Vk3BVMms_XCPPoejZ3R_0MkcKJHu-p8q3pLOUB0huhbiiTgeMdwhvM-AVmAuFTeSTnw_fRqcjHKMXmSrLP2KcCutZX-h6TysBm5sjQvs_FuIsDfLIfM1gnwKmQfGWAzGpqVoFKU6wka2O85iQlyvh3xoYhFcLFXisk9SXEsu0t-PCuKhUCGzhj56vJyvkAwPh56r2bSOQqhLAO0IPM1oxITgpciwgsAAZW4zJE9EwBXi4CTv3Sw7yHuon4csm9Y_a2QxV1UuUDXxjtSHaGowl0HL9m1nsdv_sA43l72Dig-DghCuFhs3uLRaY-KNNv5o8zZ_wUHQ47_lmreLH2K9k2bzS98ytURs1QIg65_vjYj0tDAOZHg36e2oJiQoH2sg1Egkqyn3-rW-_B8mc0WBaxj5P_AQqUq1yUQuCmmzvrvAJFtFiqeRp3Zin-ZwkbKa9FGNKHJcW14lorc2kqI41PaUUwL-SNGsE1YsxQourY4Yg9dIfw=w1278-h624-no" alt="Joe Warren Portfolio Deluxe">
+
 **Link to tweet:** [MightyJoeW Day 27](https://twitter.com/MightyJoeW/status/836428525884309504)
 
 **Link to work** [Joe Warren Portfolio Deluxe](http://s.codepen.io/MightyJoeW/debug/GWpKOm/wQMPoZoYwgnk) This portfolio is based off of MOHAMMED ERRAYSY's so I give him all of the credit. I'm learning from his code. Also, I haven't looked at the JavaScript yet, so I don't know if the Contact form is active (don't try it). 
@@ -595,6 +599,8 @@ Day 28: Tuesday February 28, 2017
 **Thoughts:** 
 The coding part of my day continued with my deluxe portfolio. I was going through the SCSS trying to see how much of it I could understand (same with the JS). The amount that was loaded into both is incredible. I get bits and pieces, but I look forward to having a better grasp of what exactly is going on.
 Today’s learning came from The Odin Project. I had heard about it awhile ago on a podcast, and it was mentioned to me on Sunday. I thought it was only a Ruby program (it’s not), so I thought I’d take a look. Nearly 3 hours later, here I am in the trenches of another course! I learned some things I didn’t know about the Internet as well as some commands and shortcuts in the Command Line.
+
+<img src="https://lh3.googleusercontent.com/YCMTMtWq9uYx7jj6w3yk9t4byuObsdY6iIym5z343TUnpIiPop4omEh6BJ4AWQMH3CAuQshA1S8gsTsMhXxO-NfEfmr8I0eAa3b5mcf9oVxTVJh_Kv48vesMeSmB4sNVkSGrLP-JwOMqz_BzKDvb1mJqAteHxRwSTZ4-2k9lf-f_fnfta4dOU_8Y1zBXe8Nz_tYG-nuTVgf_ofhqahicpo0kuHuZ9AGUiS72P1v4mxAYs4aAb_o5GWUKMV9fghLOBjePwH9j644XhXjed1RqWU5cfAqcWcJY1pPUhAmdGCEiUFjZVWKHhalHJRkMieCbLOPxpcEqAUzehrgnrwMsgcGnj4CvB0UIk1afWy6iEUuI6vGe9SyP2iuEwO-3KmA88tURizt03Kk4GhBqpWSfZt44BRkM6njp9547N2RyGu6UkMc421_8MOLgwh091oNIo4aWfPT2M33YqaJd8E4-oPY3WUTBpiH-cBoLelAaD-wsxwQYi3ZMPhMtdPWaWEYsLXW9sTE8iDIcdyCUv2bcAwwbQQgH_m1y1kXxveA44AIuqzYbxSiLGw0ZcWFubhelLX9ay3t6_KCHQm94ukCkzeraMRMn0muajAwcImfmtwk8ZNENoDrgHA=w1277-h445-no" alt="Command Line screenshot">
 
 I am still committed to completing Free Code Camp, and I’m definitely going to keep going with The Web Development Bootcamp because that has explained everything so well, but I’m kind of feeling this Odin Project too. The good news is that I’m not on any timelines, and it doesn’t hurt learning from different sources. I’ve just got to make sure I’m focused overall and moving forward each day. 
 
@@ -613,11 +619,15 @@ I am still committed to completing Free Code Camp, and I’m definitely going to
 **Thoughts:** 
 This will be short because I'm Sleepy Jones, but today was a really good day of unexpected progress. I continued going through the Odin project, and the Command Line now makes more sense to me than it ever has. I’ll try to use it regularly to get more comfortable with it. 
 
-Then, I had a late night session coding along with Emily Xie’s Matrix [Digital Rain in p5.js tutorial](https://youtu.be/S1TQCi9axzg). Even though much of it was over my head, it was still fun and fascinating to code along with. Sleeeeepy. Mighty Out. 
+Then, I had a late night session coding along with Emily Xie’s Matrix [Digital Rain in p5.js tutorial](https://youtu.be/S1TQCi9axzg). Even though much of it was over my head, it was still fun and fascinating to code along with.
+
+<img src="https://lh3.googleusercontent.com/fN5pZ7z1J7tWtvowjfyzI4itVpxtVyZWyUdgBYcNU-ux5WT58RMwImJ-tIWQaSCHmpZn2TFEWfBVfzJ7BcJ1Vd9K4EncghYMtk0taY83oeYDKYTBXvSnerfoCevSpAY5ZtCdmpoiBa7AIp5BDEw5WjQWeTWgfjhQYylNi3N77wSjnBlBbdq4IO0Bufquvi8y-JZL_pv57V3yze11i8qKQr76jzYBdkkg1mXteMw-ElWNl2_9jFgi3uuZG3rN4z1X4VNE3lID4HyNk6-1ukDN06cVJGF9pwPEBsrRamIFxPl8YcoBaoSddKEQ6OmuRoSLKXZRRct5DXy-1Wq-Rrg8nrpMyF2nYos3VACoXf9EDzPTdDpkgT7B-UzXsoo6AAenk_60xluV1uT1aoPwxwSS5Kfj-z8-Mc17fwHLnq2qKCC9Sw1Mw4wlOHA84wysp4bqywPiR1DSuz4sNk0ZMf-UUwsSAE6g9HM7pwg0onEFVTXAh-Tjp2cPrIwrOApXAVUYjbBMfxA_pIYOnKoXrmqV9UCpnyxcol7se_a7grra9sQ2y5Eaf4X0qEYNJTaegTJok6A7_4M1rksuAJ-WDaV087tcEin13FfEHrMWYlXbgmQu_ePEoadIPQ=w1145-h627-no" alt="Blue Matrix">
+
+Sleeeeepy. Mighty Out. 
 
 **Link to tweet:** [MightyJoeW Day 29](https://twitter.com/MightyJoeW/status/837188094176735232)
 
-**Link to work** [Blue Matrix](http://codepen.io/MightyJoeW/full/qrbJbL/) 
+**Link to work:** [Blue Matrix](http://codepen.io/MightyJoeW/full/qrbJbL/) 
 
 
 <h2 align="center">Day 30: Thursday March 2, 2017 </h2>

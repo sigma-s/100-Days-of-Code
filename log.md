@@ -670,6 +670,8 @@ After a long day of driving (ROAD TRIP!!) and seeing family, I am definitely rea
 
 This is mostly review, but I had forgotten all about the pseudo-classes in CSS. This was a good opportunity for me to get some more reps with this. A couple that I used were X:first-child{} and X:nth-child(n){}. In the Udemy course that I'm also working through (Web Development Bootcamp), he shared this helpful link with [30 important CSS Selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048).
 
+<img src="https://lh3.googleusercontent.com/YHcG33l1hA3GY6TmY3Tuo5lFC4ljJqpD6VeP6L77NXJBb_ISvsUTJuZdX_gsUUlEtYGLmKI-Ke5d_iqcxKJ2o6t5cueIDR1y_uk8JlO9bLUR98Dz4a0Vk8k4t57P9eBiszoCaPzsZK1DAX54-cNZOGUfaEgi8EQqhnNeteQjcMz1AHrWrrUYzR2ACn1l2YJyYuFzdgbl-sQjYwCthYIsceDSQ8uFITTlKknSicgpYvf8oOTA5Z59Y4ddT2ayYCpOv4EcPGUfhNhHLUowhnYnn1Y0eX2_5ispV3F7i_GJ2T-r0YwRWyUpIRPNSN0EUdJgiPhAa4tNLevGes6ExGt45_SH7s4O0GfXmbvDhOCpCErMtKS0uWnEKx24cAPwUkdg8ZDfd5csMqHyc8BXn6LK8P9hxo1gptubwG87hiPh4XVbeHUyvxnoO1JEnzk6lreUOneSbElGX75kle3QdUMXhVNByOb_208vcld6rbSbm3Om1g5Nz_vvh6F3y3jeFPeLAI8kE3hmUEOEbmRXqAyL_ytUkcPcMe8L63Fd74cqC4mHbxRtPMwpVOwbsFIX7bBlGyXkJcziQ3NkyvOvmxk98Fdr6aXNdK3APHKn0-ouz_8mISbtQ1yUaQ=w387-h295-no" alt="CSS Selector">
+
 **Link to tweet:** [MightyJoeW Day 32](https://twitter.com/MightyJoeW/status/838281454945767424)
 
 **Sidenote Jones** 
@@ -690,6 +692,8 @@ Today's work was a quick hour working with CSS. It was a great refresher since I
 I spent most of yesterday with family I hadn't seen in awhile, and we had a great time. At the end of the night, we decided to put on a movie. We were met with the usual Netflix dilemma of “What should we watch?” I was very vocal about not wanting to pick since I watch movies the least, but somehow I ended up picking. 
 
 I had been wanting to see I.T. because the concept of some hacker taking over a smarthome intrigued me. I mentioned it but didn’t want to be responsible for provided everyone with two hours that they couldn’t get back if it was terrible or too technical. They were interested and fired it up. 
+
+<img src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_a52e97853a3486c7b37600a409d3030b95652ab90a1427c0818f1d8b5a97582e.jpg" alt="I.T. Movie Poster">
 
 The concept was good, but unfortunately the movie felt flat. Also, it was another source of entertainment that portrayed programmers (or hackers) as sick and sadistic people that hide in the shadows ruining people’s lives which kinda sucks as I was just telling everyone how I've gotten into coding... Darn you Hollywood! 
 
@@ -718,6 +722,8 @@ while(true) {
 
 The syntax is authentic, and the process feels true to coding although it doesn’t feel like coding (it really feels like playing a video game). Looks like I better replace some Pokemon Moon time with CodeCombat. 
 
+<img src="https://lh3.googleusercontent.com/uj_mZO2KRdTAVRredKYzb_zPh6EjaXv3GVUjkLaPxAOXBS66UtbGMensGMNrJIyh6oDPgIf15s9dF0iSo73fEoS6RJSCkOsSs1wJd-EgnzN9LcNJEjZy0b_e7ts1Agga4iZHJrOr9xclsjhpOpacU0S2IePWNEjQUww6vYqUo3gaOkdgkbJ_uFODqTBEOZHFTzY-GkvAScW-2yZtebNQLLIlOAfjynWQ7Zv5iHJ4GLWGv5zLz6g8VXQCekEMQW6slGggQt9yn-6UXH6n-HRMxQiX6w6wglZT_CGCnMr0y4oSkKWmUJNgHSAn07vavk-dxLThWkZLPgqRFObdUDSqVq6S4ByuBNOSl_1shkNHqceWyV2OiDoMDO9EEiI0f5lTZVOWKaM8h-lt6OyPohJeILf7ATp3axocasmsPX0I4Prqipm-ZG4YHiTcziQECaDKk_4_rO8H1-76pu9ZeVoXNQlDNcK7_n_xWkh3I835_qV5PP_lxaLBRkWwVE-qy60mYSfHTylGGJGzAbRU3kR6ze8ualaWw1vHpZt3TS1JIcozs7kJhA46LsFy3DR2deRVvcH6lTE4rNU_aItCiVdF8zsbNXqwXpPidpGKSf59LccJme_TCrbEcA=w1278-h696-no" alt="Code Combat">
+
 **Link to Work:** [Android Logo](http://codepen.io/MightyJoeW/full/oZzreR/)
 
 **Link to tweet:** [MightyJoeW Day 34](https://twitter.com/MightyJoeW/status/839016634174029824)
@@ -734,6 +740,9 @@ I’ve been using Chrome’s DevTools for the last few months and have felt pret
 
 
 * **HTML** - In Elements, you can right-click on a line and choose Edit as HTML. Also, you can drag a line to move it somewhere else.
+
+<img src="https://lh3.googleusercontent.com/Z29d2v84eGvBfKiXuvHzEuuGt6XaSOgZRBewtZW-oJvhKm5Y5WHAXPdebbiPh3hCmhI3xySrW1cWNl_aOELu_BrsOH-SapimyH9GGtiAZzkHvvRCPilHH0tH8APuIFJXBKoucbX2KXxiZI0FiusnCcleOUpM3fm1YZdpdv-85XPbwH1VTyGRIqI4bv_XhzERrIx38CoGT5A_71sHbSOdPgdYqWFJl9zj7VId0AbaqdXuf16_NoeNL0HdZH3WfHgAOJKEJvC5E3jNRGp-J0Zh-kQxtqJ1-MZIVxFirCayGd2Pr-NK86suExav0MYJEHGYE6t7tnco9roiXscJ93yPETgbnhO7OxyTvXkNeL5E7wj66L9Gj8YITY71u2L_JayaiWrtH12Uk2evJxh_Uef_iropoY9NR2zJlSuL4z8eNERKSF-FW8Tkok9rjRBorPgFPOwGfVNAs3J-XTdVjehINACnBQm6CIQsT2wBktlmBRvRNRZiK6HjqxQvvHOhpgFiSXCdmDhzNE8BpQRLa9Tw2jVjkLkj5OH45NyrDpcI-8QGCE-VqTHPMlY0doj9cZO0NQj4zFJYA7gjcYkOJ7XVObLa6qkEBQbAACc3PrZHtMUYqn-b6_bzmw=w1273-h689-no" alt="Edit HTML in Console">
+
 * **CSS** - You can click the plus button at top right to add a new style rule. Clicking :hov allows you to choose a hover state to edit
 * **Sources** - allow you to edit the site's files (but it saves it to our browser storage, not the original file)
 * **Network** - throttling allows you to change connection speed to test a site’s performance
@@ -771,6 +780,8 @@ The Google page is coming along well. There are a few little things I can’t fi
 
 **Sidenote Jones** 
 So, I finally watched a couple of episodes of Silicon Valley and I'm pretty sure I'm hooked already.
+
+<img src="http://www.shinedown.com/sites/g/files/g2000005191/f/fhfhfh_16.jpg" alt="Silicon Valley poster">
 
 
 <h2 align="center">Day 38: Friday March 10, 2017</h2>

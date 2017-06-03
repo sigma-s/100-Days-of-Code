@@ -877,9 +877,45 @@ I was able to experience what others mean when they said to just code and to lea
 **Thoughts:** 
 I experienced my first browser crash creating while loops. It took me a minute to realize what was happening. Once the lightbulb came on, I was like "OOOOH, this is what Codecademy warned me about with infinite loops!" Then, I was able to find what I had done wrong. 
  
-I wrapped up today's work with a Choose Your Own Adventure game which puts you in a gym. Then all of the sudden, an angry Brock Lesnar is standing over you. You have 3 choices (made with Javascript switch cases). Spoiler alert: None of the choices end well for you. After making a game based on The Rock then Brock Lesnar, I guess I'm ready for Wrestlemania :D
+I wrapped up today's work with a [Choose Your Own Adventure game](https://repl.it/GXrA/0) which puts you in a gym. Then all of the sudden, an angry Brock Lesnar is standing over you. You have 3 choices (made with **Javascript switch cases**). Spoiler alert: None of the choices end well for you. After making a game based on The Rock then Brock Lesnar, I guess I'm ready for Wrestlemania :D
+
+```
+var user = prompt("You are working out at the gym when all of the sudden BROCK LESNAR is angrily standing over you. Are you going to TALK, FIGHT, or RUN?").toUpperCase();
+
+switch(user) {
+    case 'TALK':
+        var persuasion = prompt("Are you a persuasive talker? (YES or NO)").toUpperCase();
+        var breath = prompt("Do you have bad breath? (YES or NO)").toUpperCase();
+        if (persuasion === 'NO' || breath === 'YES') {
+            console.log("I don't like your chances since you're not persuasive and have bad breath...");
+        } else {
+            console.log("No amount of persuasion or fresh breath will save you from this beating.");
+        }
+        break;
+    case 'FIGHT':
+        var skills = prompt("Can you fight? (YES or NO)").toUpperCase();
+        var info = prompt("Do you know how to counter the F5? (YES or NO)").toUpperCase();
+        if (skills === 'YES' && info === 'YES') {
+            console.log("You have a chance to survive. Slim to none, but a chance none-the-less.");
+        } else {
+            console.log("Just go ahead and say your prayers NOW.");
+        } break;
+    case 'RUN':
+        var speed = prompt("Are you fast? (YES or NO)").toUpperCase();
+        var map = prompt("Do you know where the nearest exit is? (YES or NO)").toUpperCase();
+        if (skills === 'YES' && info === 'YES') {
+            console.log("RUN FOOL!");
+        } else {
+            console.log("You need speed AND a sense of direction to escape on foot. When Brock catches you, just take the beating like a champ.");
+       } break;
+    default:
+        console.log("Say what? Hit Run and try again, this time picking TALK, FIGHT, or RUN!");
+}
+```
 
 **Link to tweet:** [MightyJoeW Day 43](https://twitter.com/MightyJoeW/status/842211821721382912)
+
+**Link to Work:** [Brock Lesnar Escape](https://repl.it/GXrA/0)
 
 
 <h2 align="center">Day 44: Thursday March 16, 2017</h2>
@@ -890,6 +926,22 @@ I wrapped up today's work with a Choose Your Own Adventure game which puts you i
 
 **Thoughts:** 
 Nothing too much today. Some minor html and css followed by working on the Project Euler project 1. I was able to get 2 of out 3 components of the problem set up correctly on my own (couldn't figure out how to print the sum of a list). 
+
+<img src="https://lh3.googleusercontent.com/h0pwrQLFNCcPq1oAGDyu-Ks3xJLIunHgEHhlMi_1lwK_-ftKxicjVs3wbEQMtAxLFPXcZ1OnLhemwQ50_yr7yxybsKA7uwUalsk6WGsTctbrhqTWdQ851PbzY2R7NR11rJFUy-9-vqLUmqt6vsifpUtysvqt3Kl70CHfBkOphRPwWMW9rjMHLDS-4xxnnWkt3srvH0lZm2tmLF-qmzAglNi_mDHz2vlo-aCL8fk7Vr2e0iIulwlnOUzMTpIrjzZHloRwtQEWOEscQ8xXaYZFXIP9HjpxmgZSSqTpAIlImMy0JgHjr73ISPo6Z06Ko6BoviBpH4h-8mGsmM6i1ERfjjtvHQFXxgpMoZdOxY4M7AvrKls2yr1MhjKsZheO1kakqPAi2tJOZwoYFnAcYXkh6ULW6O9qUMJw-MKz_eu5_s_5G48l8DguPFxHs92GMdDGVhS4_HcO2aL8afAR4Ju9ySnT47wjwA29XQbYgnPtbJlrPusmR_vy5WfdE1cqqLMypCj6nizuPGKnV69qi4qX4ukelQoaILvketB4SVDXxH64027u_qj8bJwhi0Rc5WYH8LFPl7VLn39tiBK53bV8xO-S438-RzAdHYn-EVEKPPxXUIlOZyqWEQ=w1278-h305-no" alt="Project Euler 1">
+
+```
+var multiples = function(num){
+	var sum = 0;
+	for (var i=0; i<num; i++) {
+		if (i%3===0 || i%5===0) {
+			sum+=i;
+		}
+	}
+	return sum;
+};
+
+document.write(multiples(1000));
+```
 
 I ended the night with some CodeCombat (which is unfortunately starting to get on my nerves with the bad lag). I read on multiple sites that it works best on IE11 (ugh).
 
@@ -949,7 +1001,11 @@ I'm understanding how to use Objects more and more each day. In a day or two, I'
 **Sidenote Jones**
 I worked on music for the first time in about 9 months and actually enjoyed it. I’ve had many jobs related to music over the span of 14 years, and I had finally hit a point where all of the enjoyment was gone. 
 
+[![The Last of Us main theme piano (video contest winner)](https://i.ytimg.com/vi/0eacOSCYwnc/maxresdefault.jpg)](https://youtu.be/0eacOSCYwnc)
+
 Being passionate about music for so long and growing to resent it was a very strange and confusing feeling, so it felt really good to have fun creating again without the stress of lack of preparation time, having to regularly learn songs of a genre that I didn’t like at all, and being in environments I was uncomfortable in. 
+
+[![Tetris Blitz remix winner - Mighty Remix!](https://i.ytimg.com/vi/Fj-jmWTxrMQ/maxresdefault.jpg)](https://youtu.be/g1AC8zxnXcM)
 
 It’s something I’m sure I’ll have in the back of my mind as I continue my coding journey, but I’m NOT going to let that stop me from pursuing this dream. If down the line I end up not enjoying coding for similar reasons, I’ll deal with it then but I never will look at experience and new knowledge and connections as a waste. Plus, I didn't know if I would ever find anything else that I'd be passionate about, so I'm going to keep pushing forward and enjoy every minute of it :D
 
@@ -963,6 +1019,8 @@ It’s something I’m sure I’ll have in the back of my mind as I continue my 
 **Thoughts:** 
 I can't believe the problem was that I didn't write ONE FREAKIN COMMA!!! I switched my code around so many times on the Manipulating Complex Objects problem. I ended up going through Web Development Bootcamp AND Odin Project because I thought I didn't understand objects correctly.
 
+<img src="https://pbs.twimg.com/media/C7fkiSpXkAEEdsn.jpg" alt="JSON Missing Comma">
+
 I felt like my understanding was there by now, and finally Googled the answer and found that I was missing a comma... My goodness. Well, I am happy to learn that I did understand the concepts but just had a syntax error.
 
 **Link to tweet:** [MightyJoeW Day 49](https://twitter.com/MightyJoeW/status/844396576504254465)
@@ -974,7 +1032,11 @@ I felt like my understanding was there by now, and finally Googled the answer an
 - Continued Objects work with Free Code Camp and Odin Project.
 
 **Thoughts:** 
-Brain and body fried from work, studying, yard work, and working out all week... I am progressing through Objects and left off on Profile Lookup on Free Code Camp. Not sure what to do at the moment. I'm currently Sleepy Jones, so we'll see what the good ol brain can cook up tomorrow.
+Brain and body fried from work, studying, yard work, and working out all week... I am progressing through Objects and left off on Profile Lookup on Free Code Camp. Not sure what to do at the moment. 
+
+<img src="https://lh3.googleusercontent.com/1L6lw26kj_rionXuidkuYkNM-QV4UFUyYJqkCPZai-h71VudJ9d3DbGRgAbVfoYD-4gkmHCvzef2P9QxrkSU6t3VX3NB_jX3sKBngzNBOmSyWj381e1iBuqwSOEMHPxDTzBoo2T0sNhqYH2k1o0iDNEXIh3BfctajFiffWZ8QxOcn6r4jUIRjpdHstuKkse9RyXuWh6SRyCUH76MWAr4gHEY8eW-GABF4gHeIvuSrQ3rVLizpupTmXWKWqV1PjY3xusPsgDnex0DOP2W-hRwEcD0rLbO3AmdKIiyooztVJNz4WSU8St4T1cAGcp3i49t2AQhDSnDxbChxBAnju9TE1LxxACRIZA1rI4heGctAagGP-BWbLWb9mSy1-8pR4O9lcGljf1ohru0gtGr1lfYX998gr-CzqXTUDpaRuFrdDHTxnGlYq0vnj-aHAf15huP8JprGErXlszqGVGk1bWYWnT4UBPMkre8OH9ik6rQyCZ0gr5UHmxgNUZtlo8QilCL5Mcklme3qDfArzmMuG4rTOWTOS7Bthla9YaxHk_0lZuQK2pL1SptGMKvDUijv4UtM_5FO4L4_84tSMFUUjztaGiIDdCEj3EXhZCQf8XYqAq1CqzvVhAolQ=w1278-h564-no" alt="Profile Lookup">
+
+I'm currently Sleepy Jones, so we'll see what the good ol brain can cook up tomorrow.
 
 **Link to tweet:** [MightyJoeW Day 50](https://twitter.com/MightyJoeW/status/844758097948098561)
 
@@ -985,7 +1047,7 @@ Brain and body fried from work, studying, yard work, and working out all week...
 - Finished Free Code Camp Basic Javascript section.
 
 **Thoughts:** 
-I kick off the second half of my #100DaysOfCode challenge and quest to getScript('Or Die Tryin') with more Objects work (mostly constructors). Honestly, I'm getting tired of these Objects and lessons. It's about time to start making stuff again, dangit!
+I kick off the second half of my #100DaysOfCode challenge and quest to **getScript('Or Die Tryin'** with more Objects work (mostly constructors). Honestly, I'm getting tired of these Objects and lessons. It's about time to start making stuff again, dangit!
 
 I really want to buckle down and spend more time each day coding. People are out here beasting for 8 to 12 hours, so I know I can be doing more. Upward and onward.
 
@@ -996,8 +1058,10 @@ I really want to buckle down and spend more time each day coding. People are out
 
 **Today's Progress**:
 - started on an About page for one of my sites
-- completes Intro to Objects 1 (Odin Project, Codecademy)
+- complete Intro to Objects 1 (Odin Project, Codecademy)
 - started on Building an Address Book
+
+<img src="https://lh3.googleusercontent.com/NfnLgM4t-EyLrT0YZwugqp6O3Um5qkofYGDKG2eVVnWOFLpNZBv0VO6yJWzUENuqZdw6XHBrLfivXx-gKcWZF1_7a_rk_ZkPaWjaANVrctIrEki3-TesElk40Rcp3Uyxyr5NniQA9lD35_ZQQREx0idRx7bCq2x4ENjndqs3MBqllZa1W8UZood4pqSTgzXvLr2YPBtsHO-EU-TPMoUjN57-GIA1JH_M1bwgCjiDbc9BlpX2Qym_yhMIKdkSolyvEalrj-bOBTFxE2DBze1zp2YDkf7AzvEC3wcCn6kus1YUYevOJoeC-tD-iJNExiH9GNyUXiz2F7oDYHXDTj8JS8ixImv80-OktTz04FUB3t1_yIdxVPyZhg_3wu6ZrUvy0FvsSZ3F2U0OqI1fWQCOU2rfCD9YrDYOsROQePUIxZQWOXz_esVOyUfsquK85iVMJpBFSqUSvBUr_2zcizMCeWc7re88YgAuftHqO-Byd9Pzv_HTjiXeXOkDRQecllPum4z-vcLcL1qn2TUg2kk7wN7ajXrZbj9no2DIiybFRjRzckTpZ7JUIhj2jsfx2PIjlzJ8PL7oVIRoAGeO__oKwocz63jHCqEMPLUyiu9206TDDDbRSWTcPA=w1278-h621-no" alt="Games and Keys About Page">
 
 **Thoughts:** 
 I've seen more Objects than I ever planned on seeing this week, but the repetition is definitely helping. I also got away from lessons for a bit today to work on some html and css again with a bootstrap About page. 

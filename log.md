@@ -635,6 +635,8 @@ Sleeeeepy. Mighty Out.
 **Today's Progress**:
 - Odin project Git and front-end dev sections
 
+<img src="https://lh3.googleusercontent.com/kW3wBZRDg4aixpWkXh3vcFVDBs6xipAwDLABmNY8HxaTLpAPCdQqSYy1zJh9azvgxToP01kTP82I7vArcxCSHGk9UVv1M_u1aVXpHrxSmclVQckr1vLrf2gWzI1lEI4niAOcDXU8gu_ChiCHvTYc6rqmDuybUglBUS72H2qfJgRDBGa72lve18XEBnE-SQOS2ktCV-dyX1RMDONUHThrZQorSMtMD0CRnr1eWtMZxi1FFbt15tDeE0icS7aKsfCWSZic_P3UB9Nn8M7d_MbdxgFWx4P9vs8SbiVOzjfqJe5QOlQOYdS-AUQbKXefPDfx-NKwUE-LqzdE-07WH5h19pFqtSPyM9VNxgQXLH7OVDfe3HhqZBp2xf0eqNSK7PWUsHu4N750zQzWYKbXN8dcdiER-WXQEeaWbWqP_H7u9k_0V4G0y51Q818sjY9cFNxCdWEXDBKxcWuVkBjMJugpdXRck6iXZ3rM3a0ktdqjyS1GI1riNarU225yXmyt7Cc9ycz0fXpd-9JQlwgreQ2H0K-AFwzAfgawfTEDhkVFYR9dy7DS_lNPl8J98YecChdCuwPD5kAL2HH_sXj_mfYIAVdAGyC8RLnSnY3AKDnpZXFhzEhiB9I3Sw=w1278-h610-no" alt="Git">
+
 **Thoughts:** 
 I don't know if git takes awhile to get used to or The Odin Project is information overload, but git was wearing me out earlier! I do feel I have a much better understanding of it now though. Bottom line, it's going to take a lot of reps to get comfortable using git and the command line. 
 
@@ -666,7 +668,9 @@ I'm both Hungry Jones and Sleepy Jones right now. I need food and a bed. Goodnig
 - More Odin Project HTML and CSS work (focused more on CSS)
 
 **Thoughts:** 
-After a long day of driving (ROAD TRIP!!) and seeing family, I am definitely ready to dive into bed. However, I do NOT want to break my streak. Day 32, and I'm just getting warmed up! I just spent an hour continuing the Odin Project (I'm currently in the HTML & CSS Codecademy section). 
+After a long day of driving (ROAD TRIP!!) and seeing family, I am definitely ready to dive into bed. However, I do NOT want to break my streak. Day 32, and I'm just getting warmed up! I just spent an hour continuing the Odin Project (I'm currently in the [HTML & CSS Codecademy section](https://www.codecademy.com/learn/web)). 
+
+<img src="https://lh3.googleusercontent.com/YItitKjtF6UKzszD5wZ80DMjOXUI8IqcHL9tJuASdwV0Lqk0utLrvgkOHAQRBfoA3fhJaPR-pu6FNMm_aA7SkjulVATBYSCv32DjgAfPgtUxAMVIoeHWSWbAeRexJUBfoJ5U9HQSfalE9fNvoFC2VxsxULLOSS6JytgCRzeuP1itE1UHR7UTjjswyh_7MaO2Z461Eb10y_KYqGCOK_ZmzAj3vgFR-l5SP_zWvTb-No1Hqi3ozHhsbX8PaafTjjoCxQRsq2Haxj1anOGFeiYeusvPcXbJcLYle65nC10b1uL1H-8aH0at7mnGHPteS9OawP3NZKlgGS9ZV0bwAdNLbDVMHF-I4BCO5pu-LmYfL_rxq0SuH7xQT85Oe6O1CC5FQC59cBBh23u3yx1okMNjPIf7rI5X0rUukCLlHG3HvEmXCyehxtSxeUIAgT_8M0ELup_NQPZQry9B0U25QxaIFog9XgWUkcTyRwPvl-brZnVPTlHG1sDXMaWeAPreDcAMZiDwXtnw3YfX3T9-ycKXtUFCCpvl0_d1dZhmj1ScSr59HkTTUidsIpXA1qRR-jfbNMWzjRMpZbD_vN-H2eRYwGDdJCahO4KBIiKjWJEdOxvMglwLdx6C7w=w1219-h627-no" alt="Codecademy HTML and CSS">
 
 This is mostly review, but I had forgotten all about the pseudo-classes in CSS. This was a good opportunity for me to get some more reps with this. A couple that I used were X:first-child{} and X:nth-child(n){}. In the Udemy course that I'm also working through (Web Development Bootcamp), he shared this helpful link with [30 important CSS Selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048).
 
@@ -832,7 +836,7 @@ It's in August, so I have plenty of time to come up with material.
 **Thoughts:** 
 Today was a fun day of coding. At Free Code Camp, we used Kahoot to do a 20 question JavaScript quiz. I started off whoopin’ butt, but then the 20 second timer whooped me during the functions questions. It was good and fun opportunity to think quickly & work under pressure. 
 
-<img src="https://lh3.googleusercontent.com/4Xw0S7Zet_98cqGWzQMCwK6UPXfk6qh5wPZWDUuPrVDwq8BqOUAcFWBiVrJOrdvweyzzdxTS9W3zn-xFdQmCriWphlL5T8T8HLfYzojxZJQs7xBHsVQt07OH8IMrDKqQQ_keSgtF-gWuAKFWsTXH8bppCGuZS0nSr0WNx7EWXr_23DhuKb2k_NNaF_qQPzNmiqbfx0LqKsBtBpIt_5SlPlL4qSBxbW7AIfVgJNIGVVeFs37j-42Z9W3xtd9OqHYNXlkykC_FOM8EhHy-pnbCEHaNONCADfHfrwXAOizh0Mu8zLdOj6g9eRjB4c6iDbTwNiCWpXP43ai4IU4v6OHP88sOD6QkefV-OprEUCq2LKPjxqIJBaQkltVXNWODEAoJIIPpaPZle0wjAeOsWA5nN2DNG_ndDxAFFThAGkwtdoX3f3MLiQiijqeyV0uripovT4wjnBM1koKrBm0H_awtZliZ0P4yaTtJfpDWreBMU8qkg80iMB2lLGKyB9auv7p390cgxkvgyBE_9PXNchOc-eNiB9VDl3moL6EuD6vhwz4PgMIU95ziY1ZR4BCn95o-4vosY4C-ilGt1-wKHTlUzYI5n-50TdUUckezvRYI3U5zISUAfw=w353-h627-no" alt="Kahoot Javascript challenge">
+<img src="https://lh3.googleusercontent.com/kxWi29rJ6QXvkqH8X4HY6vvOdjijJpEeJ9abblXtFWFE8hC_d8wC2_A3_WdKrhgfKIZmOakEcQyIfTFcJsgnadzWoSp-LArFrYBXRRodpHgQnYanI4jnTB3lXXsbSeIR-zTqB3S5vpKUcqdNZhFUGxV6n6Nn7b9Zk4caEvPLwgF4jD6MNPPUkpf4NpaorzV4cN7J6wAFkv9t43TuTFf8zthQVOZJAkboJohyzuzYEbnd3u_hqJEHY6RwM1w3yCDdcymJbY3hOLp-9CrdCPr0DlADbsh1oeRmeHG3tN6tE6scf2F1TtctrPvGGCHfQd3S9_28BODnlZMoYcO7Aag67nXl97ssXjDm_aXOsuHOIKw7DW9cuONCqYSxpq2iSrFiWTV_1jfjQOE6Yi_jsXu-pRqOPVM1d4Jn4tbh_ssKxaU6Sft1-6df6_7oLiBtmKJu-ZMWYwQBpq3zEfjT_tZz10EvLMQrha0knjGn7y0lgZ_70YzJM3DaMqQL3U7gqC8TEZvuxsBq_ZT0SjSsUjjfrhTXvRXbRqSxxbgknpY6Sd2Ulc9dz-QR48vbEilZ5JEycDv4YfUu=s627-w353-h627-no" alt="Kahoot Javascript challenge">
 
 I spent the rest of the time working on my HEEL Rock Paper Scissors game. Shoutout to @HBoutrup for the idea. He made a joke about The Rock being unbeatable, so I thought it’d be funny to base my game off of that concept instead of the usual rules. 
 
@@ -847,6 +851,8 @@ On a technical level, I’m having trouble getting everything connected. I feel 
 
 **Today's Progress**:
 - Added changes to HEEL Rock, Paper, Scissors
+
+<img src="https://lh3.googleusercontent.com/KulTGzwK0nOQoPNQ48PKbGOmD7lwMkJapw4Z4bdTwRyC0sJbRVrppvNcnEWDhjZSDS4zllza4W6MPk9sC98qH6__y4m-E4I72aRW2HKAXjee1DDNyB_bRldvcl0jKDspmShxYl1wcK_bEFIUfp0dc0VVntzABP_hJq8xGknwC3tYxh_9dLnK5CHJpw-bn0QVMBS3q32YmGlrUv5MkJc2AKMUNOqrwZgKqiXu5DZ9SWxeHxGMxST4Zu3xW2IqrMoh3rZHb4vk94Ck1XGE1urlZ9o-isADBb7Jq_SJnmK4E7-tiNrvYQkITJACNwXVAoa_5G6U-mMuWXlBrWits_35OeQ4hi3bdVHmG4ns3Vf6ZU6xDIKxl_4rG57Lr2BmMSHXSSwNo6w0Q9T7iI7GArmRCW19Y7gzlskQswymaHqc_bmOOqwuIXiwNUaIr4njeyB-6DimWl3LyK0OEUj-ZKR7uDZ7b2CQ63w4pmu5ZObey_ENAt9_tdjfu6IxjEaa4hk3Wj_6UE4xN_AuPrFvG86MTlW1mpszJ0xAWQHjDoNON1l2nQnN7YorWcyBMY5v-Yzm3PJzc6KvkBkEUQDg754FSLSt2QzjZVNoFVVK144HGjl3RR2_LhKdEA=w1278-h321-no" alt="HEEL Rock Paper Scissors logo">
 
 **Thoughts:** 
 I didn't spend as much time coding today as usual, but I made some good progress on HEEL Rock, Paper, Scissors today. By tomorrow, I think I'll have a newly designed and playable game :)
@@ -957,6 +963,8 @@ I ended the night with some CodeCombat (which is unfortunately starting to get o
 **Thoughts:** 
 Today was one of those days... Poor focus and stuck on array practice problems. Also, I'm about to the point in the Odin project where I got stuck in Free Code Camp and the Web Development Bootcamp. I think I'm going to just slow down and stay here as long as I need to (arrays, objects, etc.) I kept hearing to keep pushing early in my coding journey, but I've got to get a better understanding of this stuff. 
 
+<img src="https://lh3.googleusercontent.com/nETb5ztYtnULU_AAhDSN8Swq47YE1sadIoSVq4L0E8jwImLa1H32ElNF3_n0He8QfzhjjSf8KqilwV9zydo7ZtjW4lPuWBLIBpDAlkdS8Zl1rZhJQ6mYCBJ_dDvGFT4c1fguRvj6tS1rL6Mf0OoWmws7uLdvVLxK-dW0OlGtERktsvcV4s_GoU5It6LtbmScUJmfW6vdj8a5cpG8VdA-aVJhnGz7hCzEvBqcWqQqYK0ONRRsp-M7U3WxERRyTsk82g7uIE-yrIyecXjchFvxZbzCgL1YDOosEbIZyDaRCXpTlLPyZBf3Dq5MjznpqTo7wtvcENdGUpS1jI6Haef1t0adPScsedfDpvztfyKtHVRGevLQEG2OucHguBQCetuf2rI2z8HtKCOiHh5YCURhyB6Rl5wjmfZVDIaJ7IvTFC7kRjsoBV_1vic_78Ptua_6a3EDrLgmCY00OSYLS7TlJ7r5CAuCSh-PNpNpb172MtEs-JnBassRwAgrdlGhVAh_43Z5Rs3UjiQYHyGbzOOCIeVv-lPCq6RenuiG3FtS8zlgvFa-XRXIDf1DbdLtWAH6-nxDCsRRrTbKm91Eujo3yULNQW1xqC1yThx4L-h7VT138LDNQgjauQ=w1146-h627-no" alt="Odin Project Javascript section">
+
 The good news is that I understand what's being asked in the problems, I know what needs to be done, I'm writing parts of the code correctly, and I understand the logic in the solutions. I've worked out, played sports, and played instruments long enough to know that learning something new TAKES TIME so I just need to be patient and persistent. 
 
 **Link to tweet:** [MightyJoeW Day 45](https://twitter.com/MightyJoeW/status/842941097391415296)
@@ -983,6 +991,49 @@ I just learned about the ColorZilla Chrome store app. It seems very useful and c
 
 **Thoughts:** 
 No Free Code Camp meetup today :( Steadily moving through Odin Camp (just about finished with the Codecademy JS section of creating a Contact List).
+
+```
+var friends = {};
+
+   friends.bill = {
+    firstName: "Bill",
+    lastName: "Grapes",
+    number: 8005882300,
+    address: ['Works Way', 'Redman','WA','98052']
+   };
+   
+   friends.steve = {
+    firstName: "Steve",
+    lastName: "Jobber",
+    number: 7732025862,
+    address: ['Mac Daddy Lane', 'Silicon Valley', 'CA', '12453']
+   };
+   
+   friends.mark = {
+    firstName: "Mark",
+    lastName: "Nuttyberg",
+    number: 8664752948,
+    address: ['I See You Road', 'Fort Worth', 'Tx', '75409']
+};
+   
+  var list = function(obj){
+      for(var firstName in friends){
+          console.log(firstName);
+      }
+  };
+  
+  var search = function(name){
+      for(var gimmick in friends){
+          if (friends[gimmick].firstName === name){
+              console.log(friends[gimmick]);
+              return(friends[gimmick]);
+          } else {
+              
+          }
+      }
+  }
+
+```
 
 **Link to tweet:** [MightyJoeW Day 47](https://twitter.com/MightyJoeW/status/843688120524722181)
 

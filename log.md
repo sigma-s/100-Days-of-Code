@@ -1098,7 +1098,7 @@ I'm currently Sleepy Jones, so we'll see what the good ol brain can cook up tomo
 - Finished Free Code Camp Basic Javascript section.
 
 **Thoughts:** 
-I kick off the second half of my #100DaysOfCode challenge and quest to **getScript('Or Die Tryin'** with more Objects work (mostly constructors). Honestly, I'm getting tired of these Objects and lessons. It's about time to start making stuff again, dangit!
+I kick off the second half of my #100DaysOfCode challenge and quest to **getScript('Or Die Tryin')** with more Objects work (mostly constructors). Honestly, I'm getting tired of these Objects and lessons. It's about time to start making stuff again, dangit!
 
 I really want to buckle down and spend more time each day coding. People are out here beasting for 8 to 12 hours, so I know I can be doing more. Upward and onward.
 
@@ -1129,7 +1129,9 @@ I've seen more Objects than I ever planned on seeing this week, but the repetiti
 **Thoughts:** 
 I can tell that Objects will take awhile to fully grasp, but I'm feeling more comfortable with them each day. The this.concept is starting to make more sense.
 
-On another note, I think I'm going to take another crack at Javascript 30. I really want to make my own unique the Javascript drumkit (or full music experience). I should have a much better understanding of what's going on than when I attempted it a couple of months ago.
+On another note, I think I'm going to take another crack at [Javascript 30](https://javascript30.com/). I really want to make my own unique the Javascript drumkit (or full music experience). I should have a much better understanding of what's going on than when I attempted it a couple of months ago.
+
+<img src="https://lh3.googleusercontent.com/uicyjcWoM8G642Bxi_Baf9lpoxQfWOpk78qJms02s_0si3IUMO0UsNQgQcR56zDVTOHEKklqJsqJ2tH4TGy9uzo49YkV6dtpK0FstTLi-W_6JG9aLvAzM7QNqv7r_VpANWf7q66MmXhz-kVbOi3E_WXfhRCgaiOrejTyp36gfRxSQ2PXKrGWDXJ7l-lUrNh-CYZSd01CtSVpieK9FGyE0gFA8MvSuIwbJFnWiutHdvD0DPk1A5wdwBIMvO3ye3dgx_aEkYqFgj5ACstUqSlboE1tEVa5KQfCbbrXRC9Q2oeEp3Tt-HQB-PmuNT1JzGsAg2vGyb47Om1As9r496WllX5_yYFaDX-hjzvKqOZXukCqgSlpPSA8-KAKzCnOUfSrmS1J5tHbrCz8hF8BUHl0Sow7Uk5ChTLqTMszgmnJBfNzKKRqvLAC57nYsDAqzgEhhBdyw-dpq2jl-4jx3GuYA3Wluxo23TsaPpSPJGM0H197hsPECyPMQ9zEtO48yjGBZv7qsc-QV4UmHO158Xbl0l393s4ebQGSbMKo77eyQSZbRqsUAM0XXW_MRcX9CH51RoANJ2Lri5cqlRqUjxy_NzrtUH5vVkSsR0Vogd31EF26afNJB2a1-Q=w1280-h702-no" alt="Javascript 30">
 
 **Link to tweet:** [MightyJoeW Day 53](https://twitter.com/MightyJoeW/status/845864129973927937)
 
@@ -1145,7 +1147,7 @@ Today’s Free Code Camp meetup began covering Angular 4. I’m not there yet, s
 
 At home, I continued going through both Odin Project and Free Code Camp. The .reverse section helped me solve a problem from The Web Development Bootcamp. Although it’s taking me longer, I love having multiple resources. They are all helping me with each other. 
 
-**Link to tweet:** [MightyJoeW Day 54] (https://twitter.com/MightyJoeW/status/846205910255063041)
+**Link to tweet:** [MightyJoeW Day 54](https://twitter.com/MightyJoeW/status/846205910255063041)
 
 
 <h2 align="center">Day 55: Monday March 27, 2017</h2>
@@ -1154,7 +1156,7 @@ At home, I continued going through both Odin Project and Free Code Camp. The .re
 - Finished Javascript Basics section of Odin Project (Codecademy)
 
 **Thoughts:** 
-That Codecademy JavaScript track was loaded with new information to me (definitely not basic to this man)! I learned a lot, I will forget a lot, and I look forward to keeping this train moving. 
+That Codecademy JavaScript track was loaded with new information to me (definitely not basic to this man)! I learned a lot, I will forget a lot, and I look forward to keeping this train moving :bullettrain_side: 
 
 **Link to tweet:** [MightyJoeW Day 55](https://twitter.com/MightyJoeW/status/846568705484095492)
 
@@ -1189,6 +1191,8 @@ I’m enjoying learning about jQuery again. Everything has been pretty logical s
 
 On another note, I can’t get the thought of jQuery being a rapper out of my head lol. Anytime I see the name jQuery, I’m expecting to see a release date for a mixtape. 
 
+<img src="https://lh3.googleusercontent.com/AIbfIwx_QxTO1-83GahD4ARqQHDLFH58cwhBINvhe6pGcQpUKRM09QANHL8GsnZeGBcc3madyxDvUCXKiMpUxRU7YPAayRF2dxggRRorSvorWcev_8qDCedt8xpswJ9zuy2Sr_ntD3CWZhk13tjskuros1vCcaMqYgxLjKAq2RXfIC8VXCRTQx4S_KXoslidLPTetV3To3BGVbq767_aFz4RDz-5xzIQAcSTaMbPzKpcjQy8U4hGHsg19SPPPGBabFuqmbF41IjYauvgqN-xqFYQS70syU9XMGv0XCpMHT6Yowe6tj1ybPgSBS5wE-A0Rbh14G7IbUCzK8oOScHbazy3MEP1ChgnPdSgidghHOLQQ2hVjHxRvVStGFOqQOP-gwah6zFuQ3WLEA9IFdqJCJfLnrfpd8p_fKYzd6jqG44mfGn8GJhhvTmMRiq_RCF623uJlCiVpNRaJjveamLoIq6OiOZqvKkv25dMxSY-7m5qeT4JFrauY5XdVvbfuHz9yiGfFF0MmljWLsNs6tQLxLo4s6Ml3kWVqyA6AKvHmlOhzMyePZXUjbpyLy85q6b9-vuil0HORBvk10uNqFyWx4aZjUgxm6owJxK8HKktjZu-Nuap3ShktQ=w628-h364-no" alt="MightyJoeW jQuery tweet">
+
 **Link to tweet:** [MightyJoeW Day 57](https://twitter.com/MightyJoeW/status/847311787108163585)
 
 
@@ -1205,14 +1209,20 @@ jQuery started to become Confusing Jones during the Traversing and Filtering sec
 **Sidenote Jones**
 Russell Westbrook MUST win mvp! I love Harden, but Westbrook is averaging a TRIPLE DOUBLE! And not regular triple doubles. Monstrous 50-point triple doubles WITH wins! I never thought I’d see a player average a triple double.
 
+> Here's a quick mvp switch statment I put together in [repl.it](https://repl.it/).
+
+<img src="https://lh3.googleusercontent.com/H826Fr1n1vtgge6giqomowPTrofQt2WFW3tknJ3FrWAJGeSLZdWqAEImPZ3MDJpQ5gb469nMj85CeCqM3c23yVkOJ0Oy9KSmORS9Wk2B8vNLgfL_M_8uppa449755Wh-FgIwmRVGOaNMPlk0a1AcPPDDeOuaTJrYpwGwZvhgIdl_0Ko5PXbnsqNamAqriOXJtCxl8GsUaTPK8zdWBiqXtfjlY5ML0HmZmr77S-3_kpHDpUp_sS5MluqdY0Dpc4_I3qGPjRRiTDIXb8HsT_z5YTMFxhOpm8Hw34uOIK6OUf74tdzNUYjsAbIvXChUQgvOUlVAXEOkDCB3S4NDUZhLhZS7dBP_mWuou8tl4p_imAldPePNoKYi9ASFSX9FvriFTuCOHywrVtYsNBxqKQz8eWk0gCND0waS2d-1s7gHsJpe1GjOL0hZCDLojan6kLor7IftVg-NlH1Hj9hhnLvCLPn4QH46t6yWuzLXDKgJap9LjKszjujirJ6LihBjy2CcqtA2JH7wEo7M5l76jlwdvB9m2Tx2RrST1GujOl6uZjAAIIWEVHfB74iQ33hHLbohcrDs9YYc0RVUCEN-6M_jYuSSGr3-CCLnNx-FynNcv8_eWScuZOz4Ow=w1278-h607-no" alt="Javascript Real MVP switch statement">
+
 
 <h2 align="center">Day 59: Friday March 31, 2017</h2>
 
 **Today's Progress**:
-- Returned to where my code journey began with Intro to CS from Google’s Technical Development Guide. 
+- Returned to where my code journey began with Intro to CS from [Google’s Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html). 
+
+<img src="https://lh3.googleusercontent.com/WlJZNxU5Qs1WhOGDBS6nbxMlgrmvz6a-HCTcdFOB5E-H5GZWLXDqirOmTghCwHjegkGvdvXKkQU1hHZybaGr-96lkZKu912cxXgYnm9o72CPCIFqS_T9m1d8n9uc3kUjzKkGdarGH1ZrO78siXZGrkathrElspzAd5xKcx6KpiqucPEMSYjORHVIyxUrBpTx7R5ACAcy5co4w3qGCNqwOVN7GMdrBLj8EEqilrqcbtPHnFCFn2rKgu2OaTxm9n7SO1d3c7V__5SX59imAkuTDu2Lyni81F_-z2s-tga3J-TdPYC0EfEFfXErd7Ml_63Gz2uwPwXjGW2s8So2o2zV3Hvs8UIp-ODzElkH1MMLz-XFOpunL8D7PjYlYgZDK3Mvqw59LUxoeDBUWNe4G2F1GT39kKU29isLznt2EtDRgs5Sqj4UuQTZkFLKoGKWKPkg5p6-emsmHe_nHqeIrRwE6BgAqssns-Wafhd98Jd1-vCY06-Rl49kD38Eg5e3spcdp3Zrr4vWoWgU9K22Zow0K3Au-NwzHYr5VR17Z84sX-OIHKQRGvkrcygdKFLOEaiKzIK1_cvSTMRSVCglSWj2rLfdRLwCJh3NkbnnyMfBSxQO_uGgB-uIkA=w1244-h545-no" alt="Google’s Technical Development Guide">
 
 **Thoughts:** 
-After doing so many different courses and lessons which mostly focus on front end web development, I wanted to go back through my original goals and plans to make sure I was still on track. I originally started following Google’s Tech Dev Guide. There are many things I want to learn how to do beyond web dev, but I’ve been deep in this world with Free Code Camp, Odin Project, etc. 
+After doing so many different courses and lessons which mostly focus on front end web development, I wanted to go back through my original goals and plans to make sure I was still on track. I originally started following [Google’s Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html). There are many things I want to learn how to do beyond web dev, but I’ve been deep in this world with Free Code Camp, Odin Project, etc. 
 
 I still have the freedom to experiment and the benefit of time, but I do want to make sure I’m focused going forward. I’ll plan to finish the Intro to CS course (which focuses on Python) while progressing through Free Code Camp. I think I can move on from Odin at least for now (great material, but I’m wondering if a lot of this is becoming dated i.e. jQuery, Ruby, etc).
 
@@ -1222,10 +1232,12 @@ I still have the freedom to experiment and the benefit of time, but I do want to
 <h2 align="center">Day 60: Saturday April 1, 2017</h2>
 
 **Today's Progress**:
-- Continued into Unit 2 of  Udacity's Intro to Computer Science
+- Continued into Unit 2 of [Udacity's Intro to Computer Science](https://www.udacity.com/course/cs101)
 
 **Thoughts:** 
 It’s interesting to see how much of programming is similar across languages. I’ve been spending a lot of time in Javascript these last couple of months, but many of the concepts so far are similar. When procedures were introduced, I thought they looked similar to functions (turns out, they are very similar). 
+
+<img src="https://lh3.googleusercontent.com/lX9SCDNW6S8AHzuvPAH0fHXYi_9nSZ2UqQsroLUVC2jD96kHBlKXdNzDY3fFFCDRr-zx_fWp5kqrRo3ZoeZxc98JicuqjK9D558DRtjLXgUz6eIty4ccwbMqAjUUDngJEynPC0iGqHgnM6-KkIwXykeiwhn5BMUQe5Rn-dqSoveg5JFs4QzQi8IG0ws44BGoDGhESwmIMWXHgF6OBvkZ41pup0wfrCkUzbQKwNicoK_DA_K0oDPgng2uML59spM5jfU_vt_gRWEKQ_TQJe51McpaK_j1xAAzHYwDhX5CZLZLLmU8MRm2xbk3C7r0bUVTzJew9ZpUUThDiyJqxaM8z_72NqexdJ5bAB1VPhaveb1wgwu3cNTvzc_9tlCDCG9RgojzSQLgKEBt6P4LYTqIab3LBv9yqtFfhdM6jOOgU9MojmgLmxw1ND-qdriN9d34rcrU3ZUwmBSwHcEOcYdcWY1Iv6RfngawZjVc_bMggkgWTYIhCph15udcBwJ4L36Hz3PWkS2B6nehwYbE7Sk9UEcPgYXVf-3Q5Nd8CsxsBnoE5EZtHNbjpFj8tn5lZXoG8dCabMFslli1ijrhaQFL4ESRpkWBI-zcPiS5jf3_lrgfcEtanjQMIw=w1265-h617-no" alt="Udacity Intro to CS">
 
 However, Unit 1 had many things I hadn’t done before such as web crawling and extracting links. This stuff is tough at the moment, but having html, css, and js experience helped with that as well.
 
@@ -1241,6 +1253,18 @@ However, Unit 1 had many things I hadn’t done before such as web crawling and 
 **Thoughts:** 
 I can see why building this weather app has caused so much heartache throughout the community. Luckily, we are working on this together at our meetups. I'm not to this section yet, so a lot of this is over my head at the moment.
 
+> There is a lot in our code, including this Kelvin converter
+
+```
+function kelvinToF(degreesKelvin){
+ return (9/5) * degreesKelvin - 459.67;
+}
+
+function kelvinToC(degreesKelvin){
+ return degreesKelvin - 273.15;
+}
+```
+
 **Link to tweet:** [MightyJoeW Day 61](https://twitter.com/MightyJoeW/status/848671868940931073)
 
 
@@ -1254,8 +1278,11 @@ I can see why building this weather app has caused so much heartache throughout 
 
 
 <h2 align="center">Day 63: Tuesday April 4, 2017</h2>
+
 **Today's Progress**:
 - Completed Solo Learn's Python 'Functions & Modules' and 'Exceptions and Files' sections
+
+<img src="https://lh3.googleusercontent.com/8nxbsG3-VKiBxm8bPvRgoOyhD5a7gV6bmUXGeq7VndkXGlM2UYvE3GFvj7A5LRTAj_gfcqI7-Oor6Mw7f8VPlbdd9hUQ18-tg4TSZl1F9y6X-1Fc95NcAfYLcOYryRpNPa7w6jyD6BoMG_pcnhNC6BjN5Kf2lMKdVHQXnco6T1lkVzT4Fm-kVkokDX135AZkemnMKdE_SMGrLm7N1s6fiIileLuC15sCVn2M9EZFdwQ0-vmHMW85xGBpaerGr1Hpruaq_BBN-KYR3CPr2M6wHR-P8puzK657hxkwmHVSzKM-suC_qv90NLE0vzuXtqkrfg4jYsm8hRR8P3wTXwaZAFUjaODYn6_PSjpZESrF1U68gGMkHDz8mwJ7wEB8i-hIGh_dTXSCz1BjOD7g9WV7rUNCL6sNPOKbGAyX1lGmf76-op6tRVf4GrtHJDnfSV4hlh40EbYiU8_3m7YDzSdJRn1hiDE4pqkkZsugYfk2zZp-K7fHaH6tvofbKFHZBTPLiqliASjY8dZ2ABQ6IMQ7-RxHo7V-8tC61v5uRJvLj8sQyte5JWGIc9CDOwST9an-o29g6-DXNf2tPf7Z_kokSaXuikoYGEjTePib0vuj5l6YbmOw31pb8w=w1247-h622-no" alt="SoloLearn Python progress">
 
 **Link to tweet:** [MightyJoeW Day 63](https://twitter.com/MightyJoeW/status/849472826960642049)
 
@@ -1263,7 +1290,9 @@ I can see why building this weather app has caused so much heartache throughout 
 <h2 align="center">Day 64: Wednesday April 5, 2017</h2>
 
 **Today's Progress**:
-- Completed Solo Learn's Python 'More Tyes' section
+- Completed Solo Learn's Python 'More Types' section
+
+<img src="https://lh3.googleusercontent.com/5rS5sW2ZC7_kpah7JL18-mBAgVvodX0rh589ZQh5seWI8pIsUpINggSEJy5HUWDmjtRgPFb2mnPHYpe0DeEdaX40kQKUMdEoeZOAN88JdkndhCys8pcK1JgIW5db1G6hpybI6HATVJ8mrRmkuJbyeaeD7fraLPjBJ-sudAyxD_PzOEOzN2qXPrhsvHdI8Ym6IiUPdTCbkPoW1NZrBBy-7yUJveeGDcapKvpfeWBjtsYEUlbxjHLtQAn0l03kF5FCQfJ-4Xg6zznY1l2II23We9wJc1oOVpaxwUyIGqv29S9M2PrXpLijiQMunC047SDj2ewZZhGetoUjFW0u3ERL3TPaPLnPUOSD7Smfz66YpPmPXzLbRZwL3dOuQ2WtZWupsWNKQ5iatXZ1lqFlYfk5fjqbH-s9egRfzIOkjDh5WRYfvg45Jx_jsWrjHCjmvYplTgG_9hBLsj-GuEFhw0A8WZOc4lhtxeog4EDz0uHcCps0Yw4psi5cRWXoqLt_Xvk1H6yOF2GXky14W5fI5s-Oi1YY3cqM9Rdl87w91Av9FLRodAXnFv6ThYZjL-STS_vEYCXfYS548EM6IIfp9d47XGLh4-sNkEP1XfKrYq3zlldv9wNSaoKQTQ=w1154-h627-no" alt="More Types">
 
 **Link to tweet:** [MightyJoeW Day 64](https://twitter.com/MightyJoeW/status/849824770665435136)
 
@@ -1277,6 +1306,8 @@ I can see why building this weather app has caused so much heartache throughout 
 Someone has been slacking on the ‘thoughts’ section… Seeing as how I usually code up until falling asleep, I’ve been getting that tweet out and then crashing without updating my thoughts. I’m stopping a little bit earlier today, so allow me to update you, friend.
 
 I’m still working through Udacity's Intro to CS and Free Code Camp. It’s interesting how your perception of something can depend on what you learn first. I can look at Python and Javascript and objectively say that Python looks and feels so much cleaner, but I’m still used to the convoluted syntax of Javascript. I’m used to seeing curly braces, parentheses, and semicolons all over the place.
+
+<img src="https://pbs.twimg.com/media/CCdC1HMVEAElN-e.jpg" alt="Hide and Seek Champion">
 
 I’m glad to see that I continue to figure out things that I wouldn’t have had a clue about not too long ago, but I feel that I need to step it up. I’m already on day 65. These days are flying by, and I need to set a goal for day 100. I haven’t been creating content lately (it’s been all lessons the last few weeks), so I do want to set a goal of having something created by day 100. 
 
@@ -1305,6 +1336,8 @@ I also need to devote more time daily to coding. I’ve heard of people that spe
 **Thoughts**
 Alright, now I'm not sure if learning two languages at once is more helpful or harmful (in regards to spreading confusion). I really wanted to complete Intro to CS (Python) first based on Google's Technical Development Guide, but I got into Free Code Camp not long after beginning my coding journey which focuses heavily on Javascript. Also, I am wanting to get back into Arduino to start working on physical projects (Arduino uses C++).
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Uno_-_R3.jpg" alt="Arduino">
+
 I want to stick to my plans, but I don't want to spread myself too thin to where I'm not retaining enough of anything. At the moment, I think I'm leaning towards focusing back primarily on Javascript and doing Arduino in my free time.
 
 **Link to tweet:** [MightyJoeW Day 67](https://twitter.com/MightyJoeW/status/850537127045726208)
@@ -1329,6 +1362,10 @@ Today’s FCC meetup was a follow up to last week. We continued working on the W
 **Thoughts**
 All of these Arduino lessons and projects go by so much quicker having programming experience opposed to going in cold turkey last year. I've got my lights blinking and nothing's on fire yet so I'm off to a good start!
 
+<img src="https://lh3.googleusercontent.com/dL-uH9qwty8jS2nkJ7TNoV6cRvSwai2xZ8uin3dqyIGwsDZ_AQSFjwCVpKd_cvYPIvJOTkDBJwdHQKEkElp6_UlR1qdHNaoqyfgZRezduWAKjWlqR9EHNyM2zpAXAvNV3aOPJfWRGeaHevvk8BTRoM0Y9prteDjo1Gtdz135UIPQOX_U2wMLPoFijfaUVrpY7TKcY5wrH34xfbbG8z1P6MbIsobUMGElmO55GOm7IZrAkECjuy7dBAFeTrG7Swx8tfuDfCPkYaQQfbB7OMtFvRNIsQZ6xkWJnq6YnZQFN8N_bfVSVb1vjqroUQxu8D0KMH6FHsB5pdhqlvx9419q99uFEY1NMjeTq4p1ucHP46Erwm4lpoEhA6NBWps90rnOvK2WhnrXHYCNxdagdAKJBbEstUEcVXJrHAPkLrd9h4PQgqkFyDlastDf6bP97cCNQ9XpjL1uNZZeflc9J_asJ_yxHIzA8AZ79btM1DjGgfI9AIFWEGu9sRpZIY2S4pWvNHWv8vIqZ-4Y_eC8rVjh_kBxegXfVci1YP8KStCrcVHTwm3lAq9ehEFKzwgPhIOeo8nRAVcUd7Sgudn5quBfVsNxYdpA7r-8uU2Q1gLcktjgH3w7XiPPWg=w1004-h627-no" alt="Arduino Blink blue">
+
+<img src="https://lh3.googleusercontent.com/YeP8VComAXG_hnSOwXpOU-_ukK4OjJGbqXH5G1Ia4lGh3xUUJs96UUFOnLv8qcYSAjuYsCUOn4osOs2QZrLONTjf1ljeXTcWed4Un4eNT0LIgB1lJpXbRN5heFJao3ihsGstlY1-gmry6hF1Zx1mbl1LmxHP9urLXRDg2sbQ9fAwTscH-XUJMk52GeN36O3g03yDHxUrZ6ZMSd_u89ihztFMp_BLZm_zQTNeV_mrWVQxZjwD3CiCJhrgZg7WIBvMbylAKT5OCRqL6mtq3Yp2egcIXqYd6JhNG9RZZdoBE-vcfU9bNZhsP1CGk5v9M8qrMbBegO6tjUxN4wSspQAOVTW_00pr6xjnPcloafIf2ul4W_m43YdzDhbt7y_pAgrG5uiKBBSSg2gQq-nn88id-vGh76uLyKNLuSZ2cflGqcH89T2kc00RKJw7A9DKo_EOmMhDcsMBFHhWOW_t_clngil9ZX2GuXz7zdsoN1LKn66fPyvdiJO2p10jlcxYwu_H1Kt804MaIdmc4VeSV3MgxNMU-znkznwIpwiere8oQElNBcU_hj5kec0VL6XtAf5R4RlGQchF6b5JHoyV2zXgrsDupVyfV7XdIZtOMAdBoFEDMD6MojZqyQ=w1004-h627-no" alt="Arduino Blink red">
+
 **Link to tweet:** [MightyJoeW Day 69](https://twitter.com/MightyJoeW/status/851655636412706816)
 
 
@@ -1337,6 +1374,8 @@ All of these Arduino lessons and projects go by so much quicker having programmi
 **Today's Progress**
 - Completed Programming Electronics Arduino Crash Course Module 3 - Basics and Module 4	- Control - Unit 1
 - Modified code and connected a Joystick to my Arduino to display data for x-axis, y-axis, and switch button
+
+<img src="https://pbs.twimg.com/media/C9Kd-dEUQAAGvJj.jpg" alt="Arduino joystick">
 
 **Link to tweet:** [MightyJoeW Day 70](https://twitter.com/MightyJoeW/status/851921228990492672)
 
@@ -1349,7 +1388,11 @@ All of these Arduino lessons and projects go by so much quicker having programmi
 **Thoughts** 
 I finished the free section of Programming Electronics Arduino Crash Course, so I’ll be in search of what’s next. 
 
-With Javascript, I’m still on the Free Code Camp Basic Algorithm Scripting section. I just “completed” the Find the Longest Word in a String problem. These exercises have been like a punch in the gut. I feel like I’m at a point where the explanations make sense and I know what’s going on, but I’m not getting to the solutions all on my own. It’s frustrated, but I’m optimistic that I’ll eventually be able to put these solutions together myself.
+With Javascript, I’m still on the Free Code Camp Basic Algorithm Scripting section. I just “completed” the [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) problem. 
+
+<img src="https://lh3.googleusercontent.com/StATI9xtKxtFAhwDpAl5Qsz05qE-Juduk72o9xjLJgEDDdXNLnFZsCxMcTXh7lgOplGmjYIjCnByzcfSFCj-vbTAZkVsSErlzap2p6B-_o-A890VA5Cy3AAqklSCkZ87sJGSDpZfSb_VE-a9Onk2F6KaUurMncnfPuiFjWaJisPix7iDQCKbSzUCjAnxSV7ymIkKPtHzUnc1ekmL248Iyh2GwhUpEah7-JViNNbtc54BRvfv4xQOSeEtpD6BQNG3D_VmQxiLRLTRyqjeJJN92hElO4qMco1Rj0-Y5xdmiNUCUkIs-lKlunsBQ5t71hUBC6K6Dvqh4jvX3-97B6gUZFTcqaigJ4ESzSaP4SsDW1j5shGJVd_jUKRPNAcybTJmU8OQBMecScY3kwk0fk7AfutOI_qwiYIev3TKhU2Q_nv24AG-q1-adODfUYWGLBUhUrA3LP6_TCY_gWAoGYAgbwayYhzmRvBUjUFl_RU0nLZC9DteusWImJHWszF0uEptPss9X6e3OdFSg2XQvJky_DXzc2X-7BwxfSk4WTJcettxzW2-Im38pai8WNyB_mDopun7AzcdkZpTVKkdEPm_-wmEfcQMKEmIAGw17A6-jljpNrAxIFVxLg=w1252-h426-no" alt="Find the Longest Word in a String">
+
+These exercises have been like a punch in the gut. I feel like I’m at a point where the explanations make sense and I know what’s going on, but I’m not getting to the solutions all on my own. It’s frustrated, but I’m optimistic that I’ll eventually be able to put these solutions together myself.
 
 
 **Link to tweet:** [MightyJoeW Day 71](https://twitter.com/MightyJoeW/status/852376630588837889)
@@ -1363,6 +1406,8 @@ With Javascript, I’m still on the Free Code Camp Basic Algorithm Scripting sec
 
 **Thoughts** 
 I wasn’t able to get my 1602 LED display to display any words, so I will be revisiting this until I get it figured out. I’m not sure if the code is wrong or if something is hooked up incorrectly (I’m pretty sure the wiring is correct). 
+
+<img src="https://pbs.twimg.com/media/C9V7MxNVYAEiX1k.jpg" alt="Arduino LED Display">
 
 On the Javascript side, I ended up on a ReactJS video. About ten minutes in, I made the executive decision to close the video, close my computer, and go cry in a corner… Haha no, but I did do one of those three things…
 

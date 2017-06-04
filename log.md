@@ -1687,7 +1687,7 @@ Gym break then will hopefully be able to dive into more Javascript later.
 **Link to tweet** [MightyJoeW Day 96](https://twitter.com/MightyJoeW/status/869040491207290880)
 
 
-<h2 align="center">Day 97: Sunday May 29, 2017</h2>
+<h2 align="center">Day 97: Monday May 29, 2017</h2>
 
 **Today's Progress**
 - Continued through fCC Beta Javascript section

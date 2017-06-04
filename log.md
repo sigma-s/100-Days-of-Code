@@ -1648,11 +1648,11 @@ There are too many things that I am wanting to do with my Landing Page that aren
 
 Yesterday, I worked on html and css in the morning and found myself later thinking that I need to be working on Javascript too. When going through a curriculum, I feel that once I get through all of the html & css and focus on Javascript for awhile, I start to forget too many concepts from html & css and vice versa. I'm going to try to do html & css in mornings and Javascript at night to stay sharp on all 3 going forward.
 
-(Later that day) I ended up working through some Javascript exercises and had a small, personal win! When I got to the Stand in Line challenge in the fCC Beta, I immediately had flash backs to when I first was learning to code with the original Free Code Camp. I remember being stuck on this for days. At the time, I knew what it was asking, but I didn't know how to get to the answer. I didn't want to look up the answer, but finally gave in.
+(Later that day) I ended up working through some Javascript exercises and had a small, personal win! When I got to the Stand in Line challenge in the fCC Beta, I immediately had flash backs to when I first was learning to code with the [original Free Code Camp](https://www.freecodecamp.com/challenges/stand-in-line). I remember being stuck on this for days. At the time, I knew what it was asking, but I didn't know how to get to the answer. I didn't want to look up the answer, but finally gave in.
+
+<img src="https://lh3.googleusercontent.com/cCh5erC5AW8M-2z72KiMFpooD7-Bdho2DMnGc3Ad1lXsXSxi0P6C78VdfvpuZbao1HSRmXT9BfZicNpaScHpLCHoRp0_fWCbgyeOGKltz9UmGWuWy5XxxPOyGyOkIOJSyleUnuX27-TF_UqfAKbNjcxNLeNlKSgAruCkKwp_FqfNL5RSPgl1ipKXgB7DIcUjsZy5uikxJ27S-3O58sbttKxawisO1pfV_bNxVZLkcJYGqVQYjxDim6GZKeIvjBhee0EMZnmaEhvbTMqG3guyPLjZ9VlFdzwcToXfGbdMEF3aQV8Fn2RjoNACYM9JFAKciqfQ-JmZtt2fHUl7k0q0Dmoo0XBnKDCck3eXqZrdaePvyFk05sBp5Vza3cjxPlE5AiHrAw6QwdUfkXvq0fRuwD7MngEy7Vwwx7pCq8oL3L2bexM8XqmYJfnHH4-oZuDilF5IW3JUN2DDe4goPyZPHs08zka1sEibVHE6J1ak8dUIQPTkYD0PLATuWGJs4l5YWRL3dfRABfgwU4LrM2FSthg7KBapt9cJQzQPcopn_a_hGR_3WvOXfmEH6Tnzcn3POu226dz12H_tBdKMhijIlJYR1cZ-KXYBCa1xHLgpkp2HAbYPwtZYOA=w395-h475-no" alt="Stand in Line challenge">
 
 This time, it was much clearer what I needed to do, but I still wasn't completely sure. Some of these concepts are still hazy since I had been away from Javascript for some time. Although it took me nearly ten minutes (on what should have been an easy challenge), I was able to figure it out! You don't understand how great that small moment felt :D But like all champions, you can't celebrate too long. It's on to the next challenge.
-
-P.S. If you're curious about which exercise specifically, it was the Stand in Line one.
 
 **Link to tweet** [MightyJoeW Day 94](https://twitter.com/MightyJoeW/status/868263743154778112)
 
@@ -1665,6 +1665,10 @@ P.S. If you're curious about which exercise specifically, it was the Stand in Li
 **Thoughts**
 I changed my mind yet again. I'm NOT going to use SCSS and jQuery for now. I'm finding work arounds for the Landing Page. Plus, I need to spend more time with the basics. This has been a fun process though :)
 
+I have run into some issues passing some of the fCC Beta tests such as getting the image in the header to display correctly. I'd rather build the page without an image in the header, but I'll keep working to figure out how to pull this off (hopefully without having to look at the sample project's code).
+
+<img src="https://lh3.googleusercontent.com/9idrOYfFjMpb448gyPl-6Ne9Bv_oKvifTnEs2NkaPUaxF1a85z0Zj0nGMoOO0CbNHIs4tPSEDCKIhyGt4kxfGAkk20QNvWTj2gKjrYzfRupPppqFM9VyPUBNS-N0fdKiolEl40vknFjneRIWrlkEJ1fXcERymx3wwWtkrGhpJRWx9dVmwdHw5Y_l5K6iHyf5wG8gKaUm5siuVrhpH3AEV-LauKJs0ku2WajO_tQxDVHRdIEBv44UpyyTnf9kELx3S1r2jGNwkzGiFGTjAx2gW8W_HRSuKg1WRP_sEvmW0KeBj77S5rtkfVCXkk_b6hxgCqtunDKj2Z0oSAkmewl9XhWpbWTJMgyiiYFqzxtDUUYPiwgX6ehJ4csroHTT0z7t2gdHg8l7nD3YfNHgtoczwTMifqYNVTMK77HDrJIeZ8kGyHl5JAJ-Mt1B6cl9kIryZie0iQIsomLvXzdaL-WaPp_rgZ53h0CqGgqnWYE1pYLxbRS4zu8BWjFJBp0SmT0OIywXUQtoU52ecmc6lbKj_3TjN1TVmoY9PvMw1iH73I_Tbn45tq6B3ykSm46lMFjRW445TmoNV8zIKDyFC7j14855BmAi8488dmeu0s6CMYNzsuB8WXsAxg=w1278-h626-no" alt="Games and Keys Landing Page for fCC Beta">
+
 Gym break then will hopefully be able to dive into more Javascript later.
 
 **Link to tweet** [MightyJoeW Day 95](https://twitter.com/MightyJoeW/status/868499899272376320)
@@ -1675,6 +1679,10 @@ Gym break then will hopefully be able to dive into more Javascript later.
 **Today's Progress**
 - Worked on Basic JavaScript: Counting Cards
 - Free Code Camp meetup
+
+**One** day after deciding to build without any frameworks or libraries, we started building a landing page using bootstrap _and_ jQuery. After quickly seeing the power in both and remembering how much better they make sites, I've changed my mind again lol. I'm going to roll with bootstrap and jQuery for the Games and Keys Landing Page.
+
+<img src="https://lh3.googleusercontent.com/EvlC9fWcDuE_rqTGtQAFS9i4cwNpoDsCeDGJzm7LPuZI_uSQIXST0UZHHyXZ7ju3dWgUqCS26uJZ5J2_uPJDlstcMx77-pl_ekJPxfoXwrmhcdIFOUjfnSSjmcu5bbcg6UFMSU8cmOioZWvSuKCXBw3InYox0ElbxwQZUv_3_pN3vxfl6I8wqcM0fmZ6dIgDlbvT6lEXfbnCcOjErAtSp5eSfvITGjUP4jauDNuCJAHBNx84MECibBgziIl7SXwbG8eNN8XbSgXySgYiymmpCLZ9SuXAdQXIOHfwl4jKxw7fGwnZ8s422q2U95CxXAWWiI3sYLgbqxBdMfiYwVivObf0txPxVa-80plOlPnF0A6rcgYZA-YYxybOdix-F195lI6hF-5uhTbxII5NGXbz9sLaqJBRSAGru5xddguzCeFCg5NcjrDYrvH6ap85tqlqHeLIUNG1lUVpxN2_8BEky8X8ei9lsqbmL2DBp6jZBFojJFrym7wmL6_Wgt9oJO-KlvgWQOlA8NH8_gjp0pnSvyvQxJMDAUlp1b_vcFW8gl7xOqKeM7i85fE_WDqRE_azqeBRWdiyBPjgQDxUq0thEZZ0Isjs3P8wK6QMDwVvFB_rbMyB_JgoGw=w1139-h627-no" alt="Games and Keys New Landing Page template">
 
 **Link to tweet** [MightyJoeW Day 96](https://twitter.com/MightyJoeW/status/869040491207290880)
 

@@ -1052,9 +1052,13 @@ I'm understanding how to use Objects more and more each day. In a day or two, I'
 **Sidenote Jones**
 I worked on music for the first time in about 9 months and actually enjoyed it. I’ve had many jobs related to music over the span of 14 years, and I had finally hit a point where all of the enjoyment was gone. 
 
+<h4 align="center">The Last of Us main theme piano (click image for video)</h4>
+
 [![The Last of Us main theme piano (video contest winner)](https://i.ytimg.com/vi/0eacOSCYwnc/maxresdefault.jpg)](https://youtu.be/0eacOSCYwnc)
 
 Being passionate about music for so long and growing to resent it was a very strange and confusing feeling, so it felt really good to have fun creating again without the stress of lack of preparation time, having to regularly learn songs of a genre that I didn’t like at all, and being in environments I was uncomfortable in. 
+
+<h4 align="center">Tetris Blitz remix winner - Mighty Remix! (click image for video)</h4>
 
 [![Tetris Blitz remix winner - Mighty Remix!](https://i.ytimg.com/vi/Fj-jmWTxrMQ/maxresdefault.jpg)](https://youtu.be/g1AC8zxnXcM)
 

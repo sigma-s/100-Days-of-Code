@@ -1588,6 +1588,8 @@ As I continue through the fCC beta, I plan to continue building my own pages whi
 **Today's Progress**
 - Wrapping up the CSS Flexbox section of fCC beta.
 
+<img src="https://lh3.googleusercontent.com/NgxCa-TWL1mokkpA71-7LqcHB_0o4IuDmsEFe0Ig2Ppv-C4wU4ittZ3gyOkO8AVwlBiHJUcgXJF2YEstIf0NGQ7BAaDaTHUPm67jmXNUuP9j8550E0fZA_dNi5V8c6-F1qdrG_EpWgWJ1BtTmNxHNE4LdZxuffWfdYX2b8N5BYpRvELuxthWBIA-FqrivVyPboEX1aRjp-U3eUIfcixl65YVRC-Knkntfhnn-6IT52nSHkQwMZnNFSBhqo4mVu8g6OLJ9wWYlko8xRG_EkacPVAmB5bgEQpteOwkapKmPLqkHdj5n_yIU2t1RrauErnD9dOvNcl3z64AbabCyfZXSL-O9x7QpxJe1PZ57HIqdJPt1FJakMcfyMqY-9cKLgwXe7E__zS7FpKOe9GC-Uv0ue9-ku13Dr1mLo0dPd3mpPIw5CNpg85fiE26hikwc1CDOne2PtieIiYPzNYedoIkD_EAZPJe8uXycVq_1_OPj-HTN7vXJ_iPp0Dy1-tx6884Oa2xTpjDwIMVKRWNKX_SjqLdpady8_YghcV-mkCPl7xaUXUDis1JaH9JXSFwziEVm-QZVItczAsCdKVZT3ZPW_QWehMCWPZw71AAbSeEoY8R_dkAoRupMw=w1265-h611-no" alt="fCC Beta CSS Flexbox">
+
 **Link to tweet** [MightyJoeW Day 88](https://twitter.com/MightyJoeW/status/862086297640472576)
 
 

@@ -1461,6 +1461,8 @@ As usual, I am Sleepy Jones. Until next time!
 **Today's Progress**
 - worked on CSS for weather app, reviewed Javascript on SoloLearn, continued Intro to CS on Udacity
 
+<img src="https://lh3.googleusercontent.com/SSr86bkQmfwcDnR5Dh5vLlgFOFr1skH15Ky-fNNVpP_f1oD6e2kvZYQj020TD1Kh_UEILxy08MIhqETvxq7eS9WZFNNweialVbUcd_tJozxehEq1BO4Kdf04uxcqtJOQgthC-Jk3wsiYTM0MQv2HBDn9Oyfyn0tv-IVZ_egeOXh1URyr0FwXE05ybVtwGC4XBeSPvh92HrHJQgnhSNTxZ118k5JOorPlNN6wruZfhDEbBL90Opj-v_2va9h2GdsR6BPpNVob3_hFh3BP61LL8vDAPMOQVFx6jMeIYtXACsMUuWaGZ2QIRQ4aVRxBUlD-umJ-jbbk_IoPVM2KADKsMsP0JzhPoXTnFD-VSEdNf7toZW53uV_bIrRm2EkUqTquPHYgRCK-EdnpkXNo4Uu638W9iLCKL-I_CNMx393H23qLcopD0iSGsOZcm-NQkaz-0BrIqdO9oUuUY4a5MaonTaZQNLuRVonlBeWmiB1XOPyG6mRCFoX2Xa_-H27KnRr8MwRfRZckOi6jK-xU1D8kto4LYr0oCTn6G4K1Hq-kFj8_XWh1qCw0DP_jzkBQmyJIqB_vJFSeiAVVtcLfpk0RsuVtmimitd7DA5HM7lfClKyOuKvPzzczbA=w1268-h349-no" alt="Weather App CSS">
+
 **Link to tweet:** [MightyJoeW Days 76 and 77](https://twitter.com/MightyJoeW/status/855255282703884288)
 
 
@@ -1468,6 +1470,8 @@ As usual, I am Sleepy Jones. Until next time!
 
 **Today's Progress**
 - Got introduced to Java then reviewed interview prep materials
+
+<img src="https://lh3.googleusercontent.com/QnEKDsgIg3R23r6RIzDqP4Zq0PYntfrdUGz8HL_6pEZ1YRCzP-JLwdmFFKhIHeBpNYuuyOsn0gbVq2IpR8T_0hO9OnUSBhz6dW_dfxJbH-0R6jFX-G9dhj1CzkYL1i8HXV281Ak2tK7blObLPRg9WbrQuzVkHugyPeGN__K6sX8PX_BStv3D-H2E76aO2bXbXge1K1oahGtO1_U9d3uMu_SSXdT0OnfQh24qiT6cqhkw2O-fnUIfqU9o5Y8wcBfi2kCxjycTGBGNUpjSJ-dVEdnDQ4snWW5Mx_MYB2fwpfapbDpyC3RHUqIyPLtR1SJBax69iNpkvU2YvVa-p_P5JiuBLGKAXg7EVdZ9TF5Lu_POzBMMfVLoOhCZ29aQn_o57WbzWLXOpv8RzEHbi0c6whoESro9s2iAL3yasGy0mmzUcUkj8HtnR9_mkhI2B3hwrtiYlKD-Oz9OCJnN90LquOZD6o0UhFtMLuiM95pCnyWvwtNmHijcOZe0psr26wHWwHDVYet0qbMy1dUUvOqFz5-5zRxyrrPgEaAJHxJyR4eOdhDTD1uE_lMmIi0x7FkqpP2W1X8Kso-7eBbHVsvqYAPW7OYAzhGgo8n-JTx-ndOCleL_VIjlEw=w1278-h619-no" alt="SoloLearn Javascript course">
 
 **Link to tweet:** [MightyJoeW Day 78](https://twitter.com/MightyJoeW/status/855638606463074304)
 
@@ -1478,6 +1482,8 @@ As usual, I am Sleepy Jones. Until next time!
 - Worked on Python problems
 - Practice white board coding
 
+<img src="https://pbs.twimg.com/media/C-E6ADbVwAAscgG.jpg:large" alt="White Board Python code">
+
 **Link to tweet:** [MightyJoeW Day 79](https://twitter.com/MightyJoeW/status/856029387275325440)
 
 
@@ -1487,6 +1493,8 @@ As usual, I am Sleepy Jones. Until next time!
 - Added fahrenheit/celsius toggle button on weather app
 - started Free Code Camp beta
 - Created a local FCC Facebook group
+
+<img src="https://lh3.googleusercontent.com/JrsXZRlkclhI4XJwUvktQ2HqBwd_je4p3Vgo-VnNj_s6m_EXwvhaY9T449gWpgvDL9fiFSvjbrglzu2XMqoJ7oxap1R-IItxaNiQe2VD9aLpfBLIxn0Lrwv8I80eANG8re4h05Tr7w8OxVz8IbvtY0I6IKDkAyogSJbkz4lWr_hgOrolbEQn82c8fmCChI1rrZJlaFfXUnxLi8ZfffFZd-8wGY4tY-O0YIkXGaRiti6Hi0B6alJkcgmCnpYnWgDfaYHkgEWa4liLVTX88i6tVCfD5-nWE-EZ3PT1AAeBBTCtbau68TiIipWQh6_WETEGKOxq5FbbvpZh2N5GOi4jN_1szWu2nRDRlA8Clggf4sovKIijHyrLMFGEUqJ4iaYmkYCeA8-bBWgaA6zwQA8yv4JGI40TdlN6_4Pm4sHQORu9Exp_naDTim-8bdpCh2LFHPEv6qgGXfdmOaitoDsUiXv6_Ua_dcB5RvRde_Rwx9lGGjeJn68V6rtanbyVrfTzCNMbr63DZF3tdCSdGIeLlHXZ7cmtnCnZiusYP8IqpqiNn71uL6i1Z6H1vMW15Kh6S6q1jQiNclAyzbOASEz87ID_Qitg3CdoojWmX5UgRKmDUs1PkST8Vg=w1278-h577-no" alt="Free Code Camp Little Elm">
 
 **Link to tweet:** [MightyJoeW Day 80](https://twitter.com/MightyJoeW/status/856383171369238528)
 

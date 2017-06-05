@@ -833,7 +833,7 @@ It's in August, so I have plenty of time to come up with material.
 - Worked on HEEL Rock, Paper, Scissors
 
 **Thoughts:** 
-Today was a fun day of coding. At Free Code Camp, we used Kahoot to do a 20 question JavaScript quiz. I started off whoopin’ butt, but then the 20 second timer whooped me during the functions questions. It was good and fun opportunity to think quickly & work under pressure. 
+Today was a fun day of coding. At Free Code Camp, we used Kahoot to do a 20 question JavaScript quiz. I started off whoopin’ butt, but then the 20 second timer whooped me during the functions questions. It was good and fun opportunity to think quickly & work under pressure. I finished 8th out of 20-something, but I want that **number 1 spot**.
 
 <img src="https://lh3.googleusercontent.com/78OIWkjrnDvNkQ1u1raXgILuY63fadGQWVE2Vv1LcvoYIKJXp7-JdHvfl_KhMWyhSf_vHKB09URPzHZZDWhE2J_50uG8_9B393-OXMpYWmWOItHlqS01S_5fDC26TWX66QRA4HjZ9upgW9yitgushmENiv6ZySRAzKkshlqbtTrrgxCM9ykiaMIvrErKDfHwJDwy-P2Zq1DLWKeDS-uYmYVbVIM5D2HxpWLmdMXdNtuHnKHfdSNdCFggY0jyESVYgD49PNa2GS0bus0sjbs-eMg-AFWvnqCtvBdvGz-wslb1Knb6Wf1m5ekx5tQZXZIQr-16lsbSNoJaKlAiAPw5iVnFMO4YPJECO_IF304zQCu0HVa2Tt_eOY5QKPWR4YU8EhuqQbIl35Uovj85LCA-isUY8xBA5vnr_KUmHnKuiffap7nejOLiwm0EPAqmX9MfVGvuctbntRxzXF83dglUGMU8B6dy78qrpn82fi4zUb2dr8ZRF75515TmmBsrdoaZm26lZCgfRFFcJKlby8I2IzMdgx-vwPVeWkdEWwYbV6jYBFnE3CAy1gnvtGyPkelsGfsdNUwy4YlezkJFnEch0aF6_gAt9A4qddoitEkkH8YjjI_itUmPXw=w186-h165-no" alt="Kahoot Javascript challenge">
 
@@ -1424,6 +1424,8 @@ Back to Javascript.
 **Today's Progress**
 - More Arduino lessons and experimentation
 
+<img src="https://lh3.googleusercontent.com/91ljHxgWlTnykFIBgnt5UthPTGdLGXYUjdqr0q-PuUsfbmpF-OcD19DPrhcTuOwS8LdjOUzdxsDhGSJB2cArYWBs6vUMLooNUFbEvcRrXSXk-jfJtkqcjRaXhYAgmN31E0KfwFonSVdC4ldToIVQtK7lK_Pe0yXf_bUBhbwzLWhdaDAtldMd3ObmJquQbIMCwrE4loVHGfggBPAS0UQ3z0iyW-KBZ1HnG22Ch-bMNs6o5XEw28odbUVaILy2gNYekAbUlEc_KjAfGaGlPqzlIyCRK1NpQhpgAZ2w0CKeM2jnAQR583gebr-GivokTy6Q6rBTQT1SsT6qsglbvs7sGIS4-KsuaDzPoBtJSecFDcJ_Q8QJscMnB6WGeU03qRKnR58M3bTK8vM6_S92w9tFxfJw6qSBRhQeIaQlL6ZBDRuBLBUeYPG9GRWOAyQxZ3pUq5tLo6QB_MHiNTxLWhxzf4KNqCOeFAFY8tw1ZhqY_qkySanWikMK3IXWTHKvc7jgC7etcchJ1YBSLSQJNJNe-L2AUIMXotLpcKY_sBUZA2heRGzUZBQIOpe73eCYM4YalGZMlejVfUaR8Jzg8GsPhLZQE83rkrmJleTuXTCtuoUi_LL1n10tMw=w1147-h627-no" alt="Arduino Code">
+
 **Link to tweet:** [MightyJoeW Day 73](https://twitter.com/MightyJoeW/status/853022422697750528)
 
 
@@ -1431,6 +1433,8 @@ Back to Javascript.
 
 **Today's Progress**
 - Arduino lessons and practice with sensors (out of town)
+
+<img src="https://lh3.googleusercontent.com/Gs6LNznnJKQ8nJOrH_tHVHAYec4eEzoTVSVMprFCumYAZANimXNHx2ZLLfpPgwkPzJZoaJESsgv3tKKxbVs3XuLF_RcSD6NS-AMQPI1XKpCjW6LdxIswW5zy6GV6QYM62NA0o_gIxYhJtdWUzyeBZBml9k8V9vjzESa20qXIsimCQyqWERpbe6aTtmUEV6m5I2oL3U8VukI3Y9MItdYHjyFYf4p8hvv5wDWW_9rFVk7ZvkqF02YAoCArbYtkfz3i_K8zjDIjVdMUHTXrrsnQbOvpgIgtY_Jcp33EA-9NBuSYzBPJEfb2BQxxcMknUjHLfDzV9eBD_O8HqVfYyO0XA1SAOyIjn2w_LRpwfiqgXd9N0JfoH0I_8YEKkB1eQ6H6BCJsarKfHfGhIYCxMDFjNKrOTuG2h-d41qM3K3lcNdKixI_6pxTsP1q83lDc--NPylt5ZOtoUmdwo4lKy1H2lJCW_-iu0iZCX_LTq44BUXRlbxMQ6BKBDXtxDn_cEDkJhR_WnpLiUGZVD4FnziEtFT0ClUjfZtaVyUZ-faDy3AvcIQmMcauIUZUKvEL8_b-5gO4xY9DDQMlG8gbeksN-FEkNG_5fgjn8gMEHtZuvvpR-_CWBvFkmIQ=w1115-h627-no" alt="Arduino Sensors">
 
 **Link to tweet:** [MightyJoeW Day 74](https://twitter.com/MightyJoeW/status/853469101758480385)
 
@@ -1442,6 +1446,8 @@ Back to Javascript.
 
 **Thoughts**
 I thoroughly enjoyed my Easter weekend. I got a chance to see a lot of family, and we had a blast. Unfortunately for my 100 days of code journey, I missed a day for the first time in 74 days (I actually missed two days). It's alright though as I'm back home and into my regular routine. 
+
+<img src="https://lh3.googleusercontent.com/wwlgeplAeguU8qpjUr0Xm9TtW7LCYtoVvicuTbb7lVZY6XLqVLVizhNVlFGmEiq_SBJzSJtUtIqgeHzcyx29bie-d9nA9zOxYbsyF7X6W16e4_D3oihXmA_6DiglrnUNPK73aeiEJZBmbZdFGloT_5VVlo0LonrdX6bGFDZH8q5qhGBAPjhJQE7xdoE7Nkq5xV0SoebXhi1PSXJhkdpPWsQn9w0ShH_Ok9mdM0400T4sdevGiiUirT4sNF5ZVqDp_h8xDJYF_5gr_Wnzw8Hz11LqaRVf4LzoXRr8ZPeE5hjN6hVF20Xn6kP369-dSX5Q78ExAzLXgwzmz6umPhv1C5Y9PkyhXYGDkJQ9u5atOF6fNZxp7LgKTLVJWSnRR6-kaNki7q8p8uleFsuRu1VzRu5BGyu6A4Zi-yGjGz1Tr1r9SjZfkFS2zR4noqk4x-LzNFZUNxBXBP14q54iiZmowfxXaOpe36aNh-FPQOD92MQEN5FsaywyL2n1tvJGDAIVoOR7liqq0nReyVubNOxfoZQ0pB7uS0rdkVjLMl5dYpPFlRjasZtET6RUHxUZ9Wa75hCunYRan9dAck8Zdh3_hYq4FT_ywKmA4xcABAyea0Wz7GAL3YGHXg=w513-h300-no" alt="Arduino Macbook">
 
 I picked back up with Free Code Camp's challenges (which have been very challenging to me). Baby steps I suppose. Also, I've spent a lot of time with Arduino which has been a lot of fun. 
 

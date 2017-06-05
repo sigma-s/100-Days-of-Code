@@ -1514,8 +1514,11 @@ As usual, I am Sleepy Jones. Until next time!
 **Today's Progress**
 - Continued progressing through the FCC beta and revisited some CSS in old code
 
+<img src="https://lh3.googleusercontent.com/s3yFQoIn0HD49vTGpFs8QjRTqS678hA5JTIZNU51SekJj04YbKJ7-o5ZQ96VNFJFp45Ec06K8Cv4a2y-oEAc6TNatq40Bms8WaIWLrhaeomXjzjqwoyk3TxewBxmLW9Sx7sn6CA_su_xM_n_D9uUKFr2syYFkU34sKH9hBJnwhuJNSdWnuZvDY6rR4cj01A6bFUgspPDpmpFlKzCsSAmOR1S9xaJOvHQ27Dgq991agHXrn67eetdLlrlcM2Ffh0pWkPPhkt5y5b0njTWLhkEZOtsjQ7aO76bWkZcFEAHWxpJgkUttxZg2pVWJFcEwQB3X53owyFr8WUUltC9vlZ6OUlrX2kMHQHrL3tW0z-zcT-TlbbPMrP-X5tOAXNJbDBxaNG3VnCq6kwgTTnawlQMqXVqPkl9Y4BaWaBES5ID9fL1DfIw2J_dlkUiTD3VphWighYFecb76lKz3o72MaUnCWNVH9mP5-Uw7CZ4ZIDRqrntqrQxnYMrAc2stQ8sjB62UJkBcoJr0Nk2HYx8-GbO1VRSCsSkuaFwBdtQVSej_CB9lD7bYja6hb9JydXmeIo_VLbnlw4C-b-3O1LKsH4BmulRHmsHAvWgHoheyCzOJaVi4PagEZWtuA=w1152-h627-no" alt="CSS Fading Ball">
+
 **Link to tweet:** [MightyJoeW Day 82](https://twitter.com/MightyJoeW/status/857111509780103169)
 
+**Link to work:** [CSS Ball Fade](https://codepen.io/MightyJoeW/full/eWgWbr/)
 
 <h2 align="center">Day 83: Wednesday April 26, 2017</h2>
 
@@ -1523,13 +1526,19 @@ As usual, I am Sleepy Jones. Until next time!
 - Finished Applied Visual Design section of Free Code Camp beta
 - Created some CSS animations in Codepen
 
+<img src="https://lh3.googleusercontent.com/M1fv48Ai5CFi_czAfOWRoj85uFhO4BB6gyfMfcTl6i-18AAlsQ0LTpGzGTLV3sJiwu6bleJwBWSTgWn3logo68fgVHoEhQU9IhoaosVh5bZII2ZeAENgSPEzd38sLeVJ4qd57rhkCHnGhHdUugDOk8P6SOMp2BaRMzF6zurGInd_C1kFPd1-LBdUs2bgPCO-zV_P2_73WW4TU1EcPaICDtJHVHyi4_BzAZNcReV9RsZ6sauP4DQJcdHW6no-Fsh-vwvNfWk2CRavkSm2nDFdEU13xEHf3Hyicdu0YZ_0csvT9hERZk2i_VSAgaUOhJKVXTN8nTVfh9GBUY0HXsc6hWuaMUJyKGTMweDA71hFTeVKSjhRCDfmWh-Bz5NTXCDAjFia8uw4V4kPPwlcDODTK507KeuJhi6-47t_ar1_v0gZrm0hUeeJJIi4j5x0hpnC9VwPUiAgf5svf9Go3XbAmtiIbj-NP7uIGo_8jAw689fmA9IrRLKV9Q9vYsvLpzSX4VTIb8e_QYEZKaFnq0eDPFxdsqv5vtnnIob0T-3SKGbiI7mV_EJmv4iLNPHStTpvI1D7PxZENPxQQoc0ymEnLGiiYFMOHb46ZHvroBY95GqWzxNeBy1MJw=w1146-h627-no" alt="CSS Bouncing Ball">
+
 **Link to tweet:** [MightyJoeW Day 83](https://twitter.com/MightyJoeW/status/857461961486946306)
+
+**Link to work:** [CSS Bouncing Ball](https://codepen.io/MightyJoeW/full/qmRmww/)
 
 
 <h2 align="center">Day 84: Sunday April 30, 2017</h2>
 
 **Today's Progress**
 - Started on the Build a Wikipedia Viewer project at today's freeCodeCamp meetup.
+
+<img src="https://lh3.googleusercontent.com/1qcQjWFdZAzkOQ5N3i0E-B-eLI2xETAsUUnQ0c1pwJqOPMWi80BvzbJKwR-mGCiUcy2WSAUm1tKCcG4EJfjQ1kBB71eO0bf_nU0qpDXUC4XumLHcLg8P0Uk7zil_4CYMbp-3g4TDSZLAI8lCn68z86lDSL-j9sSPa3lg0pVqhjZ9OpNg4a7qzhFCTvkyBr-l1dUDkzOt-j3fROUGOwPVbsi1cEUsCth0aoOYZWFgZG6czQHJp6o2u2j62-cPtiYkrBLjNXUzD8ngBAnnksiKM1KIa4ZB0wir6lrYJ27pJSUAJK4Yj0uby-F0K1B6gCixRlbu7ZSoyVnAxczK6JlzdYj3SU2jraAlWYiepURKjCqdBZeYNPLKW031aQ-ScLFAAyWEGDqki0R2NZaKAOZWLzZ3mDFuSS_h4t-EVO8CrERejO09OjlLJKQNylkhKkrFDX4wcW_mRU6FVPL0oCggipGb_xpBPFRdRsH42BkhilKjPSF2SmBgX4KMTYWFdanpFQId0wwssIEnEN_pKKe0mibfuUAKHUwGCpr8mcfQRzhCYnwlRSaaZwgD8SelkGeBhg17XFd1to2vu4Iuz9G0814fSgPw4CGc2dfykH0SNykOcdcJBnxfRg=w1278-h254-no" alt="Early Wiki viewer">
 
 
 **Link to tweet:** [MightyJoeW Day 84](https://twitter.com/MightyJoeW/status/858789779823046657)
@@ -1538,7 +1547,10 @@ As usual, I am Sleepy Jones. Until next time!
 <h2 align="center">Day 85: Wednesday May 03, 2017</h2>
 
 **Today's Progress**
-- HTML5 Games Workshop
+- Started HTML5 Games Workshop (set up background image)
+
+<img src="https://lh3.googleusercontent.com/KqR_wxRDNl55cNWWYnh1KxJ3lYC9ctZ8A6Y1EKnKu_yEBrCrLabS_MwpjULt_EgXa5cDDWtSPMpi1S5URXOxrTIXz-osDwiGbapNEUafhPxhwTvzfVxM9dQUTkQTJgfWyvAaykSbFzu9Ncu5yJfEOL_ZwCUn8KeBwa9pf28oRBT3txZiQ1XSx3DUCT7MufZgv12JZsrdMzi4jtEbEaicuMlyVoJNUcV8MQu_Pt_i-ux7q8SM74b1KjADFKX-zTQT5uYSQc5SiosaMR7Qn3PyEDMdlgE-lHLKwAxLUNktU5_7N87vaP38L1l-orLCUmvFN8d1s8pfUFHBbtRPAjPUu1kOGEtJcKZuzmA4j9CRzeGlD5Cj83tDCDAt7-MAGwm4ysuy1ALYFp0-S97rhtlPJQIOza95qGUcZS7trZxWmLr2fU8uzTDRRzeh0qbqU_4ywY4r61jkpPa1jhBWskPHM3NXjnlM6YbXlPf31wCsYU_uoA_v0h2Hzh4mpehnf0WsxP7v8b09uaEQtsUJkvu8SoKX5iQWHsxB63OFpZKfoLkp11Zwwrx7xFvnFLAT2RcZ3ohLfWpCMg9igaJRu_jOB5ItwK4KMkEmbGus5nXONNRAnhbrxPSD5Q=w1274-h617-no" alt="HTML game background">
+
 - finished fCC beta's Applied Accessibility and Responsive Web Design Principles sections
 
 **Link to tweet** [MightyJoeW Day 85](https://twitter.com/MightyJoeW/status/859953122550185984)
@@ -1560,7 +1572,11 @@ As usual, I am Sleepy Jones. Until next time!
 **Thoughts**
 Woo! It’s been awhile since I written a thoughts section. Unacceptable sir! It’s been a rough past couple of weeks trying to code. I’ve missed multiple days as my focus has been divided, so it feels great sitting down and just straight coding. 
 
-I decided to start building a new page while going through these fCC beta lessons to actually apply concepts I haven’t been using regularly. This not only made the concepts easier to grasp, but it also allowed me to get lost in time while coding which is a good thing. It’s a similar feeling to creating music. I could sit for hours adding and tweaking sounds, panning instruments, changing chords, etc. Coding gives a similar feeling of progression and creation. 
+I decided to start building a new page while going through these fCC beta lessons to actually apply concepts I haven’t been using regularly. This not only made the concepts easier to grasp, but it also allowed me to get lost in time while coding which is a good thing. 
+
+<img src="https://lh3.googleusercontent.com/paWmKZleYZ71GT3VpoYe4PTva-RqR_ub4ysHMZxpxiMCCudS9btD8hM-vIRx6FBIiBhghSm3pa2zxP-73Jv8eLyjJC5kIkg-rNJTm0hjzTcNHxl8F9Gr_jAVweADQJDWFS578dqOTSnUIdZCqIIMtq5jFtYU26r7kjqvGDtq5F74jJHyb22tQP2cYu27S8B0I6iwCuQskvLH-hkmxnZNdGxLHdvQSEJZca7vYTCpNj0A0LYClid4g1dKoVo-r2CKoMZIMx6-0nSI-gXyS44BhLwivGup8Tbiu2Ap31PiEzNDntT_hmm6MPNXvCb_dw32mV-Xkx53QchYi4OHmFm1WEr_J1jPMRF8rjshnJaNibb8dPdGP8YS_PJKppqIvEN0OaT7gDdkZ8ki7SGQuZNqkrJVNcQCoGyRIfGiY66GwsCg7oxkOTOIjcTfPI7TnJ2nbi35-iJgKnJqbWSrA-j7Ipay9NC5n8s0mYLnDnvtQ7dWnKqwisi1RscNAXSxQuaLN1ErFmw7JL85nYObe-FCet34i89_X9T3WVOjI2TnsYukdTDnwuZ_2PT0Y_bVJG0Z_HsCq4DvXn3xSQ1yJ7CUqyKEvCWXRnJxumSl0Q1LqXwvf8qoT0xlng=w1265-h617-no" alt="Mighty Flying">
+
+It’s a similar feeling to creating music. I could sit for hours adding and tweaking sounds, panning instruments, changing chords, etc. Coding gives a similar feeling of progression and creation. 
 
 As I continue through the fCC beta, I plan to continue building my own pages while learning opposed to just knocking out lesson after lesson. 
 

@@ -826,7 +826,6 @@ It's in August, so I have plenty of time to come up with material.
 **Link to tweet:** [MightyJoeW Day 39](https://twitter.com/MightyJoeW/status/840660850289586181)
 
 
-
 <h2 align="center">Day 40: Sunday March 12, 2017</h2>
 
 **Today's Progress**:
@@ -836,7 +835,7 @@ It's in August, so I have plenty of time to come up with material.
 **Thoughts:** 
 Today was a fun day of coding. At Free Code Camp, we used Kahoot to do a 20 question JavaScript quiz. I started off whoopin’ butt, but then the 20 second timer whooped me during the functions questions. It was good and fun opportunity to think quickly & work under pressure. 
 
-<img src="https://lh3.googleusercontent.com/kxWi29rJ6QXvkqH8X4HY6vvOdjijJpEeJ9abblXtFWFE8hC_d8wC2_A3_WdKrhgfKIZmOakEcQyIfTFcJsgnadzWoSp-LArFrYBXRRodpHgQnYanI4jnTB3lXXsbSeIR-zTqB3S5vpKUcqdNZhFUGxV6n6Nn7b9Zk4caEvPLwgF4jD6MNPPUkpf4NpaorzV4cN7J6wAFkv9t43TuTFf8zthQVOZJAkboJohyzuzYEbnd3u_hqJEHY6RwM1w3yCDdcymJbY3hOLp-9CrdCPr0DlADbsh1oeRmeHG3tN6tE6scf2F1TtctrPvGGCHfQd3S9_28BODnlZMoYcO7Aag67nXl97ssXjDm_aXOsuHOIKw7DW9cuONCqYSxpq2iSrFiWTV_1jfjQOE6Yi_jsXu-pRqOPVM1d4Jn4tbh_ssKxaU6Sft1-6df6_7oLiBtmKJu-ZMWYwQBpq3zEfjT_tZz10EvLMQrha0knjGn7y0lgZ_70YzJM3DaMqQL3U7gqC8TEZvuxsBq_ZT0SjSsUjjfrhTXvRXbRqSxxbgknpY6Sd2Ulc9dz-QR48vbEilZ5JEycDv4YfUu=s627-w353-h627-no" alt="Kahoot Javascript challenge">
+<img src="https://lh3.googleusercontent.com/Dn8i3bzt-32PrtrfZg2Q9hA-5_Ko4i3VSiMVPsXjsN0Bf0lDNkY7W2Wou3th-_LYv7-JziFGRS_KTx46qBZcT2Xv3faujayIl_l5psLxj6wpw_UsnAmA3Pckw2b4dEgoWAXuQjRWbtWAloB7SoEIuHtxk-cXu_l1yFMA72NLG350SidVwsf0ZPyywO10VoqFt7hSEULd0UUihS9cXEnrL322u6kN4E1mi3etv-3LpZz6yKp3Dp8_kajNVzpZiv525vFTTv-iZoCPUN1tlaZy1-FjSndhyKx8p4dlw8CTNekFpTkxVC4SMi1oUv165uPZJ3r_1N8DQrqzfHjvjMOBSpiAN_GUTj3yOKnfU7IKzoc-Ng9VwWCmKeIXM4j2mxmVU78s9pBfLZpVMoOKZrXARuJcUOdEuvJthwZgcDy354768vK29vEhk9ighaEYx4PgHp_og-xfXrB4sHovx1gwhR4Zuu1tUDiiFVoMDrCAuJ4_1hc5-2EvAyqG5i_WKMbVc2pwNbhVEPP1DFuETgWxmMNNF40Vso_HGET8E7BE0AXpBF3kIHztXlp7dnr1nY_695JZ79zmJdspnOL8qqnPv71ku_F9LDGVjtgc5Ec43X-3qAMBFzvdKg=w353-h600-no" alt="Kahoot Javascript challenge">
 
 I spent the rest of the time working on my HEEL Rock Paper Scissors game. Shoutout to @HBoutrup for the idea. He made a joke about The Rock being unbeatable, so I thought it’d be funny to base my game off of that concept instead of the usual rules. 
 

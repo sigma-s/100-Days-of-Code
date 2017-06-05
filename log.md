@@ -1599,6 +1599,10 @@ As I continue through the fCC beta, I plan to continue building my own pages whi
 - Finished CSS Flexbox section of fCC beta
 - Worked on new tribute page (this time without Bootstrap)
 
+I initially was confused when beginning a project in the Free Code Camp Beta, but then I opened their Codepen & saw the new Test Suite. I'm digging this so far :bowtie: 
+
+<img src="https://lh3.googleusercontent.com/hee928uMWQi8vXABPyaaM2Y46qPr_uVC4iD4afDxOSTaTHZiz_SOzCULwvT1tq5onWXwbIjGSR-1U0gdmMkCo1e7QNpsbjhs7buj3NQE8v7i3CI7WIhLq-fIlNp2UKZfA_FsWhCOq0ompLy7MrYuYDhYhiE6SId-oBtoRzBZUzPxCt5tN97E89JEI0hZOPNdiFNEVmQ_YXNnVT3J5xZHqw6sy30Fl8XlPPRvnhqN87oeXfsRm1-VBjV5BiuOy4RZVziT0aWSp7-8KsBt5Wia_Ng-pNnyJTUxnSrKL1apcwKF3C93-qVPY8TucvG5LzG6KqQTcrOuNfeMLIkQJ6ieqFYXc3dvDVM9CKVe4xqblIRdlIOSZPPPGJSixzMIxjVXTOLaZ0zO6pcv6x1hEaBcrap-tOYapR4zU-CBqT_DZJj_gkr5CFG2c9gy2ivHc1F78lOyqRhBbNxtI7_4FpchmydZgt0qzL8HnN3WcohUspyod5EfYgeGQAaYh1RqMe5dgUnWvMcvBOSm0P6XPGZmJjCl6c77se_zMkQJgp06YmKt16QkHGbWLwZyTTuwwXKm4DJ3OBgdI0zOGdjm9D2YClEVKGboV0RAtyrz-b60CFOGFdfx0xZCPQ=w1264-h627-no" alt="fCC Beta Tribute Page">
+
 **Link to tweet** [MightyJoeW Day 89](https://twitter.com/MightyJoeW/status/862508267515281408)
 
 
@@ -1613,15 +1617,33 @@ As I continue through the fCC beta, I plan to continue building my own pages whi
 **Thoughts**
 Good Lawd! It's been A LOT of days since I've sat down to do 100 days of code. Do I even remember how to code anything??? What’s an h1?
 
+<img src="http://3.bp.blogspot.com/-XrfnQW-QVX8/T2TGxSDAu2I/AAAAAAAAAD0/OW_6YK7F24I/s1600/11177744.jpg" alt="Confused Jackie Chan">
+
 In all seriousness, it has been awhile since I’ve coded regularly. My time has gone to other things, some being understandable (my current job, revamping my backing up/storage procedures, fitness) and some not-so-much (NBA playoffs, naps, etc...)
 
-I have still been connected, listening to coding podcasts and attending Free Code Camp each week, so all is not lost. I just ran through a 10-day free bootcamp from Skillcrush as a quick refresher before picking up where I left off with building a survey on the Free Code Camp beta. 
+I have still been connected, listening to coding podcasts and attending Free Code Camp each week, so all is not lost. I just ran through a [10-day free bootcamp from Skillcrush](https://learn.skillcrush.com/skillcrush-10-day-bootcamp/) as a quick refresher before picking up where I left off with building a survey on the Free Code Camp beta. 
 
-Also, I unexpectedly have been able to use my newly acquired coding skills at my current job. We’ve recently started using Kajabi to help clients build their marketing funnels/sell content online, and my coding knowledge has been a tremendous help. Kajabi provides an easy point-and-click process of building beautiful web pages and pipelines. Being familiar with code helps me understand what all is going on behind the scenes. 
+Also, I unexpectedly have been able to use my newly acquired coding skills at my current job. We’ve recently started using [Kajabi](https://newkajabi.com/) to help clients build their marketing funnels/sell content online, and my coding knowledge has been a tremendous help. Kajabi provides an easy point-and-click process of building beautiful web pages and pipelines. Being familiar with code helps me understand what all is going on behind the scenes. 
 
-I was asked about removing a certain section of a page (which was not possible with their editing tools available to users). I was able to do so using the Chrome dev tools on my end, so I just had to find a way to make this happen live. While chatting with support, their asked if I knew CSS. Of course I said yes ;) He sent me steps for a possible workaround which I would have had NO IDEA what I was supposed to do had I not been learning to code. I was able to successfully make the changes using a css workaround, and needless to say, my boss was highly impressed and appreciative. 
+I was asked about removing a certain section of a page (which was not possible with their editing tools available to users). I was able to do so using the Chrome dev tools on my end, so I just had to find a way to make this happen live. While chatting with support, they asked if I knew CSS. Of course I said yes ;) He sent me steps for a possible workaround which I would have had NO IDEA what I was supposed to do had I not been learning to code. I was able to successfully make the changes using a CSS workaround, and needless to say, my boss was highly impressed and appreciative. 
 
-Going forward, I anticipate using more code at my current job while getting back into coding more in my spare time. I was able to successfully wean myself off of watching wrestling (hey, don’t judge a brotha), and that time will go to coding. Not sure I can cut off the NBA Playoffs this close to a finals rematch that I can’t wait to see, so I’ll be trying to wake up earlier to be productive. 
+Here is the code I used.
+
+```
+hr {
+display: none;
+}
+
+.checkout-login-section p {
+display: none;
+}
+
+#sign-in-link {
+display: none;
+}
+```
+
+Going forward, I anticipate using more code at my current job while getting back into coding more in my spare time. I was able to successfully wean myself off of watching wrestling (don’t judge me), and that time will go to coding. Not sure I can cut off the NBA Playoffs this close to a finals rematch that I can’t wait to see, so I’ll be trying to wake up earlier to be more productive. 
 
 I’m well out of bounds of the official 100 days of code rules, but I am going to finish these last 11 days for me!
 
@@ -1633,7 +1655,9 @@ I’m well out of bounds of the official 100 days of code rules, but I am going 
 - Working on CSS for survey
 
 **Thoughts**
-We're going streaking!!! After some time off, a little 2-day streak of coding feels great. After I’m finished adding CSS to my Survey, I’ll be moving on to the Build a Product Landing Page and Build a Technical Documentation Page challenges. I’ve already done a portfolio, so that will complete my Web Design Certificate!
+We're going streaking!!! After some time off, a little 2-day streak of coding feels great. After I finish adding CSS to my Survey, I’ll be moving on to the Build a Product Landing Page and Build a Technical Documentation Page challenges. I’ve already done a portfolio, so that will complete my Web Design Certificate!
+
+<img src="https://lh3.googleusercontent.com/zbnJVSQ1rVVTCp4oAkhVoXS7Uzc6UpTlPFP39eRqyt9hWzxyKlVo4kWfNbgja8decaJzZc6g5LdfcSXI4Bbb56AUCseUQYTOVkf92EsIphVx8NaXfDTuPIxOPOsapEsiORQOFdHW3qztwUpJ6PKBxuH3Ee_jbv8FhcjUMs7u_m-CKdNinuGg39Hf02YptpSTgqcxb4lgCvtGJes9tyLqYE2uLEgMt0neCxy7zllg6uVoXVtJESwR6Cfrv9QYKNuapXaG3IRsVssxk4MFwpwsHKlSPxN3V5MQ1WZgRTaCyJ0lsCk_erCozvObHUiZclULpHAg9oKyv2Yo85t6lc6BSDXPDiTs1I-U4aWUFUtubygtvv5r1Wx1lVizBovs3x4_MWtObjB_Qdig3Qik23N12x6APhqaExlAEDlfxT9PDhvWwkMiBUXjr76yRazGIXbP61-AwGN4bSjyGhV5laIRYixENpGueVPuPMH8rD-Ac6_np369g6Fbb4Bq27mLWHNTUpvTQvAupllf45XmgtgakCsg2Hqb_GGKUW-IV-XqlvUyDcIrNnwRwG3gtxBr2KhwvALh3LjVhE83FssdQjb1bO2I5nPms86TJTYwDfBRrT6W7xZh25iGiw=w1276-h587-no" alt="Music Learning Assessment (Codepen)">
  
 Then, I’ll be in the Javascript Algorithms And Data Structures section of the freeCodeCamp beta. Javascript seems to always lead me somewhere else at some point (usually from being stuck), but I am going to stick with it no matter what. No, I will not come play with you Java! Sorry Arduino, you’re going to have to wait. Javascript is where I’m focused right now, and I’m going to have some breakthroughs. 
 
@@ -1648,6 +1672,8 @@ Then, I’ll be in the Javascript Algorithms And Data Structures section of the 
 **Today's Progress**
 - Submitted Music Learning Style assessment for fCC Beta Survey Form project
 - Started on Landing Page project
+
+<img src="https://lh3.googleusercontent.com/XmS6q9Hh-Wipxo5Hhnw9-YjjAz7Hj1e3zyPPwn3RK-6q1-Lywp22S69zq8fE1BojqAzbZ-fhQxYf2sqIIfkStibw2YP1ziOldVXF-_5nJ5gXDwZa4pN0IpJOHRxZiJy2DUiDHh8XOhqu9HZKiMdWLSQESXDrS2ZTQj0IP3nJwQ2B1rJbl1-sZLJT3srSciwPZvUCjDxLMOPi_pbbY2dvmzhrN1Pt687ZqwvNitKy8j4dkiCG387ur3rJYohmgPJ3U9aFrAWyJuy7vcgxkXMKsRelJZDiJIi8cL5JzQ1DefrF1csQsupPIOa1wJ7EgBd0xJxwvV97VR1hZZrRw9oEbwGq4WTFi00Fmpg6F2h-KO_vm-w6L6QO19iMaVNazaELd7OimKs7uf1KpXPdGzMAI0_6yiHpNkEVEdca0SPJ49lqdMs4O74y7abqydMneSLSBEH9GUiZMZUvjBpVOlNbGbNr32seGFIPpaJzWt7-eEhv1xJRCFMnDp2X5a7rL1qwaWnvGtZUhiSDRy8LnMJonlAkBGatPhWXK_Oq04_kH42OAhy4aF-nJKNsYhBIfN0amF4H9V4alUnFK4e_HI42wrDaqurgQup7MHMl5hy7vatBIu6LfdJQmg=w1135-h627-no" alt="Music Learning Assessment">
 
 **Thoughts**
 Momentum, baby. We’re going to keep this ball rolling. After finishing my survey form, I got started on a landing page. I’m actually picking up on one that I started some time ago, but I feel l’ll be making a lot of changes. It has bootstrap which I’m not sure I want to use here.

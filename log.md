@@ -1502,7 +1502,9 @@ As usual, I am Sleepy Jones. Until next time!
 <h2 align="center">Day 81: Monday April 24, 2017</h2>
 
 **Today's Progress** 
-- Added updates to FCC local group then continued progressing through the FCC beta.
+- Added updates to FCC local group then continued progressing through the [FCC beta](http://beta.freecodecamp.com/).
+
+<img src="https://lh3.googleusercontent.com/Qmoc-kAe427WbA4lFqvxmBob1SBAIwe35K1JkMSNHKEpapLSCngERsypX6e4KCQo_kDtMlwbLgwk3Sbb72CqrKn7QdgO_rfpJGhr5RwkjsYlXKYMBYGn1HWQaZPXfdyJyqdUvzetqnKGWXHF4ZSeIbICD90ooXjFKhOmHix7sw7eFaYd_dE3yIe4vdcc9Hc73eyoNFsN4SWTB-4a3NRzmOFTXMAPmNHCQ4rxHoeVoM2Y95j-9_2d7cYJdbpLOETDk6iAsA1Swvh1sYHgzTXhzr1Y2597d3nPRCdj2us1hZd1au54NkV7xTVY86XJoNx6D8KVgjjVfnWk5Hmy5xhY0caFFD5rsauNGGNbouHcLaWomRlsi_Rp6f1TS94QycrjNOKetFEgIYp3LSusGBYY0XCSO9bFcxPWWQ3JWHQrocxH79X0tnyVSUGNP30qsA8AmSMC_zzln5FgNckY8Gs0nkiZHGsbobEz8QerRzGMcRjcE4H-Eg4onMMJdYOvYfF8ONL5GEmmEtq9LHjqN4nqMY9WE7iTpJ2jDmvmd1E4k1SZ9R9nHBVq9znaoJKpfLgnZLOlw3JfRrQO3T5ro2CQlqd5j1FP2se6PjynsiagVKGqgO_hvsn60w=w1145-h627-no" alt="Free Code Camp Beta Landing Page">
 
 **Link to tweet:** [MightyJoeW Day 81](https://twitter.com/MightyJoeW/status/856694151697530880)
 

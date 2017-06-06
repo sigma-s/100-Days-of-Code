@@ -839,6 +839,8 @@ Today was a fun day of coding. At Free Code Camp, we used Kahoot to do a 20 ques
 
 I spent the rest of the time working on my HEEL Rock Paper Scissors game. Shoutout to @HBoutrup for the idea. He made a joke about The Rock being unbeatable, so I thought it’d be funny to base my game off of that concept instead of the usual rules. 
 
+<img src="https://lh3.googleusercontent.com/KulTGzwK0nOQoPNQ48PKbGOmD7lwMkJapw4Z4bdTwRyC0sJbRVrppvNcnEWDhjZSDS4zllza4W6MPk9sC98qH6__y4m-E4I72aRW2HKAXjee1DDNyB_bRldvcl0jKDspmShxYl1wcK_bEFIUfp0dc0VVntzABP_hJq8xGknwC3tYxh_9dLnK5CHJpw-bn0QVMBS3q32YmGlrUv5MkJc2AKMUNOqrwZgKqiXu5DZ9SWxeHxGMxST4Zu3xW2IqrMoh3rZHb4vk94Ck1XGE1urlZ9o-isADBb7Jq_SJnmK4E7-tiNrvYQkITJACNwXVAoa_5G6U-mMuWXlBrWits_35OeQ4hi3bdVHmG4ns3Vf6ZU6xDIKxl_4rG57Lr2BmMSHXSSwNo6w0Q9T7iI7GArmRCW19Y7gzlskQswymaHqc_bmOOqwuIXiwNUaIr4njeyB-6DimWl3LyK0OEUj-ZKR7uDZ7b2CQ63w4pmu5ZObey_ENAt9_tdjfu6IxjEaa4hk3Wj_6UE4xN_AuPrFvG86MTlW1mpszJ0xAWQHjDoNON1l2nQnN7YorWcyBMY5v-Yzm3PJzc6KvkBkEUQDg754FSLSt2QzjZVNoFVVK144HGjl3RR2_LhKdEA=w1278-h321-no" alt="HEEL Rock Paper Scissors logo">
+
 On a technical level, I’m having trouble getting everything connected. I feel like I’m missing some little bitty piece and just can’t yet figure out what it is. When using a prompt to get the user’s choice, everything is working fine. However, when trying to use a button onclick, the results are opened on a new page. I will figure this out.
 
 **Link to tweet:** [MightyJoeW Day 40](https://twitter.com/MightyJoeW/status/841143742958567424)
@@ -851,7 +853,7 @@ On a technical level, I’m having trouble getting everything connected. I feel 
 **Today's Progress**:
 - Added changes to HEEL Rock, Paper, Scissors
 
-<img src="https://lh3.googleusercontent.com/KulTGzwK0nOQoPNQ48PKbGOmD7lwMkJapw4Z4bdTwRyC0sJbRVrppvNcnEWDhjZSDS4zllza4W6MPk9sC98qH6__y4m-E4I72aRW2HKAXjee1DDNyB_bRldvcl0jKDspmShxYl1wcK_bEFIUfp0dc0VVntzABP_hJq8xGknwC3tYxh_9dLnK5CHJpw-bn0QVMBS3q32YmGlrUv5MkJc2AKMUNOqrwZgKqiXu5DZ9SWxeHxGMxST4Zu3xW2IqrMoh3rZHb4vk94Ck1XGE1urlZ9o-isADBb7Jq_SJnmK4E7-tiNrvYQkITJACNwXVAoa_5G6U-mMuWXlBrWits_35OeQ4hi3bdVHmG4ns3Vf6ZU6xDIKxl_4rG57Lr2BmMSHXSSwNo6w0Q9T7iI7GArmRCW19Y7gzlskQswymaHqc_bmOOqwuIXiwNUaIr4njeyB-6DimWl3LyK0OEUj-ZKR7uDZ7b2CQ63w4pmu5ZObey_ENAt9_tdjfu6IxjEaa4hk3Wj_6UE4xN_AuPrFvG86MTlW1mpszJ0xAWQHjDoNON1l2nQnN7YorWcyBMY5v-Yzm3PJzc6KvkBkEUQDg754FSLSt2QzjZVNoFVVK144HGjl3RR2_LhKdEA=w1278-h321-no" alt="HEEL Rock Paper Scissors logo">
+<img src="https://lh3.googleusercontent.com/bdKpZVWB7yLpYW4fe5MJOsSO8eMQttF-d4n44zKTzwjfcCkvbsFSOJa5g8_YUyh_vJvBbytEXCtHegjTPqD1I4FWqqWfka9fnIhOqQFPoUcDoTf0VIkGgxqKKqZi_th5tcrPd3WFwBoONGqK9FaPo88pdxCKAEbBZ5-HnC4E6E8-UZYglH7HZnCjzKzoymQWBLnLys1zUmWpEpt1KcLTTcr3Xj56L6FFIoxe6DcMKU2K8h1yIiY8fa3Gm9My-OeHQaRU6m-EUg4FObkIlbAXp2CgkytXXG4Bj0O1nIB0svV4GCssU-NOpS4oWHv1CLl4TRstkREZzRdc0kohgadasvXy-l3SwOliU4O7RJ6HvF5YxU_df4ElkWk7xpY5sncb4MSeCMixVFTwauzh9Nr3IvzrdyuVc5s08GQBz_Mhk2pHzSq1xCkmQa20IrL-Oir3mgRdqHvBrXpbMao4cBjLsSSM2MGxb6gcxwQu8nYQiF5CH4ThhJcCAZOOhtY4a-xDWveWSvVABgVgutO-EtUAmNapnjUpggUQ8UMq0mH4Le3Vd4pZXDWgG6zHfsyYryEVoZYHJKVB_lYeiu8Fmwc9-Ejm-fRbKxZa5hrI3_l2n03OpeFYCtLvlA=w537-h295-no" alt="HEEL RPS early">
 
 **Thoughts:** 
 I didn't spend as much time coding today as usual, but I made some good progress on HEEL Rock, Paper, Scissors today. By tomorrow, I think I'll have a newly designed and playable game :)

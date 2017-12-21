@@ -8,7 +8,7 @@ Some moments, I will feel like the smartest man alive. Others moments, I will fe
  
 Without further ado, I present **#100DaysofCode with _Joe Warren_**.
 
-<img src="https://lh3.googleusercontent.com/r6citVn8LSvQpI0p2-7Xt0I5-ZERzq11abAq0BBq0glaTSq7ifqB5fEEwECGB3m3RoVle5KfFJQQoA5OCZj9a5idslf32s-ISHLwqcaZBQHpqPfU4VghWTkmdEM9E1TNCG01ggz-5KFOJia47xbFDmV4VEC7TR9fdK99JPb3ZXQJ3RD8NFiRfDFvxrKFJWuRrsG9-R-l0NLKoYuyGFqz8uA8RQzhWemrEby-kEhVYWrTg-2e7qCh0ZNjrFhjvyH2J6Y8elUJ1m0G9tY09M4smMjHfDKm40f1gCCG0RlIzh6PaOKQSv_UVvk3l6j3lnbYSrCzBcWOr5lnRos3WfDJ3NsrYetwAVBtKvptmAUyOa2UJULB3jpxaALB56N4K_Q9K_DjKXSvBZFr_CUFBM1r6ChSDWi_19LFBpctMYsAuC1sBntf4Q03-c-8fP6iyEAOw_8NGCDrVxREqGmmfVEPUPKa6rhuGRi2XWdGPiZ5Xk9KqnaJEfWSFVudTk6vHp4Cs17UkwSy3WR6GSOS_wq4MUbdOSQeZKyje3evsyRjr-6EHWIZbZXjwhBnry-HokDAKW1hD5xh0l1AvSV3TdN_E7_PjRopAwWWGYF_S1hpzsE=s758-no" alt="Headshot of Joe Warren">
+<img src="https://lh3.googleusercontent.com/3viPbSWDRmvVorilc0TghACggKHIwOfFhSDNBWDbiFEEyKVFqqqwogT7XhEy_OaBoachdL4r2UtXxSy6WOBBSzzk0DVI7S7LV1THoFs8CkKhWU_ElzewItZ12yPym4OHl_AK91pQwA=w1000-h758-no" alt="Headshot of Joe Warren">
 
 <p align="center"><b>Follow me on Twitter </b><a href="http://www.twitter.com/mightyjoew">here</a>.</p>
 

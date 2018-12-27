@@ -1,6 +1,6 @@
 <h1 align="center">100 Days Of Code with Neelabh Singh</h1>
 
-<img src="https://images.unsplash.com/photo-1454165205744-3b78555e5572?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=&bg=" alt="Image of laptop with code">
+<img src="https://cdn.pixabay.com/photo/2015/01/08/18/24/programming-593312_960_720.jpg" alt="Image of coder">
 
 Hello World! You are about to witness the beginning of an epic 100-day coding journey: A story that great sages will pass down from generation to generation. This quest will feature a potpourri of unfiltered joy, unrivaled pain, and unexpected epiphanies.
 
@@ -10,9 +10,9 @@ Without further ado, I present **#100DaysofCode with _Neelabh Singh_**.
 
 <img src="https://avatars2.githubusercontent.com/u/16917821?s=460&v=4" alt="Headshot of Neelabh Singh" width="150px" height="150px">
 
-<p align="center"><b>Follow me on Twitter </b><a href="http://www.twitter.com/neelabh2006">here</a>.</p>
+<p><b>Follow me on Twitter </b><a href="http://www.twitter.com/neelabh2006">here</a>.</p>
 
-<p align="center"><b>Check out my repos </b><a href="https://github.com/Mightysigma-s">here</a>.</p>
+<p><b>Check out my repos </b><a href="https://github.com/Mightysigma-s">here</a>.</p>
 <hr>
 <br>
 

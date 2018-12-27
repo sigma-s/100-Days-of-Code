@@ -8,7 +8,7 @@ Some moments, I will feel like the smartest man alive. Others moments, I will fe
  
 Without further ado, I present **#100DaysofCode with _Neelabh Singh_**.
 
-<img src="https://avatars2.githubusercontent.com/u/16917821?s=460&v=4" alt="Headshot of Neelabh Singh">
+<img src="https://avatars2.githubusercontent.com/u/16917821?s=460&v=4" alt="Headshot of Neelabh Singh" width="150px" height="150px">
 
 <p align="center"><b>Follow me on Twitter </b><a href="http://www.twitter.com/neelabh2006">here</a>.</p>
 

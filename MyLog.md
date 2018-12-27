@@ -1,4 +1,4 @@
-<h1 align="center">100 Days Of Code with Neelabh Singh</h1>
+<h1>100 Days Of Code with Neelabh Singh</h1>
 
 <img src="https://cdn.pixabay.com/photo/2015/01/08/18/24/programming-593312_960_720.jpg" alt="Image of coder" width="320px" height="213px">
 

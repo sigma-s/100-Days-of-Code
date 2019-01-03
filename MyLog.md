@@ -17,9 +17,8 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 <p><b>Check out my repos </b><a href="https://github.com/Mightysigma-s">here</a>.</p>
 <hr>
 <br>
-
 <h2>Day 1:Thursday January 3, 2019</h2>
-<p><b>Today's Progress:</b>I've been working on a baking app and today I tried integrating the card view inside recycler view to show a list of recipes. I also used the ButterKnife library for binding to make the code less verbose.</p>
-<p><b>Thoughts:</b>I had to look at a tutorial to refresh my concepts regarding RecyclerView and CardView as I am a bit rusty currently. But I plan to take this project to a professional level and am looking to integrate both text and images in the CardView. Currently, I am getting an view inflater error in my CustomAdapter class which I need to figure out.</p>
-<p><b>Link to Tweet:</b><a href="https://twitter.com/neelabh2006/status/1080864411630403584">NeelabhS Day 1</a></p> 
+<p><b>Today's Progress:</b> I've been working on a baking app and today I tried integrating the card view inside recycler view to show a list of recipes. I also used the ButterKnife library for binding to make the code less verbose.</p>
+<p><b>Thoughts:</b> I had to look at a tutorial to refresh my concepts regarding RecyclerView and CardView as I am a bit rusty currently. But I plan to take this project to a professional level and am looking to integrate both text and images in the CardView. Currently, I am getting an view inflater error in my CustomAdapter class which I need to figure out.</p>
+<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1080864411630403584">NeelabhS Day 1</a></p> 
  

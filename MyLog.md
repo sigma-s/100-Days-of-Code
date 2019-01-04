@@ -25,7 +25,7 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 
 <h2>Day 2: Friday January 4, 2019</h2>
 <p><b>Today's Progress:</b> I made further progress with the baking app. I resolved the layout inflation error which I mentioned on Day 1. I also ran the CardView inside RecyclerView for which I have attached a screenshot below.</p>
-<p><b>Thoughts:</b> The layout inflation error was caused by using android:support.v7.widget.CardView instead of android.support.v7.widget.CardView. Silly me! Hard to believe that such a minor error took around 1 hour to figure out. Also, I realized I shouldn't use match_parent in CardView height else it taken up the entire space and doesn't display other items in the list. I am liking this habit of logging as it helps me in noting down the error so that I do not commit them again. If I commit them gain I just look at the solution here. :)</p>
-<img src="https://github.com/sigma-s/100-Days-of-Code/blob/master/Day1.JPG" alt="CardView with RecyclerView Day 2">
+<p><b>Thoughts:</b> The layout inflation error was caused by using android:support.v7.widget.CardView instead of android.support.v7.widget.CardView. Silly me! Hard to believe that such a minor error took around 1 hour to figure out. Also, I realized I shouldn't use match_parent in CardView height else it taken up the entire space and doesn't display other items in the list. I am liking this habit of logging as it helps me in noting down the error so that I do not commit them again. If I commit them gain I just have to look at the solution recorded here. :)</p>
+<img src="https://github.com/sigma-s/100-Days-of-Code/blob/master/Day2.png" alt="CardView with RecyclerView Day 2">
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1081117585675075584">NeelabhS Day 2</a></p> 
  

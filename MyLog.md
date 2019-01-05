@@ -27,5 +27,11 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 <p><b>Today's Progress:</b> I made further progress with the baking app. I resolved the layout inflation error which I mentioned on Day 1. I also ran the CardView inside RecyclerView for which I have attached a screenshot below.</p>
 <p><b>Thoughts:</b> The layout inflation error was caused by using android:support.v7.widget.CardView instead of android.support.v7.widget.CardView. Silly me! Hard to believe that such a minor error took around 1 hour to figure out. Also, I realized I shouldn't use match_parent in CardView height else it taken up the entire space and doesn't display other items in the list. I am liking this habit of logging as it helps me in noting down the error so that I do not commit them again. If I commit them gain I just have to look at the solution recorded here. :)</p>
 <img src="https://github.com/sigma-s/100-Days-of-Code/blob/master/Day2.png" alt="CardView with RecyclerView Day 2" width="150px">
-<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1081117585675075584">NeelabhS Day 2</a></p> 
+<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1081117585675075584">NeelabhS Day 2</a></p>
+
+<h2>Day 3: Saturday January 5, 2019</h2>
+<p><b>Today's Progress:</b> After completing the frontend for the Main Recipes screen, I started work on the Recipe Instructions layout that would show up when a particular recipe is clicked. I plan to use RecyclerView for the same. Another important decision was to take the approach of first completing the front-end for all layouts and then work on the backend.</p>
+<p><b>Thoughts:</b> Had some confusion regarding the naming of layout files which are of two types. The main recyclerview and the supporting detailed layout for each element in recyclerview. Decided on using the name as combination of main-function-performed_main and _layout for the two files. Example, recipe_main and recipe_layout. Also, currently figuring out the best way to integrate onClick in recyclerview between main activity class and adapter class.</p>
+<img src="https://github.com/sigma-s/100-Days-of-Code/blob/master/Day3.png" alt="100DaysofCode Day 3 Recipe Instructions View" width="150px">
+<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1081460336165830656">NeelabhS Day 3</a></p>
  

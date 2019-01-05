@@ -32,6 +32,6 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 <h2>Day 3: Saturday January 5, 2019</h2>
 <p><b>Today's Progress:</b> After completing the frontend for the Main Recipes screen, I started work on the Recipe Instructions layout that would show up when a particular recipe is clicked. I plan to use RecyclerView for the same. Another important decision was to take the approach of first completing the front-end for all layouts and then work on the backend.</p>
 <p><b>Thoughts:</b> Had some confusion regarding the naming of layout files which are of two types. The main recyclerview and the supporting detailed layout for each element in recyclerview. Decided on using the name as combination of main-function-performed_main and _layout for the two files. Example, recipe_main and recipe_layout. Also, currently figuring out the best way to integrate onClick in recyclerview between main activity class and adapter class.</p>
-<img src="https://github.com/sigma-s/100-Days-of-Code/blob/master/Day3.png" alt="100DaysofCode Day 3 Recipe Instructions View" width="150px">
+<img src="https://github.com/sigma-s/100-Days-of-Code/blob/master/Images/Recipe%20Instructions.JPG" alt="100DaysofCode Day 3 Recipe Instructions View" width="150px">
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1081460336165830656">NeelabhS Day 3</a></p>
  

@@ -35,4 +35,10 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 <p><b>Thoughts:</b> Had some confusion regarding the naming of layout files which are of two types. The main recyclerview and the supporting detailed layout for each element in recyclerview. Decided on using the name as combination of main-function-performed_main and _layout for the two files. Example, recipe_main and recipe_layout. Also, currently figuring out the best way to integrate onClick in recyclerview between main activity class and adapter class.</p>
 <img src="https://github.com/sigma-s/100-Days-of-Code/blob/master/Images/Recipe%20Instructions.JPG" alt="100DaysofCode Day 3 Recipe Instructions View" width="150px">
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1081460336165830656">NeelabhS Day 3</a></p>
+
+<h2>Day 4: Monday January 7, 2019</h2>
+<p><b>Today's Progress:</b> The Recipe Instructions layout has been added using RecyclerView. An image has been added for the same.</p>
+<p><b>Thoughts:</b> The incorporation of onClick element in RecyclerView is a bit tricky. Right now I have added the onClick element in the MyViewHolder constructor. However, to do that I had to make context filed static which is not the best practice and results in a memory leak. Need to find a better way to do it. Also, more formatting is needed to make the second screen look appealing.</p>
+<img src="https://github.com/sigma-s/100-Days-of-Code/blob/master/Images/Recipe%20Instructions.JPG" alt="100DaysofCode Day 3 Recipe Instructions View" width="150px">
+<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1081460336165830656">NeelabhS Day 3</a></p>
  

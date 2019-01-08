@@ -41,4 +41,10 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 <p><b>Thoughts:</b> The incorporation of onClick element in RecyclerView is a bit tricky. Right now I have added the onClick element in the MyViewHolder constructor. However, to do that I had to make context filed static which is not the best practice and results in a memory leak. Need to find a better way to do it. Also, more formatting is needed to make the second screen look appealing.</p>
 <img src="https://github.com/sigma-s/100-Days-of-Code/blob/master/Images/Baking%20App%203.png" alt="100DaysofCode Day 4 Recipe Instructions Layout" width="150px">
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1082277603900309504">NeelabhS Day 4</a></p>
- 
+
+<h2>Day 5: Monday January 8, 2019</h2>
+<p><b>Today's Progress:</b> Modified the static name/images in the Recipe list view to make it look more like a baking app. Added ingredients view to recipe steps layout.</p>
+<p><b>Thoughts:</b> Figuring out how to make the RecylerView of recipe steps look pretty by using ItemDecoration, Dividers and Spaces. Also, thinking on how to add a bulleted list of ingredients from a string array to the ingredients view in recipe steps layout.</p>
+<img src="https://github.com/sigma-s/100-Days-of-Code/blob/master/Images/bakingappday5-1.png" alt="100DaysofCode Day 5 Recipe List Layout" width="150px"> <img src="https://github.com/sigma-s/100-Days-of-Code/blob/master/Images/bakingappday5-2.png" alt="100DaysofCode Day 5 Recipe Steps Layout with Ingredients" width="150px">
+<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1082580155627909121">NeelabhS Day 5</a></p>
+

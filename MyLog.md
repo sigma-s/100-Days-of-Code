@@ -59,3 +59,11 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 </p>
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1083001243520380928">NeelabhS Day 6</a></p>
 
+<h2>Day 7: Thursday January 10, 2019</h2>
+<p><b>Today's Progress:</b> Added ingredients in the form of a bullet in the recipe steps layout. Also, explored ViewPager for creating swipeable receipe steps pages.
+<p><b>Thoughts:</b> Android Studio hangs in case the pending update is not made. Looks like an evil plan by these guys to make sure user keeps updating the platform asap! Also, I would be exploring exoplayer, tabview, and viewpager in the coming layout so quite excited. Note to myself, always code with 100% concentration. Debugging wastes a lot of time for simple activities. </p>
+<p>
+<img src="https://github.com/sigma-s/100-Days-of-Code/blob/master/Images/bakingappday7.png" alt="100DaysofCode Day 7 Recipe Ingredients List" width="150px"/> 
+</p>
+<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1083378312884432896">NeelabhS Day 7</a></p>
+

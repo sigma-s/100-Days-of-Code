@@ -68,8 +68,8 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1083378312884432896">NeelabhS Day 7</a></p>
 
 <h2>Day 8: Friday January 11, 2019</h2>
-<p><b>Today's Progress:</b> Added ingredients in the form of a bullet in the recipe steps layout. Also, explored ViewPager for creating swipeable receipe steps pages.
-<p><b>Thoughts:</b> Android Studio hangs in case the pending update is not made. Looks like an evil plan by these guys to make sure user keeps updating the platform asap! Also, I would be exploring exoplayer, tabview, and viewpager in the coming layout so quite excited. Note to myself, always code with 100% concentration. Debugging wastes a lot of time for simple activities. </p>
+<p><b>Today's Progress:</b> Added exoplayer and description to recipe steps description view. However, exoplayer is not playing the mp4 video. 
+<p><b>Thoughts:</b> I had fun learning about the capabilities of Exoplayer. Seems like the player of choice for running multiple video formats and allows controls over buffering, seeking, rendering, and others. Another option for video is to use Youtube player is the video is a Youtube video.</p>
 <p>
 <img src="https://github.com/sigma-s/100-Days-of-Code/blob/master/Images/bakingappday8.png" alt="100DaysofCode Day 7 Recipe Ingredients List" width="150px"/> 
 </p>

@@ -75,3 +75,8 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 </p>
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1083672702580416512">NeelabhS Day 8</a></p>
 
+<h2>Day 9: Saturday January 12, 2019</h2>
+<p><b>Today's Progress:</b> Hit a roadblock today and couldn't run a video on Exoplayer 2.9.0 in spite of trying multiple ways for 2 hours. Seems like I will have to switch to a previous version.
+<p><b>Thoughts:</b> As 2.9.0 is the latest version for Exoplayer not much sample code is available. It's not a phone issue as I am able to run sample code with previous version on my phone. Will switch to a previous version tomorrow in case I can't think of something else.</p>
+<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1084111314144948224">NeelabhS Day 9</a></p>
+

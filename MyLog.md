@@ -80,3 +80,11 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 <p><b>Thoughts:</b> As 2.9.0 is the latest version for Exoplayer not much sample code is available. It's not a phone issue as I am able to run sample code with previous version on my phone. Will switch to a previous version tomorrow in case I can't think of something else.</p>
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1084111314144948224">NeelabhS Day 9</a></p>
 
+<h2>Day 10: Monday January 14, 2019</h2>
+<p><b>Today's Progress:</b> Finally, I was able to run the Exoplayer2 version 2.9.0. Realized it was a simple error that took almost 4 hours to correct.
+<p><b>Thoughts:</b> The error was not giving internet permission and releasing player as soon as it was assigned. Providing internet permission in Android Manifest and releasing player in onStop solved the issue. And the Google Codelab on Exoplayer helped./</p>
+<p>
+<img src="https://github.com/sigma-s/100-Days-of-Code/blob/master/Images/bakingappday10.png" alt="100DaysofCode Day 10 Receipe Step Details Video" width="150px"/> 
+</p>
+<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1084766242563604480">NeelabhS Day 10</a></p>
+

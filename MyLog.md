@@ -82,7 +82,7 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 
 <h2>Day 10: Monday January 14, 2019</h2>
 <p><b>Today's Progress:</b> Finally, I was able to run the Exoplayer2 version 2.9.0. Realized it was a simple error that took almost 4 hours to correct.
-<p><b>Thoughts:</b> The error was not giving internet permission and releasing player as soon as it was assigned. Providing internet permission in Android Manifest and releasing player in onStop solved the issue. And the Google Codelab on Exoplayer helped./</p>
+<p><b>Thoughts:</b> The error was not giving internet permission and releasing player as soon as it was assigned. Providing internet permission in Android Manifest and releasing player in onStop solved the issue. And the Google Codelab on Exoplayer helped.</p>
 <p>
 <img src="https://github.com/sigma-s/100-Days-of-Code/blob/master/Images/bakingappday10.png" alt="100DaysofCode Day 10 Receipe Step Details Video" width="150px"/> 
 </p>

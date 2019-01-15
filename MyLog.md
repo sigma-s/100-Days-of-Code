@@ -88,3 +88,7 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 </p>
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1084766242563604480">NeelabhS Day 10</a></p>
 
+<h2>Day 11: Tuesday January 15, 2019</h2>
+<p><b>Today's Progress:</b> Today I got around to implementing the ViewPager to allow swiping between the recipe steps. There are still some details to be figured out. 
+<p><b>Thoughts:</b> I am not yet showing the step name and sequence on the view pager for which I need to implement a tab layout. Also, the app crashes on swiping through multiple pages. Need to figure out the same.</p>
+<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1085177632755535872">NeelabhS Day 11</a></p>

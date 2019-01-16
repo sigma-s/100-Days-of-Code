@@ -96,4 +96,4 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 <h2>Day 12: Wednesday January 16, 2019</h2>
 <p><b>Today's Progress:</b> Implemented the TabLayout with ViewPager to provide easy navigation for all recipe steps.  
 <p><b>Thoughts:</b> TabLayout is part of the design library so need to include that in build.gradle file. The color of text in TabLayout can be adjusted using the xml file. xliff can be used for string format where number needs to be plugged. Still the viewpager crashed on swiping through 2 views. Need to investigate the reason.</p>
-<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1085177632755535872">NeelabhS Day 12</a></p>
+<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1085568294432768007">NeelabhS Day 12</a></p>

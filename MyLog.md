@@ -97,3 +97,8 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 <p><b>Today's Progress:</b> Implemented the TabLayout with ViewPager to provide easy navigation for all recipe steps.  
 <p><b>Thoughts:</b> TabLayout is part of the design library so need to include that in build.gradle file. The color of text in TabLayout can be adjusted using the xml file. xliff can be used for string format where number needs to be plugged. Still the viewpager crashed on swiping through 2 views. Need to investigate the reason.</p>
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1085568294432768007">NeelabhS Day 12</a></p>
+
+<h2>Day 13: Thursday January 17, 2019</h2>
+<p><b>Today's Progress:</b> Fixed the ViewPager app crash happening due to a NullPointer Exception. Worked on implementing proper app navigation. 
+<p><b>Thoughts:</b> TabLayout is displaying on top of Action Bar which needs to be corrected. The app's UI is taking a complete form.</p>
+<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1085918522847318016">NeelabhS Day 13</a></p>

@@ -102,3 +102,8 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 <p><b>Today's Progress:</b> Fixed the ViewPager app crash happening due to a NullPointer Exception. Worked on implementing proper app navigation. 
 <p><b>Thoughts:</b> TabLayout is displaying on top of Action Bar which needs to be corrected. The app's UI is taking a complete form.</p>
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1085918522847318016">NeelabhS Day 13</a></p>
+
+<h2>Day 14: Thursday January 18, 2019</h2>
+<p><b>Today's Progress:</b> Working on getting the App Bar in TabLayout. Right now TabLayout is showing on AppBar.
+<p><b>Thoughts:</b> Looks like such a simple change but taking time. Always account for extra time when committing for app development.</p>
+<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1086299105226383360">NeelabhS Day 14</a></p>

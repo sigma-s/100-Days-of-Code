@@ -107,3 +107,8 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 <p><b>Today's Progress:</b> Working on getting the App Bar in TabLayout. Right now TabLayout is showing on AppBar.
 <p><b>Thoughts:</b> Looks like such a simple change but taking time. Always account for extra time when committing for app development.</p>
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1086299105226383360">NeelabhS Day 14</a></p>
+
+<h2>Day 15: Saturday January 19, 2019</h2>
+<p><b>Today's Progress:</b> Replaced the app bar with toolbar in all the views to get more control over it. Created a layout and used it as include.
+<p><b>Thoughts:</b> If not for the challenge, I would have skipped the coding session today. Go 100 DaysOfCode!</p>
+<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1086680967845240832">NeelabhS Day 15</a></p>

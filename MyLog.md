@@ -112,3 +112,8 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 <p><b>Today's Progress:</b> Replaced the app bar with toolbar in all the views to get more control over it. Created a layout and used it as include.
 <p><b>Thoughts:</b> If not for the challenge, I would have skipped the coding session today. Go 100 DaysOfCode!</p>
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1086680967845240832">NeelabhS Day 15</a></p>
+
+<h2>Day 16: Monday January 21, 2019</h2>
+<p><b>Today's Progress:</b> Worked on putting the back button in the toolbar in tablayout but no luck so far!
+<p><b>Thoughts:</b> Not sure why I am unable to crack this. Looks so simple at a glance. More investigation needed</p>
+<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1087411146347417601">NeelabhS Day 16</a></p>

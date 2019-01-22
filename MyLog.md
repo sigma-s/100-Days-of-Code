@@ -117,3 +117,8 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 <p><b>Today's Progress:</b> Worked on putting the back button in the toolbar in tablayout but no luck so far!
 <p><b>Thoughts:</b> Not sure why I am unable to crack this. Looks so simple at a glance. More investigation needed</p>
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1087411146347417601">NeelabhS Day 16</a></p>
+
+<h2>Day 17: Tuesday January 22, 2019</h2>
+<p><b>Today's Progress:</b> Identified that Toolbar works fine without ViewPager and TabLayout. Need to dig in deeper.
+<p><b>Thoughts:</b> Ah its frustrating! Coding sometimes tests your patience.</p>
+<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1087743888054468608">NeelabhS Day 17</a></p>

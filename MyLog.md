@@ -119,6 +119,6 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1087411146347417601">NeelabhS Day 16</a></p>
 
 <h2>Day 17: Tuesday January 22, 2019</h2>
-<p><b>Today's Progress:</b> Identified that Toolbar works fine without ViewPager and TabLayout. Need to dig in deeper.
-<p><b>Thoughts:</b> Ah its frustrating! Coding sometimes tests your patience.</p>
+<p><b>Today's Progress:</b> Identified that Toolbar works fine without ViewPager. And solved the backutton and app bar issue. Rushing for something, but will provide the image tomorrow.
+<p><b>Thoughts:</b> Ah its frustrating! Coding sometimes tests your patience. Solved it - The issue was ViewPager was suppressing the original layout because I had activated some flags in the onResume in fragment. Systematically identifying the element that was creating the problem by commenting out other elements helped solve the issue. Use this technqiue in future.</p>
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1087743888054468608">NeelabhS Day 17</a></p>

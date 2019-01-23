@@ -122,3 +122,8 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 <p><b>Today's Progress:</b> Identified that Toolbar works fine without ViewPager. And solved the backutton and app bar issue. Rushing for something, but will provide the image tomorrow.
 <p><b>Thoughts:</b> Ah its frustrating! Coding sometimes tests your patience. Solved it - The issue was ViewPager was suppressing the original layout because I had activated some flags in the onResume in fragment. Systematically identifying the element that was creating the problem by commenting out other elements helped solve the issue. Use this technqiue in future.</p>
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1087743888054468608">NeelabhS Day 17</a></p>
+
+<h2>Day 18: Wednesday January 23, 2019</h2>
+<p><b>Today's Progress:</b> Worked on giving a fullscreen video experience on changing the mobile phone's orientation to landscape mode for the viewpager.
+<p><b>Thoughts:</b> It has to be handled in two stages both in activity and fragment related to the viewpager. After this, the widget layout is left. THen my UI would be nearly complete. Then I would have to work on the data model and getting data from JSON.</p>
+<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1088079591133138945">NeelabhS Day 18</a></p>

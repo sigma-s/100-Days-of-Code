@@ -127,3 +127,8 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 <p><b>Today's Progress:</b> Worked on giving a fullscreen video experience on changing the mobile phone's orientation to landscape mode for the viewpager.
 <p><b>Thoughts:</b> It has to be handled in two stages both in activity and fragment related to the viewpager. After this, the widget layout is left. THen my UI would be nearly complete. Then I would have to work on the data model and getting data from JSON.</p>
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1088079591133138945">NeelabhS Day 18</a></p>
+
+<h2>Day 19: Thursday January 24, 2019</h2>
+<p><b>Today's Progress:</b> Worked on giving the full-screen immersive experience in orientation mode. 
+<p><b>Thoughts:</b> Android Studio it creating an issue as it does not run the app after trying it 4-5 times. Need to find the cause behind it.</p>
+<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1088486241971122176">NeelabhS Day 19</a></p>

@@ -136,3 +136,8 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 <img src="https://github.com/sigma-s/100-Days-of-Code/blob/master/Images/bakingappday20-2s.png" alt="100DaysofCode Day 19 Recipe Step Detail Layout Horizontal Orientation"/>
 </p>
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1088486241971122176">NeelabhS Day 19</a></p>
+
+<h2>Day 20: Friday January 25, 2019</h2>
+<p><b>Today's Progress:</b> Worked on adding a widget that contains the detail of the recipe ingredients.
+<p><b>Thoughts:</b>I have added widget multiple times now but still need to look up some code elements. Need to find a way to stay in touch with different elements in android.</p>
+<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1088811084826533891">NeelabhS Day 20</a></p>

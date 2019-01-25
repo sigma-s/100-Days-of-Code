@@ -130,5 +130,9 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 
 <h2>Day 19: Thursday January 24, 2019</h2>
 <p><b>Today's Progress:</b> Worked on giving the full-screen immersive experience in orientation mode. 
-<p><b>Thoughts:</b> Android Studio it creating an issue as it does not run the app after trying it 4-5 times. Need to find the cause behind it.</p>
+<p><b>Thoughts:</b> Android Studio is creating an issue as it does not run the app after trying it 4-5 times. Need to find the cause behind it.</p>
+<p>
+<img src="https://github.com/sigma-s/100-Days-of-Code/blob/master/Images/bakingappday20-1s.png" alt="100DaysofCode Day 19 Recipe Step Detail Layout Vertical Orientation"/> 
+<img src="https://github.com/sigma-s/100-Days-of-Code/blob/master/Images/bakingappday20-2s.png" alt="100DaysofCode Day 19 Recipe Step Detail Layout Horizontal Orientation"/>
+</p>
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1088486241971122176">NeelabhS Day 19</a></p>

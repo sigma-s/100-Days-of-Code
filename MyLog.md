@@ -141,3 +141,8 @@ Say cheers to **#100DaysofCode with _Neelabh Singh_**.
 <p><b>Today's Progress:</b> Worked on adding a widget that contains the detail of the recipe ingredients.
 <p><b>Thoughts:</b>I have added widget multiple times now but still need to look up some code elements. Need to find a way to stay in touch with different elements in android.</p>
 <p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1088811084826533891">NeelabhS Day 20</a></p>
+
+<h2>Day 21: Monday January 26, 2019</h2>
+<p><b>Today's Progress:</b> Continued work on the app widget. First worked on activating a simple widget.
+<p><b>Thoughts:</b>Start with simple elements then take it complex. It makes it easier to debug.</p>
+<p><b>Link to Tweet:</b> <a href="https://twitter.com/neelabh2006/status/1089946449897496577">NeelabhS Day 21</a></p>
